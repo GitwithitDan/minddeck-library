@@ -1,0 +1,14 @@
+{
+  "deck_name": "Planets of the Solar System",
+  "cards": [
+    { "title": "Mercury", "fields": { "Type": "Terrestrial Planet", "Diameter": "Diameter 4,879 km", "Moon Count": "Moon Count 0", "Distance from Sun": "Distance 57.9 million km", "Orbital Period": "Orbital Period 87.97 Earth days" } },
+    { "title": "Venus", "fields": { "Type": "Terrestrial Planet", "Diameter": "Diameter 12,104 km", "Moon Count": "Moon Count 0", "Distance from Sun": "Distance 108.2 million km", "Orbital Period": "Orbital Period 224.7 Earth days" } },
+    { "title": "Earth", "fields": { "Type": "Terrestrial Planet", "Diameter": "Diameter 12,742 km", "Moon Count": "Moon Count 1", "Distance from Sun": "Distance 149.6 million km", "Orbital Period": "Orbital Period 365.25 Earth days" } },
+    { "title": "Mars", "fields": { "Type": "Terrestrial Planet", "Diameter": "Diameter 6,779 km", "Moon Count": "Moon Count 2", "Distance from Sun": "Distance 227.9 million km", "Orbital Period": "Orbital Period 686.97 Earth days" } },
+    { "title": "Jupiter", "fields": { "Type": "Gas Giant", "Diameter": "Diameter 139,820 km", "Moon Count": "Moon Count 95", "Distance from Sun": "Distance 778.5 million km", "Orbital Period": "Orbital Period 11.86 Earth years" } },
+    { "title": "Saturn", "fields": { "Type": "Gas Giant", "Diameter": "Diameter 116,460 km", "Moon Count": "Moon Count 146", "Distance from Sun": "Distance 1.43 billion km", "Orbital Period": "Orbital Period 29.46 Earth years" } },
+    { "title": "Uranus", "fields": { "Type": "Ice Giant", "Diameter": "Diameter 50,724 km", "Moon Count": "Moon Count 28", "Distance from Sun": "Distance 2.87 billion km", "Orbital Period": "Orbital Period 84.01 Earth years" } },
+    { "title": "Neptune", "fields": { "Type": "Ice Giant", "Diameter": "Diameter 49,244 km", "Moon Count": "Moon Count 16", "Distance from Sun": "Distance 4.50 billion km", "Orbital Period": "Orbital Period 164.8 Earth years" } },
+    { "title": "Pluto", "notes": "Reclassified as dwarf planet by the IAU in 2006", "fields": { "Type": "Dwarf Planet", "Diameter": "Diameter 2,376 km", "Moon Count": "Moon Count 5", "Distance from Sun": "Distance 5.91 billion km", "Orbital Period": "Orbital Period 248.0 Earth years" } }
+  ]
+}
