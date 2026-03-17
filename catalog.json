@@ -2,89 +2,124 @@
   "version": 1,
   "updated_at": "2026-03-17T00:00:00Z",
   "categories": [
-    { "id": "astrology", "name": "Astrology", "description": "Astrological systems and reference", "icon": "♈" },
-    { "id": "science", "name": "Science", "description": "Scientific knowledge and reference", "icon": "🔬" },
-    { "id": "geography", "name": "Geography", "description": "Countries, currencies, and world geography", "icon": "🌍" },
-    { "id": "language", "name": "Language", "description": "Linguistics, roots, and vocabulary", "icon": "📖" },
-    { "id": "anatomy", "name": "Anatomy", "description": "Human body systems and structures", "icon": "🫀" }
+    { "id": "science", "name": "Science", "description": "Scientific knowledge and concepts", "icon": "🔬" },
+    { "id": "languages", "name": "Languages", "description": "Language and linguistics", "icon": "🌍" },
+    { "id": "geography", "name": "Geography", "description": "Countries, currencies, and the world", "icon": "🗺️" },
+    { "id": "space", "name": "Space", "description": "Astronomy and the solar system", "icon": "🪐" },
+    { "id": "esoteric", "name": "Esoteric", "description": "Astrology, symbolism, and metaphysical systems", "icon": "✨" }
   ],
   "decks": [
     {
-      "id": "astrology-core",
-      "name": "Astrology – Core Attributes",
-      "description": "The 12 zodiac signs with confirmed structural attributes",
-      "category": "astrology",
-      "card_count": 12,
-      "author": "Phyre Lab",
-      "tags": ["astrology", "zodiac", "signs", "reference"],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/astrology-core.json",
-      "format": "json"
-    },
-    {
       "id": "periodic-table",
-      "name": "Periodic Table of Elements",
-      "description": "All 118 elements with symbol, atomic number, mass, group, period, category, state, and year discovered",
+      "name": "Periodic Table Elements",
+      "description": "All 118 elements with atomic number, symbol, and category",
       "category": "science",
       "card_count": 118,
-      "author": "Phyre Lab",
-      "tags": ["chemistry", "elements", "periodic table", "science", "reference"],
+      "author": "MindDeck Team",
+      "tags": ["chemistry", "elements", "science"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/periodic-table.json",
-      "format": "json"
-    },
-    {
-      "id": "planets-solar-system",
-      "name": "Planets of the Solar System",
-      "description": "The 8 planets plus Pluto with type, diameter, moon count, distance from sun, and orbital period",
-      "category": "science",
-      "card_count": 9,
-      "author": "Phyre Lab",
-      "tags": ["astronomy", "planets", "solar system", "science", "reference"],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/planets-solar-system.json",
-      "format": "json"
+      "format": "json",
+      "preview": [
+        { "title": "Hydrogen", "fields": { "symbol": "H", "atomic_number": "1", "category": "Nonmetal" } },
+        { "title": "Helium", "fields": { "symbol": "He", "atomic_number": "2", "category": "Noble gas" } },
+        { "title": "Carbon", "fields": { "symbol": "C", "atomic_number": "6", "category": "Nonmetal" } }
+      ]
     },
     {
       "id": "human-anatomy-major-organs",
-      "name": "Human Anatomy – Major Organs",
-      "description": "20 major organs with body system, location, and function",
-      "category": "anatomy",
-      "card_count": 20,
-      "author": "Phyre Lab",
-      "tags": ["anatomy", "organs", "body systems", "health", "reference"],
+      "name": "Human Anatomy — Major Organs",
+      "description": "Major organs with location, function, and system",
+      "category": "science",
+      "card_count": 60,
+      "author": "MindDeck Team",
+      "tags": ["anatomy", "organs", "body", "health"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/human-anatomy-major-organs.json",
-      "format": "json"
+      "format": "json",
+      "preview": [
+        { "title": "Liver", "fields": { "system": "Digestive", "location": "Upper right abdomen", "function": "Detoxification, protein synthesis" } },
+        { "title": "Heart", "fields": { "system": "Circulatory", "location": "Chest cavity", "function": "Pumps blood throughout the body" } },
+        { "title": "Lungs", "fields": { "system": "Respiratory", "location": "Chest cavity", "function": "Gas exchange — oxygen in, CO2 out" } }
+      ]
     },
     {
       "id": "latin-roots",
       "name": "Latin Roots",
-      "description": "60 common Latin and Greek roots with meaning and example English words",
-      "category": "language",
-      "card_count": 60,
-      "author": "Phyre Lab",
-      "tags": ["latin", "roots", "etymology", "vocabulary", "language", "reference"],
+      "description": "Common Latin roots with meanings and English derivatives",
+      "category": "languages",
+      "card_count": 80,
+      "author": "MindDeck Team",
+      "tags": ["latin", "roots", "vocabulary", "etymology"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/latin-roots.json",
-      "format": "json"
-    },
-    {
-      "id": "world-currencies",
-      "name": "World Currencies",
-      "description": "Major world currencies with ISO code, symbol, and issuing country or countries",
-      "category": "geography",
-      "card_count": 105,
-      "author": "Phyre Lab",
-      "tags": ["currencies", "money", "finance", "geography", "reference"],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/world-currencies.json",
-      "format": "json"
+      "format": "json",
+      "preview": [
+        { "title": "aud", "fields": { "meaning": "to hear", "derivatives": "audible, audience, audio" } },
+        { "title": "port", "fields": { "meaning": "to carry", "derivatives": "portable, transport, export" } },
+        { "title": "scrib", "fields": { "meaning": "to write", "derivatives": "describe, inscribe, manuscript" } }
+      ]
     },
     {
       "id": "countries-of-the-world",
       "name": "Countries of the World",
-      "description": "All 193 UN member states with capital, continent, official language, currency, and ISO code",
+      "description": "Every country with capital, continent, and population",
       "category": "geography",
-      "card_count": 193,
-      "author": "Phyre Lab",
-      "tags": ["countries", "geography", "capitals", "languages", "currencies", "reference"],
+      "card_count": 195,
+      "author": "MindDeck Team",
+      "tags": ["geography", "countries", "capitals", "world"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/countries-of-the-world.json",
-      "format": "json"
+      "format": "json",
+      "preview": [
+        { "title": "Japan", "fields": { "capital": "Tokyo", "continent": "Asia", "population": "125M" } },
+        { "title": "Brazil", "fields": { "capital": "Brasília", "continent": "South America", "population": "215M" } },
+        { "title": "Nigeria", "fields": { "capital": "Abuja", "continent": "Africa", "population": "220M" } }
+      ]
+    },
+    {
+      "id": "world-currencies",
+      "name": "World Currencies",
+      "description": "National currencies with codes and symbols",
+      "category": "geography",
+      "card_count": 150,
+      "author": "MindDeck Team",
+      "tags": ["currencies", "finance", "geography", "world"],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/world-currencies.json",
+      "format": "json",
+      "preview": [
+        { "title": "US Dollar", "fields": { "code": "USD", "symbol": "$", "country": "United States" } },
+        { "title": "Euro", "fields": { "code": "EUR", "symbol": "€", "country": "Eurozone" } },
+        { "title": "Japanese Yen", "fields": { "code": "JPY", "symbol": "¥", "country": "Japan" } }
+      ]
+    },
+    {
+      "id": "planets-solar-system",
+      "name": "Planets of the Solar System",
+      "description": "All planets with key stats and characteristics",
+      "category": "space",
+      "card_count": 8,
+      "author": "MindDeck Team",
+      "tags": ["space", "planets", "astronomy", "solar system"],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/planets-solar-system.json",
+      "format": "json",
+      "preview": [
+        { "title": "Mars", "fields": { "type": "Terrestrial", "moons": "2", "distance_from_sun": "1.52 AU" } },
+        { "title": "Jupiter", "fields": { "type": "Gas giant", "moons": "95", "distance_from_sun": "5.2 AU" } },
+        { "title": "Saturn", "fields": { "type": "Gas giant", "moons": "146", "distance_from_sun": "9.58 AU" } }
+      ]
+    },
+    {
+      "id": "astrology-core",
+      "name": "Astrology Core Concepts",
+      "description": "Signs, planets, houses, and their meanings",
+      "category": "esoteric",
+      "card_count": 50,
+      "author": "MindDeck Team",
+      "tags": ["astrology", "signs", "planets", "houses"],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/astrology-core.json",
+      "format": "json",
+      "preview": [
+        { "title": "Aries", "fields": { "element": "Fire", "modality": "Cardinal", "ruling_planet": "Mars", "theme": "Initiation, identity, courage" } },
+        { "title": "1st House", "fields": { "natural_sign": "Aries", "ruling_planet": "Mars", "theme": "Self, appearance, beginnings" } },
+        { "title": "Venus", "fields": { "type": "Planet", "rules": "Taurus, Libra", "theme": "Love, beauty, values, attraction" } }
+      ]
     }
   ]
 }
