@@ -1,0 +1,25 @@
+{
+  "deck_name": "Human Anatomy – Major Organs",
+  "cards": [
+    { "title": "Heart", "fields": { "System": "Cardiovascular System", "Location": "Thoracic cavity", "Function": "Pumps blood throughout the body via circulatory system" } },
+    { "title": "Brain", "fields": { "System": "Central Nervous System", "Location": "Cranial cavity", "Function": "Regulates bodily functions, processes sensory information, cognition, memory" } },
+    { "title": "Lungs", "fields": { "System": "Respiratory System", "Location": "Thoracic cavity", "Function": "Gas exchange between air and bloodstream" } },
+    { "title": "Liver", "fields": { "System": "Digestive System", "Location": "Upper right abdominal cavity", "Function": "Metabolizes nutrients, detoxifies blood, produces bile" } },
+    { "title": "Kidneys", "fields": { "System": "Urinary System", "Location": "Posterior abdominal cavity", "Function": "Filters blood, regulates fluid balance, produces urine" } },
+    { "title": "Stomach", "fields": { "System": "Digestive System", "Location": "Upper left abdominal cavity", "Function": "Mechanical and chemical digestion of food" } },
+    { "title": "Small Intestine", "fields": { "System": "Digestive System", "Location": "Abdominal cavity", "Function": "Absorbs nutrients from digested food into bloodstream" } },
+    { "title": "Large Intestine", "fields": { "System": "Digestive System", "Location": "Abdominal cavity", "Function": "Absorbs water from indigestible material, forms and expels feces" } },
+    { "title": "Pancreas", "fields": { "System": "Digestive and Endocrine Systems", "Location": "Posterior abdominal cavity", "Function": "Produces digestive enzymes and hormones insulin and glucagon" } },
+    { "title": "Spleen", "fields": { "System": "Lymphatic System", "Location": "Upper left abdominal cavity", "Function": "Filters blood, stores platelets, supports immune response" } },
+    { "title": "Gallbladder", "fields": { "System": "Digestive System", "Location": "Beneath the liver", "Function": "Stores and concentrates bile produced by the liver" } },
+    { "title": "Urinary Bladder", "fields": { "System": "Urinary System", "Location": "Pelvic cavity", "Function": "Stores urine until voluntary excretion" } },
+    { "title": "Skin", "fields": { "System": "Integumentary System", "Location": "External body surface", "Function": "Protection, temperature regulation, sensation, vitamin D synthesis" } },
+    { "title": "Thyroid Gland", "fields": { "System": "Endocrine System", "Location": "Anterior neck", "Function": "Regulates metabolism, growth, and development via thyroid hormones" } },
+    { "title": "Adrenal Glands", "fields": { "System": "Endocrine System", "Location": "Superior to each kidney", "Function": "Produces adrenaline, cortisol, and aldosterone" } },
+    { "title": "Thymus", "fields": { "System": "Lymphatic and Immune Systems", "Location": "Upper thoracic cavity", "Function": "Site of T-cell maturation for adaptive immunity" } },
+    { "title": "Esophagus", "fields": { "System": "Digestive System", "Location": "Thoracic cavity", "Function": "Transports food from pharynx to stomach via peristalsis" } },
+    { "title": "Trachea", "fields": { "System": "Respiratory System", "Location": "Anterior neck and upper thorax", "Function": "Conducts air between larynx and bronchi" } },
+    { "title": "Diaphragm", "fields": { "System": "Respiratory System", "Location": "Base of thoracic cavity", "Function": "Primary muscle of respiration; contracts to draw air into lungs" } },
+    { "title": "Appendix", "fields": { "System": "Digestive System", "Location": "Lower right abdominal cavity", "Function": "Contains lymphatic tissue; implicated in gut microbiome maintenance" } }
+  ]
+}
