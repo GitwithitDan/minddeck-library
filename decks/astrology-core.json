@@ -1,0 +1,176 @@
+{
+  "deck_name": "Astrology – Core Attributes",
+  "cards": [
+    {
+      "title": "Aries",
+      "fields": {
+        "Symbol": "Ram",
+        "Glyph": "♈",
+        "Date Range": "March 21 – April 19",
+        "Element": "Fire",
+        "Modality": "Cardinal",
+        "Polarity": "Positive",
+        "Ruling Planet": "Mars",
+        "Natural House": "1st",
+        "Body Rulership": "Head, face"
+      }
+    },
+    {
+      "title": "Taurus",
+      "fields": {
+        "Symbol": "Bull",
+        "Glyph": "♉",
+        "Date Range": "April 20 – May 20",
+        "Element": "Earth",
+        "Modality": "Fixed",
+        "Polarity": "Negative",
+        "Ruling Planet": "Venus",
+        "Natural House": "2nd",
+        "Body Rulership": "Neck, throat"
+      }
+    },
+    {
+      "title": "Gemini",
+      "fields": {
+        "Symbol": "Twins",
+        "Glyph": "♊",
+        "Date Range": "May 21 – June 20",
+        "Element": "Air",
+        "Modality": "Mutable",
+        "Polarity": "Positive",
+        "Ruling Planet": "Mercury",
+        "Natural House": "3rd",
+        "Body Rulership": "Arms, hands, lungs"
+      }
+    },
+    {
+      "title": "Cancer",
+      "fields": {
+        "Symbol": "Crab",
+        "Glyph": "♋",
+        "Date Range": "June 21 – July 22",
+        "Element": "Water",
+        "Modality": "Cardinal",
+        "Polarity": "Negative",
+        "Ruling Planet": "Moon",
+        "Natural House": "4th",
+        "Body Rulership": "Chest, stomach, breasts"
+      }
+    },
+    {
+      "title": "Leo",
+      "fields": {
+        "Symbol": "Lion",
+        "Glyph": "♌",
+        "Date Range": "July 23 – August 22",
+        "Element": "Fire",
+        "Modality": "Fixed",
+        "Polarity": "Positive",
+        "Ruling Planet": "Sun",
+        "Natural House": "5th",
+        "Body Rulership": "Heart, spine, upper back"
+      }
+    },
+    {
+      "title": "Virgo",
+      "fields": {
+        "Symbol": "Maiden",
+        "Glyph": "♍",
+        "Date Range": "August 23 – September 22",
+        "Element": "Earth",
+        "Modality": "Mutable",
+        "Polarity": "Negative",
+        "Ruling Planet": "Mercury",
+        "Natural House": "6th",
+        "Body Rulership": "Digestive system, intestines"
+      }
+    },
+    {
+      "title": "Libra",
+      "fields": {
+        "Symbol": "Scales",
+        "Glyph": "♎",
+        "Date Range": "September 23 – October 22",
+        "Element": "Air",
+        "Modality": "Cardinal",
+        "Polarity": "Positive",
+        "Ruling Planet": "Venus",
+        "Natural House": "7th",
+        "Body Rulership": "Kidneys, lower back"
+      }
+    },
+    {
+      "title": "Scorpio",
+      "fields": {
+        "Symbol": "Scorpion",
+        "Glyph": "♏",
+        "Date Range": "October 23 – November 21",
+        "Element": "Water",
+        "Modality": "Fixed",
+        "Polarity": "Negative",
+        "Ruling Planet": "Pluto",
+        "Traditional Ruler": "Mars",
+        "Natural House": "8th",
+        "Body Rulership": "Reproductive organs, pelvis"
+      }
+    },
+    {
+      "title": "Sagittarius",
+      "fields": {
+        "Symbol": "Archer",
+        "Glyph": "♐",
+        "Date Range": "November 22 – December 21",
+        "Element": "Fire",
+        "Modality": "Mutable",
+        "Polarity": "Positive",
+        "Ruling Planet": "Jupiter",
+        "Natural House": "9th",
+        "Body Rulership": "Hips, thighs, liver"
+      }
+    },
+    {
+      "title": "Capricorn",
+      "fields": {
+        "Symbol": "Sea-Goat",
+        "Glyph": "♑",
+        "Date Range": "December 22 – January 19",
+        "Element": "Earth",
+        "Modality": "Cardinal",
+        "Polarity": "Negative",
+        "Ruling Planet": "Saturn",
+        "Natural House": "10th",
+        "Body Rulership": "Knees, bones, skin"
+      }
+    },
+    {
+      "title": "Aquarius",
+      "fields": {
+        "Symbol": "Water-Bearer",
+        "Glyph": "♒",
+        "Date Range": "January 20 – February 18",
+        "Element": "Air",
+        "Modality": "Fixed",
+        "Polarity": "Positive",
+        "Ruling Planet": "Uranus",
+        "Traditional Ruler": "Saturn",
+        "Natural House": "11th",
+        "Body Rulership": "Ankles, calves, circulatory system"
+      }
+    },
+    {
+      "title": "Pisces",
+      "fields": {
+        "Symbol": "Fish",
+        "Glyph": "♓",
+        "Date Range": "February 19 – March 20",
+        "Element": "Water",
+        "Modality": "Mutable",
+        "Polarity": "Negative",
+        "Ruling Planet": "Neptune",
+        "Traditional Ruler": "Jupiter",
+        "Natural House": "12th",
+        "Body Rulership": "Feet, lymphatic system"
+      }
+    }
+  ]
+}
