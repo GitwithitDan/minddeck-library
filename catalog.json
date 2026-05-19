@@ -1,12 +1,49 @@
 {
   "version": 1,
-  "updated_at": "2026-03-17T00:00:00Z",
+  "updated_at": "2026-05-19T00:00:00Z",
   "categories": [
-    { "id": "science", "name": "Science", "description": "Scientific knowledge and concepts", "icon": "🔬" },
-    { "id": "languages", "name": "Languages", "description": "Language and linguistics", "icon": "🌍" },
-    { "id": "geography", "name": "Geography", "description": "Countries, currencies, and the world", "icon": "🗺️" },
-    { "id": "space", "name": "Space", "description": "Astronomy and the solar system", "icon": "🪐" },
-    { "id": "esoteric", "name": "Esoteric", "description": "Astrology, symbolism, and metaphysical systems", "icon": "✨" }
+    {
+      "id": "science",
+      "name": "Science",
+      "description": "Scientific knowledge and concepts",
+      "icon": "🔬"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "description": "Numbers, patterns, and mathematical systems",
+      "icon": "🔢"
+    },
+    {
+      "id": "languages",
+      "name": "Languages",
+      "description": "Language, linguistics, and communication",
+      "icon": "🌍"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "description": "Countries, currencies, and the world",
+      "icon": "🗺️"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "description": "Astronomy and the solar system",
+      "icon": "🪐"
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "description": "Music theory, notation, and sound",
+      "icon": "🎵"
+    },
+    {
+      "id": "esoteric",
+      "name": "Esoteric",
+      "description": "Astrology, symbolism, and metaphysical systems",
+      "icon": "✨"
+    }
   ],
   "decks": [
     {
@@ -16,13 +53,38 @@
       "category": "science",
       "card_count": 118,
       "author": "MindDeck Team",
-      "tags": ["chemistry", "elements", "science"],
+      "tags": [
+        "chemistry",
+        "elements",
+        "science"
+      ],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/periodic-table.json",
       "format": "json",
       "preview": [
-        { "title": "Hydrogen", "fields": { "symbol": "H", "atomic_number": "1", "category": "Nonmetal" } },
-        { "title": "Helium", "fields": { "symbol": "He", "atomic_number": "2", "category": "Noble gas" } },
-        { "title": "Carbon", "fields": { "symbol": "C", "atomic_number": "6", "category": "Nonmetal" } }
+        {
+          "title": "Hydrogen",
+          "fields": {
+            "symbol": "H",
+            "atomic_number": "1",
+            "category": "Nonmetal"
+          }
+        },
+        {
+          "title": "Helium",
+          "fields": {
+            "symbol": "He",
+            "atomic_number": "2",
+            "category": "Noble gas"
+          }
+        },
+        {
+          "title": "Carbon",
+          "fields": {
+            "symbol": "C",
+            "atomic_number": "6",
+            "category": "Nonmetal"
+          }
+        }
       ]
     },
     {
@@ -32,13 +94,39 @@
       "category": "science",
       "card_count": 60,
       "author": "MindDeck Team",
-      "tags": ["anatomy", "organs", "body", "health"],
+      "tags": [
+        "anatomy",
+        "organs",
+        "body",
+        "health"
+      ],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/human-anatomy-major-organs.json",
       "format": "json",
       "preview": [
-        { "title": "Liver", "fields": { "system": "Digestive", "location": "Upper right abdomen", "function": "Detoxification, protein synthesis" } },
-        { "title": "Heart", "fields": { "system": "Circulatory", "location": "Chest cavity", "function": "Pumps blood throughout the body" } },
-        { "title": "Lungs", "fields": { "system": "Respiratory", "location": "Chest cavity", "function": "Gas exchange — oxygen in, CO2 out" } }
+        {
+          "title": "Liver",
+          "fields": {
+            "system": "Digestive",
+            "location": "Upper right abdomen",
+            "function": "Detoxification, protein synthesis"
+          }
+        },
+        {
+          "title": "Heart",
+          "fields": {
+            "system": "Circulatory",
+            "location": "Chest cavity",
+            "function": "Pumps blood throughout the body"
+          }
+        },
+        {
+          "title": "Lungs",
+          "fields": {
+            "system": "Respiratory",
+            "location": "Chest cavity",
+            "function": "Gas exchange — oxygen in, CO2 out"
+          }
+        }
       ]
     },
     {
@@ -48,13 +136,36 @@
       "category": "languages",
       "card_count": 80,
       "author": "MindDeck Team",
-      "tags": ["latin", "roots", "vocabulary", "etymology"],
+      "tags": [
+        "latin",
+        "roots",
+        "vocabulary",
+        "etymology"
+      ],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/latin-roots.json",
       "format": "json",
       "preview": [
-        { "title": "aud", "fields": { "meaning": "to hear", "derivatives": "audible, audience, audio" } },
-        { "title": "port", "fields": { "meaning": "to carry", "derivatives": "portable, transport, export" } },
-        { "title": "scrib", "fields": { "meaning": "to write", "derivatives": "describe, inscribe, manuscript" } }
+        {
+          "title": "aud",
+          "fields": {
+            "meaning": "to hear",
+            "derivatives": "audible, audience, audio"
+          }
+        },
+        {
+          "title": "port",
+          "fields": {
+            "meaning": "to carry",
+            "derivatives": "portable, transport, export"
+          }
+        },
+        {
+          "title": "scrib",
+          "fields": {
+            "meaning": "to write",
+            "derivatives": "describe, inscribe, manuscript"
+          }
+        }
       ]
     },
     {
@@ -64,13 +175,39 @@
       "category": "geography",
       "card_count": 195,
       "author": "MindDeck Team",
-      "tags": ["geography", "countries", "capitals", "world"],
+      "tags": [
+        "geography",
+        "countries",
+        "capitals",
+        "world"
+      ],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/countries-of-the-world.json",
       "format": "json",
       "preview": [
-        { "title": "Japan", "fields": { "capital": "Tokyo", "continent": "Asia", "population": "125M" } },
-        { "title": "Brazil", "fields": { "capital": "Brasília", "continent": "South America", "population": "215M" } },
-        { "title": "Nigeria", "fields": { "capital": "Abuja", "continent": "Africa", "population": "220M" } }
+        {
+          "title": "Japan",
+          "fields": {
+            "capital": "Tokyo",
+            "continent": "Asia",
+            "population": "125M"
+          }
+        },
+        {
+          "title": "Brazil",
+          "fields": {
+            "capital": "Brasília",
+            "continent": "South America",
+            "population": "215M"
+          }
+        },
+        {
+          "title": "Nigeria",
+          "fields": {
+            "capital": "Abuja",
+            "continent": "Africa",
+            "population": "220M"
+          }
+        }
       ]
     },
     {
@@ -80,13 +217,39 @@
       "category": "geography",
       "card_count": 150,
       "author": "MindDeck Team",
-      "tags": ["currencies", "finance", "geography", "world"],
+      "tags": [
+        "currencies",
+        "finance",
+        "geography",
+        "world"
+      ],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/world-currencies.json",
       "format": "json",
       "preview": [
-        { "title": "US Dollar", "fields": { "code": "USD", "symbol": "$", "country": "United States" } },
-        { "title": "Euro", "fields": { "code": "EUR", "symbol": "€", "country": "Eurozone" } },
-        { "title": "Japanese Yen", "fields": { "code": "JPY", "symbol": "¥", "country": "Japan" } }
+        {
+          "title": "US Dollar",
+          "fields": {
+            "code": "USD",
+            "symbol": "$",
+            "country": "United States"
+          }
+        },
+        {
+          "title": "Euro",
+          "fields": {
+            "code": "EUR",
+            "symbol": "€",
+            "country": "Eurozone"
+          }
+        },
+        {
+          "title": "Japanese Yen",
+          "fields": {
+            "code": "JPY",
+            "symbol": "¥",
+            "country": "Japan"
+          }
+        }
       ]
     },
     {
@@ -96,13 +259,39 @@
       "category": "space",
       "card_count": 9,
       "author": "MindDeck Team",
-      "tags": ["space", "planets", "astronomy", "solar system"],
+      "tags": [
+        "space",
+        "planets",
+        "astronomy",
+        "solar system"
+      ],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/planets-solar-system.json",
       "format": "json",
       "preview": [
-        { "title": "Mars", "fields": { "type": "Terrestrial", "moons": "2", "distance_from_sun": "1.52 AU" } },
-        { "title": "Jupiter", "fields": { "type": "Gas giant", "moons": "95", "distance_from_sun": "5.2 AU" } },
-        { "title": "Saturn", "fields": { "type": "Gas giant", "moons": "146", "distance_from_sun": "9.58 AU" } }
+        {
+          "title": "Mars",
+          "fields": {
+            "type": "Terrestrial",
+            "moons": "2",
+            "distance_from_sun": "1.52 AU"
+          }
+        },
+        {
+          "title": "Jupiter",
+          "fields": {
+            "type": "Gas giant",
+            "moons": "95",
+            "distance_from_sun": "5.2 AU"
+          }
+        },
+        {
+          "title": "Saturn",
+          "fields": {
+            "type": "Gas giant",
+            "moons": "146",
+            "distance_from_sun": "9.58 AU"
+          }
+        }
       ]
     },
     {
@@ -112,13 +301,612 @@
       "category": "esoteric",
       "card_count": 50,
       "author": "MindDeck Team",
-      "tags": ["astrology", "signs", "planets", "houses"],
+      "tags": [
+        "astrology",
+        "signs",
+        "planets",
+        "houses"
+      ],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/astrology-core.json",
       "format": "json",
       "preview": [
-        { "title": "Aries", "fields": { "element": "Fire", "modality": "Cardinal", "ruling_planet": "Mars", "theme": "Initiation, identity, courage" } },
-        { "title": "1st House", "fields": { "natural_sign": "Aries", "ruling_planet": "Mars", "theme": "Self, appearance, beginnings" } },
-        { "title": "Venus", "fields": { "type": "Planet", "rules": "Taurus, Libra", "theme": "Love, beauty, values, attraction" } }
+        {
+          "title": "Aries",
+          "fields": {
+            "element": "Fire",
+            "modality": "Cardinal",
+            "ruling_planet": "Mars",
+            "theme": "Initiation, identity, courage"
+          }
+        },
+        {
+          "title": "1st House",
+          "fields": {
+            "natural_sign": "Aries",
+            "ruling_planet": "Mars",
+            "theme": "Self, appearance, beginnings"
+          }
+        },
+        {
+          "title": "Venus",
+          "fields": {
+            "type": "Planet",
+            "rules": "Taurus, Libra",
+            "theme": "Love, beauty, values, attraction"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prime-numbers",
+      "name": "Prime Numbers 1–100",
+      "description": "Every integer 1–100 with primality, prime index, next prime, and factors",
+      "category": "mathematics",
+      "card_count": 100,
+      "author": "MindDeck Team",
+      "tags": [
+        "primes",
+        "number theory",
+        "mathematics",
+        "factors"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/prime-numbers.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "2",
+          "fields": {
+            "Is Prime": "Yes",
+            "Prime Index": "1",
+            "Next Prime": "3",
+            "Factor Count": "2",
+            "Factors": "1, 2"
+          }
+        },
+        {
+          "title": "7",
+          "fields": {
+            "Is Prime": "Yes",
+            "Prime Index": "4",
+            "Next Prime": "11",
+            "Factor Count": "2",
+            "Factors": "1, 7"
+          }
+        },
+        {
+          "title": "12",
+          "fields": {
+            "Is Prime": "No",
+            "Factor Count": "6",
+            "Factors": "1, 2, 3, 4, 6, 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "perfect-squares",
+      "name": "Perfect Squares 1–30",
+      "description": "Base numbers 1–30 with their squares, square roots, and relationships",
+      "category": "mathematics",
+      "card_count": 30,
+      "author": "MindDeck Team",
+      "tags": [
+        "squares",
+        "roots",
+        "number theory",
+        "mathematics"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/perfect-squares.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "5",
+          "fields": {
+            "Square": "25",
+            "Square Root": "5",
+            "Difference from Previous Square": "9",
+            "Square Is Also a Perfect Cube": "No"
+          }
+        },
+        {
+          "title": "8",
+          "fields": {
+            "Square": "64",
+            "Square Root": "8",
+            "Difference from Previous Square": "15",
+            "Square Is Also a Perfect Cube": "Yes"
+          }
+        },
+        {
+          "title": "12",
+          "fields": {
+            "Square": "144",
+            "Square Root": "12",
+            "Difference from Previous Square": "23",
+            "Square Is Also a Perfect Cube": "No"
+          }
+        }
+      ]
+    },
+    {
+      "id": "us-states-capitals",
+      "name": "US States & Capitals",
+      "description": "All 50 states with capital, statehood, region, nickname, motto, bird, flower, and tree",
+      "category": "geography",
+      "card_count": 50,
+      "author": "MindDeck Team",
+      "tags": [
+        "united states",
+        "states",
+        "capitals",
+        "geography"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/us-states-capitals.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "California",
+          "fields": {
+            "Capital": "Sacramento",
+            "Abbreviation": "CA",
+            "Region": "West",
+            "Nickname": "The Golden State",
+            "State Bird": "California Quail"
+          }
+        },
+        {
+          "title": "Texas",
+          "fields": {
+            "Capital": "Austin",
+            "Abbreviation": "TX",
+            "Region": "South",
+            "Nickname": "The Lone Star State",
+            "State Bird": "Mockingbird"
+          }
+        },
+        {
+          "title": "New York",
+          "fields": {
+            "Capital": "Albany",
+            "Abbreviation": "NY",
+            "Region": "Northeast",
+            "Nickname": "The Empire State",
+            "State Bird": "Eastern Bluebird"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mountain-peaks",
+      "name": "Major Mountain Peaks of the World",
+      "description": "27 notable peaks including all 14 eight-thousanders and continental high points",
+      "category": "geography",
+      "card_count": 27,
+      "author": "MindDeck Team",
+      "tags": [
+        "mountains",
+        "geography",
+        "exploration",
+        "elevation"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mountain-peaks.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Everest",
+          "fields": {
+            "Mountain Range": "Himalayas",
+            "Elevation (m)": "8849",
+            "Country": "Nepal / China",
+            "Continent": "Asia",
+            "First Summit Year": "1953"
+          }
+        },
+        {
+          "title": "Aconcagua",
+          "fields": {
+            "Mountain Range": "Andes",
+            "Elevation (m)": "6961",
+            "Country": "Argentina",
+            "Continent": "South America",
+            "First Summit Year": "1897"
+          }
+        },
+        {
+          "title": "Kilimanjaro",
+          "fields": {
+            "Mountain Range": "Eastern Rift Mountains",
+            "Elevation (m)": "5895",
+            "Country": "Tanzania",
+            "Continent": "Africa",
+            "First Summit Year": "1889"
+          }
+        }
+      ]
+    },
+    {
+      "id": "months-of-the-year",
+      "name": "Months of the Year",
+      "description": "All 12 months with their number and day counts for standard and leap years",
+      "category": "mathematics",
+      "card_count": 12,
+      "author": "MindDeck Team",
+      "tags": [
+        "calendar",
+        "months",
+        "time",
+        "reference"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/months-of-the-year.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "February",
+          "fields": {
+            "Month Number": "2",
+            "Days (Standard Year)": "28",
+            "Days (Leap Year)": "29"
+          }
+        },
+        {
+          "title": "July",
+          "fields": {
+            "Month Number": "7",
+            "Days (Standard Year)": "31",
+            "Days (Leap Year)": "31"
+          }
+        },
+        {
+          "title": "November",
+          "fields": {
+            "Month Number": "11",
+            "Days (Standard Year)": "30",
+            "Days (Leap Year)": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "days-of-the-week",
+      "name": "Days of the Week",
+      "description": "All 7 days translated across 12 languages including Japanese, Mandarin, and Arabic",
+      "category": "languages",
+      "card_count": 7,
+      "author": "MindDeck Team",
+      "tags": [
+        "days",
+        "multilingual",
+        "calendar",
+        "translation"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/days-of-the-week.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Monday",
+          "fields": {
+            "Spanish": "Lunes",
+            "French": "Lundi",
+            "German": "Montag",
+            "Japanese (Romaji)": "Getsuyōbi",
+            "Mandarin (Pinyin)": "Xīngqī yī"
+          }
+        },
+        {
+          "title": "Friday",
+          "fields": {
+            "Spanish": "Viernes",
+            "French": "Vendredi",
+            "German": "Freitag",
+            "Japanese (Romaji)": "Kinyōbi",
+            "Mandarin (Pinyin)": "Xīngqī wǔ"
+          }
+        },
+        {
+          "title": "Sunday",
+          "fields": {
+            "Spanish": "Domingo",
+            "French": "Dimanche",
+            "German": "Sonntag",
+            "Japanese (Romaji)": "Nichiyōbi",
+            "Mandarin (Pinyin)": "Xīngqī rì"
+          }
+        }
+      ]
+    },
+    {
+      "id": "length-unit-conversions",
+      "name": "Length Unit Conversions",
+      "description": "10 units from millimeter to light year with full conversion matrix",
+      "category": "mathematics",
+      "card_count": 10,
+      "author": "MindDeck Team",
+      "tags": [
+        "measurement",
+        "length",
+        "units",
+        "conversion",
+        "science"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/length-unit-conversions.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Foot",
+          "fields": {
+            "Symbol": "ft",
+            "Millimeter": "304.8",
+            "Centimeter": "30.48",
+            "Inch": "12",
+            "Meter": "0.3048",
+            "Mile": "0.00018939"
+          }
+        },
+        {
+          "title": "Kilometer",
+          "fields": {
+            "Symbol": "km",
+            "Millimeter": "1000000",
+            "Meter": "1000",
+            "Mile": "0.62137"
+          }
+        },
+        {
+          "title": "Meter",
+          "fields": {
+            "Symbol": "m",
+            "Millimeter": "1000",
+            "Foot": "3.2808",
+            "Inch": "39.37",
+            "Kilometer": "0.001"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mass-unit-conversions",
+      "name": "Mass & Weight Unit Conversions",
+      "description": "9 units from milligram to metric ton with full conversion matrix",
+      "category": "mathematics",
+      "card_count": 9,
+      "author": "MindDeck Team",
+      "tags": [
+        "measurement",
+        "mass",
+        "weight",
+        "units",
+        "conversion",
+        "science"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mass-unit-conversions.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Gram",
+          "fields": {
+            "Symbol": "g",
+            "Milligram": "1000",
+            "Ounce": "0.035274",
+            "Pound": "0.0022046",
+            "Kilogram": "0.001"
+          }
+        },
+        {
+          "title": "Pound",
+          "fields": {
+            "Symbol": "lb",
+            "Gram": "453.59",
+            "Ounce": "16",
+            "Kilogram": "0.45359",
+            "Stone": "0.071429"
+          }
+        },
+        {
+          "title": "Kilogram",
+          "fields": {
+            "Symbol": "kg",
+            "Gram": "1000",
+            "Pound": "2.2046",
+            "Ounce": "35.274",
+            "Metric Ton": "0.001"
+          }
+        }
+      ]
+    },
+    {
+      "id": "musical-notes-frequencies",
+      "name": "Musical Notes & Frequencies",
+      "description": "All 88 piano keys from A0 to C8 with frequency, MIDI number, and solfège",
+      "category": "music",
+      "card_count": 88,
+      "author": "MindDeck Team",
+      "tags": [
+        "music",
+        "notes",
+        "frequencies",
+        "piano",
+        "MIDI",
+        "solfège"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/musical-notes-frequencies.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "A4",
+          "notes": "Concert A — international tuning standard (440 Hz)",
+          "fields": {
+            "Octave": "4",
+            "Frequency (Hz)": "440.0000",
+            "MIDI Number": "69",
+            "Piano Key (1=A0)": "49",
+            "Solfège": "La",
+            "Key Color": "White"
+          }
+        },
+        {
+          "title": "C4",
+          "notes": "Middle C",
+          "fields": {
+            "Octave": "4",
+            "Frequency (Hz)": "261.6256",
+            "MIDI Number": "60",
+            "Piano Key (1=A0)": "40",
+            "Solfège": "Do",
+            "Key Color": "White"
+          }
+        },
+        {
+          "title": "C#/Db4",
+          "fields": {
+            "Octave": "4",
+            "Frequency (Hz)": "277.1826",
+            "MIDI Number": "61",
+            "Piano Key (1=A0)": "41",
+            "Solfège": "Di/Ra",
+            "Key Color": "Black"
+          }
+        }
+      ]
+    },
+    {
+      "id": "powers-of-2",
+      "name": "Powers of 2",
+      "description": "2⁰ through 2²⁰ with values, hexadecimal, and computing applications",
+      "category": "mathematics",
+      "card_count": 21,
+      "author": "MindDeck Team",
+      "tags": [
+        "powers",
+        "binary",
+        "computing",
+        "mathematics",
+        "bits",
+        "bytes"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/powers-of-2.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "2^8",
+          "fields": {
+            "Exponent": "8",
+            "Value": "256",
+            "Hexadecimal": "0x100",
+            "Is Power of 8": "No",
+            "Is Power of 16": "Yes",
+            "Common Use": "256 values; 1 byte; uint8 range 0–255; 8-bit color channel"
+          }
+        },
+        {
+          "title": "2^10",
+          "fields": {
+            "Exponent": "10",
+            "Value": "1024",
+            "Hexadecimal": "0x400",
+            "Is Power of 8": "No",
+            "Is Power of 16": "No",
+            "Common Use": "1,024 ≈ 1 thousand; 1 Kibibyte (KiB)"
+          }
+        },
+        {
+          "title": "2^16",
+          "fields": {
+            "Exponent": "16",
+            "Value": "65536",
+            "Hexadecimal": "0x10000",
+            "Is Power of 8": "No",
+            "Is Power of 16": "Yes",
+            "Common Use": "65,536; uint16 max + 1; total IPv4 port range (0–65535)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "roman-numerals",
+      "name": "Roman Numerals 1–1000",
+      "description": "Every integer from 1 to 1000 with its Roman numeral and additive/subtractive classification",
+      "category": "languages",
+      "card_count": 1000,
+      "author": "MindDeck Team",
+      "tags": [
+        "roman numerals",
+        "numbers",
+        "history",
+        "languages",
+        "latin"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/roman-numerals.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "4",
+          "fields": {
+            "Roman Numeral": "IV",
+            "Method": "Subtractive"
+          }
+        },
+        {
+          "title": "42",
+          "fields": {
+            "Roman Numeral": "XLII",
+            "Method": "Subtractive"
+          }
+        },
+        {
+          "title": "1000",
+          "fields": {
+            "Roman Numeral": "M",
+            "Method": "Additive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "morse-code",
+      "name": "Morse Code",
+      "description": "A–Z, 0–9, and punctuation with dot/dash sequences and transmission timing units",
+      "category": "languages",
+      "card_count": 59,
+      "author": "MindDeck Team",
+      "tags": [
+        "morse code",
+        "communication",
+        "signals",
+        "alphabet",
+        "coding"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/morse-code.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "S",
+          "fields": {
+            "Morse Code": "...",
+            "Category": "Letter",
+            "Dit Count": "3",
+            "Dah Count": "0",
+            "Symbol Count": "3",
+            "Total Transmission Units": "5"
+          }
+        },
+        {
+          "title": "O",
+          "fields": {
+            "Morse Code": "---",
+            "Category": "Letter",
+            "Dit Count": "0",
+            "Dah Count": "3",
+            "Symbol Count": "3",
+            "Total Transmission Units": "11"
+          }
+        },
+        {
+          "title": "Word Space",
+          "fields": {
+            "Category": "Timing Reference",
+            "Total Transmission Units": "7 units — silence between words"
+          }
+        }
       ]
     }
   ]
