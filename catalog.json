@@ -6,43 +6,43 @@
       "id": "science",
       "name": "Science",
       "description": "Scientific knowledge and concepts",
-      "icon": "\ud83d\udd2c"
+      "icon": "🔬"
     },
     {
       "id": "mathematics",
       "name": "Mathematics",
       "description": "Numbers, patterns, and mathematical systems",
-      "icon": "\ud83d\udd22"
+      "icon": "🔢"
     },
     {
       "id": "languages",
       "name": "Languages",
       "description": "Language, linguistics, and communication",
-      "icon": "\ud83c\udf0d"
+      "icon": "🌍"
     },
     {
       "id": "geography",
       "name": "Geography",
       "description": "Countries, currencies, and the world",
-      "icon": "\ud83d\uddfa\ufe0f"
+      "icon": "🗺️"
     },
     {
       "id": "space",
       "name": "Space",
       "description": "Astronomy and the solar system",
-      "icon": "\ud83e\ude90"
+      "icon": "🪐"
     },
     {
       "id": "music",
       "name": "Music",
       "description": "Music theory, notation, and sound",
-      "icon": "\ud83c\udfb5"
+      "icon": "🎵"
     },
     {
       "id": "esoteric",
       "name": "Esoteric",
       "description": "Astrology, symbolism, and metaphysical systems",
-      "icon": "\u2728"
+      "icon": "✨"
     }
   ],
   "decks": [
@@ -89,7 +89,7 @@
     },
     {
       "id": "human-anatomy-major-organs",
-      "name": "Human Anatomy \u2014 Major Organs",
+      "name": "Human Anatomy — Major Organs",
       "description": "Major organs with location, function, and system",
       "category": "science",
       "card_count": 60,
@@ -124,7 +124,7 @@
           "fields": {
             "system": "Respiratory",
             "location": "Chest cavity",
-            "function": "Gas exchange \u2014 oxygen in, CO2 out"
+            "function": "Gas exchange — oxygen in, CO2 out"
           }
         }
       ]
@@ -195,7 +195,7 @@
         {
           "title": "Brazil",
           "fields": {
-            "capital": "Bras\u00edlia",
+            "capital": "Brasília",
             "continent": "South America",
             "population": "215M"
           }
@@ -238,7 +238,7 @@
           "title": "Euro",
           "fields": {
             "code": "EUR",
-            "symbol": "\u20ac",
+            "symbol": "€",
             "country": "Eurozone"
           }
         },
@@ -246,7 +246,7 @@
           "title": "Japanese Yen",
           "fields": {
             "code": "JPY",
-            "symbol": "\u00a5",
+            "symbol": "¥",
             "country": "Japan"
           }
         }
@@ -339,8 +339,8 @@
     },
     {
       "id": "prime-numbers",
-      "name": "Prime Numbers",
-      "description": "The first 100 prime numbers as a single card with ordinal field:value pairs (1st=2, 2nd=3, \u2026 100th=541)",
+      "name": "First 100 Prime Numbers",
+      "description": "A single card with all 100 primes as ranked fields (1st–100th). Bidirectional linking produces 201 cards in the workspace.",
       "category": "mathematics",
       "card_count": 1,
       "author": "MindDeck Team",
@@ -349,7 +349,7 @@
         "number theory",
         "mathematics"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/prime-numbers.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/first-100-primes.json",
       "format": "json",
       "preview": [
         {
@@ -357,8 +357,8 @@
           "fields": {
             "1st": "2",
             "2nd": "3",
-            "3rd": "5",
             "10th": "29",
+            "50th": "229",
             "100th": "541"
           }
         }
@@ -366,8 +366,8 @@
     },
     {
       "id": "perfect-squares",
-      "name": "Perfect Squares 1\u201330",
-      "description": "Base numbers 1\u201330 with their squares, square roots, and relationships",
+      "name": "Perfect Squares 1–30",
+      "description": "Base numbers 1–30 with their squares, square roots, and relationships",
       "category": "mathematics",
       "card_count": 30,
       "author": "MindDeck Team",
@@ -569,8 +569,8 @@
             "Spanish": "Lunes",
             "French": "Lundi",
             "German": "Montag",
-            "Japanese (Romaji)": "Getsuy\u014dbi",
-            "Mandarin (Pinyin)": "X\u012bngq\u012b y\u012b"
+            "Japanese (Romaji)": "Getsuyōbi",
+            "Mandarin (Pinyin)": "Xīngqī yī"
           }
         },
         {
@@ -579,8 +579,8 @@
             "Spanish": "Viernes",
             "French": "Vendredi",
             "German": "Freitag",
-            "Japanese (Romaji)": "Kiny\u014dbi",
-            "Mandarin (Pinyin)": "X\u012bngq\u012b w\u01d4"
+            "Japanese (Romaji)": "Kinyōbi",
+            "Mandarin (Pinyin)": "Xīngqī wǔ"
           }
         },
         {
@@ -589,8 +589,8 @@
             "Spanish": "Domingo",
             "French": "Dimanche",
             "German": "Sonntag",
-            "Japanese (Romaji)": "Nichiy\u014dbi",
-            "Mandarin (Pinyin)": "X\u012bngq\u012b r\u00ec"
+            "Japanese (Romaji)": "Nichiyōbi",
+            "Mandarin (Pinyin)": "Xīngqī rì"
           }
         }
       ]
@@ -697,7 +697,7 @@
     {
       "id": "musical-notes-frequencies",
       "name": "Musical Notes & Frequencies",
-      "description": "All 88 piano keys from A0 to C8 with frequency, MIDI number, and solf\u00e8ge",
+      "description": "All 88 piano keys from A0 to C8 with frequency, MIDI number, and solfège",
       "category": "music",
       "card_count": 88,
       "author": "MindDeck Team",
@@ -707,20 +707,20 @@
         "frequencies",
         "piano",
         "MIDI",
-        "solf\u00e8ge"
+        "solfège"
       ],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/musical-notes-frequencies.json",
       "format": "json",
       "preview": [
         {
           "title": "A4",
-          "notes": "Concert A \u2014 international tuning standard (440 Hz)",
+          "notes": "Concert A — international tuning standard (440 Hz)",
           "fields": {
             "Octave": "4",
             "Frequency (Hz)": "440.0000",
             "MIDI Number": "69",
             "Piano Key (1=A0)": "49",
-            "Solf\u00e8ge": "La",
+            "Solfège": "La",
             "Key Color": "White"
           }
         },
@@ -732,7 +732,7 @@
             "Frequency (Hz)": "261.6256",
             "MIDI Number": "60",
             "Piano Key (1=A0)": "40",
-            "Solf\u00e8ge": "Do",
+            "Solfège": "Do",
             "Key Color": "White"
           }
         },
@@ -743,7 +743,7 @@
             "Frequency (Hz)": "277.1826",
             "MIDI Number": "61",
             "Piano Key (1=A0)": "41",
-            "Solf\u00e8ge": "Di/Ra",
+            "Solfège": "Di/Ra",
             "Key Color": "Black"
           }
         }
@@ -752,7 +752,7 @@
     {
       "id": "powers-of-2",
       "name": "Powers of 2",
-      "description": "2\u2070 through 2\u00b2\u2070 with values, hexadecimal, and computing applications",
+      "description": "2⁰ through 2²⁰ with values, hexadecimal, and computing applications",
       "category": "mathematics",
       "card_count": 21,
       "author": "MindDeck Team",
@@ -775,7 +775,7 @@
             "Hexadecimal": "0x100",
             "Is Power of 8": "No",
             "Is Power of 16": "Yes",
-            "Common Use": "256 values; 1 byte; uint8 range 0\u2013255; 8-bit color channel"
+            "Common Use": "256 values; 1 byte; uint8 range 0–255; 8-bit color channel"
           }
         },
         {
@@ -786,7 +786,7 @@
             "Hexadecimal": "0x400",
             "Is Power of 8": "No",
             "Is Power of 16": "No",
-            "Common Use": "1,024 \u2248 1 thousand; 1 Kibibyte (KiB)"
+            "Common Use": "1,024 ≈ 1 thousand; 1 Kibibyte (KiB)"
           }
         },
         {
@@ -797,14 +797,14 @@
             "Hexadecimal": "0x10000",
             "Is Power of 8": "No",
             "Is Power of 16": "Yes",
-            "Common Use": "65,536; uint16 max + 1; total IPv4 port range (0\u201365535)"
+            "Common Use": "65,536; uint16 max + 1; total IPv4 port range (0–65535)"
           }
         }
       ]
     },
     {
       "id": "roman-numerals",
-      "name": "Roman Numerals 1\u20131000",
+      "name": "Roman Numerals 1–1000",
       "description": "Every integer from 1 to 1000 with its Roman numeral and additive/subtractive classification",
       "category": "languages",
       "card_count": 1000,
@@ -845,7 +845,7 @@
     {
       "id": "morse-code",
       "name": "Morse Code",
-      "description": "A\u2013Z, 0\u20139, and punctuation with dot/dash sequences and transmission timing units",
+      "description": "A–Z, 0–9, and punctuation with dot/dash sequences and transmission timing units",
       "category": "languages",
       "card_count": 59,
       "author": "MindDeck Team",
@@ -885,7 +885,7 @@
           "title": "Word Space",
           "fields": {
             "Category": "Timing Reference",
-            "Total Transmission Units": "7 units \u2014 silence between words"
+            "Total Transmission Units": "7 units — silence between words"
           }
         }
       ]
