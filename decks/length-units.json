@@ -1,0 +1,165 @@
+{
+  "deck_name": "Length Unit Conversions",
+  "cards": [
+    {
+      "title": "Millimeter",
+      "fields": {
+        "Symbol": "mm",
+        "Millimeter": "1",
+        "Centimeter": "0.1",
+        "Inch": "0.039370079",
+        "Foot": "0.0032808399",
+        "Yard": "0.0010936133",
+        "Meter": "0.001",
+        "Kilometer": "1.000000e-06",
+        "Mile": "6.213712e-07",
+        "Nautical Mile": "5.399568e-07",
+        "Light Year": "1.056971e-19"
+      }
+    },
+    {
+      "title": "Centimeter",
+      "fields": {
+        "Symbol": "cm",
+        "Millimeter": "10",
+        "Centimeter": "1",
+        "Inch": "0.39370079",
+        "Foot": "0.032808399",
+        "Yard": "0.010936133",
+        "Meter": "0.01",
+        "Kilometer": "1.000000e-05",
+        "Mile": "6.213712e-06",
+        "Nautical Mile": "5.399568e-06",
+        "Light Year": "1.056971e-18"
+      }
+    },
+    {
+      "title": "Inch",
+      "fields": {
+        "Symbol": "in",
+        "Millimeter": "25.4",
+        "Centimeter": "2.54",
+        "Inch": "1",
+        "Foot": "0.083333333",
+        "Yard": "0.027777778",
+        "Meter": "0.0254",
+        "Kilometer": "2.540000e-05",
+        "Mile": "1.578283e-05",
+        "Nautical Mile": "1.371490e-05",
+        "Light Year": "2.684706e-18"
+      }
+    },
+    {
+      "title": "Foot",
+      "fields": {
+        "Symbol": "ft",
+        "Millimeter": "304.8",
+        "Centimeter": "30.48",
+        "Inch": "12",
+        "Foot": "1",
+        "Yard": "0.33333333",
+        "Meter": "0.3048",
+        "Kilometer": "0.0003048",
+        "Mile": "0.00018939394",
+        "Nautical Mile": "0.00016457883",
+        "Light Year": "3.221647e-17"
+      }
+    },
+    {
+      "title": "Yard",
+      "fields": {
+        "Symbol": "yd",
+        "Millimeter": "914.4",
+        "Centimeter": "91.44",
+        "Inch": "36",
+        "Foot": "3",
+        "Yard": "1",
+        "Meter": "0.9144",
+        "Kilometer": "0.0009144",
+        "Mile": "0.00056818182",
+        "Nautical Mile": "0.0004937365",
+        "Light Year": "9.664940e-17"
+      }
+    },
+    {
+      "title": "Meter",
+      "fields": {
+        "Symbol": "m",
+        "Millimeter": "1000",
+        "Centimeter": "100",
+        "Inch": "39.370079",
+        "Foot": "3.2808399",
+        "Yard": "1.0936133",
+        "Meter": "1",
+        "Kilometer": "0.001",
+        "Mile": "0.00062137119",
+        "Nautical Mile": "0.0005399568",
+        "Light Year": "1.056971e-16"
+      }
+    },
+    {
+      "title": "Kilometer",
+      "fields": {
+        "Symbol": "km",
+        "Millimeter": "1000000",
+        "Centimeter": "100000",
+        "Inch": "39370.079",
+        "Foot": "3280.8399",
+        "Yard": "1093.6133",
+        "Meter": "1000",
+        "Kilometer": "1",
+        "Mile": "0.62137119",
+        "Nautical Mile": "0.5399568",
+        "Light Year": "1.056971e-13"
+      }
+    },
+    {
+      "title": "Mile",
+      "fields": {
+        "Symbol": "mi",
+        "Millimeter": "1609344",
+        "Centimeter": "160934.4",
+        "Inch": "63360",
+        "Foot": "5280",
+        "Yard": "1760",
+        "Meter": "1609.344",
+        "Kilometer": "1.609344",
+        "Mile": "1",
+        "Nautical Mile": "0.86897624",
+        "Light Year": "1.701029e-13"
+      }
+    },
+    {
+      "title": "Nautical Mile",
+      "fields": {
+        "Symbol": "nmi",
+        "Millimeter": "1852000",
+        "Centimeter": "185200",
+        "Inch": "72913.386",
+        "Foot": "6076.1155",
+        "Yard": "2025.3718",
+        "Meter": "1852",
+        "Kilometer": "1.852",
+        "Mile": "1.1507794",
+        "Nautical Mile": "1",
+        "Light Year": "1.957510e-13"
+      }
+    },
+    {
+      "title": "Light Year",
+      "fields": {
+        "Symbol": "ly",
+        "Millimeter": "9.461000e+18",
+        "Centimeter": "9.461000e+17",
+        "Inch": "3.724803e+17",
+        "Foot": "3.104003e+16",
+        "Yard": "1.034668e+16",
+        "Meter": "9.461000e+15",
+        "Kilometer": "9.461000e+12",
+        "Mile": "5.878793e+12",
+        "Nautical Mile": "5.108531e+12",
+        "Light Year": "1"
+      }
+    }
+  ]
+}

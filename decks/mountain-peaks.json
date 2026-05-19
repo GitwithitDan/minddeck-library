@@ -1,0 +1,383 @@
+{
+  "deck_name": "Major Mountain Peaks of the World",
+  "cards": [
+    {
+      "title": "Everest",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8849",
+        "Elevation (ft)": "29032",
+        "Country": "Nepal / China",
+        "Continent": "Asia",
+        "First Summit Year": "1953",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "8849",
+        "Description": "Highest point on Earth; first summit Edmund Hillary & Tenzing Norgay"
+      }
+    },
+    {
+      "title": "K2",
+      "fields": {
+        "Mountain Range": "Karakoram",
+        "Elevation (m)": "8611",
+        "Elevation (ft)": "28251",
+        "Country": "Pakistan / China",
+        "Continent": "Asia",
+        "First Summit Year": "1954",
+        "Difficulty": "Extreme — hardest 8000er",
+        "Prominence (m)": "4017",
+        "Description": "Second highest; first summit Achille Compagnoni & Lino Lacedelli"
+      }
+    },
+    {
+      "title": "Kangchenjunga",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8586",
+        "Elevation (ft)": "28169",
+        "Country": "Nepal / India",
+        "Continent": "Asia",
+        "First Summit Year": "1955",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "3922",
+        "Description": "Third highest; top 3m unclimbed by summit agreement"
+      }
+    },
+    {
+      "title": "Lhotse",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8516",
+        "Elevation (ft)": "27940",
+        "Country": "Nepal / China",
+        "Continent": "Asia",
+        "First Summit Year": "1956",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "610",
+        "Description": "Fourth highest; shares base camp with Everest"
+      }
+    },
+    {
+      "title": "Makalu",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8485",
+        "Elevation (ft)": "27838",
+        "Country": "Nepal / China",
+        "Continent": "Asia",
+        "First Summit Year": "1955",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "2386",
+        "Description": "Fifth highest; isolated pyramid shape"
+      }
+    },
+    {
+      "title": "Cho Oyu",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8188",
+        "Elevation (ft)": "26864",
+        "Country": "Nepal / China",
+        "Continent": "Asia",
+        "First Summit Year": "1954",
+        "Difficulty": "Extreme — easiest 8000er",
+        "Prominence (m)": "2340",
+        "Description": "Sixth highest"
+      }
+    },
+    {
+      "title": "Dhaulagiri I",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8167",
+        "Elevation (ft)": "26795",
+        "Country": "Nepal",
+        "Continent": "Asia",
+        "First Summit Year": "1960",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "3357",
+        "Description": "Seventh highest; the White Mountain"
+      }
+    },
+    {
+      "title": "Manaslu",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8163",
+        "Elevation (ft)": "26781",
+        "Country": "Nepal",
+        "Continent": "Asia",
+        "First Summit Year": "1956",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "3092",
+        "Description": "Eighth highest; Mountain of the Spirit"
+      }
+    },
+    {
+      "title": "Nanga Parbat",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8126",
+        "Elevation (ft)": "26660",
+        "Country": "Pakistan",
+        "Continent": "Asia",
+        "First Summit Year": "1953",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "4608",
+        "Description": "Ninth highest; the Killer Mountain; first solo summit Hermann Buhl"
+      }
+    },
+    {
+      "title": "Annapurna I",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8091",
+        "Elevation (ft)": "26545",
+        "Country": "Nepal",
+        "Continent": "Asia",
+        "First Summit Year": "1950",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "2984",
+        "Description": "Tenth highest; first 8000m peak ever summited (Maurice Herzog)"
+      }
+    },
+    {
+      "title": "Gasherbrum I",
+      "fields": {
+        "Mountain Range": "Karakoram",
+        "Elevation (m)": "8080",
+        "Elevation (ft)": "26510",
+        "Country": "Pakistan / China",
+        "Continent": "Asia",
+        "First Summit Year": "1958",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "2155",
+        "Description": "11th highest; also called Hidden Peak"
+      }
+    },
+    {
+      "title": "Broad Peak",
+      "fields": {
+        "Mountain Range": "Karakoram",
+        "Elevation (m)": "8051",
+        "Elevation (ft)": "26414",
+        "Country": "Pakistan / China",
+        "Continent": "Asia",
+        "First Summit Year": "1957",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "1701",
+        "Description": "12th highest"
+      }
+    },
+    {
+      "title": "Gasherbrum II",
+      "fields": {
+        "Mountain Range": "Karakoram",
+        "Elevation (m)": "8035",
+        "Elevation (ft)": "26362",
+        "Country": "Pakistan / China",
+        "Continent": "Asia",
+        "First Summit Year": "1956",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "1523",
+        "Description": "13th highest"
+      }
+    },
+    {
+      "title": "Shishapangma",
+      "fields": {
+        "Mountain Range": "Himalayas",
+        "Elevation (m)": "8027",
+        "Elevation (ft)": "26335",
+        "Country": "China",
+        "Continent": "Asia",
+        "First Summit Year": "1964",
+        "Difficulty": "Extreme",
+        "Prominence (m)": "2897",
+        "Description": "14th and last 8000er to be first summited; entirely within China"
+      }
+    },
+    {
+      "title": "Aconcagua",
+      "fields": {
+        "Mountain Range": "Andes",
+        "Elevation (m)": "6961",
+        "Elevation (ft)": "22838",
+        "Country": "Argentina",
+        "Continent": "South America",
+        "First Summit Year": "1897",
+        "Difficulty": "High — non-technical",
+        "Prominence (m)": "6961",
+        "Description": "Highest peak outside Asia; highest in Western and Southern Hemispheres"
+      }
+    },
+    {
+      "title": "Ojos del Salado",
+      "fields": {
+        "Mountain Range": "Andes",
+        "Elevation (m)": "6893",
+        "Elevation (ft)": "22615",
+        "Country": "Chile / Argentina",
+        "Continent": "South America",
+        "First Summit Year": "1937",
+        "Difficulty": "High",
+        "Prominence (m)": "2189",
+        "Description": "Highest active volcano on Earth"
+      }
+    },
+    {
+      "title": "Denali",
+      "fields": {
+        "Mountain Range": "Alaska Range",
+        "Elevation (m)": "6190",
+        "Elevation (ft)": "20310",
+        "Country": "United States",
+        "Continent": "North America",
+        "First Summit Year": "1913",
+        "Difficulty": "High",
+        "Prominence (m)": "6140",
+        "Description": "Highest peak in North America; first summit Hudson Stuck & Harry Karstens"
+      }
+    },
+    {
+      "title": "Logan",
+      "fields": {
+        "Mountain Range": "Saint Elias Mountains",
+        "Elevation (m)": "5959",
+        "Elevation (ft)": "19551",
+        "Country": "Canada",
+        "Continent": "North America",
+        "First Summit Year": "1925",
+        "Difficulty": "High",
+        "Prominence (m)": "5959",
+        "Description": "Highest peak in Canada; largest base circumference of any non-volcanic peak"
+      }
+    },
+    {
+      "title": "Kilimanjaro",
+      "fields": {
+        "Mountain Range": "Eastern Rift Mountains",
+        "Elevation (m)": "5895",
+        "Elevation (ft)": "19341",
+        "Country": "Tanzania",
+        "Continent": "Africa",
+        "First Summit Year": "1889",
+        "Difficulty": "Moderate — trekking",
+        "Prominence (m)": "5885",
+        "Description": "Highest peak in Africa; largest free-standing volcano; first summit Hans Meyer"
+      }
+    },
+    {
+      "title": "Elbrus",
+      "fields": {
+        "Mountain Range": "Caucasus",
+        "Elevation (m)": "5642",
+        "Elevation (ft)": "18510",
+        "Country": "Russia",
+        "Continent": "Europe",
+        "First Summit Year": "1874",
+        "Difficulty": "High",
+        "Prominence (m)": "4741",
+        "Description": "Highest peak in Europe; dormant stratovolcano"
+      }
+    },
+    {
+      "title": "Vinson Massif",
+      "fields": {
+        "Mountain Range": "Ellsworth Mountains",
+        "Elevation (m)": "4892",
+        "Elevation (ft)": "16050",
+        "Country": "Antarctica",
+        "Continent": "Antarctica",
+        "First Summit Year": "1966",
+        "Difficulty": "High",
+        "Prominence (m)": "4892",
+        "Description": "Highest peak in Antarctica; first summit Nicholas Clinch expedition"
+      }
+    },
+    {
+      "title": "Puncak Jaya",
+      "fields": {
+        "Mountain Range": "Sudirman Range",
+        "Elevation (m)": "4884",
+        "Elevation (ft)": "16024",
+        "Country": "Indonesia",
+        "Continent": "Oceania",
+        "First Summit Year": "1962",
+        "Difficulty": "High",
+        "Prominence (m)": "4884",
+        "Description": "Highest peak in Oceania; highest island peak on Earth; first summit Heinrich Harrer"
+      }
+    },
+    {
+      "title": "Mont Blanc",
+      "fields": {
+        "Mountain Range": "Alps",
+        "Elevation (m)": "4808",
+        "Elevation (ft)": "15774",
+        "Country": "France / Italy",
+        "Continent": "Europe",
+        "First Summit Year": "1786",
+        "Difficulty": "Moderate–High",
+        "Prominence (m)": "4695",
+        "Description": "Highest peak in the Alps; first major Alpine ascent Jacques Balmat & Paccard"
+      }
+    },
+    {
+      "title": "Matterhorn",
+      "fields": {
+        "Mountain Range": "Alps",
+        "Elevation (m)": "4478",
+        "Elevation (ft)": "14692",
+        "Country": "Switzerland / Italy",
+        "Continent": "Europe",
+        "First Summit Year": "1865",
+        "Difficulty": "High",
+        "Prominence (m)": "1042",
+        "Description": "Iconic pyramidal peak; first climbed by Edward Whymper"
+      }
+    },
+    {
+      "title": "Mount Whitney",
+      "fields": {
+        "Mountain Range": "Sierra Nevada",
+        "Elevation (m)": "4421",
+        "Elevation (ft)": "14505",
+        "Country": "United States",
+        "Continent": "North America",
+        "First Summit Year": "1873",
+        "Difficulty": "Moderate — trail",
+        "Prominence (m)": "3072",
+        "Description": "Highest peak in contiguous United States"
+      }
+    },
+    {
+      "title": "Mount Fuji",
+      "fields": {
+        "Mountain Range": "Fuji Volcanic Zone",
+        "Elevation (m)": "3776",
+        "Elevation (ft)": "12388",
+        "Country": "Japan",
+        "Continent": "Asia",
+        "First Summit Year": "Ancient",
+        "Difficulty": "Easy — trail",
+        "Prominence (m)": "3776",
+        "Description": "Highest peak in Japan; active stratovolcano; UNESCO World Heritage Site"
+      }
+    },
+    {
+      "title": "Mount Olympus",
+      "fields": {
+        "Mountain Range": "Olympus Range",
+        "Elevation (m)": "2918",
+        "Elevation (ft)": "9573",
+        "Country": "Greece",
+        "Continent": "Europe",
+        "First Summit Year": "Ancient",
+        "Difficulty": "Moderate",
+        "Prominence (m)": "2918",
+        "Description": "Highest peak in Greece; mythological home of the Greek gods"
+      }
+    }
+  ]
+}

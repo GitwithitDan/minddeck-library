@@ -1,0 +1,131 @@
+{
+  "deck_name": "Days of the Week",
+  "cards": [
+    {
+      "title": "Monday",
+      "fields": {
+        "Day Number": "1",
+        "Spanish": "Lunes",
+        "French": "Lundi",
+        "German": "Montag",
+        "Italian": "Lunedì",
+        "Portuguese": "Segunda-feira",
+        "Japanese (Romaji)": "Getsuyōbi",
+        "Mandarin (Pinyin)": "Xīngqī yī",
+        "Arabic (Romanized)": "Al-ithnayn",
+        "Russian (Romanized)": "Ponedelnik",
+        "Slovak": "Pondelok",
+        "Dutch": "Maandag",
+        "Swedish": "Måndag"
+      }
+    },
+    {
+      "title": "Tuesday",
+      "fields": {
+        "Day Number": "2",
+        "Spanish": "Martes",
+        "French": "Mardi",
+        "German": "Dienstag",
+        "Italian": "Martedì",
+        "Portuguese": "Terça-feira",
+        "Japanese (Romaji)": "Kayōbi",
+        "Mandarin (Pinyin)": "Xīngqī èr",
+        "Arabic (Romanized)": "Al-thulāthāʾ",
+        "Russian (Romanized)": "Vtornik",
+        "Slovak": "Utorok",
+        "Dutch": "Dinsdag",
+        "Swedish": "Tisdag"
+      }
+    },
+    {
+      "title": "Wednesday",
+      "fields": {
+        "Day Number": "3",
+        "Spanish": "Miércoles",
+        "French": "Mercredi",
+        "German": "Mittwoch",
+        "Italian": "Mercoledì",
+        "Portuguese": "Quarta-feira",
+        "Japanese (Romaji)": "Suiyōbi",
+        "Mandarin (Pinyin)": "Xīngqī sān",
+        "Arabic (Romanized)": "Al-arbiʿāʾ",
+        "Russian (Romanized)": "Sreda",
+        "Slovak": "Streda",
+        "Dutch": "Woensdag",
+        "Swedish": "Onsdag"
+      }
+    },
+    {
+      "title": "Thursday",
+      "fields": {
+        "Day Number": "4",
+        "Spanish": "Jueves",
+        "French": "Jeudi",
+        "German": "Donnerstag",
+        "Italian": "Giovedì",
+        "Portuguese": "Quinta-feira",
+        "Japanese (Romaji)": "Mokuyōbi",
+        "Mandarin (Pinyin)": "Xīngqī sì",
+        "Arabic (Romanized)": "Al-khamīs",
+        "Russian (Romanized)": "Chetverg",
+        "Slovak": "Štvrtok",
+        "Dutch": "Donderdag",
+        "Swedish": "Torsdag"
+      }
+    },
+    {
+      "title": "Friday",
+      "fields": {
+        "Day Number": "5",
+        "Spanish": "Viernes",
+        "French": "Vendredi",
+        "German": "Freitag",
+        "Italian": "Venerdì",
+        "Portuguese": "Sexta-feira",
+        "Japanese (Romaji)": "Kinyōbi",
+        "Mandarin (Pinyin)": "Xīngqī wǔ",
+        "Arabic (Romanized)": "Al-jumʿa",
+        "Russian (Romanized)": "Pyatnitsa",
+        "Slovak": "Piatok",
+        "Dutch": "Vrijdag",
+        "Swedish": "Fredag"
+      }
+    },
+    {
+      "title": "Saturday",
+      "fields": {
+        "Day Number": "6",
+        "Spanish": "Sábado",
+        "French": "Samedi",
+        "German": "Samstag",
+        "Italian": "Sabato",
+        "Portuguese": "Sábado",
+        "Japanese (Romaji)": "Doyōbi",
+        "Mandarin (Pinyin)": "Xīngqī liù",
+        "Arabic (Romanized)": "As-sabt",
+        "Russian (Romanized)": "Subbota",
+        "Slovak": "Sobota",
+        "Dutch": "Zaterdag",
+        "Swedish": "Lördag"
+      }
+    },
+    {
+      "title": "Sunday",
+      "fields": {
+        "Day Number": "7",
+        "Spanish": "Domingo",
+        "French": "Dimanche",
+        "German": "Sonntag",
+        "Italian": "Domenica",
+        "Portuguese": "Domingo",
+        "Japanese (Romaji)": "Nichiyōbi",
+        "Mandarin (Pinyin)": "Xīngqī rì",
+        "Arabic (Romanized)": "Al-aḥad",
+        "Russian (Romanized)": "Voskresenye",
+        "Slovak": "Nedeľa",
+        "Dutch": "Zondag",
+        "Swedish": "Söndag"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7005 @@
+{
+  "deck_name": "Roman Numerals 1–1000",
+  "cards": [
+    {
+      "title": "1",
+      "fields": {
+        "Roman Numeral": "I",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "2",
+      "fields": {
+        "Roman Numeral": "II",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "3",
+      "fields": {
+        "Roman Numeral": "III",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "4",
+      "fields": {
+        "Roman Numeral": "IV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "5",
+      "fields": {
+        "Roman Numeral": "V",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "6",
+      "fields": {
+        "Roman Numeral": "VI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "7",
+      "fields": {
+        "Roman Numeral": "VII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "8",
+      "fields": {
+        "Roman Numeral": "VIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "9",
+      "fields": {
+        "Roman Numeral": "IX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "10",
+      "fields": {
+        "Roman Numeral": "X",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "11",
+      "fields": {
+        "Roman Numeral": "XI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "12",
+      "fields": {
+        "Roman Numeral": "XII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "13",
+      "fields": {
+        "Roman Numeral": "XIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "14",
+      "fields": {
+        "Roman Numeral": "XIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "15",
+      "fields": {
+        "Roman Numeral": "XV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "16",
+      "fields": {
+        "Roman Numeral": "XVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "17",
+      "fields": {
+        "Roman Numeral": "XVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "18",
+      "fields": {
+        "Roman Numeral": "XVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "19",
+      "fields": {
+        "Roman Numeral": "XIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "20",
+      "fields": {
+        "Roman Numeral": "XX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "21",
+      "fields": {
+        "Roman Numeral": "XXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "22",
+      "fields": {
+        "Roman Numeral": "XXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "23",
+      "fields": {
+        "Roman Numeral": "XXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "24",
+      "fields": {
+        "Roman Numeral": "XXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "25",
+      "fields": {
+        "Roman Numeral": "XXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "26",
+      "fields": {
+        "Roman Numeral": "XXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "27",
+      "fields": {
+        "Roman Numeral": "XXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "28",
+      "fields": {
+        "Roman Numeral": "XXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "29",
+      "fields": {
+        "Roman Numeral": "XXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "30",
+      "fields": {
+        "Roman Numeral": "XXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "31",
+      "fields": {
+        "Roman Numeral": "XXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "32",
+      "fields": {
+        "Roman Numeral": "XXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "33",
+      "fields": {
+        "Roman Numeral": "XXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "34",
+      "fields": {
+        "Roman Numeral": "XXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "35",
+      "fields": {
+        "Roman Numeral": "XXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "36",
+      "fields": {
+        "Roman Numeral": "XXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "37",
+      "fields": {
+        "Roman Numeral": "XXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "38",
+      "fields": {
+        "Roman Numeral": "XXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "39",
+      "fields": {
+        "Roman Numeral": "XXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "40",
+      "fields": {
+        "Roman Numeral": "XL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "41",
+      "fields": {
+        "Roman Numeral": "XLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "42",
+      "fields": {
+        "Roman Numeral": "XLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "43",
+      "fields": {
+        "Roman Numeral": "XLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "44",
+      "fields": {
+        "Roman Numeral": "XLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "45",
+      "fields": {
+        "Roman Numeral": "XLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "46",
+      "fields": {
+        "Roman Numeral": "XLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "47",
+      "fields": {
+        "Roman Numeral": "XLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "48",
+      "fields": {
+        "Roman Numeral": "XLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "49",
+      "fields": {
+        "Roman Numeral": "XLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "50",
+      "fields": {
+        "Roman Numeral": "L",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "51",
+      "fields": {
+        "Roman Numeral": "LI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "52",
+      "fields": {
+        "Roman Numeral": "LII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "53",
+      "fields": {
+        "Roman Numeral": "LIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "54",
+      "fields": {
+        "Roman Numeral": "LIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "55",
+      "fields": {
+        "Roman Numeral": "LV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "56",
+      "fields": {
+        "Roman Numeral": "LVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "57",
+      "fields": {
+        "Roman Numeral": "LVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "58",
+      "fields": {
+        "Roman Numeral": "LVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "59",
+      "fields": {
+        "Roman Numeral": "LIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "60",
+      "fields": {
+        "Roman Numeral": "LX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "61",
+      "fields": {
+        "Roman Numeral": "LXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "62",
+      "fields": {
+        "Roman Numeral": "LXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "63",
+      "fields": {
+        "Roman Numeral": "LXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "64",
+      "fields": {
+        "Roman Numeral": "LXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "65",
+      "fields": {
+        "Roman Numeral": "LXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "66",
+      "fields": {
+        "Roman Numeral": "LXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "67",
+      "fields": {
+        "Roman Numeral": "LXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "68",
+      "fields": {
+        "Roman Numeral": "LXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "69",
+      "fields": {
+        "Roman Numeral": "LXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "70",
+      "fields": {
+        "Roman Numeral": "LXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "71",
+      "fields": {
+        "Roman Numeral": "LXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "72",
+      "fields": {
+        "Roman Numeral": "LXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "73",
+      "fields": {
+        "Roman Numeral": "LXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "74",
+      "fields": {
+        "Roman Numeral": "LXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "75",
+      "fields": {
+        "Roman Numeral": "LXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "76",
+      "fields": {
+        "Roman Numeral": "LXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "77",
+      "fields": {
+        "Roman Numeral": "LXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "78",
+      "fields": {
+        "Roman Numeral": "LXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "79",
+      "fields": {
+        "Roman Numeral": "LXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "80",
+      "fields": {
+        "Roman Numeral": "LXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "81",
+      "fields": {
+        "Roman Numeral": "LXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "82",
+      "fields": {
+        "Roman Numeral": "LXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "83",
+      "fields": {
+        "Roman Numeral": "LXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "84",
+      "fields": {
+        "Roman Numeral": "LXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "85",
+      "fields": {
+        "Roman Numeral": "LXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "86",
+      "fields": {
+        "Roman Numeral": "LXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "87",
+      "fields": {
+        "Roman Numeral": "LXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "88",
+      "fields": {
+        "Roman Numeral": "LXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "89",
+      "fields": {
+        "Roman Numeral": "LXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "90",
+      "fields": {
+        "Roman Numeral": "XC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "91",
+      "fields": {
+        "Roman Numeral": "XCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "92",
+      "fields": {
+        "Roman Numeral": "XCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "93",
+      "fields": {
+        "Roman Numeral": "XCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "94",
+      "fields": {
+        "Roman Numeral": "XCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "95",
+      "fields": {
+        "Roman Numeral": "XCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "96",
+      "fields": {
+        "Roman Numeral": "XCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "97",
+      "fields": {
+        "Roman Numeral": "XCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "98",
+      "fields": {
+        "Roman Numeral": "XCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "99",
+      "fields": {
+        "Roman Numeral": "XCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "100",
+      "fields": {
+        "Roman Numeral": "C",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "101",
+      "fields": {
+        "Roman Numeral": "CI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "102",
+      "fields": {
+        "Roman Numeral": "CII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "103",
+      "fields": {
+        "Roman Numeral": "CIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "104",
+      "fields": {
+        "Roman Numeral": "CIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "105",
+      "fields": {
+        "Roman Numeral": "CV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "106",
+      "fields": {
+        "Roman Numeral": "CVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "107",
+      "fields": {
+        "Roman Numeral": "CVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "108",
+      "fields": {
+        "Roman Numeral": "CVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "109",
+      "fields": {
+        "Roman Numeral": "CIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "110",
+      "fields": {
+        "Roman Numeral": "CX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "111",
+      "fields": {
+        "Roman Numeral": "CXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "112",
+      "fields": {
+        "Roman Numeral": "CXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "113",
+      "fields": {
+        "Roman Numeral": "CXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "114",
+      "fields": {
+        "Roman Numeral": "CXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "115",
+      "fields": {
+        "Roman Numeral": "CXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "116",
+      "fields": {
+        "Roman Numeral": "CXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "117",
+      "fields": {
+        "Roman Numeral": "CXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "118",
+      "fields": {
+        "Roman Numeral": "CXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "119",
+      "fields": {
+        "Roman Numeral": "CXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "120",
+      "fields": {
+        "Roman Numeral": "CXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "121",
+      "fields": {
+        "Roman Numeral": "CXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "122",
+      "fields": {
+        "Roman Numeral": "CXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "123",
+      "fields": {
+        "Roman Numeral": "CXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "124",
+      "fields": {
+        "Roman Numeral": "CXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "125",
+      "fields": {
+        "Roman Numeral": "CXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "126",
+      "fields": {
+        "Roman Numeral": "CXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "127",
+      "fields": {
+        "Roman Numeral": "CXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "128",
+      "fields": {
+        "Roman Numeral": "CXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "129",
+      "fields": {
+        "Roman Numeral": "CXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "130",
+      "fields": {
+        "Roman Numeral": "CXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "131",
+      "fields": {
+        "Roman Numeral": "CXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "132",
+      "fields": {
+        "Roman Numeral": "CXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "133",
+      "fields": {
+        "Roman Numeral": "CXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "134",
+      "fields": {
+        "Roman Numeral": "CXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "135",
+      "fields": {
+        "Roman Numeral": "CXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "136",
+      "fields": {
+        "Roman Numeral": "CXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "137",
+      "fields": {
+        "Roman Numeral": "CXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "138",
+      "fields": {
+        "Roman Numeral": "CXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "139",
+      "fields": {
+        "Roman Numeral": "CXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "140",
+      "fields": {
+        "Roman Numeral": "CXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "141",
+      "fields": {
+        "Roman Numeral": "CXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "142",
+      "fields": {
+        "Roman Numeral": "CXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "143",
+      "fields": {
+        "Roman Numeral": "CXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "144",
+      "fields": {
+        "Roman Numeral": "CXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "145",
+      "fields": {
+        "Roman Numeral": "CXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "146",
+      "fields": {
+        "Roman Numeral": "CXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "147",
+      "fields": {
+        "Roman Numeral": "CXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "148",
+      "fields": {
+        "Roman Numeral": "CXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "149",
+      "fields": {
+        "Roman Numeral": "CXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "150",
+      "fields": {
+        "Roman Numeral": "CL",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "151",
+      "fields": {
+        "Roman Numeral": "CLI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "152",
+      "fields": {
+        "Roman Numeral": "CLII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "153",
+      "fields": {
+        "Roman Numeral": "CLIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "154",
+      "fields": {
+        "Roman Numeral": "CLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "155",
+      "fields": {
+        "Roman Numeral": "CLV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "156",
+      "fields": {
+        "Roman Numeral": "CLVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "157",
+      "fields": {
+        "Roman Numeral": "CLVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "158",
+      "fields": {
+        "Roman Numeral": "CLVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "159",
+      "fields": {
+        "Roman Numeral": "CLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "160",
+      "fields": {
+        "Roman Numeral": "CLX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "161",
+      "fields": {
+        "Roman Numeral": "CLXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "162",
+      "fields": {
+        "Roman Numeral": "CLXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "163",
+      "fields": {
+        "Roman Numeral": "CLXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "164",
+      "fields": {
+        "Roman Numeral": "CLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "165",
+      "fields": {
+        "Roman Numeral": "CLXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "166",
+      "fields": {
+        "Roman Numeral": "CLXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "167",
+      "fields": {
+        "Roman Numeral": "CLXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "168",
+      "fields": {
+        "Roman Numeral": "CLXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "169",
+      "fields": {
+        "Roman Numeral": "CLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "170",
+      "fields": {
+        "Roman Numeral": "CLXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "171",
+      "fields": {
+        "Roman Numeral": "CLXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "172",
+      "fields": {
+        "Roman Numeral": "CLXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "173",
+      "fields": {
+        "Roman Numeral": "CLXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "174",
+      "fields": {
+        "Roman Numeral": "CLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "175",
+      "fields": {
+        "Roman Numeral": "CLXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "176",
+      "fields": {
+        "Roman Numeral": "CLXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "177",
+      "fields": {
+        "Roman Numeral": "CLXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "178",
+      "fields": {
+        "Roman Numeral": "CLXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "179",
+      "fields": {
+        "Roman Numeral": "CLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "180",
+      "fields": {
+        "Roman Numeral": "CLXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "181",
+      "fields": {
+        "Roman Numeral": "CLXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "182",
+      "fields": {
+        "Roman Numeral": "CLXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "183",
+      "fields": {
+        "Roman Numeral": "CLXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "184",
+      "fields": {
+        "Roman Numeral": "CLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "185",
+      "fields": {
+        "Roman Numeral": "CLXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "186",
+      "fields": {
+        "Roman Numeral": "CLXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "187",
+      "fields": {
+        "Roman Numeral": "CLXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "188",
+      "fields": {
+        "Roman Numeral": "CLXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "189",
+      "fields": {
+        "Roman Numeral": "CLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "190",
+      "fields": {
+        "Roman Numeral": "CXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "191",
+      "fields": {
+        "Roman Numeral": "CXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "192",
+      "fields": {
+        "Roman Numeral": "CXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "193",
+      "fields": {
+        "Roman Numeral": "CXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "194",
+      "fields": {
+        "Roman Numeral": "CXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "195",
+      "fields": {
+        "Roman Numeral": "CXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "196",
+      "fields": {
+        "Roman Numeral": "CXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "197",
+      "fields": {
+        "Roman Numeral": "CXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "198",
+      "fields": {
+        "Roman Numeral": "CXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "199",
+      "fields": {
+        "Roman Numeral": "CXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "200",
+      "fields": {
+        "Roman Numeral": "CC",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "201",
+      "fields": {
+        "Roman Numeral": "CCI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "202",
+      "fields": {
+        "Roman Numeral": "CCII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "203",
+      "fields": {
+        "Roman Numeral": "CCIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "204",
+      "fields": {
+        "Roman Numeral": "CCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "205",
+      "fields": {
+        "Roman Numeral": "CCV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "206",
+      "fields": {
+        "Roman Numeral": "CCVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "207",
+      "fields": {
+        "Roman Numeral": "CCVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "208",
+      "fields": {
+        "Roman Numeral": "CCVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "209",
+      "fields": {
+        "Roman Numeral": "CCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "210",
+      "fields": {
+        "Roman Numeral": "CCX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "211",
+      "fields": {
+        "Roman Numeral": "CCXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "212",
+      "fields": {
+        "Roman Numeral": "CCXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "213",
+      "fields": {
+        "Roman Numeral": "CCXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "214",
+      "fields": {
+        "Roman Numeral": "CCXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "215",
+      "fields": {
+        "Roman Numeral": "CCXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "216",
+      "fields": {
+        "Roman Numeral": "CCXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "217",
+      "fields": {
+        "Roman Numeral": "CCXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "218",
+      "fields": {
+        "Roman Numeral": "CCXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "219",
+      "fields": {
+        "Roman Numeral": "CCXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "220",
+      "fields": {
+        "Roman Numeral": "CCXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "221",
+      "fields": {
+        "Roman Numeral": "CCXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "222",
+      "fields": {
+        "Roman Numeral": "CCXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "223",
+      "fields": {
+        "Roman Numeral": "CCXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "224",
+      "fields": {
+        "Roman Numeral": "CCXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "225",
+      "fields": {
+        "Roman Numeral": "CCXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "226",
+      "fields": {
+        "Roman Numeral": "CCXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "227",
+      "fields": {
+        "Roman Numeral": "CCXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "228",
+      "fields": {
+        "Roman Numeral": "CCXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "229",
+      "fields": {
+        "Roman Numeral": "CCXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "230",
+      "fields": {
+        "Roman Numeral": "CCXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "231",
+      "fields": {
+        "Roman Numeral": "CCXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "232",
+      "fields": {
+        "Roman Numeral": "CCXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "233",
+      "fields": {
+        "Roman Numeral": "CCXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "234",
+      "fields": {
+        "Roman Numeral": "CCXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "235",
+      "fields": {
+        "Roman Numeral": "CCXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "236",
+      "fields": {
+        "Roman Numeral": "CCXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "237",
+      "fields": {
+        "Roman Numeral": "CCXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "238",
+      "fields": {
+        "Roman Numeral": "CCXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "239",
+      "fields": {
+        "Roman Numeral": "CCXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "240",
+      "fields": {
+        "Roman Numeral": "CCXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "241",
+      "fields": {
+        "Roman Numeral": "CCXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "242",
+      "fields": {
+        "Roman Numeral": "CCXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "243",
+      "fields": {
+        "Roman Numeral": "CCXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "244",
+      "fields": {
+        "Roman Numeral": "CCXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "245",
+      "fields": {
+        "Roman Numeral": "CCXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "246",
+      "fields": {
+        "Roman Numeral": "CCXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "247",
+      "fields": {
+        "Roman Numeral": "CCXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "248",
+      "fields": {
+        "Roman Numeral": "CCXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "249",
+      "fields": {
+        "Roman Numeral": "CCXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "250",
+      "fields": {
+        "Roman Numeral": "CCL",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "251",
+      "fields": {
+        "Roman Numeral": "CCLI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "252",
+      "fields": {
+        "Roman Numeral": "CCLII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "253",
+      "fields": {
+        "Roman Numeral": "CCLIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "254",
+      "fields": {
+        "Roman Numeral": "CCLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "255",
+      "fields": {
+        "Roman Numeral": "CCLV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "256",
+      "fields": {
+        "Roman Numeral": "CCLVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "257",
+      "fields": {
+        "Roman Numeral": "CCLVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "258",
+      "fields": {
+        "Roman Numeral": "CCLVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "259",
+      "fields": {
+        "Roman Numeral": "CCLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "260",
+      "fields": {
+        "Roman Numeral": "CCLX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "261",
+      "fields": {
+        "Roman Numeral": "CCLXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "262",
+      "fields": {
+        "Roman Numeral": "CCLXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "263",
+      "fields": {
+        "Roman Numeral": "CCLXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "264",
+      "fields": {
+        "Roman Numeral": "CCLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "265",
+      "fields": {
+        "Roman Numeral": "CCLXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "266",
+      "fields": {
+        "Roman Numeral": "CCLXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "267",
+      "fields": {
+        "Roman Numeral": "CCLXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "268",
+      "fields": {
+        "Roman Numeral": "CCLXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "269",
+      "fields": {
+        "Roman Numeral": "CCLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "270",
+      "fields": {
+        "Roman Numeral": "CCLXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "271",
+      "fields": {
+        "Roman Numeral": "CCLXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "272",
+      "fields": {
+        "Roman Numeral": "CCLXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "273",
+      "fields": {
+        "Roman Numeral": "CCLXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "274",
+      "fields": {
+        "Roman Numeral": "CCLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "275",
+      "fields": {
+        "Roman Numeral": "CCLXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "276",
+      "fields": {
+        "Roman Numeral": "CCLXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "277",
+      "fields": {
+        "Roman Numeral": "CCLXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "278",
+      "fields": {
+        "Roman Numeral": "CCLXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "279",
+      "fields": {
+        "Roman Numeral": "CCLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "280",
+      "fields": {
+        "Roman Numeral": "CCLXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "281",
+      "fields": {
+        "Roman Numeral": "CCLXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "282",
+      "fields": {
+        "Roman Numeral": "CCLXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "283",
+      "fields": {
+        "Roman Numeral": "CCLXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "284",
+      "fields": {
+        "Roman Numeral": "CCLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "285",
+      "fields": {
+        "Roman Numeral": "CCLXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "286",
+      "fields": {
+        "Roman Numeral": "CCLXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "287",
+      "fields": {
+        "Roman Numeral": "CCLXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "288",
+      "fields": {
+        "Roman Numeral": "CCLXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "289",
+      "fields": {
+        "Roman Numeral": "CCLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "290",
+      "fields": {
+        "Roman Numeral": "CCXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "291",
+      "fields": {
+        "Roman Numeral": "CCXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "292",
+      "fields": {
+        "Roman Numeral": "CCXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "293",
+      "fields": {
+        "Roman Numeral": "CCXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "294",
+      "fields": {
+        "Roman Numeral": "CCXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "295",
+      "fields": {
+        "Roman Numeral": "CCXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "296",
+      "fields": {
+        "Roman Numeral": "CCXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "297",
+      "fields": {
+        "Roman Numeral": "CCXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "298",
+      "fields": {
+        "Roman Numeral": "CCXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "299",
+      "fields": {
+        "Roman Numeral": "CCXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "300",
+      "fields": {
+        "Roman Numeral": "CCC",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "301",
+      "fields": {
+        "Roman Numeral": "CCCI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "302",
+      "fields": {
+        "Roman Numeral": "CCCII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "303",
+      "fields": {
+        "Roman Numeral": "CCCIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "304",
+      "fields": {
+        "Roman Numeral": "CCCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "305",
+      "fields": {
+        "Roman Numeral": "CCCV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "306",
+      "fields": {
+        "Roman Numeral": "CCCVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "307",
+      "fields": {
+        "Roman Numeral": "CCCVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "308",
+      "fields": {
+        "Roman Numeral": "CCCVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "309",
+      "fields": {
+        "Roman Numeral": "CCCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "310",
+      "fields": {
+        "Roman Numeral": "CCCX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "311",
+      "fields": {
+        "Roman Numeral": "CCCXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "312",
+      "fields": {
+        "Roman Numeral": "CCCXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "313",
+      "fields": {
+        "Roman Numeral": "CCCXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "314",
+      "fields": {
+        "Roman Numeral": "CCCXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "315",
+      "fields": {
+        "Roman Numeral": "CCCXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "316",
+      "fields": {
+        "Roman Numeral": "CCCXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "317",
+      "fields": {
+        "Roman Numeral": "CCCXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "318",
+      "fields": {
+        "Roman Numeral": "CCCXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "319",
+      "fields": {
+        "Roman Numeral": "CCCXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "320",
+      "fields": {
+        "Roman Numeral": "CCCXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "321",
+      "fields": {
+        "Roman Numeral": "CCCXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "322",
+      "fields": {
+        "Roman Numeral": "CCCXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "323",
+      "fields": {
+        "Roman Numeral": "CCCXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "324",
+      "fields": {
+        "Roman Numeral": "CCCXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "325",
+      "fields": {
+        "Roman Numeral": "CCCXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "326",
+      "fields": {
+        "Roman Numeral": "CCCXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "327",
+      "fields": {
+        "Roman Numeral": "CCCXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "328",
+      "fields": {
+        "Roman Numeral": "CCCXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "329",
+      "fields": {
+        "Roman Numeral": "CCCXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "330",
+      "fields": {
+        "Roman Numeral": "CCCXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "331",
+      "fields": {
+        "Roman Numeral": "CCCXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "332",
+      "fields": {
+        "Roman Numeral": "CCCXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "333",
+      "fields": {
+        "Roman Numeral": "CCCXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "334",
+      "fields": {
+        "Roman Numeral": "CCCXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "335",
+      "fields": {
+        "Roman Numeral": "CCCXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "336",
+      "fields": {
+        "Roman Numeral": "CCCXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "337",
+      "fields": {
+        "Roman Numeral": "CCCXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "338",
+      "fields": {
+        "Roman Numeral": "CCCXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "339",
+      "fields": {
+        "Roman Numeral": "CCCXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "340",
+      "fields": {
+        "Roman Numeral": "CCCXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "341",
+      "fields": {
+        "Roman Numeral": "CCCXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "342",
+      "fields": {
+        "Roman Numeral": "CCCXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "343",
+      "fields": {
+        "Roman Numeral": "CCCXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "344",
+      "fields": {
+        "Roman Numeral": "CCCXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "345",
+      "fields": {
+        "Roman Numeral": "CCCXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "346",
+      "fields": {
+        "Roman Numeral": "CCCXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "347",
+      "fields": {
+        "Roman Numeral": "CCCXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "348",
+      "fields": {
+        "Roman Numeral": "CCCXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "349",
+      "fields": {
+        "Roman Numeral": "CCCXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "350",
+      "fields": {
+        "Roman Numeral": "CCCL",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "351",
+      "fields": {
+        "Roman Numeral": "CCCLI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "352",
+      "fields": {
+        "Roman Numeral": "CCCLII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "353",
+      "fields": {
+        "Roman Numeral": "CCCLIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "354",
+      "fields": {
+        "Roman Numeral": "CCCLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "355",
+      "fields": {
+        "Roman Numeral": "CCCLV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "356",
+      "fields": {
+        "Roman Numeral": "CCCLVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "357",
+      "fields": {
+        "Roman Numeral": "CCCLVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "358",
+      "fields": {
+        "Roman Numeral": "CCCLVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "359",
+      "fields": {
+        "Roman Numeral": "CCCLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "360",
+      "fields": {
+        "Roman Numeral": "CCCLX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "361",
+      "fields": {
+        "Roman Numeral": "CCCLXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "362",
+      "fields": {
+        "Roman Numeral": "CCCLXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "363",
+      "fields": {
+        "Roman Numeral": "CCCLXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "364",
+      "fields": {
+        "Roman Numeral": "CCCLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "365",
+      "fields": {
+        "Roman Numeral": "CCCLXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "366",
+      "fields": {
+        "Roman Numeral": "CCCLXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "367",
+      "fields": {
+        "Roman Numeral": "CCCLXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "368",
+      "fields": {
+        "Roman Numeral": "CCCLXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "369",
+      "fields": {
+        "Roman Numeral": "CCCLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "370",
+      "fields": {
+        "Roman Numeral": "CCCLXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "371",
+      "fields": {
+        "Roman Numeral": "CCCLXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "372",
+      "fields": {
+        "Roman Numeral": "CCCLXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "373",
+      "fields": {
+        "Roman Numeral": "CCCLXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "374",
+      "fields": {
+        "Roman Numeral": "CCCLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "375",
+      "fields": {
+        "Roman Numeral": "CCCLXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "376",
+      "fields": {
+        "Roman Numeral": "CCCLXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "377",
+      "fields": {
+        "Roman Numeral": "CCCLXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "378",
+      "fields": {
+        "Roman Numeral": "CCCLXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "379",
+      "fields": {
+        "Roman Numeral": "CCCLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "380",
+      "fields": {
+        "Roman Numeral": "CCCLXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "381",
+      "fields": {
+        "Roman Numeral": "CCCLXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "382",
+      "fields": {
+        "Roman Numeral": "CCCLXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "383",
+      "fields": {
+        "Roman Numeral": "CCCLXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "384",
+      "fields": {
+        "Roman Numeral": "CCCLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "385",
+      "fields": {
+        "Roman Numeral": "CCCLXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "386",
+      "fields": {
+        "Roman Numeral": "CCCLXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "387",
+      "fields": {
+        "Roman Numeral": "CCCLXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "388",
+      "fields": {
+        "Roman Numeral": "CCCLXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "389",
+      "fields": {
+        "Roman Numeral": "CCCLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "390",
+      "fields": {
+        "Roman Numeral": "CCCXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "391",
+      "fields": {
+        "Roman Numeral": "CCCXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "392",
+      "fields": {
+        "Roman Numeral": "CCCXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "393",
+      "fields": {
+        "Roman Numeral": "CCCXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "394",
+      "fields": {
+        "Roman Numeral": "CCCXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "395",
+      "fields": {
+        "Roman Numeral": "CCCXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "396",
+      "fields": {
+        "Roman Numeral": "CCCXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "397",
+      "fields": {
+        "Roman Numeral": "CCCXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "398",
+      "fields": {
+        "Roman Numeral": "CCCXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "399",
+      "fields": {
+        "Roman Numeral": "CCCXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "400",
+      "fields": {
+        "Roman Numeral": "CD",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "401",
+      "fields": {
+        "Roman Numeral": "CDI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "402",
+      "fields": {
+        "Roman Numeral": "CDII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "403",
+      "fields": {
+        "Roman Numeral": "CDIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "404",
+      "fields": {
+        "Roman Numeral": "CDIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "405",
+      "fields": {
+        "Roman Numeral": "CDV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "406",
+      "fields": {
+        "Roman Numeral": "CDVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "407",
+      "fields": {
+        "Roman Numeral": "CDVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "408",
+      "fields": {
+        "Roman Numeral": "CDVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "409",
+      "fields": {
+        "Roman Numeral": "CDIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "410",
+      "fields": {
+        "Roman Numeral": "CDX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "411",
+      "fields": {
+        "Roman Numeral": "CDXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "412",
+      "fields": {
+        "Roman Numeral": "CDXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "413",
+      "fields": {
+        "Roman Numeral": "CDXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "414",
+      "fields": {
+        "Roman Numeral": "CDXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "415",
+      "fields": {
+        "Roman Numeral": "CDXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "416",
+      "fields": {
+        "Roman Numeral": "CDXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "417",
+      "fields": {
+        "Roman Numeral": "CDXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "418",
+      "fields": {
+        "Roman Numeral": "CDXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "419",
+      "fields": {
+        "Roman Numeral": "CDXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "420",
+      "fields": {
+        "Roman Numeral": "CDXX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "421",
+      "fields": {
+        "Roman Numeral": "CDXXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "422",
+      "fields": {
+        "Roman Numeral": "CDXXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "423",
+      "fields": {
+        "Roman Numeral": "CDXXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "424",
+      "fields": {
+        "Roman Numeral": "CDXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "425",
+      "fields": {
+        "Roman Numeral": "CDXXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "426",
+      "fields": {
+        "Roman Numeral": "CDXXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "427",
+      "fields": {
+        "Roman Numeral": "CDXXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "428",
+      "fields": {
+        "Roman Numeral": "CDXXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "429",
+      "fields": {
+        "Roman Numeral": "CDXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "430",
+      "fields": {
+        "Roman Numeral": "CDXXX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "431",
+      "fields": {
+        "Roman Numeral": "CDXXXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "432",
+      "fields": {
+        "Roman Numeral": "CDXXXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "433",
+      "fields": {
+        "Roman Numeral": "CDXXXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "434",
+      "fields": {
+        "Roman Numeral": "CDXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "435",
+      "fields": {
+        "Roman Numeral": "CDXXXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "436",
+      "fields": {
+        "Roman Numeral": "CDXXXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "437",
+      "fields": {
+        "Roman Numeral": "CDXXXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "438",
+      "fields": {
+        "Roman Numeral": "CDXXXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "439",
+      "fields": {
+        "Roman Numeral": "CDXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "440",
+      "fields": {
+        "Roman Numeral": "CDXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "441",
+      "fields": {
+        "Roman Numeral": "CDXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "442",
+      "fields": {
+        "Roman Numeral": "CDXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "443",
+      "fields": {
+        "Roman Numeral": "CDXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "444",
+      "fields": {
+        "Roman Numeral": "CDXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "445",
+      "fields": {
+        "Roman Numeral": "CDXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "446",
+      "fields": {
+        "Roman Numeral": "CDXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "447",
+      "fields": {
+        "Roman Numeral": "CDXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "448",
+      "fields": {
+        "Roman Numeral": "CDXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "449",
+      "fields": {
+        "Roman Numeral": "CDXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "450",
+      "fields": {
+        "Roman Numeral": "CDL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "451",
+      "fields": {
+        "Roman Numeral": "CDLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "452",
+      "fields": {
+        "Roman Numeral": "CDLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "453",
+      "fields": {
+        "Roman Numeral": "CDLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "454",
+      "fields": {
+        "Roman Numeral": "CDLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "455",
+      "fields": {
+        "Roman Numeral": "CDLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "456",
+      "fields": {
+        "Roman Numeral": "CDLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "457",
+      "fields": {
+        "Roman Numeral": "CDLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "458",
+      "fields": {
+        "Roman Numeral": "CDLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "459",
+      "fields": {
+        "Roman Numeral": "CDLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "460",
+      "fields": {
+        "Roman Numeral": "CDLX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "461",
+      "fields": {
+        "Roman Numeral": "CDLXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "462",
+      "fields": {
+        "Roman Numeral": "CDLXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "463",
+      "fields": {
+        "Roman Numeral": "CDLXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "464",
+      "fields": {
+        "Roman Numeral": "CDLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "465",
+      "fields": {
+        "Roman Numeral": "CDLXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "466",
+      "fields": {
+        "Roman Numeral": "CDLXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "467",
+      "fields": {
+        "Roman Numeral": "CDLXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "468",
+      "fields": {
+        "Roman Numeral": "CDLXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "469",
+      "fields": {
+        "Roman Numeral": "CDLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "470",
+      "fields": {
+        "Roman Numeral": "CDLXX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "471",
+      "fields": {
+        "Roman Numeral": "CDLXXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "472",
+      "fields": {
+        "Roman Numeral": "CDLXXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "473",
+      "fields": {
+        "Roman Numeral": "CDLXXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "474",
+      "fields": {
+        "Roman Numeral": "CDLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "475",
+      "fields": {
+        "Roman Numeral": "CDLXXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "476",
+      "fields": {
+        "Roman Numeral": "CDLXXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "477",
+      "fields": {
+        "Roman Numeral": "CDLXXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "478",
+      "fields": {
+        "Roman Numeral": "CDLXXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "479",
+      "fields": {
+        "Roman Numeral": "CDLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "480",
+      "fields": {
+        "Roman Numeral": "CDLXXX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "481",
+      "fields": {
+        "Roman Numeral": "CDLXXXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "482",
+      "fields": {
+        "Roman Numeral": "CDLXXXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "483",
+      "fields": {
+        "Roman Numeral": "CDLXXXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "484",
+      "fields": {
+        "Roman Numeral": "CDLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "485",
+      "fields": {
+        "Roman Numeral": "CDLXXXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "486",
+      "fields": {
+        "Roman Numeral": "CDLXXXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "487",
+      "fields": {
+        "Roman Numeral": "CDLXXXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "488",
+      "fields": {
+        "Roman Numeral": "CDLXXXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "489",
+      "fields": {
+        "Roman Numeral": "CDLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "490",
+      "fields": {
+        "Roman Numeral": "CDXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "491",
+      "fields": {
+        "Roman Numeral": "CDXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "492",
+      "fields": {
+        "Roman Numeral": "CDXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "493",
+      "fields": {
+        "Roman Numeral": "CDXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "494",
+      "fields": {
+        "Roman Numeral": "CDXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "495",
+      "fields": {
+        "Roman Numeral": "CDXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "496",
+      "fields": {
+        "Roman Numeral": "CDXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "497",
+      "fields": {
+        "Roman Numeral": "CDXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "498",
+      "fields": {
+        "Roman Numeral": "CDXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "499",
+      "fields": {
+        "Roman Numeral": "CDXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "500",
+      "fields": {
+        "Roman Numeral": "D",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "501",
+      "fields": {
+        "Roman Numeral": "DI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "502",
+      "fields": {
+        "Roman Numeral": "DII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "503",
+      "fields": {
+        "Roman Numeral": "DIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "504",
+      "fields": {
+        "Roman Numeral": "DIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "505",
+      "fields": {
+        "Roman Numeral": "DV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "506",
+      "fields": {
+        "Roman Numeral": "DVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "507",
+      "fields": {
+        "Roman Numeral": "DVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "508",
+      "fields": {
+        "Roman Numeral": "DVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "509",
+      "fields": {
+        "Roman Numeral": "DIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "510",
+      "fields": {
+        "Roman Numeral": "DX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "511",
+      "fields": {
+        "Roman Numeral": "DXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "512",
+      "fields": {
+        "Roman Numeral": "DXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "513",
+      "fields": {
+        "Roman Numeral": "DXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "514",
+      "fields": {
+        "Roman Numeral": "DXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "515",
+      "fields": {
+        "Roman Numeral": "DXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "516",
+      "fields": {
+        "Roman Numeral": "DXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "517",
+      "fields": {
+        "Roman Numeral": "DXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "518",
+      "fields": {
+        "Roman Numeral": "DXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "519",
+      "fields": {
+        "Roman Numeral": "DXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "520",
+      "fields": {
+        "Roman Numeral": "DXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "521",
+      "fields": {
+        "Roman Numeral": "DXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "522",
+      "fields": {
+        "Roman Numeral": "DXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "523",
+      "fields": {
+        "Roman Numeral": "DXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "524",
+      "fields": {
+        "Roman Numeral": "DXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "525",
+      "fields": {
+        "Roman Numeral": "DXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "526",
+      "fields": {
+        "Roman Numeral": "DXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "527",
+      "fields": {
+        "Roman Numeral": "DXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "528",
+      "fields": {
+        "Roman Numeral": "DXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "529",
+      "fields": {
+        "Roman Numeral": "DXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "530",
+      "fields": {
+        "Roman Numeral": "DXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "531",
+      "fields": {
+        "Roman Numeral": "DXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "532",
+      "fields": {
+        "Roman Numeral": "DXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "533",
+      "fields": {
+        "Roman Numeral": "DXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "534",
+      "fields": {
+        "Roman Numeral": "DXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "535",
+      "fields": {
+        "Roman Numeral": "DXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "536",
+      "fields": {
+        "Roman Numeral": "DXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "537",
+      "fields": {
+        "Roman Numeral": "DXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "538",
+      "fields": {
+        "Roman Numeral": "DXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "539",
+      "fields": {
+        "Roman Numeral": "DXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "540",
+      "fields": {
+        "Roman Numeral": "DXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "541",
+      "fields": {
+        "Roman Numeral": "DXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "542",
+      "fields": {
+        "Roman Numeral": "DXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "543",
+      "fields": {
+        "Roman Numeral": "DXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "544",
+      "fields": {
+        "Roman Numeral": "DXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "545",
+      "fields": {
+        "Roman Numeral": "DXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "546",
+      "fields": {
+        "Roman Numeral": "DXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "547",
+      "fields": {
+        "Roman Numeral": "DXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "548",
+      "fields": {
+        "Roman Numeral": "DXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "549",
+      "fields": {
+        "Roman Numeral": "DXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "550",
+      "fields": {
+        "Roman Numeral": "DL",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "551",
+      "fields": {
+        "Roman Numeral": "DLI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "552",
+      "fields": {
+        "Roman Numeral": "DLII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "553",
+      "fields": {
+        "Roman Numeral": "DLIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "554",
+      "fields": {
+        "Roman Numeral": "DLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "555",
+      "fields": {
+        "Roman Numeral": "DLV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "556",
+      "fields": {
+        "Roman Numeral": "DLVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "557",
+      "fields": {
+        "Roman Numeral": "DLVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "558",
+      "fields": {
+        "Roman Numeral": "DLVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "559",
+      "fields": {
+        "Roman Numeral": "DLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "560",
+      "fields": {
+        "Roman Numeral": "DLX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "561",
+      "fields": {
+        "Roman Numeral": "DLXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "562",
+      "fields": {
+        "Roman Numeral": "DLXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "563",
+      "fields": {
+        "Roman Numeral": "DLXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "564",
+      "fields": {
+        "Roman Numeral": "DLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "565",
+      "fields": {
+        "Roman Numeral": "DLXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "566",
+      "fields": {
+        "Roman Numeral": "DLXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "567",
+      "fields": {
+        "Roman Numeral": "DLXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "568",
+      "fields": {
+        "Roman Numeral": "DLXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "569",
+      "fields": {
+        "Roman Numeral": "DLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "570",
+      "fields": {
+        "Roman Numeral": "DLXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "571",
+      "fields": {
+        "Roman Numeral": "DLXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "572",
+      "fields": {
+        "Roman Numeral": "DLXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "573",
+      "fields": {
+        "Roman Numeral": "DLXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "574",
+      "fields": {
+        "Roman Numeral": "DLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "575",
+      "fields": {
+        "Roman Numeral": "DLXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "576",
+      "fields": {
+        "Roman Numeral": "DLXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "577",
+      "fields": {
+        "Roman Numeral": "DLXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "578",
+      "fields": {
+        "Roman Numeral": "DLXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "579",
+      "fields": {
+        "Roman Numeral": "DLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "580",
+      "fields": {
+        "Roman Numeral": "DLXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "581",
+      "fields": {
+        "Roman Numeral": "DLXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "582",
+      "fields": {
+        "Roman Numeral": "DLXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "583",
+      "fields": {
+        "Roman Numeral": "DLXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "584",
+      "fields": {
+        "Roman Numeral": "DLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "585",
+      "fields": {
+        "Roman Numeral": "DLXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "586",
+      "fields": {
+        "Roman Numeral": "DLXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "587",
+      "fields": {
+        "Roman Numeral": "DLXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "588",
+      "fields": {
+        "Roman Numeral": "DLXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "589",
+      "fields": {
+        "Roman Numeral": "DLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "590",
+      "fields": {
+        "Roman Numeral": "DXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "591",
+      "fields": {
+        "Roman Numeral": "DXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "592",
+      "fields": {
+        "Roman Numeral": "DXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "593",
+      "fields": {
+        "Roman Numeral": "DXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "594",
+      "fields": {
+        "Roman Numeral": "DXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "595",
+      "fields": {
+        "Roman Numeral": "DXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "596",
+      "fields": {
+        "Roman Numeral": "DXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "597",
+      "fields": {
+        "Roman Numeral": "DXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "598",
+      "fields": {
+        "Roman Numeral": "DXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "599",
+      "fields": {
+        "Roman Numeral": "DXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "600",
+      "fields": {
+        "Roman Numeral": "DC",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "601",
+      "fields": {
+        "Roman Numeral": "DCI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "602",
+      "fields": {
+        "Roman Numeral": "DCII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "603",
+      "fields": {
+        "Roman Numeral": "DCIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "604",
+      "fields": {
+        "Roman Numeral": "DCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "605",
+      "fields": {
+        "Roman Numeral": "DCV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "606",
+      "fields": {
+        "Roman Numeral": "DCVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "607",
+      "fields": {
+        "Roman Numeral": "DCVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "608",
+      "fields": {
+        "Roman Numeral": "DCVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "609",
+      "fields": {
+        "Roman Numeral": "DCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "610",
+      "fields": {
+        "Roman Numeral": "DCX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "611",
+      "fields": {
+        "Roman Numeral": "DCXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "612",
+      "fields": {
+        "Roman Numeral": "DCXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "613",
+      "fields": {
+        "Roman Numeral": "DCXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "614",
+      "fields": {
+        "Roman Numeral": "DCXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "615",
+      "fields": {
+        "Roman Numeral": "DCXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "616",
+      "fields": {
+        "Roman Numeral": "DCXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "617",
+      "fields": {
+        "Roman Numeral": "DCXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "618",
+      "fields": {
+        "Roman Numeral": "DCXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "619",
+      "fields": {
+        "Roman Numeral": "DCXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "620",
+      "fields": {
+        "Roman Numeral": "DCXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "621",
+      "fields": {
+        "Roman Numeral": "DCXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "622",
+      "fields": {
+        "Roman Numeral": "DCXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "623",
+      "fields": {
+        "Roman Numeral": "DCXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "624",
+      "fields": {
+        "Roman Numeral": "DCXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "625",
+      "fields": {
+        "Roman Numeral": "DCXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "626",
+      "fields": {
+        "Roman Numeral": "DCXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "627",
+      "fields": {
+        "Roman Numeral": "DCXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "628",
+      "fields": {
+        "Roman Numeral": "DCXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "629",
+      "fields": {
+        "Roman Numeral": "DCXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "630",
+      "fields": {
+        "Roman Numeral": "DCXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "631",
+      "fields": {
+        "Roman Numeral": "DCXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "632",
+      "fields": {
+        "Roman Numeral": "DCXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "633",
+      "fields": {
+        "Roman Numeral": "DCXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "634",
+      "fields": {
+        "Roman Numeral": "DCXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "635",
+      "fields": {
+        "Roman Numeral": "DCXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "636",
+      "fields": {
+        "Roman Numeral": "DCXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "637",
+      "fields": {
+        "Roman Numeral": "DCXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "638",
+      "fields": {
+        "Roman Numeral": "DCXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "639",
+      "fields": {
+        "Roman Numeral": "DCXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "640",
+      "fields": {
+        "Roman Numeral": "DCXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "641",
+      "fields": {
+        "Roman Numeral": "DCXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "642",
+      "fields": {
+        "Roman Numeral": "DCXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "643",
+      "fields": {
+        "Roman Numeral": "DCXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "644",
+      "fields": {
+        "Roman Numeral": "DCXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "645",
+      "fields": {
+        "Roman Numeral": "DCXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "646",
+      "fields": {
+        "Roman Numeral": "DCXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "647",
+      "fields": {
+        "Roman Numeral": "DCXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "648",
+      "fields": {
+        "Roman Numeral": "DCXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "649",
+      "fields": {
+        "Roman Numeral": "DCXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "650",
+      "fields": {
+        "Roman Numeral": "DCL",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "651",
+      "fields": {
+        "Roman Numeral": "DCLI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "652",
+      "fields": {
+        "Roman Numeral": "DCLII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "653",
+      "fields": {
+        "Roman Numeral": "DCLIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "654",
+      "fields": {
+        "Roman Numeral": "DCLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "655",
+      "fields": {
+        "Roman Numeral": "DCLV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "656",
+      "fields": {
+        "Roman Numeral": "DCLVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "657",
+      "fields": {
+        "Roman Numeral": "DCLVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "658",
+      "fields": {
+        "Roman Numeral": "DCLVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "659",
+      "fields": {
+        "Roman Numeral": "DCLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "660",
+      "fields": {
+        "Roman Numeral": "DCLX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "661",
+      "fields": {
+        "Roman Numeral": "DCLXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "662",
+      "fields": {
+        "Roman Numeral": "DCLXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "663",
+      "fields": {
+        "Roman Numeral": "DCLXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "664",
+      "fields": {
+        "Roman Numeral": "DCLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "665",
+      "fields": {
+        "Roman Numeral": "DCLXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "666",
+      "fields": {
+        "Roman Numeral": "DCLXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "667",
+      "fields": {
+        "Roman Numeral": "DCLXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "668",
+      "fields": {
+        "Roman Numeral": "DCLXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "669",
+      "fields": {
+        "Roman Numeral": "DCLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "670",
+      "fields": {
+        "Roman Numeral": "DCLXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "671",
+      "fields": {
+        "Roman Numeral": "DCLXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "672",
+      "fields": {
+        "Roman Numeral": "DCLXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "673",
+      "fields": {
+        "Roman Numeral": "DCLXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "674",
+      "fields": {
+        "Roman Numeral": "DCLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "675",
+      "fields": {
+        "Roman Numeral": "DCLXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "676",
+      "fields": {
+        "Roman Numeral": "DCLXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "677",
+      "fields": {
+        "Roman Numeral": "DCLXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "678",
+      "fields": {
+        "Roman Numeral": "DCLXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "679",
+      "fields": {
+        "Roman Numeral": "DCLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "680",
+      "fields": {
+        "Roman Numeral": "DCLXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "681",
+      "fields": {
+        "Roman Numeral": "DCLXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "682",
+      "fields": {
+        "Roman Numeral": "DCLXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "683",
+      "fields": {
+        "Roman Numeral": "DCLXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "684",
+      "fields": {
+        "Roman Numeral": "DCLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "685",
+      "fields": {
+        "Roman Numeral": "DCLXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "686",
+      "fields": {
+        "Roman Numeral": "DCLXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "687",
+      "fields": {
+        "Roman Numeral": "DCLXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "688",
+      "fields": {
+        "Roman Numeral": "DCLXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "689",
+      "fields": {
+        "Roman Numeral": "DCLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "690",
+      "fields": {
+        "Roman Numeral": "DCXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "691",
+      "fields": {
+        "Roman Numeral": "DCXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "692",
+      "fields": {
+        "Roman Numeral": "DCXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "693",
+      "fields": {
+        "Roman Numeral": "DCXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "694",
+      "fields": {
+        "Roman Numeral": "DCXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "695",
+      "fields": {
+        "Roman Numeral": "DCXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "696",
+      "fields": {
+        "Roman Numeral": "DCXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "697",
+      "fields": {
+        "Roman Numeral": "DCXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "698",
+      "fields": {
+        "Roman Numeral": "DCXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "699",
+      "fields": {
+        "Roman Numeral": "DCXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "700",
+      "fields": {
+        "Roman Numeral": "DCC",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "701",
+      "fields": {
+        "Roman Numeral": "DCCI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "702",
+      "fields": {
+        "Roman Numeral": "DCCII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "703",
+      "fields": {
+        "Roman Numeral": "DCCIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "704",
+      "fields": {
+        "Roman Numeral": "DCCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "705",
+      "fields": {
+        "Roman Numeral": "DCCV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "706",
+      "fields": {
+        "Roman Numeral": "DCCVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "707",
+      "fields": {
+        "Roman Numeral": "DCCVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "708",
+      "fields": {
+        "Roman Numeral": "DCCVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "709",
+      "fields": {
+        "Roman Numeral": "DCCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "710",
+      "fields": {
+        "Roman Numeral": "DCCX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "711",
+      "fields": {
+        "Roman Numeral": "DCCXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "712",
+      "fields": {
+        "Roman Numeral": "DCCXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "713",
+      "fields": {
+        "Roman Numeral": "DCCXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "714",
+      "fields": {
+        "Roman Numeral": "DCCXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "715",
+      "fields": {
+        "Roman Numeral": "DCCXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "716",
+      "fields": {
+        "Roman Numeral": "DCCXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "717",
+      "fields": {
+        "Roman Numeral": "DCCXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "718",
+      "fields": {
+        "Roman Numeral": "DCCXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "719",
+      "fields": {
+        "Roman Numeral": "DCCXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "720",
+      "fields": {
+        "Roman Numeral": "DCCXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "721",
+      "fields": {
+        "Roman Numeral": "DCCXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "722",
+      "fields": {
+        "Roman Numeral": "DCCXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "723",
+      "fields": {
+        "Roman Numeral": "DCCXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "724",
+      "fields": {
+        "Roman Numeral": "DCCXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "725",
+      "fields": {
+        "Roman Numeral": "DCCXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "726",
+      "fields": {
+        "Roman Numeral": "DCCXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "727",
+      "fields": {
+        "Roman Numeral": "DCCXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "728",
+      "fields": {
+        "Roman Numeral": "DCCXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "729",
+      "fields": {
+        "Roman Numeral": "DCCXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "730",
+      "fields": {
+        "Roman Numeral": "DCCXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "731",
+      "fields": {
+        "Roman Numeral": "DCCXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "732",
+      "fields": {
+        "Roman Numeral": "DCCXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "733",
+      "fields": {
+        "Roman Numeral": "DCCXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "734",
+      "fields": {
+        "Roman Numeral": "DCCXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "735",
+      "fields": {
+        "Roman Numeral": "DCCXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "736",
+      "fields": {
+        "Roman Numeral": "DCCXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "737",
+      "fields": {
+        "Roman Numeral": "DCCXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "738",
+      "fields": {
+        "Roman Numeral": "DCCXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "739",
+      "fields": {
+        "Roman Numeral": "DCCXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "740",
+      "fields": {
+        "Roman Numeral": "DCCXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "741",
+      "fields": {
+        "Roman Numeral": "DCCXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "742",
+      "fields": {
+        "Roman Numeral": "DCCXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "743",
+      "fields": {
+        "Roman Numeral": "DCCXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "744",
+      "fields": {
+        "Roman Numeral": "DCCXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "745",
+      "fields": {
+        "Roman Numeral": "DCCXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "746",
+      "fields": {
+        "Roman Numeral": "DCCXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "747",
+      "fields": {
+        "Roman Numeral": "DCCXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "748",
+      "fields": {
+        "Roman Numeral": "DCCXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "749",
+      "fields": {
+        "Roman Numeral": "DCCXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "750",
+      "fields": {
+        "Roman Numeral": "DCCL",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "751",
+      "fields": {
+        "Roman Numeral": "DCCLI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "752",
+      "fields": {
+        "Roman Numeral": "DCCLII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "753",
+      "fields": {
+        "Roman Numeral": "DCCLIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "754",
+      "fields": {
+        "Roman Numeral": "DCCLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "755",
+      "fields": {
+        "Roman Numeral": "DCCLV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "756",
+      "fields": {
+        "Roman Numeral": "DCCLVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "757",
+      "fields": {
+        "Roman Numeral": "DCCLVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "758",
+      "fields": {
+        "Roman Numeral": "DCCLVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "759",
+      "fields": {
+        "Roman Numeral": "DCCLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "760",
+      "fields": {
+        "Roman Numeral": "DCCLX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "761",
+      "fields": {
+        "Roman Numeral": "DCCLXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "762",
+      "fields": {
+        "Roman Numeral": "DCCLXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "763",
+      "fields": {
+        "Roman Numeral": "DCCLXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "764",
+      "fields": {
+        "Roman Numeral": "DCCLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "765",
+      "fields": {
+        "Roman Numeral": "DCCLXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "766",
+      "fields": {
+        "Roman Numeral": "DCCLXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "767",
+      "fields": {
+        "Roman Numeral": "DCCLXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "768",
+      "fields": {
+        "Roman Numeral": "DCCLXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "769",
+      "fields": {
+        "Roman Numeral": "DCCLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "770",
+      "fields": {
+        "Roman Numeral": "DCCLXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "771",
+      "fields": {
+        "Roman Numeral": "DCCLXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "772",
+      "fields": {
+        "Roman Numeral": "DCCLXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "773",
+      "fields": {
+        "Roman Numeral": "DCCLXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "774",
+      "fields": {
+        "Roman Numeral": "DCCLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "775",
+      "fields": {
+        "Roman Numeral": "DCCLXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "776",
+      "fields": {
+        "Roman Numeral": "DCCLXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "777",
+      "fields": {
+        "Roman Numeral": "DCCLXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "778",
+      "fields": {
+        "Roman Numeral": "DCCLXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "779",
+      "fields": {
+        "Roman Numeral": "DCCLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "780",
+      "fields": {
+        "Roman Numeral": "DCCLXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "781",
+      "fields": {
+        "Roman Numeral": "DCCLXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "782",
+      "fields": {
+        "Roman Numeral": "DCCLXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "783",
+      "fields": {
+        "Roman Numeral": "DCCLXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "784",
+      "fields": {
+        "Roman Numeral": "DCCLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "785",
+      "fields": {
+        "Roman Numeral": "DCCLXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "786",
+      "fields": {
+        "Roman Numeral": "DCCLXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "787",
+      "fields": {
+        "Roman Numeral": "DCCLXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "788",
+      "fields": {
+        "Roman Numeral": "DCCLXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "789",
+      "fields": {
+        "Roman Numeral": "DCCLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "790",
+      "fields": {
+        "Roman Numeral": "DCCXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "791",
+      "fields": {
+        "Roman Numeral": "DCCXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "792",
+      "fields": {
+        "Roman Numeral": "DCCXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "793",
+      "fields": {
+        "Roman Numeral": "DCCXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "794",
+      "fields": {
+        "Roman Numeral": "DCCXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "795",
+      "fields": {
+        "Roman Numeral": "DCCXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "796",
+      "fields": {
+        "Roman Numeral": "DCCXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "797",
+      "fields": {
+        "Roman Numeral": "DCCXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "798",
+      "fields": {
+        "Roman Numeral": "DCCXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "799",
+      "fields": {
+        "Roman Numeral": "DCCXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "800",
+      "fields": {
+        "Roman Numeral": "DCCC",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "801",
+      "fields": {
+        "Roman Numeral": "DCCCI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "802",
+      "fields": {
+        "Roman Numeral": "DCCCII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "803",
+      "fields": {
+        "Roman Numeral": "DCCCIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "804",
+      "fields": {
+        "Roman Numeral": "DCCCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "805",
+      "fields": {
+        "Roman Numeral": "DCCCV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "806",
+      "fields": {
+        "Roman Numeral": "DCCCVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "807",
+      "fields": {
+        "Roman Numeral": "DCCCVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "808",
+      "fields": {
+        "Roman Numeral": "DCCCVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "809",
+      "fields": {
+        "Roman Numeral": "DCCCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "810",
+      "fields": {
+        "Roman Numeral": "DCCCX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "811",
+      "fields": {
+        "Roman Numeral": "DCCCXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "812",
+      "fields": {
+        "Roman Numeral": "DCCCXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "813",
+      "fields": {
+        "Roman Numeral": "DCCCXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "814",
+      "fields": {
+        "Roman Numeral": "DCCCXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "815",
+      "fields": {
+        "Roman Numeral": "DCCCXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "816",
+      "fields": {
+        "Roman Numeral": "DCCCXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "817",
+      "fields": {
+        "Roman Numeral": "DCCCXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "818",
+      "fields": {
+        "Roman Numeral": "DCCCXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "819",
+      "fields": {
+        "Roman Numeral": "DCCCXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "820",
+      "fields": {
+        "Roman Numeral": "DCCCXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "821",
+      "fields": {
+        "Roman Numeral": "DCCCXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "822",
+      "fields": {
+        "Roman Numeral": "DCCCXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "823",
+      "fields": {
+        "Roman Numeral": "DCCCXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "824",
+      "fields": {
+        "Roman Numeral": "DCCCXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "825",
+      "fields": {
+        "Roman Numeral": "DCCCXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "826",
+      "fields": {
+        "Roman Numeral": "DCCCXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "827",
+      "fields": {
+        "Roman Numeral": "DCCCXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "828",
+      "fields": {
+        "Roman Numeral": "DCCCXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "829",
+      "fields": {
+        "Roman Numeral": "DCCCXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "830",
+      "fields": {
+        "Roman Numeral": "DCCCXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "831",
+      "fields": {
+        "Roman Numeral": "DCCCXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "832",
+      "fields": {
+        "Roman Numeral": "DCCCXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "833",
+      "fields": {
+        "Roman Numeral": "DCCCXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "834",
+      "fields": {
+        "Roman Numeral": "DCCCXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "835",
+      "fields": {
+        "Roman Numeral": "DCCCXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "836",
+      "fields": {
+        "Roman Numeral": "DCCCXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "837",
+      "fields": {
+        "Roman Numeral": "DCCCXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "838",
+      "fields": {
+        "Roman Numeral": "DCCCXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "839",
+      "fields": {
+        "Roman Numeral": "DCCCXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "840",
+      "fields": {
+        "Roman Numeral": "DCCCXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "841",
+      "fields": {
+        "Roman Numeral": "DCCCXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "842",
+      "fields": {
+        "Roman Numeral": "DCCCXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "843",
+      "fields": {
+        "Roman Numeral": "DCCCXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "844",
+      "fields": {
+        "Roman Numeral": "DCCCXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "845",
+      "fields": {
+        "Roman Numeral": "DCCCXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "846",
+      "fields": {
+        "Roman Numeral": "DCCCXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "847",
+      "fields": {
+        "Roman Numeral": "DCCCXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "848",
+      "fields": {
+        "Roman Numeral": "DCCCXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "849",
+      "fields": {
+        "Roman Numeral": "DCCCXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "850",
+      "fields": {
+        "Roman Numeral": "DCCCL",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "851",
+      "fields": {
+        "Roman Numeral": "DCCCLI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "852",
+      "fields": {
+        "Roman Numeral": "DCCCLII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "853",
+      "fields": {
+        "Roman Numeral": "DCCCLIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "854",
+      "fields": {
+        "Roman Numeral": "DCCCLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "855",
+      "fields": {
+        "Roman Numeral": "DCCCLV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "856",
+      "fields": {
+        "Roman Numeral": "DCCCLVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "857",
+      "fields": {
+        "Roman Numeral": "DCCCLVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "858",
+      "fields": {
+        "Roman Numeral": "DCCCLVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "859",
+      "fields": {
+        "Roman Numeral": "DCCCLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "860",
+      "fields": {
+        "Roman Numeral": "DCCCLX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "861",
+      "fields": {
+        "Roman Numeral": "DCCCLXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "862",
+      "fields": {
+        "Roman Numeral": "DCCCLXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "863",
+      "fields": {
+        "Roman Numeral": "DCCCLXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "864",
+      "fields": {
+        "Roman Numeral": "DCCCLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "865",
+      "fields": {
+        "Roman Numeral": "DCCCLXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "866",
+      "fields": {
+        "Roman Numeral": "DCCCLXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "867",
+      "fields": {
+        "Roman Numeral": "DCCCLXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "868",
+      "fields": {
+        "Roman Numeral": "DCCCLXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "869",
+      "fields": {
+        "Roman Numeral": "DCCCLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "870",
+      "fields": {
+        "Roman Numeral": "DCCCLXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "871",
+      "fields": {
+        "Roman Numeral": "DCCCLXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "872",
+      "fields": {
+        "Roman Numeral": "DCCCLXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "873",
+      "fields": {
+        "Roman Numeral": "DCCCLXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "874",
+      "fields": {
+        "Roman Numeral": "DCCCLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "875",
+      "fields": {
+        "Roman Numeral": "DCCCLXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "876",
+      "fields": {
+        "Roman Numeral": "DCCCLXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "877",
+      "fields": {
+        "Roman Numeral": "DCCCLXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "878",
+      "fields": {
+        "Roman Numeral": "DCCCLXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "879",
+      "fields": {
+        "Roman Numeral": "DCCCLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "880",
+      "fields": {
+        "Roman Numeral": "DCCCLXXX",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "881",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "882",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "883",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "884",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "885",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXV",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "886",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXVI",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "887",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXVII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "888",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXVIII",
+        "Method": "Additive"
+      }
+    },
+    {
+      "title": "889",
+      "fields": {
+        "Roman Numeral": "DCCCLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "890",
+      "fields": {
+        "Roman Numeral": "DCCCXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "891",
+      "fields": {
+        "Roman Numeral": "DCCCXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "892",
+      "fields": {
+        "Roman Numeral": "DCCCXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "893",
+      "fields": {
+        "Roman Numeral": "DCCCXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "894",
+      "fields": {
+        "Roman Numeral": "DCCCXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "895",
+      "fields": {
+        "Roman Numeral": "DCCCXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "896",
+      "fields": {
+        "Roman Numeral": "DCCCXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "897",
+      "fields": {
+        "Roman Numeral": "DCCCXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "898",
+      "fields": {
+        "Roman Numeral": "DCCCXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "899",
+      "fields": {
+        "Roman Numeral": "DCCCXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "900",
+      "fields": {
+        "Roman Numeral": "CM",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "901",
+      "fields": {
+        "Roman Numeral": "CMI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "902",
+      "fields": {
+        "Roman Numeral": "CMII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "903",
+      "fields": {
+        "Roman Numeral": "CMIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "904",
+      "fields": {
+        "Roman Numeral": "CMIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "905",
+      "fields": {
+        "Roman Numeral": "CMV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "906",
+      "fields": {
+        "Roman Numeral": "CMVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "907",
+      "fields": {
+        "Roman Numeral": "CMVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "908",
+      "fields": {
+        "Roman Numeral": "CMVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "909",
+      "fields": {
+        "Roman Numeral": "CMIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "910",
+      "fields": {
+        "Roman Numeral": "CMX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "911",
+      "fields": {
+        "Roman Numeral": "CMXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "912",
+      "fields": {
+        "Roman Numeral": "CMXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "913",
+      "fields": {
+        "Roman Numeral": "CMXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "914",
+      "fields": {
+        "Roman Numeral": "CMXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "915",
+      "fields": {
+        "Roman Numeral": "CMXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "916",
+      "fields": {
+        "Roman Numeral": "CMXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "917",
+      "fields": {
+        "Roman Numeral": "CMXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "918",
+      "fields": {
+        "Roman Numeral": "CMXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "919",
+      "fields": {
+        "Roman Numeral": "CMXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "920",
+      "fields": {
+        "Roman Numeral": "CMXX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "921",
+      "fields": {
+        "Roman Numeral": "CMXXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "922",
+      "fields": {
+        "Roman Numeral": "CMXXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "923",
+      "fields": {
+        "Roman Numeral": "CMXXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "924",
+      "fields": {
+        "Roman Numeral": "CMXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "925",
+      "fields": {
+        "Roman Numeral": "CMXXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "926",
+      "fields": {
+        "Roman Numeral": "CMXXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "927",
+      "fields": {
+        "Roman Numeral": "CMXXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "928",
+      "fields": {
+        "Roman Numeral": "CMXXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "929",
+      "fields": {
+        "Roman Numeral": "CMXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "930",
+      "fields": {
+        "Roman Numeral": "CMXXX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "931",
+      "fields": {
+        "Roman Numeral": "CMXXXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "932",
+      "fields": {
+        "Roman Numeral": "CMXXXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "933",
+      "fields": {
+        "Roman Numeral": "CMXXXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "934",
+      "fields": {
+        "Roman Numeral": "CMXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "935",
+      "fields": {
+        "Roman Numeral": "CMXXXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "936",
+      "fields": {
+        "Roman Numeral": "CMXXXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "937",
+      "fields": {
+        "Roman Numeral": "CMXXXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "938",
+      "fields": {
+        "Roman Numeral": "CMXXXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "939",
+      "fields": {
+        "Roman Numeral": "CMXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "940",
+      "fields": {
+        "Roman Numeral": "CMXL",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "941",
+      "fields": {
+        "Roman Numeral": "CMXLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "942",
+      "fields": {
+        "Roman Numeral": "CMXLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "943",
+      "fields": {
+        "Roman Numeral": "CMXLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "944",
+      "fields": {
+        "Roman Numeral": "CMXLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "945",
+      "fields": {
+        "Roman Numeral": "CMXLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "946",
+      "fields": {
+        "Roman Numeral": "CMXLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "947",
+      "fields": {
+        "Roman Numeral": "CMXLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "948",
+      "fields": {
+        "Roman Numeral": "CMXLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "949",
+      "fields": {
+        "Roman Numeral": "CMXLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "950",
+      "fields": {
+        "Roman Numeral": "CML",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "951",
+      "fields": {
+        "Roman Numeral": "CMLI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "952",
+      "fields": {
+        "Roman Numeral": "CMLII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "953",
+      "fields": {
+        "Roman Numeral": "CMLIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "954",
+      "fields": {
+        "Roman Numeral": "CMLIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "955",
+      "fields": {
+        "Roman Numeral": "CMLV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "956",
+      "fields": {
+        "Roman Numeral": "CMLVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "957",
+      "fields": {
+        "Roman Numeral": "CMLVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "958",
+      "fields": {
+        "Roman Numeral": "CMLVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "959",
+      "fields": {
+        "Roman Numeral": "CMLIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "960",
+      "fields": {
+        "Roman Numeral": "CMLX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "961",
+      "fields": {
+        "Roman Numeral": "CMLXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "962",
+      "fields": {
+        "Roman Numeral": "CMLXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "963",
+      "fields": {
+        "Roman Numeral": "CMLXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "964",
+      "fields": {
+        "Roman Numeral": "CMLXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "965",
+      "fields": {
+        "Roman Numeral": "CMLXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "966",
+      "fields": {
+        "Roman Numeral": "CMLXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "967",
+      "fields": {
+        "Roman Numeral": "CMLXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "968",
+      "fields": {
+        "Roman Numeral": "CMLXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "969",
+      "fields": {
+        "Roman Numeral": "CMLXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "970",
+      "fields": {
+        "Roman Numeral": "CMLXX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "971",
+      "fields": {
+        "Roman Numeral": "CMLXXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "972",
+      "fields": {
+        "Roman Numeral": "CMLXXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "973",
+      "fields": {
+        "Roman Numeral": "CMLXXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "974",
+      "fields": {
+        "Roman Numeral": "CMLXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "975",
+      "fields": {
+        "Roman Numeral": "CMLXXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "976",
+      "fields": {
+        "Roman Numeral": "CMLXXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "977",
+      "fields": {
+        "Roman Numeral": "CMLXXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "978",
+      "fields": {
+        "Roman Numeral": "CMLXXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "979",
+      "fields": {
+        "Roman Numeral": "CMLXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "980",
+      "fields": {
+        "Roman Numeral": "CMLXXX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "981",
+      "fields": {
+        "Roman Numeral": "CMLXXXI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "982",
+      "fields": {
+        "Roman Numeral": "CMLXXXII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "983",
+      "fields": {
+        "Roman Numeral": "CMLXXXIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "984",
+      "fields": {
+        "Roman Numeral": "CMLXXXIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "985",
+      "fields": {
+        "Roman Numeral": "CMLXXXV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "986",
+      "fields": {
+        "Roman Numeral": "CMLXXXVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "987",
+      "fields": {
+        "Roman Numeral": "CMLXXXVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "988",
+      "fields": {
+        "Roman Numeral": "CMLXXXVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "989",
+      "fields": {
+        "Roman Numeral": "CMLXXXIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "990",
+      "fields": {
+        "Roman Numeral": "CMXC",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "991",
+      "fields": {
+        "Roman Numeral": "CMXCI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "992",
+      "fields": {
+        "Roman Numeral": "CMXCII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "993",
+      "fields": {
+        "Roman Numeral": "CMXCIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "994",
+      "fields": {
+        "Roman Numeral": "CMXCIV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "995",
+      "fields": {
+        "Roman Numeral": "CMXCV",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "996",
+      "fields": {
+        "Roman Numeral": "CMXCVI",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "997",
+      "fields": {
+        "Roman Numeral": "CMXCVII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "998",
+      "fields": {
+        "Roman Numeral": "CMXCVIII",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "999",
+      "fields": {
+        "Roman Numeral": "CMXCIX",
+        "Method": "Subtractive"
+      }
+    },
+    {
+      "title": "1000",
+      "fields": {
+        "Roman Numeral": "M",
+        "Method": "Additive"
+      }
+    }
+  ]
+}

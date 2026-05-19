@@ -1,0 +1,236 @@
+{
+  "deck_name": "Powers of 2",
+  "cards": [
+    {
+      "title": "2^0",
+      "fields": {
+        "Exponent": "0",
+        "Value": "1",
+        "Hexadecimal": "0x1",
+        "Is Power of 8": "Yes",
+        "Is Power of 16": "Yes",
+        "Common Use": "Bit; binary zero or one"
+      }
+    },
+    {
+      "title": "2^1",
+      "fields": {
+        "Exponent": "1",
+        "Value": "2",
+        "Hexadecimal": "0x2",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "Two states; binary digit pair"
+      }
+    },
+    {
+      "title": "2^2",
+      "fields": {
+        "Exponent": "2",
+        "Value": "4",
+        "Hexadecimal": "0x4",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "Four values; 2-bit color depth"
+      }
+    },
+    {
+      "title": "2^3",
+      "fields": {
+        "Exponent": "3",
+        "Value": "8",
+        "Hexadecimal": "0x8",
+        "Is Power of 8": "Yes",
+        "Is Power of 16": "No",
+        "Common Use": "Eight values; 3-bit audio; one byte = 8 bits"
+      }
+    },
+    {
+      "title": "2^4",
+      "fields": {
+        "Exponent": "4",
+        "Value": "16",
+        "Hexadecimal": "0x10",
+        "Is Power of 8": "No",
+        "Is Power of 16": "Yes",
+        "Common Use": "Sixteen values; nibble (half-byte); one hex digit"
+      }
+    },
+    {
+      "title": "2^5",
+      "fields": {
+        "Exponent": "5",
+        "Value": "32",
+        "Hexadecimal": "0x20",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "Thirty-two values; IPv6 subnet prefix common size"
+      }
+    },
+    {
+      "title": "2^6",
+      "fields": {
+        "Exponent": "6",
+        "Value": "64",
+        "Hexadecimal": "0x40",
+        "Is Power of 8": "Yes",
+        "Is Power of 16": "No",
+        "Common Use": "Sixty-four values; ASCII lowercase range offset"
+      }
+    },
+    {
+      "title": "2^7",
+      "fields": {
+        "Exponent": "7",
+        "Value": "128",
+        "Hexadecimal": "0x80",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "128 values; half the range of an unsigned byte"
+      }
+    },
+    {
+      "title": "2^8",
+      "fields": {
+        "Exponent": "8",
+        "Value": "256",
+        "Hexadecimal": "0x100",
+        "Is Power of 8": "No",
+        "Is Power of 16": "Yes",
+        "Common Use": "256 values; 1 byte; uint8 range 0–255; 8-bit color channel"
+      }
+    },
+    {
+      "title": "2^9",
+      "fields": {
+        "Exponent": "9",
+        "Value": "512",
+        "Hexadecimal": "0x200",
+        "Is Power of 8": "Yes",
+        "Is Power of 16": "No",
+        "Common Use": "512; early disk sector size multiples"
+      }
+    },
+    {
+      "title": "2^10",
+      "fields": {
+        "Exponent": "10",
+        "Value": "1024",
+        "Hexadecimal": "0x400",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "1,024 ≈ 1 thousand; 1 Kibibyte (KiB)"
+      }
+    },
+    {
+      "title": "2^11",
+      "fields": {
+        "Exponent": "11",
+        "Value": "2048",
+        "Hexadecimal": "0x800",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "2,048; common RAID stripe unit"
+      }
+    },
+    {
+      "title": "2^12",
+      "fields": {
+        "Exponent": "12",
+        "Value": "4096",
+        "Hexadecimal": "0x1000",
+        "Is Power of 8": "Yes",
+        "Is Power of 16": "Yes",
+        "Common Use": "4,096; standard memory page size; typical file-system block"
+      }
+    },
+    {
+      "title": "2^13",
+      "fields": {
+        "Exponent": "13",
+        "Value": "8192",
+        "Hexadecimal": "0x2000",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "8,192; common TCP receive window default"
+      }
+    },
+    {
+      "title": "2^14",
+      "fields": {
+        "Exponent": "14",
+        "Value": "16384",
+        "Hexadecimal": "0x4000",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "16,384; common image tile size"
+      }
+    },
+    {
+      "title": "2^15",
+      "fields": {
+        "Exponent": "15",
+        "Value": "32768",
+        "Hexadecimal": "0x8000",
+        "Is Power of 8": "Yes",
+        "Is Power of 16": "No",
+        "Common Use": "32,768; uint15 max + 1; common SRAM chip size"
+      }
+    },
+    {
+      "title": "2^16",
+      "fields": {
+        "Exponent": "16",
+        "Value": "65536",
+        "Hexadecimal": "0x10000",
+        "Is Power of 8": "No",
+        "Is Power of 16": "Yes",
+        "Common Use": "65,536; uint16 max + 1; total IPv4 port range (0–65535)"
+      }
+    },
+    {
+      "title": "2^17",
+      "fields": {
+        "Exponent": "17",
+        "Value": "131072",
+        "Hexadecimal": "0x20000",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "131,072; some CPU L1 cache configurations"
+      }
+    },
+    {
+      "title": "2^18",
+      "fields": {
+        "Exponent": "18",
+        "Value": "262144",
+        "Hexadecimal": "0x40000",
+        "Is Power of 8": "Yes",
+        "Is Power of 16": "No",
+        "Common Use": "262,144; common file I/O buffer size"
+      }
+    },
+    {
+      "title": "2^19",
+      "fields": {
+        "Exponent": "19",
+        "Value": "524288",
+        "Hexadecimal": "0x80000",
+        "Is Power of 8": "No",
+        "Is Power of 16": "No",
+        "Common Use": "524,288; half a Mebibyte"
+      }
+    },
+    {
+      "title": "2^20",
+      "fields": {
+        "Exponent": "20",
+        "Value": "1048576",
+        "Hexadecimal": "0x100000",
+        "Is Power of 8": "No",
+        "Is Power of 16": "Yes",
+        "Common Use": "1,048,576 ≈ 1 million; 1 Mebibyte (MiB)"
+      }
+    }
+  ]
+}

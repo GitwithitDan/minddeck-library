@@ -1,0 +1,101 @@
+{
+  "deck_name": "Months of the Year",
+  "cards": [
+    {
+      "title": "January",
+      "fields": {
+        "Month Number": "1",
+        "Days (Standard Year)": "31",
+        "Days (Leap Year)": "31"
+      }
+    },
+    {
+      "title": "February",
+      "fields": {
+        "Month Number": "2",
+        "Days (Standard Year)": "28",
+        "Days (Leap Year)": "29"
+      }
+    },
+    {
+      "title": "March",
+      "fields": {
+        "Month Number": "3",
+        "Days (Standard Year)": "31",
+        "Days (Leap Year)": "31"
+      }
+    },
+    {
+      "title": "April",
+      "fields": {
+        "Month Number": "4",
+        "Days (Standard Year)": "30",
+        "Days (Leap Year)": "30"
+      }
+    },
+    {
+      "title": "May",
+      "fields": {
+        "Month Number": "5",
+        "Days (Standard Year)": "31",
+        "Days (Leap Year)": "31"
+      }
+    },
+    {
+      "title": "June",
+      "fields": {
+        "Month Number": "6",
+        "Days (Standard Year)": "30",
+        "Days (Leap Year)": "30"
+      }
+    },
+    {
+      "title": "July",
+      "fields": {
+        "Month Number": "7",
+        "Days (Standard Year)": "31",
+        "Days (Leap Year)": "31"
+      }
+    },
+    {
+      "title": "August",
+      "fields": {
+        "Month Number": "8",
+        "Days (Standard Year)": "31",
+        "Days (Leap Year)": "31"
+      }
+    },
+    {
+      "title": "September",
+      "fields": {
+        "Month Number": "9",
+        "Days (Standard Year)": "30",
+        "Days (Leap Year)": "30"
+      }
+    },
+    {
+      "title": "October",
+      "fields": {
+        "Month Number": "10",
+        "Days (Standard Year)": "31",
+        "Days (Leap Year)": "31"
+      }
+    },
+    {
+      "title": "November",
+      "fields": {
+        "Month Number": "11",
+        "Days (Standard Year)": "30",
+        "Days (Leap Year)": "30"
+      }
+    },
+    {
+      "title": "December",
+      "fields": {
+        "Month Number": "12",
+        "Days (Standard Year)": "31",
+        "Days (Leap Year)": "31"
+      }
+    }
+  ]
+}

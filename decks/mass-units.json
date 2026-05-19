@@ -1,0 +1,140 @@
+{
+  "deck_name": "Mass & Weight Unit Conversions",
+  "cards": [
+    {
+      "title": "Milligram",
+      "fields": {
+        "Symbol": "mg",
+        "Milligram": "1",
+        "Gram": "0.001",
+        "Ounce": "3.527396e-05",
+        "Troy Ounce": "3.215075e-05",
+        "Pound": "2.204623e-06",
+        "Kilogram": "1.000000e-06",
+        "Stone": "1.574730e-07",
+        "US Short Ton": "1.102311e-09",
+        "Metric Ton": "1.000000e-09"
+      }
+    },
+    {
+      "title": "Gram",
+      "fields": {
+        "Symbol": "g",
+        "Milligram": "1000",
+        "Gram": "1",
+        "Ounce": "0.035273962",
+        "Troy Ounce": "0.032150747",
+        "Pound": "0.0022046226",
+        "Kilogram": "0.001",
+        "Stone": "0.00015747304",
+        "US Short Ton": "1.102311e-06",
+        "Metric Ton": "1.000000e-06"
+      }
+    },
+    {
+      "title": "Ounce",
+      "fields": {
+        "Symbol": "oz",
+        "Milligram": "28349.523",
+        "Gram": "28.349523",
+        "Ounce": "1",
+        "Troy Ounce": "0.91145833",
+        "Pound": "0.0625",
+        "Kilogram": "0.028349523",
+        "Stone": "0.0044642857",
+        "US Short Ton": "3.125000e-05",
+        "Metric Ton": "2.834952e-05"
+      }
+    },
+    {
+      "title": "Troy Ounce",
+      "fields": {
+        "Symbol": "oz t",
+        "Milligram": "31103.477",
+        "Gram": "31.103477",
+        "Ounce": "1.0971429",
+        "Troy Ounce": "1",
+        "Pound": "0.068571429",
+        "Kilogram": "0.031103477",
+        "Stone": "0.0048979592",
+        "US Short Ton": "3.428571e-05",
+        "Metric Ton": "3.110348e-05"
+      }
+    },
+    {
+      "title": "Pound",
+      "fields": {
+        "Symbol": "lb",
+        "Milligram": "453592.37",
+        "Gram": "453.59237",
+        "Ounce": "16",
+        "Troy Ounce": "14.583333",
+        "Pound": "1",
+        "Kilogram": "0.45359237",
+        "Stone": "0.071428571",
+        "US Short Ton": "0.0005",
+        "Metric Ton": "0.00045359237"
+      }
+    },
+    {
+      "title": "Kilogram",
+      "fields": {
+        "Symbol": "kg",
+        "Milligram": "1000000",
+        "Gram": "1000",
+        "Ounce": "35.273962",
+        "Troy Ounce": "32.150747",
+        "Pound": "2.2046226",
+        "Kilogram": "1",
+        "Stone": "0.15747304",
+        "US Short Ton": "0.0011023113",
+        "Metric Ton": "0.001"
+      }
+    },
+    {
+      "title": "Stone",
+      "fields": {
+        "Symbol": "st",
+        "Milligram": "6350293.2",
+        "Gram": "6350.2932",
+        "Ounce": "224",
+        "Troy Ounce": "204.16667",
+        "Pound": "14",
+        "Kilogram": "6.3502932",
+        "Stone": "1",
+        "US Short Ton": "0.007",
+        "Metric Ton": "0.0063502932"
+      }
+    },
+    {
+      "title": "US Short Ton",
+      "fields": {
+        "Symbol": "ton",
+        "Milligram": "9.071847e+08",
+        "Gram": "907184.74",
+        "Ounce": "32000",
+        "Troy Ounce": "29166.667",
+        "Pound": "2000",
+        "Kilogram": "907.18474",
+        "Stone": "142.85714",
+        "US Short Ton": "1",
+        "Metric Ton": "0.90718474"
+      }
+    },
+    {
+      "title": "Metric Ton",
+      "fields": {
+        "Symbol": "t",
+        "Milligram": "1.000000e+09",
+        "Gram": "1000000",
+        "Ounce": "35273.962",
+        "Troy Ounce": "32150.747",
+        "Pound": "2204.6226",
+        "Kilogram": "1000",
+        "Stone": "157.47304",
+        "US Short Ton": "1.1023113",
+        "Metric Ton": "1"
+      }
+    }
+  ]
+}

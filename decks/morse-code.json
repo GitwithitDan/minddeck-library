@@ -1,0 +1,754 @@
+{
+  "deck_name": "Morse Code",
+  "cards": [
+    {
+      "title": "A",
+      "fields": {
+        "Morse Code": ".-",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "1",
+        "Symbol Count": "2",
+        "Intra-Character Gaps (1 unit each)": "1",
+        "Symbol Units Total": "4",
+        "Total Transmission Units": "5"
+      }
+    },
+    {
+      "title": "B",
+      "fields": {
+        "Morse Code": "-...",
+        "Category": "Letter",
+        "Dit Count": "3",
+        "Dah Count": "1",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "6",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "C",
+      "fields": {
+        "Morse Code": "-.-.",
+        "Category": "Letter",
+        "Dit Count": "2",
+        "Dah Count": "2",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "8",
+        "Total Transmission Units": "11"
+      }
+    },
+    {
+      "title": "D",
+      "fields": {
+        "Morse Code": "-..",
+        "Category": "Letter",
+        "Dit Count": "2",
+        "Dah Count": "1",
+        "Symbol Count": "3",
+        "Intra-Character Gaps (1 unit each)": "2",
+        "Symbol Units Total": "5",
+        "Total Transmission Units": "7"
+      }
+    },
+    {
+      "title": "E",
+      "fields": {
+        "Morse Code": ".",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "0",
+        "Symbol Count": "1",
+        "Intra-Character Gaps (1 unit each)": "0",
+        "Symbol Units Total": "1",
+        "Total Transmission Units": "1"
+      }
+    },
+    {
+      "title": "F",
+      "fields": {
+        "Morse Code": "..-.",
+        "Category": "Letter",
+        "Dit Count": "3",
+        "Dah Count": "1",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "6",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "G",
+      "fields": {
+        "Morse Code": "--.",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "2",
+        "Symbol Count": "3",
+        "Intra-Character Gaps (1 unit each)": "2",
+        "Symbol Units Total": "7",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "H",
+      "fields": {
+        "Morse Code": "....",
+        "Category": "Letter",
+        "Dit Count": "4",
+        "Dah Count": "0",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "4",
+        "Total Transmission Units": "7"
+      }
+    },
+    {
+      "title": "I",
+      "fields": {
+        "Morse Code": "..",
+        "Category": "Letter",
+        "Dit Count": "2",
+        "Dah Count": "0",
+        "Symbol Count": "2",
+        "Intra-Character Gaps (1 unit each)": "1",
+        "Symbol Units Total": "2",
+        "Total Transmission Units": "3"
+      }
+    },
+    {
+      "title": "J",
+      "fields": {
+        "Morse Code": ".---",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "3",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "10",
+        "Total Transmission Units": "13"
+      }
+    },
+    {
+      "title": "K",
+      "fields": {
+        "Morse Code": "-.-",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "2",
+        "Symbol Count": "3",
+        "Intra-Character Gaps (1 unit each)": "2",
+        "Symbol Units Total": "7",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "L",
+      "fields": {
+        "Morse Code": ".-..",
+        "Category": "Letter",
+        "Dit Count": "3",
+        "Dah Count": "1",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "6",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "M",
+      "fields": {
+        "Morse Code": "--",
+        "Category": "Letter",
+        "Dit Count": "0",
+        "Dah Count": "2",
+        "Symbol Count": "2",
+        "Intra-Character Gaps (1 unit each)": "1",
+        "Symbol Units Total": "6",
+        "Total Transmission Units": "7"
+      }
+    },
+    {
+      "title": "N",
+      "fields": {
+        "Morse Code": "-.",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "1",
+        "Symbol Count": "2",
+        "Intra-Character Gaps (1 unit each)": "1",
+        "Symbol Units Total": "4",
+        "Total Transmission Units": "5"
+      }
+    },
+    {
+      "title": "O",
+      "fields": {
+        "Morse Code": "---",
+        "Category": "Letter",
+        "Dit Count": "0",
+        "Dah Count": "3",
+        "Symbol Count": "3",
+        "Intra-Character Gaps (1 unit each)": "2",
+        "Symbol Units Total": "9",
+        "Total Transmission Units": "11"
+      }
+    },
+    {
+      "title": "P",
+      "fields": {
+        "Morse Code": ".--.",
+        "Category": "Letter",
+        "Dit Count": "2",
+        "Dah Count": "2",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "8",
+        "Total Transmission Units": "11"
+      }
+    },
+    {
+      "title": "Q",
+      "fields": {
+        "Morse Code": "--.-",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "3",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "10",
+        "Total Transmission Units": "13"
+      }
+    },
+    {
+      "title": "R",
+      "fields": {
+        "Morse Code": ".-.",
+        "Category": "Letter",
+        "Dit Count": "2",
+        "Dah Count": "1",
+        "Symbol Count": "3",
+        "Intra-Character Gaps (1 unit each)": "2",
+        "Symbol Units Total": "5",
+        "Total Transmission Units": "7"
+      }
+    },
+    {
+      "title": "S",
+      "fields": {
+        "Morse Code": "...",
+        "Category": "Letter",
+        "Dit Count": "3",
+        "Dah Count": "0",
+        "Symbol Count": "3",
+        "Intra-Character Gaps (1 unit each)": "2",
+        "Symbol Units Total": "3",
+        "Total Transmission Units": "5"
+      }
+    },
+    {
+      "title": "T",
+      "fields": {
+        "Morse Code": "-",
+        "Category": "Letter",
+        "Dit Count": "0",
+        "Dah Count": "1",
+        "Symbol Count": "1",
+        "Intra-Character Gaps (1 unit each)": "0",
+        "Symbol Units Total": "3",
+        "Total Transmission Units": "3"
+      }
+    },
+    {
+      "title": "U",
+      "fields": {
+        "Morse Code": "..-",
+        "Category": "Letter",
+        "Dit Count": "2",
+        "Dah Count": "1",
+        "Symbol Count": "3",
+        "Intra-Character Gaps (1 unit each)": "2",
+        "Symbol Units Total": "5",
+        "Total Transmission Units": "7"
+      }
+    },
+    {
+      "title": "V",
+      "fields": {
+        "Morse Code": "...-",
+        "Category": "Letter",
+        "Dit Count": "3",
+        "Dah Count": "1",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "6",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "W",
+      "fields": {
+        "Morse Code": ".--",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "2",
+        "Symbol Count": "3",
+        "Intra-Character Gaps (1 unit each)": "2",
+        "Symbol Units Total": "7",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "X",
+      "fields": {
+        "Morse Code": "-..-",
+        "Category": "Letter",
+        "Dit Count": "2",
+        "Dah Count": "2",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "8",
+        "Total Transmission Units": "11"
+      }
+    },
+    {
+      "title": "Y",
+      "fields": {
+        "Morse Code": "-.--",
+        "Category": "Letter",
+        "Dit Count": "1",
+        "Dah Count": "3",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "10",
+        "Total Transmission Units": "13"
+      }
+    },
+    {
+      "title": "Z",
+      "fields": {
+        "Morse Code": "--..",
+        "Category": "Letter",
+        "Dit Count": "2",
+        "Dah Count": "2",
+        "Symbol Count": "4",
+        "Intra-Character Gaps (1 unit each)": "3",
+        "Symbol Units Total": "8",
+        "Total Transmission Units": "11"
+      }
+    },
+    {
+      "title": "0",
+      "fields": {
+        "Morse Code": "-----",
+        "Category": "Digit",
+        "Dit Count": "0",
+        "Dah Count": "5",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "15",
+        "Total Transmission Units": "19"
+      }
+    },
+    {
+      "title": "1",
+      "fields": {
+        "Morse Code": ".----",
+        "Category": "Digit",
+        "Dit Count": "1",
+        "Dah Count": "4",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "13",
+        "Total Transmission Units": "17"
+      }
+    },
+    {
+      "title": "2",
+      "fields": {
+        "Morse Code": "..---",
+        "Category": "Digit",
+        "Dit Count": "2",
+        "Dah Count": "3",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "11",
+        "Total Transmission Units": "15"
+      }
+    },
+    {
+      "title": "3",
+      "fields": {
+        "Morse Code": "...--",
+        "Category": "Digit",
+        "Dit Count": "3",
+        "Dah Count": "2",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "9",
+        "Total Transmission Units": "13"
+      }
+    },
+    {
+      "title": "4",
+      "fields": {
+        "Morse Code": "....-",
+        "Category": "Digit",
+        "Dit Count": "4",
+        "Dah Count": "1",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "7",
+        "Total Transmission Units": "11"
+      }
+    },
+    {
+      "title": "5",
+      "fields": {
+        "Morse Code": ".....",
+        "Category": "Digit",
+        "Dit Count": "5",
+        "Dah Count": "0",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "5",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "6",
+      "fields": {
+        "Morse Code": "-....",
+        "Category": "Digit",
+        "Dit Count": "4",
+        "Dah Count": "1",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "7",
+        "Total Transmission Units": "11"
+      }
+    },
+    {
+      "title": "7",
+      "fields": {
+        "Morse Code": "--...",
+        "Category": "Digit",
+        "Dit Count": "3",
+        "Dah Count": "2",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "9",
+        "Total Transmission Units": "13"
+      }
+    },
+    {
+      "title": "8",
+      "fields": {
+        "Morse Code": "---..",
+        "Category": "Digit",
+        "Dit Count": "2",
+        "Dah Count": "3",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "11",
+        "Total Transmission Units": "15"
+      }
+    },
+    {
+      "title": "9",
+      "fields": {
+        "Morse Code": "----.",
+        "Category": "Digit",
+        "Dit Count": "1",
+        "Dah Count": "4",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "13",
+        "Total Transmission Units": "17"
+      }
+    },
+    {
+      "title": ".",
+      "fields": {
+        "Morse Code": ".-.-.-",
+        "Category": "Punctuation",
+        "Dit Count": "3",
+        "Dah Count": "3",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "12",
+        "Total Transmission Units": "17"
+      }
+    },
+    {
+      "title": ",",
+      "fields": {
+        "Morse Code": "--..--",
+        "Category": "Punctuation",
+        "Dit Count": "2",
+        "Dah Count": "4",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "14",
+        "Total Transmission Units": "19"
+      }
+    },
+    {
+      "title": "?",
+      "fields": {
+        "Morse Code": "..--..",
+        "Category": "Punctuation",
+        "Dit Count": "4",
+        "Dah Count": "2",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "10",
+        "Total Transmission Units": "15"
+      }
+    },
+    {
+      "title": "'",
+      "fields": {
+        "Morse Code": ".----.",
+        "Category": "Punctuation",
+        "Dit Count": "2",
+        "Dah Count": "4",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "14",
+        "Total Transmission Units": "19"
+      }
+    },
+    {
+      "title": "!",
+      "fields": {
+        "Morse Code": "-.-.--",
+        "Category": "Punctuation",
+        "Dit Count": "2",
+        "Dah Count": "4",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "14",
+        "Total Transmission Units": "19"
+      }
+    },
+    {
+      "title": "/",
+      "fields": {
+        "Morse Code": "-..-.",
+        "Category": "Punctuation",
+        "Dit Count": "3",
+        "Dah Count": "2",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "9",
+        "Total Transmission Units": "13"
+      }
+    },
+    {
+      "title": "(",
+      "fields": {
+        "Morse Code": "-.--.",
+        "Category": "Punctuation",
+        "Dit Count": "2",
+        "Dah Count": "3",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "11",
+        "Total Transmission Units": "15"
+      }
+    },
+    {
+      "title": ")",
+      "fields": {
+        "Morse Code": "-.--.-",
+        "Category": "Punctuation",
+        "Dit Count": "2",
+        "Dah Count": "4",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "14",
+        "Total Transmission Units": "19"
+      }
+    },
+    {
+      "title": "&",
+      "fields": {
+        "Morse Code": ".-...",
+        "Category": "Punctuation",
+        "Dit Count": "4",
+        "Dah Count": "1",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "7",
+        "Total Transmission Units": "11"
+      }
+    },
+    {
+      "title": ":",
+      "fields": {
+        "Morse Code": "---...",
+        "Category": "Punctuation",
+        "Dit Count": "3",
+        "Dah Count": "3",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "12",
+        "Total Transmission Units": "17"
+      }
+    },
+    {
+      "title": ";",
+      "fields": {
+        "Morse Code": "-.-.-.",
+        "Category": "Punctuation",
+        "Dit Count": "3",
+        "Dah Count": "3",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "12",
+        "Total Transmission Units": "17"
+      }
+    },
+    {
+      "title": "=",
+      "fields": {
+        "Morse Code": "-...-",
+        "Category": "Punctuation",
+        "Dit Count": "3",
+        "Dah Count": "2",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "9",
+        "Total Transmission Units": "13"
+      }
+    },
+    {
+      "title": "+",
+      "fields": {
+        "Morse Code": ".-.-.",
+        "Category": "Punctuation",
+        "Dit Count": "3",
+        "Dah Count": "2",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "9",
+        "Total Transmission Units": "13"
+      }
+    },
+    {
+      "title": "-",
+      "fields": {
+        "Morse Code": "-....-",
+        "Category": "Punctuation",
+        "Dit Count": "4",
+        "Dah Count": "2",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "10",
+        "Total Transmission Units": "15"
+      }
+    },
+    {
+      "title": "_",
+      "fields": {
+        "Morse Code": "..__.",
+        "Category": "Punctuation",
+        "Dit Count": "3",
+        "Dah Count": "0",
+        "Symbol Count": "5",
+        "Intra-Character Gaps (1 unit each)": "4",
+        "Symbol Units Total": "5",
+        "Total Transmission Units": "9"
+      }
+    },
+    {
+      "title": "\"",
+      "fields": {
+        "Morse Code": ".-..-.",
+        "Category": "Punctuation",
+        "Dit Count": "4",
+        "Dah Count": "2",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "10",
+        "Total Transmission Units": "15"
+      }
+    },
+    {
+      "title": "$",
+      "fields": {
+        "Morse Code": "...-..-",
+        "Category": "Punctuation",
+        "Dit Count": "5",
+        "Dah Count": "2",
+        "Symbol Count": "7",
+        "Intra-Character Gaps (1 unit each)": "6",
+        "Symbol Units Total": "11",
+        "Total Transmission Units": "17"
+      }
+    },
+    {
+      "title": "@",
+      "fields": {
+        "Morse Code": ".--.-.",
+        "Category": "Punctuation",
+        "Dit Count": "3",
+        "Dah Count": "3",
+        "Symbol Count": "6",
+        "Intra-Character Gaps (1 unit each)": "5",
+        "Symbol Units Total": "12",
+        "Total Transmission Units": "17"
+      }
+    },
+    {
+      "title": "Dit (·)",
+      "fields": {
+        "Morse Code": ".",
+        "Category": "Timing Reference",
+        "Dit Count": "1",
+        "Dah Count": "0",
+        "Symbol Count": "1",
+        "Intra-Character Gaps (1 unit each)": "0",
+        "Symbol Units Total": "1",
+        "Total Transmission Units": "1"
+      }
+    },
+    {
+      "title": "Dah (−)",
+      "fields": {
+        "Morse Code": "-",
+        "Category": "Timing Reference",
+        "Dit Count": "0",
+        "Dah Count": "1",
+        "Symbol Count": "1",
+        "Intra-Character Gaps (1 unit each)": "0",
+        "Symbol Units Total": "3",
+        "Total Transmission Units": "3"
+      }
+    },
+    {
+      "title": "Intra-Character Gap",
+      "fields": {
+        "Category": "Timing Reference",
+        "Total Transmission Units": "1 unit — silence between elements within same character"
+      }
+    },
+    {
+      "title": "Inter-Character Gap",
+      "fields": {
+        "Category": "Timing Reference",
+        "Total Transmission Units": "3 units — silence between letters in same word"
+      }
+    },
+    {
+      "title": "Word Space",
+      "fields": {
+        "Category": "Timing Reference",
+        "Total Transmission Units": "7 units — silence between words"
+      }
+    }
+  ]
+}

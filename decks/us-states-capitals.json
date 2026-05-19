@@ -1,0 +1,755 @@
+{
+  "deck_name": "US States & Capitals",
+  "cards": [
+    {
+      "title": "Alabama",
+      "fields": {
+        "Capital": "Montgomery",
+        "Abbreviation": "AL",
+        "Statehood Year": "1819",
+        "Statehood Order": "22",
+        "Region": "South",
+        "Nickname": "The Yellowhammer State",
+        "Motto": "Audemus jura nostra defendere (We dare defend our rights)",
+        "State Bird": "Northern Flicker (Yellowhammer)",
+        "State Flower": "Camellia",
+        "State Tree": "Longleaf Pine"
+      }
+    },
+    {
+      "title": "Alaska",
+      "fields": {
+        "Capital": "Juneau",
+        "Abbreviation": "AK",
+        "Statehood Year": "1959",
+        "Statehood Order": "49",
+        "Region": "West",
+        "Nickname": "The Last Frontier",
+        "Motto": "North to the Future",
+        "State Bird": "Willow Ptarmigan",
+        "State Flower": "Forget-Me-Not",
+        "State Tree": "Sitka Spruce"
+      }
+    },
+    {
+      "title": "Arizona",
+      "fields": {
+        "Capital": "Phoenix",
+        "Abbreviation": "AZ",
+        "Statehood Year": "1912",
+        "Statehood Order": "48",
+        "Region": "West",
+        "Nickname": "The Grand Canyon State",
+        "Motto": "Ditat Deus (God enriches)",
+        "State Bird": "Cactus Wren",
+        "State Flower": "Saguaro Cactus Blossom",
+        "State Tree": "Palo Verde"
+      }
+    },
+    {
+      "title": "Arkansas",
+      "fields": {
+        "Capital": "Little Rock",
+        "Abbreviation": "AR",
+        "Statehood Year": "1836",
+        "Statehood Order": "25",
+        "Region": "South",
+        "Nickname": "The Natural State",
+        "Motto": "Regnat Populus (The people rule)",
+        "State Bird": "Mockingbird",
+        "State Flower": "Apple Blossom",
+        "State Tree": "Loblolly Pine"
+      }
+    },
+    {
+      "title": "California",
+      "fields": {
+        "Capital": "Sacramento",
+        "Abbreviation": "CA",
+        "Statehood Year": "1850",
+        "Statehood Order": "31",
+        "Region": "West",
+        "Nickname": "The Golden State",
+        "Motto": "Eureka (I have found it)",
+        "State Bird": "California Quail",
+        "State Flower": "Golden Poppy",
+        "State Tree": "Coast Redwood"
+      }
+    },
+    {
+      "title": "Colorado",
+      "fields": {
+        "Capital": "Denver",
+        "Abbreviation": "CO",
+        "Statehood Year": "1876",
+        "Statehood Order": "38",
+        "Region": "West",
+        "Nickname": "The Centennial State",
+        "Motto": "Nil sine numine (Nothing without providence)",
+        "State Bird": "Lark Bunting",
+        "State Flower": "Rocky Mountain Columbine",
+        "State Tree": "Colorado Blue Spruce"
+      }
+    },
+    {
+      "title": "Connecticut",
+      "fields": {
+        "Capital": "Hartford",
+        "Abbreviation": "CT",
+        "Statehood Year": "1788",
+        "Statehood Order": "5",
+        "Region": "Northeast",
+        "Nickname": "The Constitution State",
+        "Motto": "Qui transtulit sustinet (He who transplanted still sustains)",
+        "State Bird": "American Robin",
+        "State Flower": "Mountain Laurel",
+        "State Tree": "White Oak"
+      }
+    },
+    {
+      "title": "Delaware",
+      "fields": {
+        "Capital": "Dover",
+        "Abbreviation": "DE",
+        "Statehood Year": "1787",
+        "Statehood Order": "1",
+        "Region": "Northeast",
+        "Nickname": "The First State",
+        "Motto": "Liberty and Independence",
+        "State Bird": "Blue Hen Chicken",
+        "State Flower": "Peach Blossom",
+        "State Tree": "American Holly"
+      }
+    },
+    {
+      "title": "Florida",
+      "fields": {
+        "Capital": "Tallahassee",
+        "Abbreviation": "FL",
+        "Statehood Year": "1845",
+        "Statehood Order": "27",
+        "Region": "South",
+        "Nickname": "The Sunshine State",
+        "Motto": "In God We Trust",
+        "State Bird": "Mockingbird",
+        "State Flower": "Orange Blossom",
+        "State Tree": "Sabal Palmetto Palm"
+      }
+    },
+    {
+      "title": "Georgia",
+      "fields": {
+        "Capital": "Atlanta",
+        "Abbreviation": "GA",
+        "Statehood Year": "1788",
+        "Statehood Order": "4",
+        "Region": "South",
+        "Nickname": "The Peach State",
+        "Motto": "Wisdom, Justice, Moderation",
+        "State Bird": "Brown Thrasher",
+        "State Flower": "Cherokee Rose",
+        "State Tree": "Southern Live Oak"
+      }
+    },
+    {
+      "title": "Hawaii",
+      "fields": {
+        "Capital": "Honolulu",
+        "Abbreviation": "HI",
+        "Statehood Year": "1959",
+        "Statehood Order": "50",
+        "Region": "West",
+        "Nickname": "The Aloha State",
+        "Motto": "Ua Mau ke Ea o ka Aina i ka Pono (The life of the land is perpetuated in righteousness)",
+        "State Bird": "Hawaiian Goose (Nene)",
+        "State Flower": "Hawaiian Hibiscus (Pua Aloalo)",
+        "State Tree": "Kukui (Candlenut)"
+      }
+    },
+    {
+      "title": "Idaho",
+      "fields": {
+        "Capital": "Boise",
+        "Abbreviation": "ID",
+        "Statehood Year": "1890",
+        "Statehood Order": "43",
+        "Region": "West",
+        "Nickname": "The Gem State",
+        "Motto": "Esto perpetua (Let it be perpetual)",
+        "State Bird": "Mountain Bluebird",
+        "State Flower": "Syringa (Mock Orange)",
+        "State Tree": "Western White Pine"
+      }
+    },
+    {
+      "title": "Illinois",
+      "fields": {
+        "Capital": "Springfield",
+        "Abbreviation": "IL",
+        "Statehood Year": "1818",
+        "Statehood Order": "21",
+        "Region": "Midwest",
+        "Nickname": "The Prairie State",
+        "Motto": "State sovereignty, national union",
+        "State Bird": "Northern Cardinal",
+        "State Flower": "Violet",
+        "State Tree": "White Oak"
+      }
+    },
+    {
+      "title": "Indiana",
+      "fields": {
+        "Capital": "Indianapolis",
+        "Abbreviation": "IN",
+        "Statehood Year": "1816",
+        "Statehood Order": "19",
+        "Region": "Midwest",
+        "Nickname": "The Hoosier State",
+        "Motto": "The Crossroads of America",
+        "State Bird": "Northern Cardinal",
+        "State Flower": "Peony",
+        "State Tree": "Tulip Poplar"
+      }
+    },
+    {
+      "title": "Iowa",
+      "fields": {
+        "Capital": "Des Moines",
+        "Abbreviation": "IA",
+        "Statehood Year": "1846",
+        "Statehood Order": "29",
+        "Region": "Midwest",
+        "Nickname": "The Hawkeye State",
+        "Motto": "Our liberties we prize and our rights we will maintain",
+        "State Bird": "American Goldfinch",
+        "State Flower": "Wild Prairie Rose",
+        "State Tree": "Oak"
+      }
+    },
+    {
+      "title": "Kansas",
+      "fields": {
+        "Capital": "Topeka",
+        "Abbreviation": "KS",
+        "Statehood Year": "1861",
+        "Statehood Order": "34",
+        "Region": "Midwest",
+        "Nickname": "The Sunflower State",
+        "Motto": "Ad astra per aspera (To the stars through difficulties)",
+        "State Bird": "Western Meadowlark",
+        "State Flower": "Sunflower",
+        "State Tree": "Cottonwood"
+      }
+    },
+    {
+      "title": "Kentucky",
+      "fields": {
+        "Capital": "Frankfort",
+        "Abbreviation": "KY",
+        "Statehood Year": "1792",
+        "Statehood Order": "15",
+        "Region": "South",
+        "Nickname": "The Bluegrass State",
+        "Motto": "United we stand, divided we fall",
+        "State Bird": "Northern Cardinal",
+        "State Flower": "Goldenrod",
+        "State Tree": "Tulip Poplar"
+      }
+    },
+    {
+      "title": "Louisiana",
+      "fields": {
+        "Capital": "Baton Rouge",
+        "Abbreviation": "LA",
+        "Statehood Year": "1812",
+        "Statehood Order": "18",
+        "Region": "South",
+        "Nickname": "The Pelican State",
+        "Motto": "Union, Justice, and Confidence",
+        "State Bird": "Brown Pelican",
+        "State Flower": "Magnolia",
+        "State Tree": "Bald Cypress"
+      }
+    },
+    {
+      "title": "Maine",
+      "fields": {
+        "Capital": "Augusta",
+        "Abbreviation": "ME",
+        "Statehood Year": "1820",
+        "Statehood Order": "23",
+        "Region": "Northeast",
+        "Nickname": "The Pine Tree State",
+        "Motto": "Dirigo (I lead)",
+        "State Bird": "Black-capped Chickadee",
+        "State Flower": "White Pine Cone and Tassel",
+        "State Tree": "Eastern White Pine"
+      }
+    },
+    {
+      "title": "Maryland",
+      "fields": {
+        "Capital": "Annapolis",
+        "Abbreviation": "MD",
+        "Statehood Year": "1788",
+        "Statehood Order": "7",
+        "Region": "Northeast",
+        "Nickname": "The Old Line State",
+        "Motto": "Fatti maschii, parole femine (Strong deeds, gentle words)",
+        "State Bird": "Baltimore Oriole",
+        "State Flower": "Black-Eyed Susan",
+        "State Tree": "White Oak"
+      }
+    },
+    {
+      "title": "Massachusetts",
+      "fields": {
+        "Capital": "Boston",
+        "Abbreviation": "MA",
+        "Statehood Year": "1788",
+        "Statehood Order": "6",
+        "Region": "Northeast",
+        "Nickname": "The Bay State",
+        "Motto": "Ense petit placidam sub libertate quietem (By the sword we seek peace, but peace only under liberty)",
+        "State Bird": "Black-capped Chickadee",
+        "State Flower": "Mayflower (Trailing Arbutus)",
+        "State Tree": "American Elm"
+      }
+    },
+    {
+      "title": "Michigan",
+      "fields": {
+        "Capital": "Lansing",
+        "Abbreviation": "MI",
+        "Statehood Year": "1837",
+        "Statehood Order": "26",
+        "Region": "Midwest",
+        "Nickname": "The Great Lakes State",
+        "Motto": "Si quaeris peninsulam amoenam circumspice (If you seek a pleasant peninsula, look about you)",
+        "State Bird": "American Robin",
+        "State Flower": "Apple Blossom",
+        "State Tree": "Eastern White Pine"
+      }
+    },
+    {
+      "title": "Minnesota",
+      "fields": {
+        "Capital": "Saint Paul",
+        "Abbreviation": "MN",
+        "Statehood Year": "1858",
+        "Statehood Order": "32",
+        "Region": "Midwest",
+        "Nickname": "The North Star State",
+        "Motto": "L'Étoile du Nord (The Star of the North)",
+        "State Bird": "Common Loon",
+        "State Flower": "Pink and White Lady's Slipper",
+        "State Tree": "Red Pine (Norway Pine)"
+      }
+    },
+    {
+      "title": "Mississippi",
+      "fields": {
+        "Capital": "Jackson",
+        "Abbreviation": "MS",
+        "Statehood Year": "1817",
+        "Statehood Order": "20",
+        "Region": "South",
+        "Nickname": "The Magnolia State",
+        "Motto": "Virtute et armis (By valor and arms)",
+        "State Bird": "Mockingbird",
+        "State Flower": "Magnolia",
+        "State Tree": "Magnolia"
+      }
+    },
+    {
+      "title": "Missouri",
+      "fields": {
+        "Capital": "Jefferson City",
+        "Abbreviation": "MO",
+        "Statehood Year": "1821",
+        "Statehood Order": "24",
+        "Region": "Midwest",
+        "Nickname": "The Show-Me State",
+        "Motto": "Salus populi suprema lex esto (The welfare of the people shall be the supreme law)",
+        "State Bird": "Eastern Bluebird",
+        "State Flower": "White Hawthorn Blossom",
+        "State Tree": "Flowering Dogwood"
+      }
+    },
+    {
+      "title": "Montana",
+      "fields": {
+        "Capital": "Helena",
+        "Abbreviation": "MT",
+        "Statehood Year": "1889",
+        "Statehood Order": "41",
+        "Region": "West",
+        "Nickname": "The Treasure State",
+        "Motto": "Oro y plata (Gold and silver)",
+        "State Bird": "Western Meadowlark",
+        "State Flower": "Bitterroot",
+        "State Tree": "Ponderosa Pine"
+      }
+    },
+    {
+      "title": "Nebraska",
+      "fields": {
+        "Capital": "Lincoln",
+        "Abbreviation": "NE",
+        "Statehood Year": "1867",
+        "Statehood Order": "37",
+        "Region": "Midwest",
+        "Nickname": "The Cornhusker State",
+        "Motto": "Equality before the law",
+        "State Bird": "Western Meadowlark",
+        "State Flower": "Goldenrod",
+        "State Tree": "Cottonwood"
+      }
+    },
+    {
+      "title": "Nevada",
+      "fields": {
+        "Capital": "Carson City",
+        "Abbreviation": "NV",
+        "Statehood Year": "1864",
+        "Statehood Order": "36",
+        "Region": "West",
+        "Nickname": "The Silver State",
+        "Motto": "Battle Born",
+        "State Bird": "Mountain Bluebird",
+        "State Flower": "Sagebrush",
+        "State Tree": "Single-leaf Pinyon"
+      }
+    },
+    {
+      "title": "New Hampshire",
+      "fields": {
+        "Capital": "Concord",
+        "Abbreviation": "NH",
+        "Statehood Year": "1788",
+        "Statehood Order": "9",
+        "Region": "Northeast",
+        "Nickname": "The Granite State",
+        "Motto": "Live free or die",
+        "State Bird": "Purple Finch",
+        "State Flower": "Purple Lilac",
+        "State Tree": "White Birch"
+      }
+    },
+    {
+      "title": "New Jersey",
+      "fields": {
+        "Capital": "Trenton",
+        "Abbreviation": "NJ",
+        "Statehood Year": "1787",
+        "Statehood Order": "3",
+        "Region": "Northeast",
+        "Nickname": "The Garden State",
+        "Motto": "Liberty and prosperity",
+        "State Bird": "American Goldfinch",
+        "State Flower": "Common Blue Violet",
+        "State Tree": "Northern Red Oak"
+      }
+    },
+    {
+      "title": "New Mexico",
+      "fields": {
+        "Capital": "Santa Fe",
+        "Abbreviation": "NM",
+        "Statehood Year": "1912",
+        "Statehood Order": "47",
+        "Region": "West",
+        "Nickname": "The Land of Enchantment",
+        "Motto": "Crescit eundo (It grows as it goes)",
+        "State Bird": "Greater Roadrunner",
+        "State Flower": "Yucca Flower",
+        "State Tree": "Two-needle Piñon"
+      }
+    },
+    {
+      "title": "New York",
+      "fields": {
+        "Capital": "Albany",
+        "Abbreviation": "NY",
+        "Statehood Year": "1788",
+        "Statehood Order": "11",
+        "Region": "Northeast",
+        "Nickname": "The Empire State",
+        "Motto": "Excelsior (Ever upward)",
+        "State Bird": "Eastern Bluebird",
+        "State Flower": "Rose",
+        "State Tree": "Sugar Maple"
+      }
+    },
+    {
+      "title": "North Carolina",
+      "fields": {
+        "Capital": "Raleigh",
+        "Abbreviation": "NC",
+        "Statehood Year": "1789",
+        "Statehood Order": "12",
+        "Region": "South",
+        "Nickname": "The Tar Heel State",
+        "Motto": "Esse quam videri (To be rather than to seem)",
+        "State Bird": "Northern Cardinal",
+        "State Flower": "Dogwood",
+        "State Tree": "Longleaf Pine"
+      }
+    },
+    {
+      "title": "North Dakota",
+      "fields": {
+        "Capital": "Bismarck",
+        "Abbreviation": "ND",
+        "Statehood Year": "1889",
+        "Statehood Order": "39",
+        "Region": "Midwest",
+        "Nickname": "The Peace Garden State",
+        "Motto": "Liberty and union, now and forever, one and inseparable",
+        "State Bird": "Western Meadowlark",
+        "State Flower": "Wild Prairie Rose",
+        "State Tree": "American Elm"
+      }
+    },
+    {
+      "title": "Ohio",
+      "fields": {
+        "Capital": "Columbus",
+        "Abbreviation": "OH",
+        "Statehood Year": "1803",
+        "Statehood Order": "17",
+        "Region": "Midwest",
+        "Nickname": "The Buckeye State",
+        "Motto": "With God, all things are possible",
+        "State Bird": "Northern Cardinal",
+        "State Flower": "Scarlet Carnation",
+        "State Tree": "Ohio Buckeye"
+      }
+    },
+    {
+      "title": "Oklahoma",
+      "fields": {
+        "Capital": "Oklahoma City",
+        "Abbreviation": "OK",
+        "Statehood Year": "1907",
+        "Statehood Order": "46",
+        "Region": "South",
+        "Nickname": "The Sooner State",
+        "Motto": "Labor omnia vincit (Labor conquers all things)",
+        "State Bird": "Scissor-tailed Flycatcher",
+        "State Flower": "Mistletoe",
+        "State Tree": "Eastern Redbud"
+      }
+    },
+    {
+      "title": "Oregon",
+      "fields": {
+        "Capital": "Salem",
+        "Abbreviation": "OR",
+        "Statehood Year": "1859",
+        "Statehood Order": "33",
+        "Region": "West",
+        "Nickname": "The Beaver State",
+        "Motto": "Alis volat propriis (She flies with her own wings)",
+        "State Bird": "Western Meadowlark",
+        "State Flower": "Oregon Grape",
+        "State Tree": "Douglas Fir"
+      }
+    },
+    {
+      "title": "Pennsylvania",
+      "fields": {
+        "Capital": "Harrisburg",
+        "Abbreviation": "PA",
+        "Statehood Year": "1787",
+        "Statehood Order": "2",
+        "Region": "Northeast",
+        "Nickname": "The Keystone State",
+        "Motto": "Virtue, Liberty and Independence",
+        "State Bird": "Ruffed Grouse",
+        "State Flower": "Mountain Laurel",
+        "State Tree": "Eastern Hemlock"
+      }
+    },
+    {
+      "title": "Rhode Island",
+      "fields": {
+        "Capital": "Providence",
+        "Abbreviation": "RI",
+        "Statehood Year": "1790",
+        "Statehood Order": "13",
+        "Region": "Northeast",
+        "Nickname": "The Ocean State",
+        "Motto": "Hope",
+        "State Bird": "Rhode Island Red (chicken)",
+        "State Flower": "Violet",
+        "State Tree": "Red Maple"
+      }
+    },
+    {
+      "title": "South Carolina",
+      "fields": {
+        "Capital": "Columbia",
+        "Abbreviation": "SC",
+        "Statehood Year": "1788",
+        "Statehood Order": "8",
+        "Region": "South",
+        "Nickname": "The Palmetto State",
+        "Motto": "Dum spiro spero (While I breathe, I hope) / Animis opibusque parati (Prepared in mind and resources)",
+        "State Bird": "Carolina Wren",
+        "State Flower": "Yellow Jessamine",
+        "State Tree": "Sabal Palmetto"
+      }
+    },
+    {
+      "title": "South Dakota",
+      "fields": {
+        "Capital": "Pierre",
+        "Abbreviation": "SD",
+        "Statehood Year": "1889",
+        "Statehood Order": "40",
+        "Region": "Midwest",
+        "Nickname": "The Mount Rushmore State",
+        "Motto": "Under God the people rule",
+        "State Bird": "Ring-necked Pheasant",
+        "State Flower": "Pasque Flower",
+        "State Tree": "Black Hills Spruce"
+      }
+    },
+    {
+      "title": "Tennessee",
+      "fields": {
+        "Capital": "Nashville",
+        "Abbreviation": "TN",
+        "Statehood Year": "1796",
+        "Statehood Order": "16",
+        "Region": "South",
+        "Nickname": "The Volunteer State",
+        "Motto": "Agriculture and Commerce",
+        "State Bird": "Mockingbird",
+        "State Flower": "Iris",
+        "State Tree": "Tulip Poplar"
+      }
+    },
+    {
+      "title": "Texas",
+      "fields": {
+        "Capital": "Austin",
+        "Abbreviation": "TX",
+        "Statehood Year": "1845",
+        "Statehood Order": "28",
+        "Region": "South",
+        "Nickname": "The Lone Star State",
+        "Motto": "Friendship",
+        "State Bird": "Mockingbird",
+        "State Flower": "Bluebonnet",
+        "State Tree": "Pecan"
+      }
+    },
+    {
+      "title": "Utah",
+      "fields": {
+        "Capital": "Salt Lake City",
+        "Abbreviation": "UT",
+        "Statehood Year": "1896",
+        "Statehood Order": "45",
+        "Region": "West",
+        "Nickname": "The Beehive State",
+        "Motto": "Industry",
+        "State Bird": "California Gull",
+        "State Flower": "Sego Lily",
+        "State Tree": "Quaking Aspen"
+      }
+    },
+    {
+      "title": "Vermont",
+      "fields": {
+        "Capital": "Montpelier",
+        "Abbreviation": "VT",
+        "Statehood Year": "1791",
+        "Statehood Order": "14",
+        "Region": "Northeast",
+        "Nickname": "The Green Mountain State",
+        "Motto": "Freedom and unity",
+        "State Bird": "Hermit Thrush",
+        "State Flower": "Red Clover",
+        "State Tree": "Sugar Maple"
+      }
+    },
+    {
+      "title": "Virginia",
+      "fields": {
+        "Capital": "Richmond",
+        "Abbreviation": "VA",
+        "Statehood Year": "1788",
+        "Statehood Order": "10",
+        "Region": "South",
+        "Nickname": "Old Dominion",
+        "Motto": "Sic semper tyrannis (Thus always to tyrants)",
+        "State Bird": "Northern Cardinal",
+        "State Flower": "American Dogwood",
+        "State Tree": "Dogwood"
+      }
+    },
+    {
+      "title": "Washington",
+      "fields": {
+        "Capital": "Olympia",
+        "Abbreviation": "WA",
+        "Statehood Year": "1889",
+        "Statehood Order": "42",
+        "Region": "West",
+        "Nickname": "The Evergreen State",
+        "Motto": "Al-ki (Chinook for 'bye and bye')",
+        "State Bird": "Willow Goldfinch",
+        "State Flower": "Coast Rhododendron",
+        "State Tree": "Western Hemlock"
+      }
+    },
+    {
+      "title": "West Virginia",
+      "fields": {
+        "Capital": "Charleston",
+        "Abbreviation": "WV",
+        "Statehood Year": "1863",
+        "Statehood Order": "35",
+        "Region": "South",
+        "Nickname": "The Mountain State",
+        "Motto": "Montani semper liberi (Mountaineers are always free)",
+        "State Bird": "Northern Cardinal",
+        "State Flower": "Rhododendron",
+        "State Tree": "Sugar Maple"
+      }
+    },
+    {
+      "title": "Wisconsin",
+      "fields": {
+        "Capital": "Madison",
+        "Abbreviation": "WI",
+        "Statehood Year": "1848",
+        "Statehood Order": "30",
+        "Region": "Midwest",
+        "Nickname": "The Badger State",
+        "Motto": "Forward",
+        "State Bird": "American Robin",
+        "State Flower": "Wood Violet",
+        "State Tree": "Sugar Maple"
+      }
+    },
+    {
+      "title": "Wyoming",
+      "fields": {
+        "Capital": "Cheyenne",
+        "Abbreviation": "WY",
+        "Statehood Year": "1890",
+        "Statehood Order": "44",
+        "Region": "West",
+        "Nickname": "The Equality State",
+        "Motto": "Equal rights",
+        "State Bird": "Western Meadowlark",
+        "State Flower": "Indian Paintbrush",
+        "State Tree": "Plains Cottonwood"
+      }
+    }
+  ]
+}

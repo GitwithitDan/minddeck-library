@@ -1,0 +1,275 @@
+{
+  "deck_name": "Perfect Squares 1–30",
+  "cards": [
+    {
+      "title": "1",
+      "fields": {
+        "Square": "1",
+        "Square Root": "1",
+        "Difference from Previous Square": "1",
+        "Square Is Also a Perfect Cube": "Yes"
+      }
+    },
+    {
+      "title": "2",
+      "fields": {
+        "Square": "4",
+        "Square Root": "2",
+        "Difference from Previous Square": "3",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "3",
+      "fields": {
+        "Square": "9",
+        "Square Root": "3",
+        "Difference from Previous Square": "5",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "4",
+      "fields": {
+        "Square": "16",
+        "Square Root": "4",
+        "Difference from Previous Square": "7",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "5",
+      "fields": {
+        "Square": "25",
+        "Square Root": "5",
+        "Difference from Previous Square": "9",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "6",
+      "fields": {
+        "Square": "36",
+        "Square Root": "6",
+        "Difference from Previous Square": "11",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "7",
+      "fields": {
+        "Square": "49",
+        "Square Root": "7",
+        "Difference from Previous Square": "13",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "8",
+      "fields": {
+        "Square": "64",
+        "Square Root": "8",
+        "Difference from Previous Square": "15",
+        "Square Is Also a Perfect Cube": "Yes"
+      }
+    },
+    {
+      "title": "9",
+      "fields": {
+        "Square": "81",
+        "Square Root": "9",
+        "Difference from Previous Square": "17",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "10",
+      "fields": {
+        "Square": "100",
+        "Square Root": "10",
+        "Difference from Previous Square": "19",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "11",
+      "fields": {
+        "Square": "121",
+        "Square Root": "11",
+        "Difference from Previous Square": "21",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "12",
+      "fields": {
+        "Square": "144",
+        "Square Root": "12",
+        "Difference from Previous Square": "23",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "13",
+      "fields": {
+        "Square": "169",
+        "Square Root": "13",
+        "Difference from Previous Square": "25",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "14",
+      "fields": {
+        "Square": "196",
+        "Square Root": "14",
+        "Difference from Previous Square": "27",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "15",
+      "fields": {
+        "Square": "225",
+        "Square Root": "15",
+        "Difference from Previous Square": "29",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "16",
+      "fields": {
+        "Square": "256",
+        "Square Root": "16",
+        "Difference from Previous Square": "31",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "17",
+      "fields": {
+        "Square": "289",
+        "Square Root": "17",
+        "Difference from Previous Square": "33",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "18",
+      "fields": {
+        "Square": "324",
+        "Square Root": "18",
+        "Difference from Previous Square": "35",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "19",
+      "fields": {
+        "Square": "361",
+        "Square Root": "19",
+        "Difference from Previous Square": "37",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "20",
+      "fields": {
+        "Square": "400",
+        "Square Root": "20",
+        "Difference from Previous Square": "39",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "21",
+      "fields": {
+        "Square": "441",
+        "Square Root": "21",
+        "Difference from Previous Square": "41",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "22",
+      "fields": {
+        "Square": "484",
+        "Square Root": "22",
+        "Difference from Previous Square": "43",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "23",
+      "fields": {
+        "Square": "529",
+        "Square Root": "23",
+        "Difference from Previous Square": "45",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "24",
+      "fields": {
+        "Square": "576",
+        "Square Root": "24",
+        "Difference from Previous Square": "47",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "25",
+      "fields": {
+        "Square": "625",
+        "Square Root": "25",
+        "Difference from Previous Square": "49",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "26",
+      "fields": {
+        "Square": "676",
+        "Square Root": "26",
+        "Difference from Previous Square": "51",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "27",
+      "fields": {
+        "Square": "729",
+        "Square Root": "27",
+        "Difference from Previous Square": "53",
+        "Square Is Also a Perfect Cube": "Yes"
+      }
+    },
+    {
+      "title": "28",
+      "fields": {
+        "Square": "784",
+        "Square Root": "28",
+        "Difference from Previous Square": "55",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "29",
+      "fields": {
+        "Square": "841",
+        "Square Root": "29",
+        "Difference from Previous Square": "57",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    },
+    {
+      "title": "30",
+      "fields": {
+        "Square": "900",
+        "Square Root": "30",
+        "Difference from Previous Square": "59",
+        "Square Is Also a Perfect Cube": "No"
+      }
+    }
+  ]
+}
