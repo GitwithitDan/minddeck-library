@@ -339,10 +339,10 @@
     },
     {
       "id": "prime-numbers",
-      "name": "First 100 Prime Numbers",
-      "description": "The first 100 prime numbers listed in order by rank",
+      "name": "Prime Numbers",
+      "description": "The first 100 prime numbers as a single card with ordinal field:value pairs (1st=2, 2nd=3, \u2026)",
       "category": "mathematics",
-      "card_count": 100,
+      "card_count": 1,
       "author": "MindDeck Team",
       "tags": [
         "primes",
@@ -353,21 +353,13 @@
       "format": "json",
       "preview": [
         {
-          "title": "Prime Number: 1st",
+          "title": "Prime Number",
           "fields": {
-            "Value": "2"
-          }
-        },
-        {
-          "title": "Prime Number: 10th",
-          "fields": {
-            "Value": "29"
-          }
-        },
-        {
-          "title": "Prime Number: 100th",
-          "fields": {
-            "Value": "541"
+            "1st": "2",
+            "2nd": "3",
+            "3rd": "5",
+            "10th": "29",
+            "100th": "541"
           }
         }
       ]
