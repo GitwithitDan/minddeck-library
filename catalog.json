@@ -94,7 +94,7 @@
       "name": "Planets of the Solar System",
       "description": "All planets with key stats and characteristics",
       "category": "space",
-      "card_count": 8,
+      "card_count": 9,
       "author": "MindDeck Team",
       "tags": ["space", "planets", "astronomy", "solar system"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/planets-solar-system.json",
