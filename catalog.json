@@ -340,7 +340,7 @@
     {
       "id": "prime-numbers",
       "name": "Prime Numbers",
-      "description": "The first 100 prime numbers as a single card with ordinal field:value pairs (1st=2, 2nd=3, \u2026)",
+      "description": "The first 100 prime numbers as a single card with ordinal field:value pairs (1st=2, 2nd=3, \u2026 100th=541)",
       "category": "mathematics",
       "card_count": 1,
       "author": "MindDeck Team",
