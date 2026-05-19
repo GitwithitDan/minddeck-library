@@ -338,7 +338,7 @@
       ]
     },
     {
-      "id": "prime-numbers",
+      "id": "first-100-primes",
       "name": "First 100 Prime Numbers",
       "description": "A single card with all 100 primes as ranked fields (1st–100th). Bidirectional linking produces 201 cards in the workspace.",
       "category": "mathematics",
