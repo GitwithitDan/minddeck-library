@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-05-19T00:00:00Z",
+  "version": 2,
+  "updated_at": "2026-05-21T00:00:00Z",
   "categories": [
     {
       "id": "science",
@@ -43,6 +43,30 @@
       "name": "Esoteric",
       "description": "Astrology, symbolism, and metaphysical systems",
       "icon": "✨"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "description": "Historical events, figures, and timelines",
+      "icon": "📜"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "description": "Champions, records, and sporting history",
+      "icon": "🏆"
+    },
+    {
+      "id": "arts",
+      "name": "Arts",
+      "description": "Visual art, film, and cultural works",
+      "icon": "🎨"
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy & Rhetoric",
+      "description": "Logic, argumentation, and rhetorical craft",
+      "icon": "🧠"
     }
   ],
   "decks": [
@@ -773,9 +797,8 @@
             "Exponent": "8",
             "Value": "256",
             "Hexadecimal": "0x100",
-            "Is Power of 8": "No",
             "Is Power of 16": "Yes",
-            "Common Use": "256 values; 1 byte; uint8 range 0–255; 8-bit color channel"
+            "Common Use": "256 values; 1 byte; uint8 range 0-255; 8-bit color channel"
           }
         },
         {
@@ -784,9 +807,8 @@
             "Exponent": "10",
             "Value": "1024",
             "Hexadecimal": "0x400",
-            "Is Power of 8": "No",
             "Is Power of 16": "No",
-            "Common Use": "1,024 ≈ 1 thousand; 1 Kibibyte (KiB)"
+            "Common Use": "1,024 approx 1 thousand; 1 Kibibyte (KiB)"
           }
         },
         {
@@ -795,9 +817,8 @@
             "Exponent": "16",
             "Value": "65536",
             "Hexadecimal": "0x10000",
-            "Is Power of 8": "No",
             "Is Power of 16": "Yes",
-            "Common Use": "65,536; uint16 max + 1; total IPv4 port range (0–65535)"
+            "Common Use": "65,536; uint16 max + 1; total IPv4 port range (0-65535)"
           }
         }
       ]
@@ -845,7 +866,7 @@
     {
       "id": "morse-code",
       "name": "Morse Code",
-      "description": "A–Z, 0–9, and punctuation with dot/dash sequences and transmission timing units",
+      "description": "A-Z, 0-9, and punctuation with dot/dash sequences and transmission timing units",
       "category": "languages",
       "card_count": 59,
       "author": "MindDeck Team",
@@ -886,6 +907,529 @@
           "fields": {
             "Category": "Timing Reference",
             "Total Transmission Units": "7 units — silence between words"
+          }
+        }
+      ]
+    },
+    {
+      "id": "super-bowl-champions",
+      "name": "Super Bowl Champions",
+      "description": "All 58 Super Bowls with winner, loser, score, MVP, and location (1967–2024)",
+      "category": "sports",
+      "card_count": 58,
+      "author": "MindDeck Team",
+      "tags": [
+        "super bowl",
+        "NFL",
+        "football",
+        "champions",
+        "sports",
+        "history"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/super-bowl-champions.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Super Bowl I",
+          "notes": "Green Bay Packers def. Kansas City Chiefs, 35-10",
+          "fields": {
+            "Game Number": "1",
+            "Year": "1967",
+            "Winner": "Green Bay Packers",
+            "Loser": "Kansas City Chiefs",
+            "Score": "35-10",
+            "MVP": "Bart Starr",
+            "Location": "Los Angeles Memorial Coliseum"
+          }
+        },
+        {
+          "title": "Super Bowl XLIX",
+          "notes": "New England Patriots def. Seattle Seahawks, 28-24",
+          "fields": {
+            "Game Number": "49",
+            "Year": "2015",
+            "Winner": "New England Patriots",
+            "Loser": "Seattle Seahawks",
+            "Score": "28-24",
+            "MVP": "Tom Brady",
+            "Location": "University of Phoenix Stadium, Glendale AZ"
+          }
+        },
+        {
+          "title": "Super Bowl LVIII",
+          "notes": "Kansas City Chiefs def. San Francisco 49ers, 25-22 OT",
+          "fields": {
+            "Game Number": "58",
+            "Year": "2024",
+            "Winner": "Kansas City Chiefs",
+            "Loser": "San Francisco 49ers",
+            "Score": "25-22 OT",
+            "MVP": "Patrick Mahomes",
+            "Location": "Allegiant Stadium, Las Vegas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba-champions",
+      "name": "NBA Champions",
+      "description": "Every NBA champion from 1947 to 2024 with Finals MVP and series record",
+      "category": "sports",
+      "card_count": 78,
+      "author": "MindDeck Team",
+      "tags": [
+        "NBA",
+        "basketball",
+        "champions",
+        "Finals MVP",
+        "sports",
+        "history"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/nba-champions.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "1991 NBA Champions",
+          "notes": "Chicago Bulls",
+          "fields": {
+            "Year": "1991",
+            "Champion": "Chicago Bulls",
+            "Runner-Up": "Los Angeles Lakers",
+            "Series": "4-1",
+            "Finals MVP": "Michael Jordan"
+          }
+        },
+        {
+          "title": "2016 NBA Champions",
+          "notes": "Cleveland Cavaliers",
+          "fields": {
+            "Year": "2016",
+            "Champion": "Cleveland Cavaliers",
+            "Runner-Up": "Golden State Warriors",
+            "Series": "4-3",
+            "Finals MVP": "LeBron James"
+          }
+        },
+        {
+          "title": "2024 NBA Champions",
+          "notes": "Boston Celtics",
+          "fields": {
+            "Year": "2024",
+            "Champion": "Boston Celtics",
+            "Runner-Up": "Dallas Mavericks",
+            "Series": "4-1",
+            "Finals MVP": "Jaylen Brown"
+          }
+        }
+      ]
+    },
+    {
+      "id": "world-series-champions",
+      "name": "World Series Champions",
+      "description": "Every World Series champion from 1903 to 2024 with series record (excludes 1904 and 1994 strike year)",
+      "category": "sports",
+      "card_count": 120,
+      "author": "MindDeck Team",
+      "tags": [
+        "World Series",
+        "MLB",
+        "baseball",
+        "champions",
+        "sports",
+        "history"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/world-series-champions.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "2016 World Series",
+          "notes": "Chicago Cubs defeat Cleveland Indians, 4-3",
+          "fields": {
+            "Year": "2016",
+            "Champion": "Chicago Cubs",
+            "Runner-Up": "Cleveland Indians",
+            "Series": "4-3"
+          }
+        },
+        {
+          "title": "2004 World Series",
+          "notes": "Boston Red Sox defeat St. Louis Cardinals, 4-0",
+          "fields": {
+            "Year": "2004",
+            "Champion": "Boston Red Sox",
+            "Runner-Up": "St. Louis Cardinals",
+            "Series": "4-0"
+          }
+        },
+        {
+          "title": "2024 World Series",
+          "notes": "Los Angeles Dodgers defeat New York Yankees, 4-1",
+          "fields": {
+            "Year": "2024",
+            "Champion": "Los Angeles Dodgers",
+            "Runner-Up": "New York Yankees",
+            "Series": "4-1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "us-presidents",
+      "name": "US Presidents",
+      "description": "All 47 presidents with party, term dates, vice president, and home state",
+      "category": "history",
+      "card_count": 47,
+      "author": "MindDeck Team",
+      "tags": [
+        "presidents",
+        "United States",
+        "politics",
+        "history",
+        "government"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/us-presidents.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "George Washington",
+          "notes": "The 1st President of the United States",
+          "fields": {
+            "Number": "1",
+            "Party": "No Party",
+            "Term Start": "1789",
+            "Term End": "1797",
+            "Vice President": "John Adams",
+            "Home State": "Virginia"
+          }
+        },
+        {
+          "title": "Abraham Lincoln",
+          "notes": "The 16th President of the United States",
+          "fields": {
+            "Number": "16",
+            "Party": "Republican",
+            "Term Start": "1861",
+            "Term End": "1865",
+            "Vice President": "Hamlin / Andrew Johnson",
+            "Home State": "Illinois"
+          }
+        },
+        {
+          "title": "Donald Trump",
+          "notes": "The 47th President of the United States",
+          "fields": {
+            "Number": "47",
+            "Party": "Republican",
+            "Term Start": "2025",
+            "Term End": "present",
+            "Vice President": "JD Vance",
+            "Home State": "New York"
+          }
+        }
+      ]
+    },
+    {
+      "id": "academy-award-best-picture",
+      "name": "Academy Award — Best Picture",
+      "description": "Every Best Picture winner from Wings (1927) to Anora (2024) with director and genre",
+      "category": "arts",
+      "card_count": 96,
+      "author": "MindDeck Team",
+      "tags": [
+        "Oscars",
+        "Academy Awards",
+        "film",
+        "movies",
+        "Best Picture",
+        "directors"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/academy-award-best-picture.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Casablanca",
+          "notes": "Best Picture winner at the 16th Academy Awards",
+          "fields": {
+            "Film Year": "1943",
+            "Ceremony": "16th Academy Awards",
+            "Director": "Michael Curtiz",
+            "Genre": "Romance War Drama"
+          }
+        },
+        {
+          "title": "The Godfather",
+          "notes": "Best Picture winner at the 45th Academy Awards",
+          "fields": {
+            "Film Year": "1972",
+            "Ceremony": "45th Academy Awards",
+            "Director": "Francis Ford Coppola",
+            "Genre": "Crime Drama"
+          }
+        },
+        {
+          "title": "Parasite",
+          "notes": "Best Picture winner at the 92nd Academy Awards",
+          "fields": {
+            "Film Year": "2019",
+            "Ceremony": "92nd Academy Awards",
+            "Director": "Bong Joon-ho",
+            "Genre": "Thriller Drama Comedy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "famous-battles",
+      "name": "Famous Battles",
+      "description": "30 decisive battles from Marathon (490 BC) to Fallujah (2004) with belligerents, outcome, and significance",
+      "category": "history",
+      "card_count": 30,
+      "author": "MindDeck Team",
+      "tags": [
+        "battles",
+        "warfare",
+        "military",
+        "history",
+        "world history"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/famous-battles.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Battle of Marathon",
+          "notes": "Changed course of Western civilization; origin of the marathon race",
+          "fields": {
+            "Year": "490 BC",
+            "Conflict": "Greco-Persian Wars",
+            "Belligerents": "Greeks (Athens) vs. Persians",
+            "Outcome": "Greek victory",
+            "Location": "Greece"
+          }
+        },
+        {
+          "title": "Battle of Stalingrad",
+          "notes": "~2 million casualties; decisive turning point of WWII on the Eastern Front",
+          "fields": {
+            "Year": "1942 AD",
+            "Conflict": "World War II",
+            "Belligerents": "Soviet Union vs. Nazi Germany",
+            "Outcome": "Soviet victory",
+            "Location": "Russia"
+          }
+        },
+        {
+          "title": "D-Day (Normandy Landings)",
+          "notes": "Largest seaborne invasion in history; opened Western Front in Europe",
+          "fields": {
+            "Year": "1944 AD",
+            "Conflict": "World War II",
+            "Belligerents": "Allies vs. Nazi Germany",
+            "Outcome": "Allied success",
+            "Location": "France"
+          }
+        }
+      ]
+    },
+    {
+      "id": "famous-paintings",
+      "name": "Famous Paintings",
+      "description": "29 landmark works from the Renaissance to Abstract Expressionism with artist, medium, movement, and current location",
+      "category": "arts",
+      "card_count": 29,
+      "author": "MindDeck Team",
+      "tags": [
+        "paintings",
+        "art history",
+        "artists",
+        "museums",
+        "visual art"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/famous-paintings.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Mona Lisa",
+          "notes": "By Leonardo da Vinci, c. 1503-1519",
+          "fields": {
+            "Artist": "Leonardo da Vinci",
+            "Year": "c. 1503-1519",
+            "Movement": "Renaissance",
+            "Medium": "Oil on poplar panel",
+            "Current Location": "Louvre Museum, Paris"
+          }
+        },
+        {
+          "title": "The Starry Night",
+          "notes": "By Vincent van Gogh, 1889",
+          "fields": {
+            "Artist": "Vincent van Gogh",
+            "Year": "1889",
+            "Movement": "Post-Impressionism",
+            "Medium": "Oil on canvas",
+            "Current Location": "MoMA, New York"
+          }
+        },
+        {
+          "title": "Guernica",
+          "notes": "By Pablo Picasso, 1937",
+          "fields": {
+            "Artist": "Pablo Picasso",
+            "Year": "1937",
+            "Movement": "Cubism / Expressionism",
+            "Medium": "Oil on canvas",
+            "Current Location": "Museo Reina Sofia, Madrid"
+          }
+        }
+      ]
+    },
+    {
+      "id": "greek-roman-gods",
+      "name": "Greek & Roman Gods",
+      "description": "25 deities with Greek and Roman names, domains, symbols, consorts, and Olympian status",
+      "category": "history",
+      "card_count": 25,
+      "author": "MindDeck Team",
+      "tags": [
+        "mythology",
+        "Greek",
+        "Roman",
+        "gods",
+        "ancient history",
+        "religion"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/greek-roman-gods.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Zeus",
+          "notes": "King of the gods, sky & thunder",
+          "fields": {
+            "Roman Name": "Jupiter",
+            "Domain": "King of the gods, sky & thunder",
+            "Symbols": "Eagle, thunderbolt, oak tree",
+            "Consort/Spouse": "Hera",
+            "Olympian": "Yes"
+          }
+        },
+        {
+          "title": "Athena",
+          "notes": "Wisdom, warfare strategy, crafts",
+          "fields": {
+            "Roman Name": "Minerva",
+            "Domain": "Wisdom, warfare strategy, crafts",
+            "Symbols": "Owl, olive tree, aegis, spear",
+            "Consort/Spouse": "—",
+            "Olympian": "Yes"
+          }
+        },
+        {
+          "title": "Hades",
+          "notes": "Underworld, dead, wealth",
+          "fields": {
+            "Roman Name": "Pluto",
+            "Domain": "Underworld, dead, wealth",
+            "Symbols": "Cerberus, helm of darkness, bident",
+            "Consort/Spouse": "Persephone",
+            "Olympian": "No"
+          }
+        }
+      ]
+    },
+    {
+      "id": "logical-fallacies",
+      "name": "Logical Fallacies",
+      "description": "25 common fallacies with type, Latin/Greek name, definition, and a real-world example",
+      "category": "philosophy",
+      "card_count": 25,
+      "author": "MindDeck Team",
+      "tags": [
+        "logic",
+        "fallacies",
+        "argumentation",
+        "critical thinking",
+        "philosophy"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/logical-fallacies.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Ad Hominem",
+          "notes": "Attacking the person making the argument rather than the argument itself.",
+          "fields": {
+            "Type": "Informal",
+            "Latin/Greek Name": "Argumentum ad Hominem",
+            "Definition": "Attacking the person making the argument rather than the argument itself.",
+            "Example": "You can't trust his health advice — he's overweight."
+          }
+        },
+        {
+          "title": "Straw Man",
+          "notes": "Misrepresenting an opponent's position to make it easier to attack.",
+          "fields": {
+            "Type": "Informal",
+            "Latin/Greek Name": "—",
+            "Definition": "Misrepresenting an opponent's position to make it easier to attack.",
+            "Example": "He wants stricter gun laws, so he wants to ban all guns."
+          }
+        },
+        {
+          "title": "Sunk Cost Fallacy",
+          "notes": "Continuing a losing course of action because of past investment rather than future value.",
+          "fields": {
+            "Type": "Informal",
+            "Latin/Greek Name": "—",
+            "Definition": "Continuing a losing course of action because of past investment rather than future value.",
+            "Example": "I've already spent so much on this project, I can't quit now."
+          }
+        }
+      ]
+    },
+    {
+      "id": "rhetorical-devices",
+      "name": "Rhetorical Devices",
+      "description": "25 classical devices — from anaphora to zeugma — with category, definition, example, and etymology",
+      "category": "philosophy",
+      "card_count": 25,
+      "author": "MindDeck Team",
+      "tags": [
+        "rhetoric",
+        "writing",
+        "persuasion",
+        "language",
+        "classical",
+        "style"
+      ],
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/rhetorical-devices.json",
+      "format": "json",
+      "preview": [
+        {
+          "title": "Anaphora",
+          "notes": "Repetition of a word or phrase at the beginning of successive clauses.",
+          "fields": {
+            "Category": "Repetition device",
+            "Definition": "Repetition of a word or phrase at the beginning of successive clauses.",
+            "Example": "I have a dream... I have a dream... — Martin Luther King Jr.",
+            "Etymology": "Greek: anaphora (carrying back)"
+          }
+        },
+        {
+          "title": "Chiasmus",
+          "notes": "Reversal of grammatical structures in successive phrases.",
+          "fields": {
+            "Category": "Inversion device",
+            "Definition": "Reversal of grammatical structures in successive phrases.",
+            "Example": "Ask not what your country can do for you — ask what you can do for your country.",
+            "Etymology": "Greek: chiasmos (crossing)"
+          }
+        },
+        {
+          "title": "Hyperbole",
+          "notes": "Deliberate, extreme exaggeration not meant to be taken literally.",
+          "fields": {
+            "Category": "Emphasis device",
+            "Definition": "Deliberate, extreme exaggeration not meant to be taken literally.",
+            "Example": "I've told you a million times!",
+            "Etymology": "Greek: hyperbole (excess)"
           }
         }
       ]
