@@ -1,0 +1,335 @@
+{
+  "deck_name": "Famous Battles",
+  "cards": [
+    {
+      "title": "Battle of Marathon",
+      "notes": "Changed course of Western civilization; origin of the marathon race",
+      "fields": {
+        "Year": "490 BC",
+        "Conflict": "Greco-Persian Wars",
+        "Belligerents": "Greeks (Athens) vs. Persians",
+        "Outcome": "Greek victory",
+        "Location": "Greece"
+      }
+    },
+    {
+      "title": "Battle of Thermopylae",
+      "notes": "Leonidas held Xerxes for 3 days; became a symbol of heroic sacrifice",
+      "fields": {
+        "Year": "480 BC",
+        "Conflict": "Greco-Persian Wars",
+        "Belligerents": "300 Spartans (+ allies) vs. Persians",
+        "Outcome": "Persian victory (tactical)",
+        "Location": "Greece"
+      }
+    },
+    {
+      "title": "Battle of Gaugamela",
+      "notes": "Alexander the Great defeats Darius III; collapse of the Persian Empire",
+      "fields": {
+        "Year": "331 BC",
+        "Conflict": "Wars of Alexander the Great",
+        "Belligerents": "Macedonians vs. Persian Empire",
+        "Outcome": "Macedonian victory",
+        "Location": "Iraq (ancient Persia)"
+      }
+    },
+    {
+      "title": "Battle of Zama",
+      "notes": "Scipio Africanus defeats Hannibal; Rome becomes Mediterranean superpower",
+      "fields": {
+        "Year": "202 BC",
+        "Conflict": "Second Punic War",
+        "Belligerents": "Rome vs. Carthage",
+        "Outcome": "Roman victory",
+        "Location": "Tunisia"
+      }
+    },
+    {
+      "title": "Battle of Hastings",
+      "notes": "William the Conqueror defeats Harold II; transforms English culture and language",
+      "fields": {
+        "Year": "1066 AD",
+        "Conflict": "Norman Conquest",
+        "Belligerents": "Normans vs. Anglo-Saxons",
+        "Outcome": "Norman victory",
+        "Location": "England"
+      }
+    },
+    {
+      "title": "Battle of Agincourt",
+      "notes": "Henry V defeats a much larger French force; immortalized in Shakespeare's Henry V",
+      "fields": {
+        "Year": "1415 AD",
+        "Conflict": "Hundred Years' War",
+        "Belligerents": "England vs. France",
+        "Outcome": "English victory",
+        "Location": "France"
+      }
+    },
+    {
+      "title": "Fall of Constantinople",
+      "notes": "End of the Byzantine Empire; marks conventional end of the Middle Ages",
+      "fields": {
+        "Year": "1453 AD",
+        "Conflict": "Ottoman Expansion",
+        "Belligerents": "Ottoman Empire vs. Byzantine Empire",
+        "Outcome": "Ottoman victory",
+        "Location": "Turkey"
+      }
+    },
+    {
+      "title": "Battle of Lepanto",
+      "notes": "Last major battle fought entirely by oar-powered galleys; halted Ottoman westward naval expansion",
+      "fields": {
+        "Year": "1571 AD",
+        "Conflict": "Ottoman\u2013Habsburg Wars",
+        "Belligerents": "Holy League vs. Ottoman Empire",
+        "Outcome": "Holy League victory",
+        "Location": "Greece (Gulf of Patras)"
+      }
+    },
+    {
+      "title": "Battle of the Spanish Armada",
+      "notes": "England repels Spanish invasion fleet; shifts power balance in Europe",
+      "fields": {
+        "Year": "1588 AD",
+        "Conflict": "Anglo-Spanish War",
+        "Belligerents": "England vs. Spain",
+        "Outcome": "English victory",
+        "Location": "English Channel"
+      }
+    },
+    {
+      "title": "Battle of Blenheim",
+      "notes": "Duke of Marlborough and Prince Eugene defeat France; prevents French hegemony",
+      "fields": {
+        "Year": "1704 AD",
+        "Conflict": "War of the Spanish Succession",
+        "Belligerents": "Allied forces vs. France/Bavaria",
+        "Outcome": "Allied victory",
+        "Location": "Germany"
+      }
+    },
+    {
+      "title": "Battle of Saratoga",
+      "notes": "Turning point of the Revolution; convinced France to ally with the United States",
+      "fields": {
+        "Year": "1777 AD",
+        "Conflict": "American Revolutionary War",
+        "Belligerents": "Continental Army vs. Britain",
+        "Outcome": "American victory",
+        "Location": "New York, USA"
+      }
+    },
+    {
+      "title": "Battle of Trafalgar",
+      "notes": "Nelson defeats combined Franco-Spanish fleet; Britain secures naval supremacy for a century",
+      "fields": {
+        "Year": "1805 AD",
+        "Conflict": "Napoleonic Wars",
+        "Belligerents": "Britain vs. France/Spain",
+        "Outcome": "British victory",
+        "Location": "Atlantic (off Spain)"
+      }
+    },
+    {
+      "title": "Battle of Waterloo",
+      "notes": "Napoleon's final defeat; end of the Napoleonic era",
+      "fields": {
+        "Year": "1815 AD",
+        "Conflict": "Napoleonic Wars",
+        "Belligerents": "Napoleon vs. Coalition forces",
+        "Outcome": "Coalition victory",
+        "Location": "Belgium"
+      }
+    },
+    {
+      "title": "Battle of Gettysburg",
+      "notes": "Bloodiest battle in American history; turning point of the Civil War",
+      "fields": {
+        "Year": "1863 AD",
+        "Conflict": "American Civil War",
+        "Belligerents": "Union vs. Confederacy",
+        "Outcome": "Union victory",
+        "Location": "Pennsylvania, USA"
+      }
+    },
+    {
+      "title": "Battle of the Little Bighorn",
+      "notes": "Lt. Col. Custer and 268 soldiers killed; largest U.S. defeat in the Indian Wars",
+      "fields": {
+        "Year": "1876 AD",
+        "Conflict": "Great Sioux War",
+        "Belligerents": "Sioux/Cheyenne vs. U.S. 7th Cavalry",
+        "Outcome": "Native American victory",
+        "Location": "Montana, USA"
+      }
+    },
+    {
+      "title": "Battle of Tsushima",
+      "notes": "Japan annihilates Russian Baltic Fleet; Japan emerges as a world naval power",
+      "fields": {
+        "Year": "1905 AD",
+        "Conflict": "Russo-Japanese War",
+        "Belligerents": "Japan vs. Russia",
+        "Outcome": "Japanese victory",
+        "Location": "Sea of Japan"
+      }
+    },
+    {
+      "title": "Battle of the Marne (First)",
+      "notes": "Stopped the German advance; ended the war of movement on the Western Front",
+      "fields": {
+        "Year": "1914 AD",
+        "Conflict": "World War I",
+        "Belligerents": "France/Britain vs. Germany",
+        "Outcome": "Allied victory",
+        "Location": "France"
+      }
+    },
+    {
+      "title": "Battle of Verdun",
+      "notes": "~700,000 casualties; one of the longest and most costly battles in history",
+      "fields": {
+        "Year": "1916 AD",
+        "Conflict": "World War I",
+        "Belligerents": "France vs. Germany",
+        "Outcome": "French strategic victory",
+        "Location": "France"
+      }
+    },
+    {
+      "title": "Battle of the Somme",
+      "notes": "~1 million casualties; worst day in British military history (July 1: 57,000 casualties)",
+      "fields": {
+        "Year": "1916 AD",
+        "Conflict": "World War I",
+        "Belligerents": "Britain/France vs. Germany",
+        "Outcome": "Inconclusive",
+        "Location": "France"
+      }
+    },
+    {
+      "title": "Battle of Stalingrad",
+      "notes": "~2 million casualties; decisive turning point of WWII on the Eastern Front",
+      "fields": {
+        "Year": "1942 AD",
+        "Conflict": "World War II",
+        "Belligerents": "Soviet Union vs. Nazi Germany",
+        "Outcome": "Soviet victory",
+        "Location": "Russia"
+      }
+    },
+    {
+      "title": "Battle of Midway",
+      "notes": "Japan loses 4 carriers; turning point of the Pacific War",
+      "fields": {
+        "Year": "1942 AD",
+        "Conflict": "World War II (Pacific)",
+        "Belligerents": "United States vs. Japan",
+        "Outcome": "U.S. victory",
+        "Location": "Central Pacific"
+      }
+    },
+    {
+      "title": "Battle of El Alamein (Second)",
+      "notes": "Montgomery defeats Rommel; Churchill: 'the end of the beginning'",
+      "fields": {
+        "Year": "1942 AD",
+        "Conflict": "World War II (N. Africa)",
+        "Belligerents": "Allies vs. Axis",
+        "Outcome": "Allied victory",
+        "Location": "Egypt"
+      }
+    },
+    {
+      "title": "D-Day (Normandy Landings)",
+      "notes": "Largest seaborne invasion in history; opened Western Front in Europe",
+      "fields": {
+        "Year": "1944 AD",
+        "Conflict": "World War II",
+        "Belligerents": "Allies vs. Nazi Germany",
+        "Outcome": "Allied success",
+        "Location": "France"
+      }
+    },
+    {
+      "title": "Battle of the Bulge",
+      "notes": "Germany's last major Western offensive; costly Allied victory",
+      "fields": {
+        "Year": "1944 AD",
+        "Conflict": "World War II",
+        "Belligerents": "Allies vs. Nazi Germany",
+        "Outcome": "Allied victory",
+        "Location": "Belgium/Luxembourg"
+      }
+    },
+    {
+      "title": "Battle of Iwo Jima",
+      "notes": "Only battle where U.S. Marine casualties exceeded Japanese; iconic flag photo",
+      "fields": {
+        "Year": "1945 AD",
+        "Conflict": "World War II (Pacific)",
+        "Belligerents": "United States vs. Japan",
+        "Outcome": "U.S. victory",
+        "Location": "Japan (Pacific island)"
+      }
+    },
+    {
+      "title": "Battle of Inchon",
+      "notes": "MacArthur's amphibious landing; reversed North Korean advance",
+      "fields": {
+        "Year": "1950 AD",
+        "Conflict": "Korean War",
+        "Belligerents": "UN/USA vs. North Korea",
+        "Outcome": "UN victory",
+        "Location": "South Korea"
+      }
+    },
+    {
+      "title": "Battle of Dien Bien Phu",
+      "notes": "France's decisive defeat; ended French colonial presence in Indochina",
+      "fields": {
+        "Year": "1954 AD",
+        "Conflict": "First Indochina War",
+        "Belligerents": "Viet Minh vs. France",
+        "Outcome": "Viet Minh victory",
+        "Location": "Vietnam"
+      }
+    },
+    {
+      "title": "Battle of the Ia Drang Valley",
+      "notes": "First major battle between U.S. and NVA; presaged nature of the Vietnam War",
+      "fields": {
+        "Year": "1965 AD",
+        "Conflict": "Vietnam War",
+        "Belligerents": "U.S. vs. North Vietnam",
+        "Outcome": "Inconclusive",
+        "Location": "Vietnam"
+      }
+    },
+    {
+      "title": "Six-Day War",
+      "notes": "Israel triples its territory in 6 days; reshapes Middle Eastern geopolitics",
+      "fields": {
+        "Year": "1967 AD",
+        "Conflict": "Arab\u2013Israeli Conflict",
+        "Belligerents": "Israel vs. Egypt/Jordan/Syria",
+        "Outcome": "Israeli victory",
+        "Location": "Middle East"
+      }
+    },
+    {
+      "title": "Battle of Fallujah (Second)",
+      "notes": "Largest urban combat by U.S. forces since Hue City, 1968",
+      "fields": {
+        "Year": "2004 AD",
+        "Conflict": "Iraq War",
+        "Belligerents": "U.S./Iraqi forces vs. insurgents",
+        "Outcome": "U.S. victory",
+        "Location": "Iraq"
+      }
+    }
+  ]
+}

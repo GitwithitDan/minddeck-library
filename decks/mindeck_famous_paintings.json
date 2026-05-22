@@ -1,0 +1,324 @@
+{
+  "deck_name": "Famous Paintings",
+  "cards": [
+    {
+      "title": "Mona Lisa",
+      "notes": "By Leonardo da Vinci, c. 1503\u20131519",
+      "fields": {
+        "Artist": "Leonardo da Vinci",
+        "Year": "c. 1503\u20131519",
+        "Movement": "Renaissance",
+        "Medium": "Oil on poplar panel",
+        "Current Location": "Louvre Museum, Paris"
+      }
+    },
+    {
+      "title": "The Starry Night",
+      "notes": "By Vincent van Gogh, 1889",
+      "fields": {
+        "Artist": "Vincent van Gogh",
+        "Year": "1889",
+        "Movement": "Post-Impressionism",
+        "Medium": "Oil on canvas",
+        "Current Location": "MoMA, New York"
+      }
+    },
+    {
+      "title": "The Last Supper",
+      "notes": "By Leonardo da Vinci, 1495\u20131498",
+      "fields": {
+        "Artist": "Leonardo da Vinci",
+        "Year": "1495\u20131498",
+        "Movement": "Renaissance",
+        "Medium": "Tempera on plaster",
+        "Current Location": "Santa Maria delle Grazie, Milan"
+      }
+    },
+    {
+      "title": "The Persistence of Memory",
+      "notes": "By Salvador Dal\u00ed, 1931",
+      "fields": {
+        "Artist": "Salvador Dal\u00ed",
+        "Year": "1931",
+        "Movement": "Surrealism",
+        "Medium": "Oil on canvas",
+        "Current Location": "MoMA, New York"
+      }
+    },
+    {
+      "title": "Girl with a Pearl Earring",
+      "notes": "By Johannes Vermeer, c. 1665",
+      "fields": {
+        "Artist": "Johannes Vermeer",
+        "Year": "c. 1665",
+        "Movement": "Dutch Golden Age",
+        "Medium": "Oil on canvas",
+        "Current Location": "Mauritshuis, The Hague"
+      }
+    },
+    {
+      "title": "The Birth of Venus",
+      "notes": "By Sandro Botticelli, c. 1484\u20131486",
+      "fields": {
+        "Artist": "Sandro Botticelli",
+        "Year": "c. 1484\u20131486",
+        "Movement": "Early Renaissance",
+        "Medium": "Tempera on canvas",
+        "Current Location": "Uffizi Gallery, Florence"
+      }
+    },
+    {
+      "title": "The Scream",
+      "notes": "By Edvard Munch, 1893",
+      "fields": {
+        "Artist": "Edvard Munch",
+        "Year": "1893",
+        "Movement": "Expressionism",
+        "Medium": "Oil, tempera & pastel",
+        "Current Location": "National Museum, Oslo"
+      }
+    },
+    {
+      "title": "Guernica",
+      "notes": "By Pablo Picasso, 1937",
+      "fields": {
+        "Artist": "Pablo Picasso",
+        "Year": "1937",
+        "Movement": "Cubism / Expressionism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Museo Reina Sof\u00eda, Madrid"
+      }
+    },
+    {
+      "title": "Water Lilies (Nymph\u00e9as) \u2014 series",
+      "notes": "By Claude Monet, 1896\u20131926",
+      "fields": {
+        "Artist": "Claude Monet",
+        "Year": "1896\u20131926",
+        "Movement": "Impressionism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Various (Orangerie, MoMA, Orsay)"
+      }
+    },
+    {
+      "title": "The Night Watch",
+      "notes": "By Rembrandt van Rijn, 1642",
+      "fields": {
+        "Artist": "Rembrandt van Rijn",
+        "Year": "1642",
+        "Movement": "Dutch Golden Age",
+        "Medium": "Oil on canvas",
+        "Current Location": "Rijksmuseum, Amsterdam"
+      }
+    },
+    {
+      "title": "The Creation of Adam",
+      "notes": "By Michelangelo, 1508\u20131512",
+      "fields": {
+        "Artist": "Michelangelo",
+        "Year": "1508\u20131512",
+        "Movement": "High Renaissance",
+        "Medium": "Fresco",
+        "Current Location": "Sistine Chapel, Vatican"
+      }
+    },
+    {
+      "title": "A Sunday on La Grande Jatte",
+      "notes": "By Georges Seurat, 1884\u20131886",
+      "fields": {
+        "Artist": "Georges Seurat",
+        "Year": "1884\u20131886",
+        "Movement": "Pointillism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Art Institute of Chicago"
+      }
+    },
+    {
+      "title": "Bal du moulin de la Galette",
+      "notes": "By Pierre-Auguste Renoir, 1876",
+      "fields": {
+        "Artist": "Pierre-Auguste Renoir",
+        "Year": "1876",
+        "Movement": "Impressionism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Mus\u00e9e d'Orsay, Paris"
+      }
+    },
+    {
+      "title": "Las Meninas",
+      "notes": "By Diego Vel\u00e1zquez, 1656",
+      "fields": {
+        "Artist": "Diego Vel\u00e1zquez",
+        "Year": "1656",
+        "Movement": "Baroque",
+        "Medium": "Oil on canvas",
+        "Current Location": "Prado Museum, Madrid"
+      }
+    },
+    {
+      "title": "American Gothic",
+      "notes": "By Grant Wood, 1930",
+      "fields": {
+        "Artist": "Grant Wood",
+        "Year": "1930",
+        "Movement": "Regionalism",
+        "Medium": "Oil on beaverboard",
+        "Current Location": "Art Institute of Chicago"
+      }
+    },
+    {
+      "title": "Nighthawks",
+      "notes": "By Edward Hopper, 1942",
+      "fields": {
+        "Artist": "Edward Hopper",
+        "Year": "1942",
+        "Movement": "Realism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Art Institute of Chicago"
+      }
+    },
+    {
+      "title": "The Kiss",
+      "notes": "By Gustav Klimt, 1907\u20131908",
+      "fields": {
+        "Artist": "Gustav Klimt",
+        "Year": "1907\u20131908",
+        "Movement": "Symbolism / Art Nouveau",
+        "Medium": "Oil & gold leaf",
+        "Current Location": "Belvedere Museum, Vienna"
+      }
+    },
+    {
+      "title": "Liberty Leading the People",
+      "notes": "By Eug\u00e8ne Delacroix, 1830",
+      "fields": {
+        "Artist": "Eug\u00e8ne Delacroix",
+        "Year": "1830",
+        "Movement": "Romanticism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Louvre Museum, Paris"
+      }
+    },
+    {
+      "title": "Whistler's Mother",
+      "notes": "By James McNeill Whistler, 1871",
+      "fields": {
+        "Artist": "James McNeill Whistler",
+        "Year": "1871",
+        "Movement": "Realism / Tonalism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Mus\u00e9e d'Orsay, Paris"
+      }
+    },
+    {
+      "title": "The Great Wave off Kanagawa",
+      "notes": "By Katsushika Hokusai, c. 1831",
+      "fields": {
+        "Artist": "Katsushika Hokusai",
+        "Year": "c. 1831",
+        "Movement": "Ukiyo-e",
+        "Medium": "Woodblock print",
+        "Current Location": "Multiple collections"
+      }
+    },
+    {
+      "title": "Self-Portrait with Thorn Necklace",
+      "notes": "By Frida Kahlo, 1940",
+      "fields": {
+        "Artist": "Frida Kahlo",
+        "Year": "1940",
+        "Movement": "Surrealism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Harry Ransom Center, Austin TX"
+      }
+    },
+    {
+      "title": "The Hay Wain",
+      "notes": "By John Constable, 1821",
+      "fields": {
+        "Artist": "John Constable",
+        "Year": "1821",
+        "Movement": "Romanticism",
+        "Medium": "Oil on canvas",
+        "Current Location": "National Gallery, London"
+      }
+    },
+    {
+      "title": "The Third of May 1808",
+      "notes": "By Francisco Goya, 1814",
+      "fields": {
+        "Artist": "Francisco Goya",
+        "Year": "1814",
+        "Movement": "Romanticism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Prado Museum, Madrid"
+      }
+    },
+    {
+      "title": "A Bar at the Folies-Berg\u00e8re",
+      "notes": "By \u00c9douard Manet, 1882",
+      "fields": {
+        "Artist": "\u00c9douard Manet",
+        "Year": "1882",
+        "Movement": "Impressionism",
+        "Medium": "Oil on canvas",
+        "Current Location": "Courtauld Gallery, London"
+      }
+    },
+    {
+      "title": "Sunflowers",
+      "notes": "By Vincent van Gogh, 1888",
+      "fields": {
+        "Artist": "Vincent van Gogh",
+        "Year": "1888",
+        "Movement": "Post-Impressionism",
+        "Medium": "Oil on canvas",
+        "Current Location": "National Gallery, London"
+      }
+    },
+    {
+      "title": "The Arnolfini Portrait",
+      "notes": "By Jan van Eyck, 1434",
+      "fields": {
+        "Artist": "Jan van Eyck",
+        "Year": "1434",
+        "Movement": "Early Netherlandish",
+        "Medium": "Oil on oak panel",
+        "Current Location": "National Gallery, London"
+      }
+    },
+    {
+      "title": "The Garden of Earthly Delights",
+      "notes": "By Hieronymus Bosch, c. 1490\u20131510",
+      "fields": {
+        "Artist": "Hieronymus Bosch",
+        "Year": "c. 1490\u20131510",
+        "Movement": "Early Netherlandish",
+        "Medium": "Oil on oak panel triptych",
+        "Current Location": "Prado Museum, Madrid"
+      }
+    },
+    {
+      "title": "Number 31",
+      "notes": "By Jackson Pollock, 1950",
+      "fields": {
+        "Artist": "Jackson Pollock",
+        "Year": "1950",
+        "Movement": "Abstract Expressionism",
+        "Medium": "Oil & enamel on canvas",
+        "Current Location": "MoMA, New York"
+      }
+    },
+    {
+      "title": "Girl Before a Mirror",
+      "notes": "By Pablo Picasso, 1932",
+      "fields": {
+        "Artist": "Pablo Picasso",
+        "Year": "1932",
+        "Movement": "Cubism",
+        "Medium": "Oil on canvas",
+        "Current Location": "MoMA, New York"
+      }
+    }
+  ]
+}

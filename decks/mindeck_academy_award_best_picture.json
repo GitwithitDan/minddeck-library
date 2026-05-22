@@ -1,0 +1,965 @@
+{
+  "deck_name": "Academy Award \u2014 Best Picture",
+  "cards": [
+    {
+      "title": "Wings",
+      "notes": "Best Picture winner at the 1th Academy Awards",
+      "fields": {
+        "Film Year": "1927",
+        "Ceremony": "1th Academy Awards",
+        "Director": "William A. Wellman",
+        "Genre": "War Drama"
+      }
+    },
+    {
+      "title": "The Broadway Melody",
+      "notes": "Best Picture winner at the 2th Academy Awards",
+      "fields": {
+        "Film Year": "1929",
+        "Ceremony": "2th Academy Awards",
+        "Director": "Harry Beaumont",
+        "Genre": "Musical"
+      }
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "notes": "Best Picture winner at the 3th Academy Awards",
+      "fields": {
+        "Film Year": "1930",
+        "Ceremony": "3th Academy Awards",
+        "Director": "Lewis Milestone",
+        "Genre": "War Drama"
+      }
+    },
+    {
+      "title": "Cimarron",
+      "notes": "Best Picture winner at the 4th Academy Awards",
+      "fields": {
+        "Film Year": "1931",
+        "Ceremony": "4th Academy Awards",
+        "Director": "Wesley Ruggles",
+        "Genre": "Western Drama"
+      }
+    },
+    {
+      "title": "Grand Hotel",
+      "notes": "Best Picture winner at the 5th Academy Awards",
+      "fields": {
+        "Film Year": "1932",
+        "Ceremony": "5th Academy Awards",
+        "Director": "Edmund Goulding",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Cavalcade",
+      "notes": "Best Picture winner at the 6th Academy Awards",
+      "fields": {
+        "Film Year": "1933",
+        "Ceremony": "6th Academy Awards",
+        "Director": "Frank Lloyd",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "It Happened One Night",
+      "notes": "Best Picture winner at the 7th Academy Awards",
+      "fields": {
+        "Film Year": "1934",
+        "Ceremony": "7th Academy Awards",
+        "Director": "Frank Capra",
+        "Genre": "Romantic Comedy"
+      }
+    },
+    {
+      "title": "Mutiny on the Bounty",
+      "notes": "Best Picture winner at the 8th Academy Awards",
+      "fields": {
+        "Film Year": "1935",
+        "Ceremony": "8th Academy Awards",
+        "Director": "Frank Lloyd",
+        "Genre": "Adventure Drama"
+      }
+    },
+    {
+      "title": "The Great Ziegfeld",
+      "notes": "Best Picture winner at the 9th Academy Awards",
+      "fields": {
+        "Film Year": "1936",
+        "Ceremony": "9th Academy Awards",
+        "Director": "Robert Z. Leonard",
+        "Genre": "Musical Biographical"
+      }
+    },
+    {
+      "title": "The Life of Emile Zola",
+      "notes": "Best Picture winner at the 10th Academy Awards",
+      "fields": {
+        "Film Year": "1937",
+        "Ceremony": "10th Academy Awards",
+        "Director": "William Dieterle",
+        "Genre": "Biographical Drama"
+      }
+    },
+    {
+      "title": "You Can't Take It with You",
+      "notes": "Best Picture winner at the 11th Academy Awards",
+      "fields": {
+        "Film Year": "1938",
+        "Ceremony": "11th Academy Awards",
+        "Director": "Frank Capra",
+        "Genre": "Comedy Drama"
+      }
+    },
+    {
+      "title": "Gone with the Wind",
+      "notes": "Best Picture winner at the 12th Academy Awards",
+      "fields": {
+        "Film Year": "1939",
+        "Ceremony": "12th Academy Awards",
+        "Director": "Victor Fleming",
+        "Genre": "Epic Romance Drama"
+      }
+    },
+    {
+      "title": "Rebecca",
+      "notes": "Best Picture winner at the 13th Academy Awards",
+      "fields": {
+        "Film Year": "1940",
+        "Ceremony": "13th Academy Awards",
+        "Director": "Alfred Hitchcock",
+        "Genre": "Thriller Mystery Romance"
+      }
+    },
+    {
+      "title": "How Green Was My Valley",
+      "notes": "Best Picture winner at the 14th Academy Awards",
+      "fields": {
+        "Film Year": "1941",
+        "Ceremony": "14th Academy Awards",
+        "Director": "John Ford",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Mrs. Miniver",
+      "notes": "Best Picture winner at the 15th Academy Awards",
+      "fields": {
+        "Film Year": "1942",
+        "Ceremony": "15th Academy Awards",
+        "Director": "William Wyler",
+        "Genre": "War Drama"
+      }
+    },
+    {
+      "title": "Casablanca",
+      "notes": "Best Picture winner at the 16th Academy Awards",
+      "fields": {
+        "Film Year": "1943",
+        "Ceremony": "16th Academy Awards",
+        "Director": "Michael Curtiz",
+        "Genre": "Romance War Drama"
+      }
+    },
+    {
+      "title": "Going My Way",
+      "notes": "Best Picture winner at the 17th Academy Awards",
+      "fields": {
+        "Film Year": "1944",
+        "Ceremony": "17th Academy Awards",
+        "Director": "Leo McCarey",
+        "Genre": "Musical Comedy Drama"
+      }
+    },
+    {
+      "title": "The Lost Weekend",
+      "notes": "Best Picture winner at the 18th Academy Awards",
+      "fields": {
+        "Film Year": "1945",
+        "Ceremony": "18th Academy Awards",
+        "Director": "Billy Wilder",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "The Best Years of Our Lives",
+      "notes": "Best Picture winner at the 19th Academy Awards",
+      "fields": {
+        "Film Year": "1946",
+        "Ceremony": "19th Academy Awards",
+        "Director": "William Wyler",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Gentleman's Agreement",
+      "notes": "Best Picture winner at the 20th Academy Awards",
+      "fields": {
+        "Film Year": "1947",
+        "Ceremony": "20th Academy Awards",
+        "Director": "Elia Kazan",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Hamlet",
+      "notes": "Best Picture winner at the 21th Academy Awards",
+      "fields": {
+        "Film Year": "1948",
+        "Ceremony": "21th Academy Awards",
+        "Director": "Laurence Olivier",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "All the King's Men",
+      "notes": "Best Picture winner at the 22th Academy Awards",
+      "fields": {
+        "Film Year": "1949",
+        "Ceremony": "22th Academy Awards",
+        "Director": "Robert Rossen",
+        "Genre": "Political Drama"
+      }
+    },
+    {
+      "title": "An American in Paris",
+      "notes": "Best Picture winner at the 24th Academy Awards",
+      "fields": {
+        "Film Year": "1951",
+        "Ceremony": "24th Academy Awards",
+        "Director": "Vincente Minnelli",
+        "Genre": "Musical Romance"
+      }
+    },
+    {
+      "title": "The Greatest Show on Earth",
+      "notes": "Best Picture winner at the 25th Academy Awards",
+      "fields": {
+        "Film Year": "1952",
+        "Ceremony": "25th Academy Awards",
+        "Director": "Cecil B. DeMille",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "From Here to Eternity",
+      "notes": "Best Picture winner at the 26th Academy Awards",
+      "fields": {
+        "Film Year": "1953",
+        "Ceremony": "26th Academy Awards",
+        "Director": "Fred Zinnemann",
+        "Genre": "War Drama Romance"
+      }
+    },
+    {
+      "title": "On the Waterfront",
+      "notes": "Best Picture winner at the 27th Academy Awards",
+      "fields": {
+        "Film Year": "1954",
+        "Ceremony": "27th Academy Awards",
+        "Director": "Elia Kazan",
+        "Genre": "Crime Drama"
+      }
+    },
+    {
+      "title": "Marty",
+      "notes": "Best Picture winner at the 28th Academy Awards",
+      "fields": {
+        "Film Year": "1955",
+        "Ceremony": "28th Academy Awards",
+        "Director": "Delbert Mann",
+        "Genre": "Drama Romance"
+      }
+    },
+    {
+      "title": "Around the World in 80 Days",
+      "notes": "Best Picture winner at the 29th Academy Awards",
+      "fields": {
+        "Film Year": "1956",
+        "Ceremony": "29th Academy Awards",
+        "Director": "Michael Anderson",
+        "Genre": "Adventure Comedy"
+      }
+    },
+    {
+      "title": "The Bridge on the River Kwai",
+      "notes": "Best Picture winner at the 30th Academy Awards",
+      "fields": {
+        "Film Year": "1957",
+        "Ceremony": "30th Academy Awards",
+        "Director": "David Lean",
+        "Genre": "War Drama"
+      }
+    },
+    {
+      "title": "Gigi",
+      "notes": "Best Picture winner at the 31th Academy Awards",
+      "fields": {
+        "Film Year": "1958",
+        "Ceremony": "31th Academy Awards",
+        "Director": "Vincente Minnelli",
+        "Genre": "Musical Romance"
+      }
+    },
+    {
+      "title": "Ben-Hur",
+      "notes": "Best Picture winner at the 32th Academy Awards",
+      "fields": {
+        "Film Year": "1959",
+        "Ceremony": "32th Academy Awards",
+        "Director": "William Wyler",
+        "Genre": "Epic Adventure Drama"
+      }
+    },
+    {
+      "title": "The Apartment",
+      "notes": "Best Picture winner at the 33th Academy Awards",
+      "fields": {
+        "Film Year": "1960",
+        "Ceremony": "33th Academy Awards",
+        "Director": "Billy Wilder",
+        "Genre": "Comedy Drama Romance"
+      }
+    },
+    {
+      "title": "West Side Story",
+      "notes": "Best Picture winner at the 34th Academy Awards",
+      "fields": {
+        "Film Year": "1961",
+        "Ceremony": "34th Academy Awards",
+        "Director": "Robert Wise & Jerome Robbins",
+        "Genre": "Musical Romance Drama"
+      }
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "notes": "Best Picture winner at the 35th Academy Awards",
+      "fields": {
+        "Film Year": "1962",
+        "Ceremony": "35th Academy Awards",
+        "Director": "David Lean",
+        "Genre": "Epic Biographical Drama"
+      }
+    },
+    {
+      "title": "Tom Jones",
+      "notes": "Best Picture winner at the 36th Academy Awards",
+      "fields": {
+        "Film Year": "1963",
+        "Ceremony": "36th Academy Awards",
+        "Director": "Tony Richardson",
+        "Genre": "Comedy Adventure Romance"
+      }
+    },
+    {
+      "title": "My Fair Lady",
+      "notes": "Best Picture winner at the 37th Academy Awards",
+      "fields": {
+        "Film Year": "1964",
+        "Ceremony": "37th Academy Awards",
+        "Director": "George Cukor",
+        "Genre": "Musical Romance Comedy"
+      }
+    },
+    {
+      "title": "The Sound of Music",
+      "notes": "Best Picture winner at the 38th Academy Awards",
+      "fields": {
+        "Film Year": "1965",
+        "Ceremony": "38th Academy Awards",
+        "Director": "Robert Wise",
+        "Genre": "Musical Biographical Drama"
+      }
+    },
+    {
+      "title": "A Man for All Seasons",
+      "notes": "Best Picture winner at the 39th Academy Awards",
+      "fields": {
+        "Film Year": "1966",
+        "Ceremony": "39th Academy Awards",
+        "Director": "Fred Zinnemann",
+        "Genre": "Biographical Drama"
+      }
+    },
+    {
+      "title": "In the Heat of the Night",
+      "notes": "Best Picture winner at the 40th Academy Awards",
+      "fields": {
+        "Film Year": "1967",
+        "Ceremony": "40th Academy Awards",
+        "Director": "Norman Jewison",
+        "Genre": "Crime Drama Mystery"
+      }
+    },
+    {
+      "title": "Oliver!",
+      "notes": "Best Picture winner at the 41th Academy Awards",
+      "fields": {
+        "Film Year": "1968",
+        "Ceremony": "41th Academy Awards",
+        "Director": "Carol Reed",
+        "Genre": "Musical Drama"
+      }
+    },
+    {
+      "title": "Midnight Cowboy",
+      "notes": "Best Picture winner at the 42th Academy Awards",
+      "fields": {
+        "Film Year": "1969",
+        "Ceremony": "42th Academy Awards",
+        "Director": "John Schlesinger",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Patton",
+      "notes": "Best Picture winner at the 43th Academy Awards",
+      "fields": {
+        "Film Year": "1970",
+        "Ceremony": "43th Academy Awards",
+        "Director": "Franklin J. Schaffner",
+        "Genre": "Biographical War Drama"
+      }
+    },
+    {
+      "title": "The French Connection",
+      "notes": "Best Picture winner at the 44th Academy Awards",
+      "fields": {
+        "Film Year": "1971",
+        "Ceremony": "44th Academy Awards",
+        "Director": "William Friedkin",
+        "Genre": "Crime Thriller Action"
+      }
+    },
+    {
+      "title": "The Godfather",
+      "notes": "Best Picture winner at the 45th Academy Awards",
+      "fields": {
+        "Film Year": "1972",
+        "Ceremony": "45th Academy Awards",
+        "Director": "Francis Ford Coppola",
+        "Genre": "Crime Drama"
+      }
+    },
+    {
+      "title": "The Sting",
+      "notes": "Best Picture winner at the 46th Academy Awards",
+      "fields": {
+        "Film Year": "1973",
+        "Ceremony": "46th Academy Awards",
+        "Director": "George Roy Hill",
+        "Genre": "Crime Comedy Drama"
+      }
+    },
+    {
+      "title": "The Godfather Part II",
+      "notes": "Best Picture winner at the 47th Academy Awards",
+      "fields": {
+        "Film Year": "1974",
+        "Ceremony": "47th Academy Awards",
+        "Director": "Francis Ford Coppola",
+        "Genre": "Crime Drama"
+      }
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "notes": "Best Picture winner at the 48th Academy Awards",
+      "fields": {
+        "Film Year": "1975",
+        "Ceremony": "48th Academy Awards",
+        "Director": "Milo\u0161 Forman",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Rocky",
+      "notes": "Best Picture winner at the 49th Academy Awards",
+      "fields": {
+        "Film Year": "1976",
+        "Ceremony": "49th Academy Awards",
+        "Director": "John G. Avildsen",
+        "Genre": "Sports Drama"
+      }
+    },
+    {
+      "title": "Annie Hall",
+      "notes": "Best Picture winner at the 50th Academy Awards",
+      "fields": {
+        "Film Year": "1977",
+        "Ceremony": "50th Academy Awards",
+        "Director": "Woody Allen",
+        "Genre": "Romantic Comedy Drama"
+      }
+    },
+    {
+      "title": "The Deer Hunter",
+      "notes": "Best Picture winner at the 51th Academy Awards",
+      "fields": {
+        "Film Year": "1978",
+        "Ceremony": "51th Academy Awards",
+        "Director": "Michael Cimino",
+        "Genre": "War Drama"
+      }
+    },
+    {
+      "title": "Kramer vs. Kramer",
+      "notes": "Best Picture winner at the 52th Academy Awards",
+      "fields": {
+        "Film Year": "1979",
+        "Ceremony": "52th Academy Awards",
+        "Director": "Robert Benton",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Ordinary People",
+      "notes": "Best Picture winner at the 53th Academy Awards",
+      "fields": {
+        "Film Year": "1980",
+        "Ceremony": "53th Academy Awards",
+        "Director": "Robert Redford",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Chariots of Fire",
+      "notes": "Best Picture winner at the 54th Academy Awards",
+      "fields": {
+        "Film Year": "1981",
+        "Ceremony": "54th Academy Awards",
+        "Director": "Hugh Hudson",
+        "Genre": "Sports Biographical Drama"
+      }
+    },
+    {
+      "title": "Gandhi",
+      "notes": "Best Picture winner at the 55th Academy Awards",
+      "fields": {
+        "Film Year": "1982",
+        "Ceremony": "55th Academy Awards",
+        "Director": "Richard Attenborough",
+        "Genre": "Biographical Drama"
+      }
+    },
+    {
+      "title": "Terms of Endearment",
+      "notes": "Best Picture winner at the 56th Academy Awards",
+      "fields": {
+        "Film Year": "1983",
+        "Ceremony": "56th Academy Awards",
+        "Director": "James L. Brooks",
+        "Genre": "Drama Comedy"
+      }
+    },
+    {
+      "title": "Amadeus",
+      "notes": "Best Picture winner at the 57th Academy Awards",
+      "fields": {
+        "Film Year": "1984",
+        "Ceremony": "57th Academy Awards",
+        "Director": "Milo\u0161 Forman",
+        "Genre": "Biographical Drama"
+      }
+    },
+    {
+      "title": "Out of Africa",
+      "notes": "Best Picture winner at the 58th Academy Awards",
+      "fields": {
+        "Film Year": "1985",
+        "Ceremony": "58th Academy Awards",
+        "Director": "Sydney Pollack",
+        "Genre": "Romance Biographical Drama"
+      }
+    },
+    {
+      "title": "Platoon",
+      "notes": "Best Picture winner at the 59th Academy Awards",
+      "fields": {
+        "Film Year": "1986",
+        "Ceremony": "59th Academy Awards",
+        "Director": "Oliver Stone",
+        "Genre": "War Drama"
+      }
+    },
+    {
+      "title": "The Last Emperor",
+      "notes": "Best Picture winner at the 60th Academy Awards",
+      "fields": {
+        "Film Year": "1987",
+        "Ceremony": "60th Academy Awards",
+        "Director": "Bernardo Bertolucci",
+        "Genre": "Biographical Drama"
+      }
+    },
+    {
+      "title": "Rain Man",
+      "notes": "Best Picture winner at the 61th Academy Awards",
+      "fields": {
+        "Film Year": "1988",
+        "Ceremony": "61th Academy Awards",
+        "Director": "Barry Levinson",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Driving Miss Daisy",
+      "notes": "Best Picture winner at the 62th Academy Awards",
+      "fields": {
+        "Film Year": "1989",
+        "Ceremony": "62th Academy Awards",
+        "Director": "Bruce Beresford",
+        "Genre": "Drama Comedy"
+      }
+    },
+    {
+      "title": "Dances with Wolves",
+      "notes": "Best Picture winner at the 63th Academy Awards",
+      "fields": {
+        "Film Year": "1990",
+        "Ceremony": "63th Academy Awards",
+        "Director": "Kevin Costner",
+        "Genre": "Western Epic Drama"
+      }
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "notes": "Best Picture winner at the 64th Academy Awards",
+      "fields": {
+        "Film Year": "1991",
+        "Ceremony": "64th Academy Awards",
+        "Director": "Jonathan Demme",
+        "Genre": "Thriller Horror Crime"
+      }
+    },
+    {
+      "title": "Unforgiven",
+      "notes": "Best Picture winner at the 65th Academy Awards",
+      "fields": {
+        "Film Year": "1992",
+        "Ceremony": "65th Academy Awards",
+        "Director": "Clint Eastwood",
+        "Genre": "Western Drama"
+      }
+    },
+    {
+      "title": "Schindler's List",
+      "notes": "Best Picture winner at the 66th Academy Awards",
+      "fields": {
+        "Film Year": "1993",
+        "Ceremony": "66th Academy Awards",
+        "Director": "Steven Spielberg",
+        "Genre": "Biographical Historical Drama"
+      }
+    },
+    {
+      "title": "Forrest Gump",
+      "notes": "Best Picture winner at the 67th Academy Awards",
+      "fields": {
+        "Film Year": "1994",
+        "Ceremony": "67th Academy Awards",
+        "Director": "Robert Zemeckis",
+        "Genre": "Drama Romance Comedy"
+      }
+    },
+    {
+      "title": "Braveheart",
+      "notes": "Best Picture winner at the 68th Academy Awards",
+      "fields": {
+        "Film Year": "1995",
+        "Ceremony": "68th Academy Awards",
+        "Director": "Mel Gibson",
+        "Genre": "Epic War Biographical Drama"
+      }
+    },
+    {
+      "title": "The English Patient",
+      "notes": "Best Picture winner at the 69th Academy Awards",
+      "fields": {
+        "Film Year": "1996",
+        "Ceremony": "69th Academy Awards",
+        "Director": "Anthony Minghella",
+        "Genre": "Romance War Drama"
+      }
+    },
+    {
+      "title": "Titanic",
+      "notes": "Best Picture winner at the 70th Academy Awards",
+      "fields": {
+        "Film Year": "1997",
+        "Ceremony": "70th Academy Awards",
+        "Director": "James Cameron",
+        "Genre": "Romance Drama Disaster"
+      }
+    },
+    {
+      "title": "Shakespeare in Love",
+      "notes": "Best Picture winner at the 71th Academy Awards",
+      "fields": {
+        "Film Year": "1998",
+        "Ceremony": "71th Academy Awards",
+        "Director": "John Madden",
+        "Genre": "Romance Comedy Drama"
+      }
+    },
+    {
+      "title": "American Beauty",
+      "notes": "Best Picture winner at the 72th Academy Awards",
+      "fields": {
+        "Film Year": "1999",
+        "Ceremony": "72th Academy Awards",
+        "Director": "Sam Mendes",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "Gladiator",
+      "notes": "Best Picture winner at the 73th Academy Awards",
+      "fields": {
+        "Film Year": "2000",
+        "Ceremony": "73th Academy Awards",
+        "Director": "Ridley Scott",
+        "Genre": "Epic Action Drama"
+      }
+    },
+    {
+      "title": "A Beautiful Mind",
+      "notes": "Best Picture winner at the 74th Academy Awards",
+      "fields": {
+        "Film Year": "2001",
+        "Ceremony": "74th Academy Awards",
+        "Director": "Ron Howard",
+        "Genre": "Biographical Drama"
+      }
+    },
+    {
+      "title": "Chicago",
+      "notes": "Best Picture winner at the 75th Academy Awards",
+      "fields": {
+        "Film Year": "2002",
+        "Ceremony": "75th Academy Awards",
+        "Director": "Rob Marshall",
+        "Genre": "Musical Crime Comedy"
+      }
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "notes": "Best Picture winner at the 76th Academy Awards",
+      "fields": {
+        "Film Year": "2003",
+        "Ceremony": "76th Academy Awards",
+        "Director": "Peter Jackson",
+        "Genre": "Fantasy Adventure Drama"
+      }
+    },
+    {
+      "title": "Million Dollar Baby",
+      "notes": "Best Picture winner at the 77th Academy Awards",
+      "fields": {
+        "Film Year": "2004",
+        "Ceremony": "77th Academy Awards",
+        "Director": "Clint Eastwood",
+        "Genre": "Sports Drama"
+      }
+    },
+    {
+      "title": "Crash",
+      "notes": "Best Picture winner at the 78th Academy Awards",
+      "fields": {
+        "Film Year": "2005",
+        "Ceremony": "78th Academy Awards",
+        "Director": "Paul Haggis",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "The Departed",
+      "notes": "Best Picture winner at the 79th Academy Awards",
+      "fields": {
+        "Film Year": "2006",
+        "Ceremony": "79th Academy Awards",
+        "Director": "Martin Scorsese",
+        "Genre": "Crime Thriller Drama"
+      }
+    },
+    {
+      "title": "No Country for Old Men",
+      "notes": "Best Picture winner at the 80th Academy Awards",
+      "fields": {
+        "Film Year": "2007",
+        "Ceremony": "80th Academy Awards",
+        "Director": "Joel & Ethan Coen",
+        "Genre": "Crime Thriller Neo-Western"
+      }
+    },
+    {
+      "title": "Slumdog Millionaire",
+      "notes": "Best Picture winner at the 81th Academy Awards",
+      "fields": {
+        "Film Year": "2008",
+        "Ceremony": "81th Academy Awards",
+        "Director": "Danny Boyle",
+        "Genre": "Drama Romance Thriller"
+      }
+    },
+    {
+      "title": "The Hurt Locker",
+      "notes": "Best Picture winner at the 82th Academy Awards",
+      "fields": {
+        "Film Year": "2009",
+        "Ceremony": "82th Academy Awards",
+        "Director": "Kathryn Bigelow",
+        "Genre": "War Drama Thriller"
+      }
+    },
+    {
+      "title": "The King's Speech",
+      "notes": "Best Picture winner at the 83th Academy Awards",
+      "fields": {
+        "Film Year": "2010",
+        "Ceremony": "83th Academy Awards",
+        "Director": "Tom Hooper",
+        "Genre": "Biographical Historical Drama"
+      }
+    },
+    {
+      "title": "The Artist",
+      "notes": "Best Picture winner at the 84th Academy Awards",
+      "fields": {
+        "Film Year": "2011",
+        "Ceremony": "84th Academy Awards",
+        "Director": "Michel Hazanavicius",
+        "Genre": "Romance Drama Comedy"
+      }
+    },
+    {
+      "title": "Argo",
+      "notes": "Best Picture winner at the 85th Academy Awards",
+      "fields": {
+        "Film Year": "2012",
+        "Ceremony": "85th Academy Awards",
+        "Director": "Ben Affleck",
+        "Genre": "Thriller Historical Drama"
+      }
+    },
+    {
+      "title": "12 Years a Slave",
+      "notes": "Best Picture winner at the 86th Academy Awards",
+      "fields": {
+        "Film Year": "2013",
+        "Ceremony": "86th Academy Awards",
+        "Director": "Steve McQueen",
+        "Genre": "Biographical Historical Drama"
+      }
+    },
+    {
+      "title": "Birdman",
+      "notes": "Best Picture winner at the 87th Academy Awards",
+      "fields": {
+        "Film Year": "2014",
+        "Ceremony": "87th Academy Awards",
+        "Director": "Alejandro G. I\u00f1\u00e1rritu",
+        "Genre": "Comedy Drama"
+      }
+    },
+    {
+      "title": "Spotlight",
+      "notes": "Best Picture winner at the 88th Academy Awards",
+      "fields": {
+        "Film Year": "2015",
+        "Ceremony": "88th Academy Awards",
+        "Director": "Tom McCarthy",
+        "Genre": "Biographical Thriller Drama"
+      }
+    },
+    {
+      "title": "Moonlight",
+      "notes": "Best Picture winner at the 89th Academy Awards",
+      "fields": {
+        "Film Year": "2016",
+        "Ceremony": "89th Academy Awards",
+        "Director": "Barry Jenkins",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "The Shape of Water",
+      "notes": "Best Picture winner at the 90th Academy Awards",
+      "fields": {
+        "Film Year": "2017",
+        "Ceremony": "90th Academy Awards",
+        "Director": "Guillermo del Toro",
+        "Genre": "Fantasy Romance Drama"
+      }
+    },
+    {
+      "title": "Green Book",
+      "notes": "Best Picture winner at the 91th Academy Awards",
+      "fields": {
+        "Film Year": "2018",
+        "Ceremony": "91th Academy Awards",
+        "Director": "Peter Farrelly",
+        "Genre": "Biographical Comedy Drama"
+      }
+    },
+    {
+      "title": "Parasite",
+      "notes": "Best Picture winner at the 92th Academy Awards",
+      "fields": {
+        "Film Year": "2019",
+        "Ceremony": "92th Academy Awards",
+        "Director": "Bong Joon-ho",
+        "Genre": "Thriller Drama Comedy"
+      }
+    },
+    {
+      "title": "Nomadland",
+      "notes": "Best Picture winner at the 93th Academy Awards",
+      "fields": {
+        "Film Year": "2020",
+        "Ceremony": "93th Academy Awards",
+        "Director": "Chlo\u00e9 Zhao",
+        "Genre": "Drama"
+      }
+    },
+    {
+      "title": "CODA",
+      "notes": "Best Picture winner at the 94th Academy Awards",
+      "fields": {
+        "Film Year": "2021",
+        "Ceremony": "94th Academy Awards",
+        "Director": "Sian Heder",
+        "Genre": "Drama Music"
+      }
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "notes": "Best Picture winner at the 95th Academy Awards",
+      "fields": {
+        "Film Year": "2022",
+        "Ceremony": "95th Academy Awards",
+        "Director": "Daniel Kwan & Daniel Scheinert",
+        "Genre": "Sci-Fi Comedy Drama Action"
+      }
+    },
+    {
+      "title": "Oppenheimer",
+      "notes": "Best Picture winner at the 96th Academy Awards",
+      "fields": {
+        "Film Year": "2023",
+        "Ceremony": "96th Academy Awards",
+        "Director": "Christopher Nolan",
+        "Genre": "Biographical Historical Drama"
+      }
+    },
+    {
+      "title": "Anora",
+      "notes": "Best Picture winner at the 97th Academy Awards",
+      "fields": {
+        "Film Year": "2024",
+        "Ceremony": "97th Academy Awards",
+        "Director": "Sean Baker",
+        "Genre": "Drama Comedy"
+      }
+    }
+  ]
+}

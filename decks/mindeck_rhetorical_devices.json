@@ -1,0 +1,255 @@
+{
+  "deck_name": "Rhetorical Devices",
+  "cards": [
+    {
+      "title": "Alliteration",
+      "notes": "Repetition of the same initial consonant sound in nearby words.",
+      "fields": {
+        "Category": "Sound device",
+        "Definition": "Repetition of the same initial consonant sound in nearby words.",
+        "Example": "\"Peter Piper picked a peck of pickled peppers.\"",
+        "Etymology": "Greek/Latin: alliteratio"
+      }
+    },
+    {
+      "title": "Anaphora",
+      "notes": "Repetition of a word or phrase at the beginning of successive clauses.",
+      "fields": {
+        "Category": "Repetition device",
+        "Definition": "Repetition of a word or phrase at the beginning of successive clauses.",
+        "Example": "\"I have a dream... I have a dream...\" \u2014 Martin Luther King Jr.",
+        "Etymology": "Greek: anaphora (carrying back)"
+      }
+    },
+    {
+      "title": "Epistrophe",
+      "notes": "Repetition of a word or phrase at the end of successive clauses.",
+      "fields": {
+        "Category": "Repetition device",
+        "Definition": "Repetition of a word or phrase at the end of successive clauses.",
+        "Example": "\"...of the people, by the people, for the people.\" \u2014 Lincoln",
+        "Etymology": "Greek: epistroph\u0113 (turning about)"
+      }
+    },
+    {
+      "title": "Antithesis",
+      "notes": "Juxtaposition of contrasting ideas in parallel grammatical structure.",
+      "fields": {
+        "Category": "Contrast device",
+        "Definition": "Juxtaposition of contrasting ideas in parallel grammatical structure.",
+        "Example": "\"It was the best of times, it was the worst of times.\" \u2014 Dickens",
+        "Etymology": "Greek: antithesis (opposition)"
+      }
+    },
+    {
+      "title": "Chiasmus",
+      "notes": "Reversal of grammatical structures in successive phrases.",
+      "fields": {
+        "Category": "Inversion device",
+        "Definition": "Reversal of grammatical structures in successive phrases.",
+        "Example": "\"Ask not what your country can do for you \u2014 ask what you can do for your country.\"",
+        "Etymology": "Greek: chiasmos (crossing)"
+      }
+    },
+    {
+      "title": "Metaphor",
+      "notes": "Direct comparison between unlike things, stating one is the other.",
+      "fields": {
+        "Category": "Figurative language",
+        "Definition": "Direct comparison between unlike things, stating one is the other.",
+        "Example": "\"Life is a highway.\"",
+        "Etymology": "Greek: metaphora (transfer)"
+      }
+    },
+    {
+      "title": "Simile",
+      "notes": "Comparison using 'like' or 'as'.",
+      "fields": {
+        "Category": "Figurative language",
+        "Definition": "Comparison using 'like' or 'as'.",
+        "Example": "\"He fought like a lion.\"",
+        "Etymology": "Latin: similis (like)"
+      }
+    },
+    {
+      "title": "Personification",
+      "notes": "Giving human qualities, actions, or emotions to non-human things.",
+      "fields": {
+        "Category": "Figurative language",
+        "Definition": "Giving human qualities, actions, or emotions to non-human things.",
+        "Example": "\"The wind whispered through the trees.\"",
+        "Etymology": "Latin: persona (mask) + facere (to make)"
+      }
+    },
+    {
+      "title": "Hyperbole",
+      "notes": "Deliberate, extreme exaggeration not meant to be taken literally.",
+      "fields": {
+        "Category": "Emphasis device",
+        "Definition": "Deliberate, extreme exaggeration not meant to be taken literally.",
+        "Example": "\"I've told you a million times!\"",
+        "Etymology": "Greek: hyperbol\u0113 (excess)"
+      }
+    },
+    {
+      "title": "Litotes",
+      "notes": "Understatement through double negation or negating the contrary.",
+      "fields": {
+        "Category": "Understatement device",
+        "Definition": "Understatement through double negation or negating the contrary.",
+        "Example": "\"Not bad\" (meaning very good). \"Einstein was no dummy.\"",
+        "Etymology": "Greek: litot\u0113s (simplicity)"
+      }
+    },
+    {
+      "title": "Irony",
+      "notes": "Saying the opposite of what is meant, often for humorous or emphatic effect.",
+      "fields": {
+        "Category": "Meaning device",
+        "Definition": "Saying the opposite of what is meant, often for humorous or emphatic effect.",
+        "Example": "\"What a beautiful day!\" [said in a hurricane]",
+        "Etymology": "Greek: eir\u014dneia (feigned ignorance)"
+      }
+    },
+    {
+      "title": "Rhetorical Question",
+      "notes": "A question asked for effect with no answer expected.",
+      "fields": {
+        "Category": "Question device",
+        "Definition": "A question asked for effect with no answer expected.",
+        "Example": "\"Et tu, Brute?\" \u2014 Shakespeare",
+        "Etymology": "Greek: rh\u0113torik\u0113 er\u014dt\u0113sis"
+      }
+    },
+    {
+      "title": "Synecdoche",
+      "notes": "Using a part to represent the whole, or the whole to represent a part.",
+      "fields": {
+        "Category": "Reference device",
+        "Definition": "Using a part to represent the whole, or the whole to represent a part.",
+        "Example": "\"All hands on deck\" (hands = sailors)",
+        "Etymology": "Greek: synekdoch\u0113 (simultaneous understanding)"
+      }
+    },
+    {
+      "title": "Metonymy",
+      "notes": "Using an associated concept or word to refer to something else.",
+      "fields": {
+        "Category": "Reference device",
+        "Definition": "Using an associated concept or word to refer to something else.",
+        "Example": "\"The Crown announced a new policy\" (Crown = monarchy)",
+        "Etymology": "Greek: met\u014dnymia (name change)"
+      }
+    },
+    {
+      "title": "Allusion",
+      "notes": "An indirect reference to a well-known person, place, event, or text.",
+      "fields": {
+        "Category": "Reference device",
+        "Definition": "An indirect reference to a well-known person, place, event, or text.",
+        "Example": "\"He had a Midas touch with every business venture.\"",
+        "Etymology": "Latin: allusio (reference)"
+      }
+    },
+    {
+      "title": "Parallelism",
+      "notes": "Use of structurally similar grammatical elements in a series.",
+      "fields": {
+        "Category": "Structure device",
+        "Definition": "Use of structurally similar grammatical elements in a series.",
+        "Example": "\"He came, he saw, he conquered.\"",
+        "Etymology": "Greek: parall\u0113lismos"
+      }
+    },
+    {
+      "title": "Oxymoron",
+      "notes": "Two contradictory terms placed directly together.",
+      "fields": {
+        "Category": "Contradiction device",
+        "Definition": "Two contradictory terms placed directly together.",
+        "Example": "\"Bittersweet.\" \"Deafening silence.\" \"Living death.\"",
+        "Etymology": "Greek: oxys (sharp) + m\u014dros (dull)"
+      }
+    },
+    {
+      "title": "Paradox",
+      "notes": "A statement that seems contradictory but upon reflection reveals a truth.",
+      "fields": {
+        "Category": "Meaning device",
+        "Definition": "A statement that seems contradictory but upon reflection reveals a truth.",
+        "Example": "\"The more you know, the more you realize you know nothing.\"",
+        "Etymology": "Greek: paradoxos (contrary to expectation)"
+      }
+    },
+    {
+      "title": "Asyndeton",
+      "notes": "Deliberate omission of conjunctions between clauses for speed or impact.",
+      "fields": {
+        "Category": "Omission device",
+        "Definition": "Deliberate omission of conjunctions between clauses for speed or impact.",
+        "Example": "\"I came, I saw, I conquered.\"",
+        "Etymology": "Greek: asyndeton (unconnected)"
+      }
+    },
+    {
+      "title": "Polysyndeton",
+      "notes": "Deliberate use of many conjunctions in quick succession.",
+      "fields": {
+        "Category": "Addition device",
+        "Definition": "Deliberate use of many conjunctions in quick succession.",
+        "Example": "\"We lived and laughed and loved and left.\"",
+        "Etymology": "Greek: polysyndeton (much bound together)"
+      }
+    },
+    {
+      "title": "Euphemism",
+      "notes": "Substituting a mild or indirect expression for one thought to be harsh.",
+      "fields": {
+        "Category": "Softening device",
+        "Definition": "Substituting a mild or indirect expression for one thought to be harsh.",
+        "Example": "\"Passed away\" for died. \"Collateral damage\" for civilian casualties.",
+        "Etymology": "Greek: euph\u0113mismos (good speaking)"
+      }
+    },
+    {
+      "title": "Onomatopoeia",
+      "notes": "Words that phonetically imitate or resemble the sound they describe.",
+      "fields": {
+        "Category": "Sound device",
+        "Definition": "Words that phonetically imitate or resemble the sound they describe.",
+        "Example": "\"Buzz, hiss, crackle, murmur, sizzle.\"",
+        "Etymology": "Greek: onomatopoiia (name making)"
+      }
+    },
+    {
+      "title": "Apostrophe",
+      "notes": "Directly addressing an absent person, a dead person, or an abstraction.",
+      "fields": {
+        "Category": "Address device",
+        "Definition": "Directly addressing an absent person, a dead person, or an abstraction.",
+        "Example": "\"O Death, where is thy sting?\" \u2014 1 Corinthians 15:55",
+        "Etymology": "Greek: apostrephein (to turn away)"
+      }
+    },
+    {
+      "title": "Zeugma",
+      "notes": "One word (usually a verb) governs or applies to two or more words differently.",
+      "fields": {
+        "Category": "Compression device",
+        "Definition": "One word (usually a verb) governs or applies to two or more words differently.",
+        "Example": "\"She broke his car and his heart.\"",
+        "Etymology": "Greek: zeugma (yoke)"
+      }
+    },
+    {
+      "title": "Aposiopesis",
+      "notes": "Breaking off mid-sentence, leaving a thought unfinished for effect.",
+      "fields": {
+        "Category": "Interruption device",
+        "Definition": "Breaking off mid-sentence, leaving a thought unfinished for effect.",
+        "Example": "\"Why you little\u2014!\" [trails off in anger]",
+        "Etymology": "Greek: aposiop\u0113sis (becoming silent)"
+      }
+    }
+  ]
+}

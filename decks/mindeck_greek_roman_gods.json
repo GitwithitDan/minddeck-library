@@ -1,0 +1,280 @@
+{
+  "deck_name": "Greek & Roman Gods",
+  "cards": [
+    {
+      "title": "Zeus",
+      "notes": "King of the gods, sky & thunder",
+      "fields": {
+        "Roman Name": "Jupiter",
+        "Domain": "King of the gods, sky & thunder",
+        "Symbols": "Eagle, thunderbolt, oak tree",
+        "Consort/Spouse": "Hera",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Hera",
+      "notes": "Marriage, women, childbirth",
+      "fields": {
+        "Roman Name": "Juno",
+        "Domain": "Marriage, women, childbirth",
+        "Symbols": "Peacock, cuckoo, pomegranate",
+        "Consort/Spouse": "Zeus",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Poseidon",
+      "notes": "Sea, earthquakes, horses",
+      "fields": {
+        "Roman Name": "Neptune",
+        "Domain": "Sea, earthquakes, horses",
+        "Symbols": "Trident, horse, dolphin",
+        "Consort/Spouse": "Amphitrite",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Demeter",
+      "notes": "Agriculture, harvest, seasons",
+      "fields": {
+        "Roman Name": "Ceres",
+        "Domain": "Agriculture, harvest, seasons",
+        "Symbols": "Wheat sheaf, torch, cornucopia",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Athena",
+      "notes": "Wisdom, warfare strategy, crafts",
+      "fields": {
+        "Roman Name": "Minerva",
+        "Domain": "Wisdom, warfare strategy, crafts",
+        "Symbols": "Owl, olive tree, aegis, spear",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Apollo",
+      "notes": "Sun, music, poetry, prophecy, healing",
+      "fields": {
+        "Roman Name": "Apollo",
+        "Domain": "Sun, music, poetry, prophecy, healing",
+        "Symbols": "Lyre, laurel wreath, sun, bow",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Artemis",
+      "notes": "Moon, hunting, wilderness, childbirth",
+      "fields": {
+        "Roman Name": "Diana",
+        "Domain": "Moon, hunting, wilderness, childbirth",
+        "Symbols": "Bow, deer, moon, hunting dog",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Ares",
+      "notes": "War, violence, bloodlust",
+      "fields": {
+        "Roman Name": "Mars",
+        "Domain": "War, violence, bloodlust",
+        "Symbols": "Spear, helmet, shield, dog, vulture",
+        "Consort/Spouse": "Aphrodite",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Aphrodite",
+      "notes": "Love, beauty, desire, sexuality",
+      "fields": {
+        "Roman Name": "Venus",
+        "Domain": "Love, beauty, desire, sexuality",
+        "Symbols": "Dove, rose, myrtle, scallop shell",
+        "Consort/Spouse": "Hephaestus",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Hephaestus",
+      "notes": "Fire, forge, craftsmanship, volcanoes",
+      "fields": {
+        "Roman Name": "Vulcan",
+        "Domain": "Fire, forge, craftsmanship, volcanoes",
+        "Symbols": "Hammer, anvil, fire, donkey",
+        "Consort/Spouse": "Aphrodite",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Hermes",
+      "notes": "Messengers, travel, commerce, thieves",
+      "fields": {
+        "Roman Name": "Mercury",
+        "Domain": "Messengers, travel, commerce, thieves",
+        "Symbols": "Caduceus, winged sandals, lyre",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Dionysus",
+      "notes": "Wine, ecstasy, theater, festivity",
+      "fields": {
+        "Roman Name": "Bacchus",
+        "Domain": "Wine, ecstasy, theater, festivity",
+        "Symbols": "Grapevine, thyrsus, ivy, panther",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Hades",
+      "notes": "Underworld, dead, wealth",
+      "fields": {
+        "Roman Name": "Pluto",
+        "Domain": "Underworld, dead, wealth",
+        "Symbols": "Cerberus, helm of darkness, bident",
+        "Consort/Spouse": "Persephone",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Persephone",
+      "notes": "Spring, vegetation, underworld queen",
+      "fields": {
+        "Roman Name": "Proserpina",
+        "Domain": "Spring, vegetation, underworld queen",
+        "Symbols": "Pomegranate, narcissus, wheat",
+        "Consort/Spouse": "Hades",
+        "Olympian": "Part-time"
+      }
+    },
+    {
+      "title": "Hestia",
+      "notes": "Hearth, home, domesticity",
+      "fields": {
+        "Roman Name": "Vesta",
+        "Domain": "Hearth, home, domesticity",
+        "Symbols": "Hearth fire, kettle",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Eros",
+      "notes": "Love, desire, attraction",
+      "fields": {
+        "Roman Name": "Cupid",
+        "Domain": "Love, desire, attraction",
+        "Symbols": "Bow and arrow, wings, torch",
+        "Consort/Spouse": "Psyche",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Nike",
+      "notes": "Victory, speed, strength",
+      "fields": {
+        "Roman Name": "Victoria",
+        "Domain": "Victory, speed, strength",
+        "Symbols": "Wings, laurel wreath, trophy",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Hecate",
+      "notes": "Magic, crossroads, witchcraft, night",
+      "fields": {
+        "Roman Name": "Trivia",
+        "Domain": "Magic, crossroads, witchcraft, night",
+        "Symbols": "Torch, key, serpent, dogs",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Asclepius",
+      "notes": "Medicine and healing",
+      "fields": {
+        "Roman Name": "Aesculapius",
+        "Domain": "Medicine and healing",
+        "Symbols": "Rod of Asclepius (single serpent)",
+        "Consort/Spouse": "Epione",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Tyche",
+      "notes": "Fortune, luck, fate of cities",
+      "fields": {
+        "Roman Name": "Fortuna",
+        "Domain": "Fortune, luck, fate of cities",
+        "Symbols": "Cornucopia, wheel, rudder",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Pan",
+      "notes": "Wild nature, shepherds, panic",
+      "fields": {
+        "Roman Name": "Faunus",
+        "Domain": "Wild nature, shepherds, panic",
+        "Symbols": "Pan pipes (syrinx), goat legs, staff",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Hypnos",
+      "notes": "Sleep",
+      "fields": {
+        "Roman Name": "Somnus",
+        "Domain": "Sleep",
+        "Symbols": "Poppy, wings, Lethe water",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Iris",
+      "notes": "Rainbow, messenger of the gods",
+      "fields": {
+        "Roman Name": "Iris",
+        "Domain": "Rainbow, messenger of the gods",
+        "Symbols": "Rainbow, caduceus, wings",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "Yes"
+      }
+    },
+    {
+      "title": "Eris",
+      "notes": "Discord, strife, chaos",
+      "fields": {
+        "Roman Name": "Discordia",
+        "Domain": "Discord, strife, chaos",
+        "Symbols": "Apple of Discord",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "No"
+      }
+    },
+    {
+      "title": "Thanatos",
+      "notes": "Death (peaceful)",
+      "fields": {
+        "Roman Name": "Mors",
+        "Domain": "Death (peaceful)",
+        "Symbols": "Wings, inverted torch, sword",
+        "Consort/Spouse": "\u2014",
+        "Olympian": "No"
+      }
+    }
+  ]
+}

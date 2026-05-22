@@ -1,0 +1,759 @@
+{
+  "deck_name": "Super Bowl Champions",
+  "cards": [
+    {
+      "title": "Super Bowl I",
+      "notes": "Green Bay Packers def. Kansas City Chiefs, 35\u201310",
+      "fields": {
+        "Game Number": "1",
+        "Year": "1967",
+        "Winner": "Green Bay Packers",
+        "Loser": "Kansas City Chiefs",
+        "Score": "35\u201310",
+        "MVP": "Bart Starr",
+        "Location": "Los Angeles Memorial Coliseum"
+      }
+    },
+    {
+      "title": "Super Bowl II",
+      "notes": "Green Bay Packers def. Oakland Raiders, 33\u201314",
+      "fields": {
+        "Game Number": "2",
+        "Year": "1968",
+        "Winner": "Green Bay Packers",
+        "Loser": "Oakland Raiders",
+        "Score": "33\u201314",
+        "MVP": "Bart Starr",
+        "Location": "Miami Orange Bowl"
+      }
+    },
+    {
+      "title": "Super Bowl III",
+      "notes": "New York Jets def. Baltimore Colts, 16\u20137",
+      "fields": {
+        "Game Number": "3",
+        "Year": "1969",
+        "Winner": "New York Jets",
+        "Loser": "Baltimore Colts",
+        "Score": "16\u20137",
+        "MVP": "Joe Namath",
+        "Location": "Miami Orange Bowl"
+      }
+    },
+    {
+      "title": "Super Bowl IV",
+      "notes": "Kansas City Chiefs def. Minnesota Vikings, 23\u20137",
+      "fields": {
+        "Game Number": "4",
+        "Year": "1970",
+        "Winner": "Kansas City Chiefs",
+        "Loser": "Minnesota Vikings",
+        "Score": "23\u20137",
+        "MVP": "Len Dawson",
+        "Location": "Tulane Stadium, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl V",
+      "notes": "Baltimore Colts def. Dallas Cowboys, 16\u201313 \u2014 *Howley played for losing Cowboys; only losing-team MVP in Super Bowl history",
+      "fields": {
+        "Game Number": "5",
+        "Year": "1971",
+        "Winner": "Baltimore Colts",
+        "Loser": "Dallas Cowboys",
+        "Score": "16\u201313",
+        "MVP": "Chuck Howley*",
+        "Location": "Miami Orange Bowl"
+      }
+    },
+    {
+      "title": "Super Bowl VI",
+      "notes": "Dallas Cowboys def. Miami Dolphins, 24\u20133",
+      "fields": {
+        "Game Number": "6",
+        "Year": "1972",
+        "Winner": "Dallas Cowboys",
+        "Loser": "Miami Dolphins",
+        "Score": "24\u20133",
+        "MVP": "Roger Staubach",
+        "Location": "Tulane Stadium, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl VII",
+      "notes": "Miami Dolphins def. Washington Redskins, 14\u20137",
+      "fields": {
+        "Game Number": "7",
+        "Year": "1973",
+        "Winner": "Miami Dolphins",
+        "Loser": "Washington Redskins",
+        "Score": "14\u20137",
+        "MVP": "Jake Scott",
+        "Location": "Los Angeles Memorial Coliseum"
+      }
+    },
+    {
+      "title": "Super Bowl VIII",
+      "notes": "Miami Dolphins def. Minnesota Vikings, 24\u20137",
+      "fields": {
+        "Game Number": "8",
+        "Year": "1974",
+        "Winner": "Miami Dolphins",
+        "Loser": "Minnesota Vikings",
+        "Score": "24\u20137",
+        "MVP": "Larry Csonka",
+        "Location": "Rice Stadium, Houston"
+      }
+    },
+    {
+      "title": "Super Bowl IX",
+      "notes": "Pittsburgh Steelers def. Minnesota Vikings, 16\u20136",
+      "fields": {
+        "Game Number": "9",
+        "Year": "1975",
+        "Winner": "Pittsburgh Steelers",
+        "Loser": "Minnesota Vikings",
+        "Score": "16\u20136",
+        "MVP": "Franco Harris",
+        "Location": "Tulane Stadium, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl X",
+      "notes": "Pittsburgh Steelers def. Dallas Cowboys, 21\u201317",
+      "fields": {
+        "Game Number": "10",
+        "Year": "1976",
+        "Winner": "Pittsburgh Steelers",
+        "Loser": "Dallas Cowboys",
+        "Score": "21\u201317",
+        "MVP": "Lynn Swann",
+        "Location": "Miami Orange Bowl"
+      }
+    },
+    {
+      "title": "Super Bowl XI",
+      "notes": "Oakland Raiders def. Minnesota Vikings, 32\u201314",
+      "fields": {
+        "Game Number": "11",
+        "Year": "1977",
+        "Winner": "Oakland Raiders",
+        "Loser": "Minnesota Vikings",
+        "Score": "32\u201314",
+        "MVP": "Fred Biletnikoff",
+        "Location": "Rose Bowl, Pasadena"
+      }
+    },
+    {
+      "title": "Super Bowl XII",
+      "notes": "Dallas Cowboys def. Denver Broncos, 27\u201310",
+      "fields": {
+        "Game Number": "12",
+        "Year": "1978",
+        "Winner": "Dallas Cowboys",
+        "Loser": "Denver Broncos",
+        "Score": "27\u201310",
+        "MVP": "Harvey Martin & Randy White",
+        "Location": "Superdome, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl XIII",
+      "notes": "Pittsburgh Steelers def. Dallas Cowboys, 35\u201331",
+      "fields": {
+        "Game Number": "13",
+        "Year": "1979",
+        "Winner": "Pittsburgh Steelers",
+        "Loser": "Dallas Cowboys",
+        "Score": "35\u201331",
+        "MVP": "Terry Bradshaw",
+        "Location": "Miami Orange Bowl"
+      }
+    },
+    {
+      "title": "Super Bowl XIV",
+      "notes": "Pittsburgh Steelers def. Los Angeles Rams, 31\u201319",
+      "fields": {
+        "Game Number": "14",
+        "Year": "1980",
+        "Winner": "Pittsburgh Steelers",
+        "Loser": "Los Angeles Rams",
+        "Score": "31\u201319",
+        "MVP": "Terry Bradshaw",
+        "Location": "Rose Bowl, Pasadena"
+      }
+    },
+    {
+      "title": "Super Bowl XV",
+      "notes": "Oakland Raiders def. Philadelphia Eagles, 27\u201310",
+      "fields": {
+        "Game Number": "15",
+        "Year": "1981",
+        "Winner": "Oakland Raiders",
+        "Loser": "Philadelphia Eagles",
+        "Score": "27\u201310",
+        "MVP": "Jim Plunkett",
+        "Location": "Superdome, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl XVI",
+      "notes": "San Francisco 49ers def. Cincinnati Bengals, 26\u201321",
+      "fields": {
+        "Game Number": "16",
+        "Year": "1982",
+        "Winner": "San Francisco 49ers",
+        "Loser": "Cincinnati Bengals",
+        "Score": "26\u201321",
+        "MVP": "Joe Montana",
+        "Location": "Silverdome, Pontiac MI"
+      }
+    },
+    {
+      "title": "Super Bowl XVII",
+      "notes": "Washington Redskins def. Miami Dolphins, 27\u201317",
+      "fields": {
+        "Game Number": "17",
+        "Year": "1983",
+        "Winner": "Washington Redskins",
+        "Loser": "Miami Dolphins",
+        "Score": "27\u201317",
+        "MVP": "John Riggins",
+        "Location": "Rose Bowl, Pasadena"
+      }
+    },
+    {
+      "title": "Super Bowl XVIII",
+      "notes": "Los Angeles Raiders def. Washington Redskins, 38\u20139",
+      "fields": {
+        "Game Number": "18",
+        "Year": "1984",
+        "Winner": "Los Angeles Raiders",
+        "Loser": "Washington Redskins",
+        "Score": "38\u20139",
+        "MVP": "Marcus Allen",
+        "Location": "Tampa Stadium"
+      }
+    },
+    {
+      "title": "Super Bowl XIX",
+      "notes": "San Francisco 49ers def. Miami Dolphins, 38\u201316",
+      "fields": {
+        "Game Number": "19",
+        "Year": "1985",
+        "Winner": "San Francisco 49ers",
+        "Loser": "Miami Dolphins",
+        "Score": "38\u201316",
+        "MVP": "Joe Montana",
+        "Location": "Stanford Stadium"
+      }
+    },
+    {
+      "title": "Super Bowl XX",
+      "notes": "Chicago Bears def. New England Patriots, 46\u201310",
+      "fields": {
+        "Game Number": "20",
+        "Year": "1986",
+        "Winner": "Chicago Bears",
+        "Loser": "New England Patriots",
+        "Score": "46\u201310",
+        "MVP": "Richard Dent",
+        "Location": "Superdome, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl XXI",
+      "notes": "New York Giants def. Denver Broncos, 39\u201320",
+      "fields": {
+        "Game Number": "21",
+        "Year": "1987",
+        "Winner": "New York Giants",
+        "Loser": "Denver Broncos",
+        "Score": "39\u201320",
+        "MVP": "Phil Simms",
+        "Location": "Rose Bowl, Pasadena"
+      }
+    },
+    {
+      "title": "Super Bowl XXII",
+      "notes": "Washington Redskins def. Denver Broncos, 42\u201310",
+      "fields": {
+        "Game Number": "22",
+        "Year": "1988",
+        "Winner": "Washington Redskins",
+        "Loser": "Denver Broncos",
+        "Score": "42\u201310",
+        "MVP": "Doug Williams",
+        "Location": "Jack Murphy Stadium, San Diego"
+      }
+    },
+    {
+      "title": "Super Bowl XXIII",
+      "notes": "San Francisco 49ers def. Cincinnati Bengals, 20\u201316",
+      "fields": {
+        "Game Number": "23",
+        "Year": "1989",
+        "Winner": "San Francisco 49ers",
+        "Loser": "Cincinnati Bengals",
+        "Score": "20\u201316",
+        "MVP": "Jerry Rice",
+        "Location": "Joe Robbie Stadium, Miami"
+      }
+    },
+    {
+      "title": "Super Bowl XXIV",
+      "notes": "San Francisco 49ers def. Denver Broncos, 55\u201310",
+      "fields": {
+        "Game Number": "24",
+        "Year": "1990",
+        "Winner": "San Francisco 49ers",
+        "Loser": "Denver Broncos",
+        "Score": "55\u201310",
+        "MVP": "Joe Montana",
+        "Location": "Superdome, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl XXV",
+      "notes": "New York Giants def. Buffalo Bills, 20\u201319",
+      "fields": {
+        "Game Number": "25",
+        "Year": "1991",
+        "Winner": "New York Giants",
+        "Loser": "Buffalo Bills",
+        "Score": "20\u201319",
+        "MVP": "Ottis Anderson",
+        "Location": "Tampa Stadium"
+      }
+    },
+    {
+      "title": "Super Bowl XXVI",
+      "notes": "Washington Redskins def. Buffalo Bills, 37\u201324",
+      "fields": {
+        "Game Number": "26",
+        "Year": "1992",
+        "Winner": "Washington Redskins",
+        "Loser": "Buffalo Bills",
+        "Score": "37\u201324",
+        "MVP": "Mark Rypien",
+        "Location": "Metrodome, Minneapolis"
+      }
+    },
+    {
+      "title": "Super Bowl XXVII",
+      "notes": "Dallas Cowboys def. Buffalo Bills, 52\u201317",
+      "fields": {
+        "Game Number": "27",
+        "Year": "1993",
+        "Winner": "Dallas Cowboys",
+        "Loser": "Buffalo Bills",
+        "Score": "52\u201317",
+        "MVP": "Troy Aikman",
+        "Location": "Rose Bowl, Pasadena"
+      }
+    },
+    {
+      "title": "Super Bowl XXVIII",
+      "notes": "Dallas Cowboys def. Buffalo Bills, 30\u201313",
+      "fields": {
+        "Game Number": "28",
+        "Year": "1994",
+        "Winner": "Dallas Cowboys",
+        "Loser": "Buffalo Bills",
+        "Score": "30\u201313",
+        "MVP": "Emmitt Smith",
+        "Location": "Georgia Dome, Atlanta"
+      }
+    },
+    {
+      "title": "Super Bowl XXIX",
+      "notes": "San Francisco 49ers def. San Diego Chargers, 49\u201326",
+      "fields": {
+        "Game Number": "29",
+        "Year": "1995",
+        "Winner": "San Francisco 49ers",
+        "Loser": "San Diego Chargers",
+        "Score": "49\u201326",
+        "MVP": "Steve Young",
+        "Location": "Joe Robbie Stadium, Miami"
+      }
+    },
+    {
+      "title": "Super Bowl XXX",
+      "notes": "Dallas Cowboys def. Pittsburgh Steelers, 27\u201317",
+      "fields": {
+        "Game Number": "30",
+        "Year": "1996",
+        "Winner": "Dallas Cowboys",
+        "Loser": "Pittsburgh Steelers",
+        "Score": "27\u201317",
+        "MVP": "Larry Brown",
+        "Location": "Sun Devil Stadium, Tempe AZ"
+      }
+    },
+    {
+      "title": "Super Bowl XXXI",
+      "notes": "Green Bay Packers def. New England Patriots, 35\u201321",
+      "fields": {
+        "Game Number": "31",
+        "Year": "1997",
+        "Winner": "Green Bay Packers",
+        "Loser": "New England Patriots",
+        "Score": "35\u201321",
+        "MVP": "Desmond Howard",
+        "Location": "Superdome, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl XXXII",
+      "notes": "Denver Broncos def. Green Bay Packers, 31\u201324",
+      "fields": {
+        "Game Number": "32",
+        "Year": "1998",
+        "Winner": "Denver Broncos",
+        "Loser": "Green Bay Packers",
+        "Score": "31\u201324",
+        "MVP": "Terrell Davis",
+        "Location": "Qualcomm Stadium, San Diego"
+      }
+    },
+    {
+      "title": "Super Bowl XXXIII",
+      "notes": "Denver Broncos def. Atlanta Falcons, 34\u201319",
+      "fields": {
+        "Game Number": "33",
+        "Year": "1999",
+        "Winner": "Denver Broncos",
+        "Loser": "Atlanta Falcons",
+        "Score": "34\u201319",
+        "MVP": "John Elway",
+        "Location": "Pro Player Stadium, Miami"
+      }
+    },
+    {
+      "title": "Super Bowl XXXIV",
+      "notes": "St. Louis Rams def. Tennessee Titans, 23\u201316",
+      "fields": {
+        "Game Number": "34",
+        "Year": "2000",
+        "Winner": "St. Louis Rams",
+        "Loser": "Tennessee Titans",
+        "Score": "23\u201316",
+        "MVP": "Kurt Warner",
+        "Location": "Georgia Dome, Atlanta"
+      }
+    },
+    {
+      "title": "Super Bowl XXXV",
+      "notes": "Baltimore Ravens def. New York Giants, 34\u20137",
+      "fields": {
+        "Game Number": "35",
+        "Year": "2001",
+        "Winner": "Baltimore Ravens",
+        "Loser": "New York Giants",
+        "Score": "34\u20137",
+        "MVP": "Ray Lewis",
+        "Location": "Raymond James Stadium, Tampa"
+      }
+    },
+    {
+      "title": "Super Bowl XXXVI",
+      "notes": "New England Patriots def. St. Louis Rams, 20\u201317",
+      "fields": {
+        "Game Number": "36",
+        "Year": "2002",
+        "Winner": "New England Patriots",
+        "Loser": "St. Louis Rams",
+        "Score": "20\u201317",
+        "MVP": "Tom Brady",
+        "Location": "Superdome, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl XXXVII",
+      "notes": "Tampa Bay Buccaneers def. Oakland Raiders, 48\u201321",
+      "fields": {
+        "Game Number": "37",
+        "Year": "2003",
+        "Winner": "Tampa Bay Buccaneers",
+        "Loser": "Oakland Raiders",
+        "Score": "48\u201321",
+        "MVP": "Dexter Jackson",
+        "Location": "Qualcomm Stadium, San Diego"
+      }
+    },
+    {
+      "title": "Super Bowl XXXVIII",
+      "notes": "New England Patriots def. Carolina Panthers, 32\u201329",
+      "fields": {
+        "Game Number": "38",
+        "Year": "2004",
+        "Winner": "New England Patriots",
+        "Loser": "Carolina Panthers",
+        "Score": "32\u201329",
+        "MVP": "Tom Brady",
+        "Location": "Reliant Stadium, Houston"
+      }
+    },
+    {
+      "title": "Super Bowl XXXIX",
+      "notes": "New England Patriots def. Philadelphia Eagles, 24\u201321",
+      "fields": {
+        "Game Number": "39",
+        "Year": "2005",
+        "Winner": "New England Patriots",
+        "Loser": "Philadelphia Eagles",
+        "Score": "24\u201321",
+        "MVP": "Deion Branch",
+        "Location": "Alltel Stadium, Jacksonville"
+      }
+    },
+    {
+      "title": "Super Bowl XL",
+      "notes": "Pittsburgh Steelers def. Seattle Seahawks, 21\u201310",
+      "fields": {
+        "Game Number": "40",
+        "Year": "2006",
+        "Winner": "Pittsburgh Steelers",
+        "Loser": "Seattle Seahawks",
+        "Score": "21\u201310",
+        "MVP": "Hines Ward",
+        "Location": "Ford Field, Detroit"
+      }
+    },
+    {
+      "title": "Super Bowl XLI",
+      "notes": "Indianapolis Colts def. Chicago Bears, 29\u201317",
+      "fields": {
+        "Game Number": "41",
+        "Year": "2007",
+        "Winner": "Indianapolis Colts",
+        "Loser": "Chicago Bears",
+        "Score": "29\u201317",
+        "MVP": "Peyton Manning",
+        "Location": "Dolphin Stadium, Miami"
+      }
+    },
+    {
+      "title": "Super Bowl XLII",
+      "notes": "New York Giants def. New England Patriots, 17\u201314",
+      "fields": {
+        "Game Number": "42",
+        "Year": "2008",
+        "Winner": "New York Giants",
+        "Loser": "New England Patriots",
+        "Score": "17\u201314",
+        "MVP": "Eli Manning",
+        "Location": "University of Phoenix Stadium, Glendale AZ"
+      }
+    },
+    {
+      "title": "Super Bowl XLIII",
+      "notes": "Pittsburgh Steelers def. Arizona Cardinals, 27\u201323",
+      "fields": {
+        "Game Number": "43",
+        "Year": "2009",
+        "Winner": "Pittsburgh Steelers",
+        "Loser": "Arizona Cardinals",
+        "Score": "27\u201323",
+        "MVP": "Santonio Holmes",
+        "Location": "Raymond James Stadium, Tampa"
+      }
+    },
+    {
+      "title": "Super Bowl XLIV",
+      "notes": "New Orleans Saints def. Indianapolis Colts, 31\u201317",
+      "fields": {
+        "Game Number": "44",
+        "Year": "2010",
+        "Winner": "New Orleans Saints",
+        "Loser": "Indianapolis Colts",
+        "Score": "31\u201317",
+        "MVP": "Drew Brees",
+        "Location": "Sun Life Stadium, Miami"
+      }
+    },
+    {
+      "title": "Super Bowl XLV",
+      "notes": "Green Bay Packers def. Pittsburgh Steelers, 31\u201325",
+      "fields": {
+        "Game Number": "45",
+        "Year": "2011",
+        "Winner": "Green Bay Packers",
+        "Loser": "Pittsburgh Steelers",
+        "Score": "31\u201325",
+        "MVP": "Aaron Rodgers",
+        "Location": "Cowboys Stadium, Arlington TX"
+      }
+    },
+    {
+      "title": "Super Bowl XLVI",
+      "notes": "New York Giants def. New England Patriots, 21\u201317",
+      "fields": {
+        "Game Number": "46",
+        "Year": "2012",
+        "Winner": "New York Giants",
+        "Loser": "New England Patriots",
+        "Score": "21\u201317",
+        "MVP": "Eli Manning",
+        "Location": "Lucas Oil Stadium, Indianapolis"
+      }
+    },
+    {
+      "title": "Super Bowl XLVII",
+      "notes": "Baltimore Ravens def. San Francisco 49ers, 34\u201331",
+      "fields": {
+        "Game Number": "47",
+        "Year": "2013",
+        "Winner": "Baltimore Ravens",
+        "Loser": "San Francisco 49ers",
+        "Score": "34\u201331",
+        "MVP": "Joe Flacco",
+        "Location": "Mercedes-Benz Superdome, New Orleans"
+      }
+    },
+    {
+      "title": "Super Bowl XLVIII",
+      "notes": "Seattle Seahawks def. Denver Broncos, 43\u20138",
+      "fields": {
+        "Game Number": "48",
+        "Year": "2014",
+        "Winner": "Seattle Seahawks",
+        "Loser": "Denver Broncos",
+        "Score": "43\u20138",
+        "MVP": "Malcolm Smith",
+        "Location": "MetLife Stadium, East Rutherford NJ"
+      }
+    },
+    {
+      "title": "Super Bowl XLIX",
+      "notes": "New England Patriots def. Seattle Seahawks, 28\u201324",
+      "fields": {
+        "Game Number": "49",
+        "Year": "2015",
+        "Winner": "New England Patriots",
+        "Loser": "Seattle Seahawks",
+        "Score": "28\u201324",
+        "MVP": "Tom Brady",
+        "Location": "University of Phoenix Stadium, Glendale AZ"
+      }
+    },
+    {
+      "title": "Super Bowl 50",
+      "notes": "Denver Broncos def. Carolina Panthers, 24\u201310",
+      "fields": {
+        "Game Number": "50",
+        "Year": "2016",
+        "Winner": "Denver Broncos",
+        "Loser": "Carolina Panthers",
+        "Score": "24\u201310",
+        "MVP": "Von Miller",
+        "Location": "Levi's Stadium, Santa Clara CA"
+      }
+    },
+    {
+      "title": "Super Bowl LI",
+      "notes": "New England Patriots def. Atlanta Falcons, 34\u201328 OT",
+      "fields": {
+        "Game Number": "51",
+        "Year": "2017",
+        "Winner": "New England Patriots",
+        "Loser": "Atlanta Falcons",
+        "Score": "34\u201328 OT",
+        "MVP": "Tom Brady",
+        "Location": "NRG Stadium, Houston"
+      }
+    },
+    {
+      "title": "Super Bowl LII",
+      "notes": "Philadelphia Eagles def. New England Patriots, 41\u201333",
+      "fields": {
+        "Game Number": "52",
+        "Year": "2018",
+        "Winner": "Philadelphia Eagles",
+        "Loser": "New England Patriots",
+        "Score": "41\u201333",
+        "MVP": "Nick Foles",
+        "Location": "U.S. Bank Stadium, Minneapolis"
+      }
+    },
+    {
+      "title": "Super Bowl LIII",
+      "notes": "New England Patriots def. Los Angeles Rams, 13\u20133",
+      "fields": {
+        "Game Number": "53",
+        "Year": "2019",
+        "Winner": "New England Patriots",
+        "Loser": "Los Angeles Rams",
+        "Score": "13\u20133",
+        "MVP": "Julian Edelman",
+        "Location": "Mercedes-Benz Stadium, Atlanta"
+      }
+    },
+    {
+      "title": "Super Bowl LIV",
+      "notes": "Kansas City Chiefs def. San Francisco 49ers, 31\u201320",
+      "fields": {
+        "Game Number": "54",
+        "Year": "2020",
+        "Winner": "Kansas City Chiefs",
+        "Loser": "San Francisco 49ers",
+        "Score": "31\u201320",
+        "MVP": "Patrick Mahomes",
+        "Location": "Hard Rock Stadium, Miami"
+      }
+    },
+    {
+      "title": "Super Bowl LV",
+      "notes": "Tampa Bay Buccaneers def. Kansas City Chiefs, 31\u20139",
+      "fields": {
+        "Game Number": "55",
+        "Year": "2021",
+        "Winner": "Tampa Bay Buccaneers",
+        "Loser": "Kansas City Chiefs",
+        "Score": "31\u20139",
+        "MVP": "Tom Brady",
+        "Location": "Raymond James Stadium, Tampa"
+      }
+    },
+    {
+      "title": "Super Bowl LVI",
+      "notes": "Los Angeles Rams def. Cincinnati Bengals, 23\u201320",
+      "fields": {
+        "Game Number": "56",
+        "Year": "2022",
+        "Winner": "Los Angeles Rams",
+        "Loser": "Cincinnati Bengals",
+        "Score": "23\u201320",
+        "MVP": "Cooper Kupp",
+        "Location": "SoFi Stadium, Inglewood CA"
+      }
+    },
+    {
+      "title": "Super Bowl LVII",
+      "notes": "Kansas City Chiefs def. Philadelphia Eagles, 38\u201335",
+      "fields": {
+        "Game Number": "57",
+        "Year": "2023",
+        "Winner": "Kansas City Chiefs",
+        "Loser": "Philadelphia Eagles",
+        "Score": "38\u201335",
+        "MVP": "Patrick Mahomes",
+        "Location": "State Farm Stadium, Glendale AZ"
+      }
+    },
+    {
+      "title": "Super Bowl LVIII",
+      "notes": "Kansas City Chiefs def. San Francisco 49ers, 25\u201322 OT",
+      "fields": {
+        "Game Number": "58",
+        "Year": "2024",
+        "Winner": "Kansas City Chiefs",
+        "Loser": "San Francisco 49ers",
+        "Score": "25\u201322 OT",
+        "MVP": "Patrick Mahomes",
+        "Location": "Allegiant Stadium, Las Vegas"
+      }
+    }
+  ]
+}

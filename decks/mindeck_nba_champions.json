@@ -1,0 +1,863 @@
+{
+  "deck_name": "NBA Champions",
+  "cards": [
+    {
+      "title": "1947 NBA Champions",
+      "notes": "Philadelphia Warriors",
+      "fields": {
+        "Year": "1947",
+        "Champion": "Philadelphia Warriors",
+        "Runner-Up": "Chicago Stags",
+        "Series": "4-1",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1948 NBA Champions",
+      "notes": "Baltimore Bullets",
+      "fields": {
+        "Year": "1948",
+        "Champion": "Baltimore Bullets",
+        "Runner-Up": "Philadelphia Warriors",
+        "Series": "4-2",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1949 NBA Champions",
+      "notes": "Minneapolis Lakers",
+      "fields": {
+        "Year": "1949",
+        "Champion": "Minneapolis Lakers",
+        "Runner-Up": "Washington Capitols",
+        "Series": "4-2",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1950 NBA Champions",
+      "notes": "Minneapolis Lakers",
+      "fields": {
+        "Year": "1950",
+        "Champion": "Minneapolis Lakers",
+        "Runner-Up": "Syracuse Nationals",
+        "Series": "4-2",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1951 NBA Champions",
+      "notes": "Rochester Royals",
+      "fields": {
+        "Year": "1951",
+        "Champion": "Rochester Royals",
+        "Runner-Up": "New York Knicks",
+        "Series": "4-3",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1952 NBA Champions",
+      "notes": "Minneapolis Lakers",
+      "fields": {
+        "Year": "1952",
+        "Champion": "Minneapolis Lakers",
+        "Runner-Up": "New York Knicks",
+        "Series": "4-3",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1953 NBA Champions",
+      "notes": "Minneapolis Lakers",
+      "fields": {
+        "Year": "1953",
+        "Champion": "Minneapolis Lakers",
+        "Runner-Up": "New York Knicks",
+        "Series": "4-1",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1954 NBA Champions",
+      "notes": "Minneapolis Lakers",
+      "fields": {
+        "Year": "1954",
+        "Champion": "Minneapolis Lakers",
+        "Runner-Up": "Syracuse Nationals",
+        "Series": "4-3",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1955 NBA Champions",
+      "notes": "Syracuse Nationals",
+      "fields": {
+        "Year": "1955",
+        "Champion": "Syracuse Nationals",
+        "Runner-Up": "Fort Wayne Pistons",
+        "Series": "4-3",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1956 NBA Champions",
+      "notes": "Philadelphia Warriors",
+      "fields": {
+        "Year": "1956",
+        "Champion": "Philadelphia Warriors",
+        "Runner-Up": "Fort Wayne Pistons",
+        "Series": "4-1",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1957 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1957",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "St. Louis Hawks",
+        "Series": "4-3",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1958 NBA Champions",
+      "notes": "St. Louis Hawks",
+      "fields": {
+        "Year": "1958",
+        "Champion": "St. Louis Hawks",
+        "Runner-Up": "Boston Celtics",
+        "Series": "4-2",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1959 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1959",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Minneapolis Lakers",
+        "Series": "4-0",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1960 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1960",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "St. Louis Hawks",
+        "Series": "4-3",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1961 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1961",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "St. Louis Hawks",
+        "Series": "4-1",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1962 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1962",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-3",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1963 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1963",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-2",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1964 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1964",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "San Francisco Warriors",
+        "Series": "4-1",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1965 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1965",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-1",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1966 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1966",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-3",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1967 NBA Champions",
+      "notes": "Philadelphia 76ers",
+      "fields": {
+        "Year": "1967",
+        "Champion": "Philadelphia 76ers",
+        "Runner-Up": "San Francisco Warriors",
+        "Series": "4-2",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1968 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1968",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-2",
+        "Finals MVP": "N/A (pre-award)"
+      }
+    },
+    {
+      "title": "1969 NBA Champions",
+      "notes": "Boston Celtics \u2014 *Jerry West (1969) is the only Finals MVP from the losing team in NBA history",
+      "fields": {
+        "Year": "1969",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-3",
+        "Finals MVP": "Jerry West (Lakers)*"
+      }
+    },
+    {
+      "title": "1970 NBA Champions",
+      "notes": "New York Knicks",
+      "fields": {
+        "Year": "1970",
+        "Champion": "New York Knicks",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-3",
+        "Finals MVP": "Willis Reed"
+      }
+    },
+    {
+      "title": "1971 NBA Champions",
+      "notes": "Milwaukee Bucks",
+      "fields": {
+        "Year": "1971",
+        "Champion": "Milwaukee Bucks",
+        "Runner-Up": "Baltimore Bullets",
+        "Series": "4-0",
+        "Finals MVP": "Lew Alcindor (Kareem Abdul-Jabbar)"
+      }
+    },
+    {
+      "title": "1972 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "1972",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "New York Knicks",
+        "Series": "4-1",
+        "Finals MVP": "Wilt Chamberlain"
+      }
+    },
+    {
+      "title": "1973 NBA Champions",
+      "notes": "New York Knicks",
+      "fields": {
+        "Year": "1973",
+        "Champion": "New York Knicks",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-1",
+        "Finals MVP": "Willis Reed"
+      }
+    },
+    {
+      "title": "1974 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1974",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Milwaukee Bucks",
+        "Series": "4-3",
+        "Finals MVP": "Dave Cowens"
+      }
+    },
+    {
+      "title": "1975 NBA Champions",
+      "notes": "Golden State Warriors",
+      "fields": {
+        "Year": "1975",
+        "Champion": "Golden State Warriors",
+        "Runner-Up": "Washington Bullets",
+        "Series": "4-0",
+        "Finals MVP": "Rick Barry"
+      }
+    },
+    {
+      "title": "1976 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1976",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Phoenix Suns",
+        "Series": "4-2",
+        "Finals MVP": "Jo Jo White"
+      }
+    },
+    {
+      "title": "1977 NBA Champions",
+      "notes": "Portland Trail Blazers",
+      "fields": {
+        "Year": "1977",
+        "Champion": "Portland Trail Blazers",
+        "Runner-Up": "Philadelphia 76ers",
+        "Series": "4-2",
+        "Finals MVP": "Bill Walton"
+      }
+    },
+    {
+      "title": "1978 NBA Champions",
+      "notes": "Washington Bullets",
+      "fields": {
+        "Year": "1978",
+        "Champion": "Washington Bullets",
+        "Runner-Up": "Seattle SuperSonics",
+        "Series": "4-3",
+        "Finals MVP": "Wes Unseld"
+      }
+    },
+    {
+      "title": "1979 NBA Champions",
+      "notes": "Seattle SuperSonics",
+      "fields": {
+        "Year": "1979",
+        "Champion": "Seattle SuperSonics",
+        "Runner-Up": "Washington Bullets",
+        "Series": "4-1",
+        "Finals MVP": "Dennis Johnson"
+      }
+    },
+    {
+      "title": "1980 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "1980",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Philadelphia 76ers",
+        "Series": "4-2",
+        "Finals MVP": "Magic Johnson"
+      }
+    },
+    {
+      "title": "1981 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1981",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Houston Rockets",
+        "Series": "4-2",
+        "Finals MVP": "Cedric Maxwell"
+      }
+    },
+    {
+      "title": "1982 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "1982",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Philadelphia 76ers",
+        "Series": "4-2",
+        "Finals MVP": "Magic Johnson"
+      }
+    },
+    {
+      "title": "1983 NBA Champions",
+      "notes": "Philadelphia 76ers",
+      "fields": {
+        "Year": "1983",
+        "Champion": "Philadelphia 76ers",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-0",
+        "Finals MVP": "Moses Malone"
+      }
+    },
+    {
+      "title": "1984 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1984",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-3",
+        "Finals MVP": "Larry Bird"
+      }
+    },
+    {
+      "title": "1985 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "1985",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Boston Celtics",
+        "Series": "4-2",
+        "Finals MVP": "Kareem Abdul-Jabbar"
+      }
+    },
+    {
+      "title": "1986 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "1986",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Houston Rockets",
+        "Series": "4-2",
+        "Finals MVP": "Larry Bird"
+      }
+    },
+    {
+      "title": "1987 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "1987",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Boston Celtics",
+        "Series": "4-2",
+        "Finals MVP": "Magic Johnson"
+      }
+    },
+    {
+      "title": "1988 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "1988",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Detroit Pistons",
+        "Series": "4-3",
+        "Finals MVP": "James Worthy"
+      }
+    },
+    {
+      "title": "1989 NBA Champions",
+      "notes": "Detroit Pistons",
+      "fields": {
+        "Year": "1989",
+        "Champion": "Detroit Pistons",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-0",
+        "Finals MVP": "Joe Dumars"
+      }
+    },
+    {
+      "title": "1990 NBA Champions",
+      "notes": "Detroit Pistons",
+      "fields": {
+        "Year": "1990",
+        "Champion": "Detroit Pistons",
+        "Runner-Up": "Portland Trail Blazers",
+        "Series": "4-1",
+        "Finals MVP": "Isiah Thomas"
+      }
+    },
+    {
+      "title": "1991 NBA Champions",
+      "notes": "Chicago Bulls",
+      "fields": {
+        "Year": "1991",
+        "Champion": "Chicago Bulls",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-1",
+        "Finals MVP": "Michael Jordan"
+      }
+    },
+    {
+      "title": "1992 NBA Champions",
+      "notes": "Chicago Bulls",
+      "fields": {
+        "Year": "1992",
+        "Champion": "Chicago Bulls",
+        "Runner-Up": "Portland Trail Blazers",
+        "Series": "4-2",
+        "Finals MVP": "Michael Jordan"
+      }
+    },
+    {
+      "title": "1993 NBA Champions",
+      "notes": "Chicago Bulls",
+      "fields": {
+        "Year": "1993",
+        "Champion": "Chicago Bulls",
+        "Runner-Up": "Phoenix Suns",
+        "Series": "4-2",
+        "Finals MVP": "Michael Jordan"
+      }
+    },
+    {
+      "title": "1994 NBA Champions",
+      "notes": "Houston Rockets",
+      "fields": {
+        "Year": "1994",
+        "Champion": "Houston Rockets",
+        "Runner-Up": "New York Knicks",
+        "Series": "4-3",
+        "Finals MVP": "Hakeem Olajuwon"
+      }
+    },
+    {
+      "title": "1995 NBA Champions",
+      "notes": "Houston Rockets",
+      "fields": {
+        "Year": "1995",
+        "Champion": "Houston Rockets",
+        "Runner-Up": "Orlando Magic",
+        "Series": "4-0",
+        "Finals MVP": "Hakeem Olajuwon"
+      }
+    },
+    {
+      "title": "1996 NBA Champions",
+      "notes": "Chicago Bulls",
+      "fields": {
+        "Year": "1996",
+        "Champion": "Chicago Bulls",
+        "Runner-Up": "Seattle SuperSonics",
+        "Series": "4-2",
+        "Finals MVP": "Michael Jordan"
+      }
+    },
+    {
+      "title": "1997 NBA Champions",
+      "notes": "Chicago Bulls",
+      "fields": {
+        "Year": "1997",
+        "Champion": "Chicago Bulls",
+        "Runner-Up": "Utah Jazz",
+        "Series": "4-2",
+        "Finals MVP": "Michael Jordan"
+      }
+    },
+    {
+      "title": "1998 NBA Champions",
+      "notes": "Chicago Bulls",
+      "fields": {
+        "Year": "1998",
+        "Champion": "Chicago Bulls",
+        "Runner-Up": "Utah Jazz",
+        "Series": "4-2",
+        "Finals MVP": "Michael Jordan"
+      }
+    },
+    {
+      "title": "1999 NBA Champions",
+      "notes": "San Antonio Spurs",
+      "fields": {
+        "Year": "1999",
+        "Champion": "San Antonio Spurs",
+        "Runner-Up": "New York Knicks",
+        "Series": "4-1",
+        "Finals MVP": "Tim Duncan"
+      }
+    },
+    {
+      "title": "2000 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "2000",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Indiana Pacers",
+        "Series": "4-2",
+        "Finals MVP": "Shaquille O'Neal"
+      }
+    },
+    {
+      "title": "2001 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "2001",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Philadelphia 76ers",
+        "Series": "4-1",
+        "Finals MVP": "Shaquille O'Neal"
+      }
+    },
+    {
+      "title": "2002 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "2002",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "New Jersey Nets",
+        "Series": "4-0",
+        "Finals MVP": "Shaquille O'Neal"
+      }
+    },
+    {
+      "title": "2003 NBA Champions",
+      "notes": "San Antonio Spurs",
+      "fields": {
+        "Year": "2003",
+        "Champion": "San Antonio Spurs",
+        "Runner-Up": "New Jersey Nets",
+        "Series": "4-2",
+        "Finals MVP": "Tim Duncan"
+      }
+    },
+    {
+      "title": "2004 NBA Champions",
+      "notes": "Detroit Pistons",
+      "fields": {
+        "Year": "2004",
+        "Champion": "Detroit Pistons",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-1",
+        "Finals MVP": "Chauncey Billups"
+      }
+    },
+    {
+      "title": "2005 NBA Champions",
+      "notes": "San Antonio Spurs",
+      "fields": {
+        "Year": "2005",
+        "Champion": "San Antonio Spurs",
+        "Runner-Up": "Detroit Pistons",
+        "Series": "4-3",
+        "Finals MVP": "Tim Duncan"
+      }
+    },
+    {
+      "title": "2006 NBA Champions",
+      "notes": "Miami Heat",
+      "fields": {
+        "Year": "2006",
+        "Champion": "Miami Heat",
+        "Runner-Up": "Dallas Mavericks",
+        "Series": "4-2",
+        "Finals MVP": "Dwyane Wade"
+      }
+    },
+    {
+      "title": "2007 NBA Champions",
+      "notes": "San Antonio Spurs",
+      "fields": {
+        "Year": "2007",
+        "Champion": "San Antonio Spurs",
+        "Runner-Up": "Cleveland Cavaliers",
+        "Series": "4-0",
+        "Finals MVP": "Tony Parker"
+      }
+    },
+    {
+      "title": "2008 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "2008",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Los Angeles Lakers",
+        "Series": "4-2",
+        "Finals MVP": "Paul Pierce"
+      }
+    },
+    {
+      "title": "2009 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "2009",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Orlando Magic",
+        "Series": "4-1",
+        "Finals MVP": "Kobe Bryant"
+      }
+    },
+    {
+      "title": "2010 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "2010",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Boston Celtics",
+        "Series": "4-3",
+        "Finals MVP": "Kobe Bryant"
+      }
+    },
+    {
+      "title": "2011 NBA Champions",
+      "notes": "Dallas Mavericks",
+      "fields": {
+        "Year": "2011",
+        "Champion": "Dallas Mavericks",
+        "Runner-Up": "Miami Heat",
+        "Series": "4-2",
+        "Finals MVP": "Dirk Nowitzki"
+      }
+    },
+    {
+      "title": "2012 NBA Champions",
+      "notes": "Miami Heat",
+      "fields": {
+        "Year": "2012",
+        "Champion": "Miami Heat",
+        "Runner-Up": "Oklahoma City Thunder",
+        "Series": "4-1",
+        "Finals MVP": "LeBron James"
+      }
+    },
+    {
+      "title": "2013 NBA Champions",
+      "notes": "Miami Heat",
+      "fields": {
+        "Year": "2013",
+        "Champion": "Miami Heat",
+        "Runner-Up": "San Antonio Spurs",
+        "Series": "4-3",
+        "Finals MVP": "LeBron James"
+      }
+    },
+    {
+      "title": "2014 NBA Champions",
+      "notes": "San Antonio Spurs",
+      "fields": {
+        "Year": "2014",
+        "Champion": "San Antonio Spurs",
+        "Runner-Up": "Miami Heat",
+        "Series": "4-1",
+        "Finals MVP": "Kawhi Leonard"
+      }
+    },
+    {
+      "title": "2015 NBA Champions",
+      "notes": "Golden State Warriors",
+      "fields": {
+        "Year": "2015",
+        "Champion": "Golden State Warriors",
+        "Runner-Up": "Cleveland Cavaliers",
+        "Series": "4-2",
+        "Finals MVP": "Andre Iguodala"
+      }
+    },
+    {
+      "title": "2016 NBA Champions",
+      "notes": "Cleveland Cavaliers",
+      "fields": {
+        "Year": "2016",
+        "Champion": "Cleveland Cavaliers",
+        "Runner-Up": "Golden State Warriors",
+        "Series": "4-3",
+        "Finals MVP": "LeBron James"
+      }
+    },
+    {
+      "title": "2017 NBA Champions",
+      "notes": "Golden State Warriors",
+      "fields": {
+        "Year": "2017",
+        "Champion": "Golden State Warriors",
+        "Runner-Up": "Cleveland Cavaliers",
+        "Series": "4-1",
+        "Finals MVP": "Kevin Durant"
+      }
+    },
+    {
+      "title": "2018 NBA Champions",
+      "notes": "Golden State Warriors",
+      "fields": {
+        "Year": "2018",
+        "Champion": "Golden State Warriors",
+        "Runner-Up": "Cleveland Cavaliers",
+        "Series": "4-0",
+        "Finals MVP": "Kevin Durant"
+      }
+    },
+    {
+      "title": "2019 NBA Champions",
+      "notes": "Toronto Raptors",
+      "fields": {
+        "Year": "2019",
+        "Champion": "Toronto Raptors",
+        "Runner-Up": "Golden State Warriors",
+        "Series": "4-2",
+        "Finals MVP": "Kawhi Leonard"
+      }
+    },
+    {
+      "title": "2020 NBA Champions",
+      "notes": "Los Angeles Lakers",
+      "fields": {
+        "Year": "2020",
+        "Champion": "Los Angeles Lakers",
+        "Runner-Up": "Miami Heat",
+        "Series": "4-2",
+        "Finals MVP": "LeBron James"
+      }
+    },
+    {
+      "title": "2021 NBA Champions",
+      "notes": "Milwaukee Bucks",
+      "fields": {
+        "Year": "2021",
+        "Champion": "Milwaukee Bucks",
+        "Runner-Up": "Phoenix Suns",
+        "Series": "4-2",
+        "Finals MVP": "Giannis Antetokounmpo"
+      }
+    },
+    {
+      "title": "2022 NBA Champions",
+      "notes": "Golden State Warriors",
+      "fields": {
+        "Year": "2022",
+        "Champion": "Golden State Warriors",
+        "Runner-Up": "Boston Celtics",
+        "Series": "4-2",
+        "Finals MVP": "Stephen Curry"
+      }
+    },
+    {
+      "title": "2023 NBA Champions",
+      "notes": "Denver Nuggets",
+      "fields": {
+        "Year": "2023",
+        "Champion": "Denver Nuggets",
+        "Runner-Up": "Miami Heat",
+        "Series": "4-1",
+        "Finals MVP": "Nikola Jokic"
+      }
+    },
+    {
+      "title": "2024 NBA Champions",
+      "notes": "Boston Celtics",
+      "fields": {
+        "Year": "2024",
+        "Champion": "Boston Celtics",
+        "Runner-Up": "Dallas Mavericks",
+        "Series": "4-1",
+        "Finals MVP": "Jaylen Brown"
+      }
+    }
+  ]
+}

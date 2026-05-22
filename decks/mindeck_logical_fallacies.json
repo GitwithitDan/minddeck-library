@@ -1,0 +1,255 @@
+{
+  "deck_name": "Logical Fallacies",
+  "cards": [
+    {
+      "title": "Ad Hominem",
+      "notes": "Attacking the person making the argument rather than the argument itself.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Argumentum ad Hominem",
+        "Definition": "Attacking the person making the argument rather than the argument itself.",
+        "Example": "\"You can't trust his health advice \u2014 he's overweight.\""
+      }
+    },
+    {
+      "title": "Straw Man",
+      "notes": "Misrepresenting an opponent's position to make it easier to attack.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Misrepresenting an opponent's position to make it easier to attack.",
+        "Example": "\"He wants stricter gun laws, so he wants to ban all guns.\""
+      }
+    },
+    {
+      "title": "False Dichotomy",
+      "notes": "Presenting only two options as if no others exist.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Bifurcation / Either-Or Fallacy",
+        "Definition": "Presenting only two options as if no others exist.",
+        "Example": "\"You're either with us or against us.\""
+      }
+    },
+    {
+      "title": "Slippery Slope",
+      "notes": "Claiming one event will inevitably lead to extreme consequences without justification.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Claiming one event will inevitably lead to extreme consequences without justification.",
+        "Example": "\"If we allow same-sex marriage, next people will want to marry animals.\""
+      }
+    },
+    {
+      "title": "Appeal to Authority",
+      "notes": "Using an authority figure's opinion as conclusive evidence regardless of relevance.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Argumentum ad Verecundiam",
+        "Definition": "Using an authority figure's opinion as conclusive evidence regardless of relevance.",
+        "Example": "\"A famous actor says this supplement works, so it must.\""
+      }
+    },
+    {
+      "title": "Circular Reasoning",
+      "notes": "Using the conclusion as a premise in the argument.",
+      "fields": {
+        "Type": "Formal",
+        "Latin/Greek Name": "Petitio Principii / Begging the Question",
+        "Definition": "Using the conclusion as a premise in the argument.",
+        "Example": "\"The Bible is true because the Bible says it is true.\""
+      }
+    },
+    {
+      "title": "Hasty Generalization",
+      "notes": "Drawing a broad conclusion from too few or unrepresentative examples.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Drawing a broad conclusion from too few or unrepresentative examples.",
+        "Example": "\"I met two rude people from that city, so everyone there is rude.\""
+      }
+    },
+    {
+      "title": "Post Hoc",
+      "notes": "Assuming that because B followed A, A caused B.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Post Hoc Ergo Propter Hoc",
+        "Definition": "Assuming that because B followed A, A caused B.",
+        "Example": "\"I wore my lucky socks and we won \u2014 the socks caused the win.\""
+      }
+    },
+    {
+      "title": "Appeal to Emotion",
+      "notes": "Using emotional manipulation in place of logical argument.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Argumentum ad Passiones",
+        "Definition": "Using emotional manipulation in place of logical argument.",
+        "Example": "\"Think of the children \u2014 we must ban this immediately.\""
+      }
+    },
+    {
+      "title": "Red Herring",
+      "notes": "Introducing irrelevant information to divert attention from the real issue.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Ignoratio Elenchi",
+        "Definition": "Introducing irrelevant information to divert attention from the real issue.",
+        "Example": "Deflecting a question about policy by discussing personal attacks on critics."
+      }
+    },
+    {
+      "title": "Bandwagon",
+      "notes": "Claiming something is true or good because many people believe or do it.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Argumentum ad Populum",
+        "Definition": "Claiming something is true or good because many people believe or do it.",
+        "Example": "\"Millions of people can't be wrong \u2014 join us!\""
+      }
+    },
+    {
+      "title": "Appeal to Ignorance",
+      "notes": "Claiming something is true because it has not been proven false, or vice versa.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Argumentum ad Ignorantiam",
+        "Definition": "Claiming something is true because it has not been proven false, or vice versa.",
+        "Example": "\"No one has disproven ghosts exist, so they must.\""
+      }
+    },
+    {
+      "title": "False Equivalence",
+      "notes": "Treating two unequal things as if they are morally or logically equivalent.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Treating two unequal things as if they are morally or logically equivalent.",
+        "Example": "\"Both sides have extremists, so both parties are equally bad.\""
+      }
+    },
+    {
+      "title": "Equivocation",
+      "notes": "Exploiting a word's multiple meanings to mislead within an argument.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Exploiting a word's multiple meanings to mislead within an argument.",
+        "Example": "\"The sign said 'fine for parking here' \u2014 so I parked.\""
+      }
+    },
+    {
+      "title": "Tu Quoque",
+      "notes": "Dismissing a claim by pointing out the other person's inconsistency rather than addressing the argument.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Appeal to Hypocrisy",
+        "Definition": "Dismissing a claim by pointing out the other person's inconsistency rather than addressing the argument.",
+        "Example": "\"Why should I stop smoking? You used to smoke too.\""
+      }
+    },
+    {
+      "title": "Appeal to Nature",
+      "notes": "Arguing something is good because it is natural, or bad because it is artificial.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Arguing something is good because it is natural, or bad because it is artificial.",
+        "Example": "\"This medicine is synthetic, so it must be harmful.\""
+      }
+    },
+    {
+      "title": "Anecdotal Evidence",
+      "notes": "Using a personal story or isolated example to support a broad claim.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Using a personal story or isolated example to support a broad claim.",
+        "Example": "\"My grandfather smoked a pack a day and lived to 95, so smoking isn't that dangerous.\""
+      }
+    },
+    {
+      "title": "No True Scotsman",
+      "notes": "Redefining a group's criteria to exclude inconvenient counterexamples.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Redefining a group's criteria to exclude inconvenient counterexamples.",
+        "Example": "\"No true Scotsman would put sugar on porridge.\" [After told a Scotsman does]"
+      }
+    },
+    {
+      "title": "Gambler's Fallacy",
+      "notes": "Believing past independent random events affect the probability of future ones.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Monte Carlo Fallacy",
+        "Definition": "Believing past independent random events affect the probability of future ones.",
+        "Example": "\"The coin has come up heads five times \u2014 tails is due.\""
+      }
+    },
+    {
+      "title": "Sunk Cost Fallacy",
+      "notes": "Continuing a losing course of action because of past investment rather than future value.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Continuing a losing course of action because of past investment rather than future value.",
+        "Example": "\"I've already spent so much on this project, I can't quit now.\""
+      }
+    },
+    {
+      "title": "Loaded Question",
+      "notes": "Asking a question with a harmful or false assumption embedded in it.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Asking a question with a harmful or false assumption embedded in it.",
+        "Example": "\"Have you stopped cheating on your taxes?\""
+      }
+    },
+    {
+      "title": "False Cause",
+      "notes": "Incorrectly identifying the cause of an event or correlation as causation.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Non Causa Pro Causa",
+        "Definition": "Incorrectly identifying the cause of an event or correlation as causation.",
+        "Example": "\"Ice cream sales rise with drowning rates \u2014 ice cream causes drowning.\""
+      }
+    },
+    {
+      "title": "Appeal to Tradition",
+      "notes": "Assuming something is correct or better simply because it is older or traditional.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "Argumentum ad Antiquitatem",
+        "Definition": "Assuming something is correct or better simply because it is older or traditional.",
+        "Example": "\"We've always done it this way \u2014 there's no need to change.\""
+      }
+    },
+    {
+      "title": "Genetic Fallacy",
+      "notes": "Judging something as good or bad based on its origin rather than its actual content.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Judging something as good or bad based on its origin rather than its actual content.",
+        "Example": "\"That idea came from a discredited person, so it must be wrong.\""
+      }
+    },
+    {
+      "title": "Moving the Goalposts",
+      "notes": "Changing the criteria for a claim after it has been met, to avoid conceding the point.",
+      "fields": {
+        "Type": "Informal",
+        "Latin/Greek Name": "\u2014",
+        "Definition": "Changing the criteria for a claim after it has been met, to avoid conceding the point.",
+        "Example": "\"OK, you found one study \u2014 show me ten more.\" [After one was the original demand]"
+      }
+    }
+  ]
+}

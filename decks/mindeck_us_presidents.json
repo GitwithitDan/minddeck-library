@@ -1,0 +1,569 @@
+{
+  "deck_name": "US Presidents",
+  "cards": [
+    {
+      "title": "George Washington",
+      "notes": "The 1st President of the United States",
+      "fields": {
+        "Number": "1",
+        "Party": "No Party",
+        "Term Start": "1789",
+        "Term End": "1797",
+        "Vice President": "John Adams",
+        "Home State": "Virginia"
+      }
+    },
+    {
+      "title": "John Adams",
+      "notes": "The 2nd President of the United States",
+      "fields": {
+        "Number": "2",
+        "Party": "Federalist",
+        "Term Start": "1797",
+        "Term End": "1801",
+        "Vice President": "Thomas Jefferson",
+        "Home State": "Massachusetts"
+      }
+    },
+    {
+      "title": "Thomas Jefferson",
+      "notes": "The 3rd President of the United States",
+      "fields": {
+        "Number": "3",
+        "Party": "Democratic-Republican",
+        "Term Start": "1801",
+        "Term End": "1809",
+        "Vice President": "Aaron Burr / George Clinton",
+        "Home State": "Virginia"
+      }
+    },
+    {
+      "title": "James Madison",
+      "notes": "The 4th President of the United States",
+      "fields": {
+        "Number": "4",
+        "Party": "Democratic-Republican",
+        "Term Start": "1809",
+        "Term End": "1817",
+        "Vice President": "George Clinton / Elbridge Gerry",
+        "Home State": "Virginia"
+      }
+    },
+    {
+      "title": "James Monroe",
+      "notes": "The 5th President of the United States",
+      "fields": {
+        "Number": "5",
+        "Party": "Democratic-Republican",
+        "Term Start": "1817",
+        "Term End": "1825",
+        "Vice President": "Daniel D. Tompkins",
+        "Home State": "Virginia"
+      }
+    },
+    {
+      "title": "John Quincy Adams",
+      "notes": "The 6th President of the United States",
+      "fields": {
+        "Number": "6",
+        "Party": "Democratic-Republican",
+        "Term Start": "1825",
+        "Term End": "1829",
+        "Vice President": "John C. Calhoun",
+        "Home State": "Massachusetts"
+      }
+    },
+    {
+      "title": "Andrew Jackson",
+      "notes": "The 7th President of the United States",
+      "fields": {
+        "Number": "7",
+        "Party": "Democrat",
+        "Term Start": "1829",
+        "Term End": "1837",
+        "Vice President": "Calhoun / Martin Van Buren",
+        "Home State": "Tennessee"
+      }
+    },
+    {
+      "title": "Martin Van Buren",
+      "notes": "The 8th President of the United States",
+      "fields": {
+        "Number": "8",
+        "Party": "Democrat",
+        "Term Start": "1837",
+        "Term End": "1841",
+        "Vice President": "Richard Mentor Johnson",
+        "Home State": "New York"
+      }
+    },
+    {
+      "title": "William Henry Harrison",
+      "notes": "The 9th President of the United States",
+      "fields": {
+        "Number": "9",
+        "Party": "Whig",
+        "Term Start": "1841",
+        "Term End": "1841",
+        "Vice President": "John Tyler",
+        "Home State": "Ohio"
+      }
+    },
+    {
+      "title": "John Tyler",
+      "notes": "The 10th President of the United States",
+      "fields": {
+        "Number": "10",
+        "Party": "Whig (expelled)",
+        "Term Start": "1841",
+        "Term End": "1845",
+        "Vice President": "None",
+        "Home State": "Virginia"
+      }
+    },
+    {
+      "title": "James K. Polk",
+      "notes": "The 11th President of the United States",
+      "fields": {
+        "Number": "11",
+        "Party": "Democrat",
+        "Term Start": "1845",
+        "Term End": "1849",
+        "Vice President": "George M. Dallas",
+        "Home State": "Tennessee"
+      }
+    },
+    {
+      "title": "Zachary Taylor",
+      "notes": "The 12th President of the United States",
+      "fields": {
+        "Number": "12",
+        "Party": "Whig",
+        "Term Start": "1849",
+        "Term End": "1850",
+        "Vice President": "Millard Fillmore",
+        "Home State": "Louisiana"
+      }
+    },
+    {
+      "title": "Millard Fillmore",
+      "notes": "The 13th President of the United States",
+      "fields": {
+        "Number": "13",
+        "Party": "Whig",
+        "Term Start": "1850",
+        "Term End": "1853",
+        "Vice President": "None",
+        "Home State": "New York"
+      }
+    },
+    {
+      "title": "Franklin Pierce",
+      "notes": "The 14th President of the United States",
+      "fields": {
+        "Number": "14",
+        "Party": "Democrat",
+        "Term Start": "1853",
+        "Term End": "1857",
+        "Vice President": "William R. King",
+        "Home State": "New Hampshire"
+      }
+    },
+    {
+      "title": "James Buchanan",
+      "notes": "The 15th President of the United States",
+      "fields": {
+        "Number": "15",
+        "Party": "Democrat",
+        "Term Start": "1857",
+        "Term End": "1861",
+        "Vice President": "John C. Breckinridge",
+        "Home State": "Pennsylvania"
+      }
+    },
+    {
+      "title": "Abraham Lincoln",
+      "notes": "The 16th President of the United States",
+      "fields": {
+        "Number": "16",
+        "Party": "Republican",
+        "Term Start": "1861",
+        "Term End": "1865",
+        "Vice President": "Hamlin / Andrew Johnson",
+        "Home State": "Illinois"
+      }
+    },
+    {
+      "title": "Andrew Johnson",
+      "notes": "The 17th President of the United States",
+      "fields": {
+        "Number": "17",
+        "Party": "National Union/Democrat",
+        "Term Start": "1865",
+        "Term End": "1869",
+        "Vice President": "None",
+        "Home State": "Tennessee"
+      }
+    },
+    {
+      "title": "Ulysses S. Grant",
+      "notes": "The 18th President of the United States",
+      "fields": {
+        "Number": "18",
+        "Party": "Republican",
+        "Term Start": "1869",
+        "Term End": "1877",
+        "Vice President": "Colfax / Henry Wilson",
+        "Home State": "Ohio"
+      }
+    },
+    {
+      "title": "Rutherford B. Hayes",
+      "notes": "The 19th President of the United States",
+      "fields": {
+        "Number": "19",
+        "Party": "Republican",
+        "Term Start": "1877",
+        "Term End": "1881",
+        "Vice President": "William A. Wheeler",
+        "Home State": "Ohio"
+      }
+    },
+    {
+      "title": "James A. Garfield",
+      "notes": "The 20th President of the United States",
+      "fields": {
+        "Number": "20",
+        "Party": "Republican",
+        "Term Start": "1881",
+        "Term End": "1881",
+        "Vice President": "Chester A. Arthur",
+        "Home State": "Ohio"
+      }
+    },
+    {
+      "title": "Chester A. Arthur",
+      "notes": "The 21th President of the United States",
+      "fields": {
+        "Number": "21",
+        "Party": "Republican",
+        "Term Start": "1881",
+        "Term End": "1885",
+        "Vice President": "None",
+        "Home State": "New York"
+      }
+    },
+    {
+      "title": "Grover Cleveland",
+      "notes": "The 22th President of the United States",
+      "fields": {
+        "Number": "22",
+        "Party": "Democrat",
+        "Term Start": "1885",
+        "Term End": "1889",
+        "Vice President": "Thomas A. Hendricks",
+        "Home State": "New York"
+      }
+    },
+    {
+      "title": "Benjamin Harrison",
+      "notes": "The 23th President of the United States",
+      "fields": {
+        "Number": "23",
+        "Party": "Republican",
+        "Term Start": "1889",
+        "Term End": "1893",
+        "Vice President": "Levi P. Morton",
+        "Home State": "Indiana"
+      }
+    },
+    {
+      "title": "Grover Cleveland",
+      "notes": "The 24th President of the United States",
+      "fields": {
+        "Number": "24",
+        "Party": "Democrat",
+        "Term Start": "1893",
+        "Term End": "1897",
+        "Vice President": "Adlai Stevenson I",
+        "Home State": "New York"
+      }
+    },
+    {
+      "title": "William McKinley",
+      "notes": "The 25th President of the United States",
+      "fields": {
+        "Number": "25",
+        "Party": "Republican",
+        "Term Start": "1897",
+        "Term End": "1901",
+        "Vice President": "Hobart / Theodore Roosevelt",
+        "Home State": "Ohio"
+      }
+    },
+    {
+      "title": "Theodore Roosevelt",
+      "notes": "The 26th President of the United States",
+      "fields": {
+        "Number": "26",
+        "Party": "Republican",
+        "Term Start": "1901",
+        "Term End": "1909",
+        "Vice President": "Charles W. Fairbanks",
+        "Home State": "New York"
+      }
+    },
+    {
+      "title": "William Howard Taft",
+      "notes": "The 27th President of the United States",
+      "fields": {
+        "Number": "27",
+        "Party": "Republican",
+        "Term Start": "1909",
+        "Term End": "1913",
+        "Vice President": "James S. Sherman",
+        "Home State": "Ohio"
+      }
+    },
+    {
+      "title": "Woodrow Wilson",
+      "notes": "The 28th President of the United States",
+      "fields": {
+        "Number": "28",
+        "Party": "Democrat",
+        "Term Start": "1913",
+        "Term End": "1921",
+        "Vice President": "Thomas R. Marshall",
+        "Home State": "New Jersey"
+      }
+    },
+    {
+      "title": "Warren G. Harding",
+      "notes": "The 29th President of the United States",
+      "fields": {
+        "Number": "29",
+        "Party": "Republican",
+        "Term Start": "1921",
+        "Term End": "1923",
+        "Vice President": "Calvin Coolidge",
+        "Home State": "Ohio"
+      }
+    },
+    {
+      "title": "Calvin Coolidge",
+      "notes": "The 30th President of the United States",
+      "fields": {
+        "Number": "30",
+        "Party": "Republican",
+        "Term Start": "1923",
+        "Term End": "1929",
+        "Vice President": "Charles G. Dawes",
+        "Home State": "Massachusetts"
+      }
+    },
+    {
+      "title": "Herbert Hoover",
+      "notes": "The 31th President of the United States",
+      "fields": {
+        "Number": "31",
+        "Party": "Republican",
+        "Term Start": "1929",
+        "Term End": "1933",
+        "Vice President": "Charles Curtis",
+        "Home State": "California"
+      }
+    },
+    {
+      "title": "Franklin D. Roosevelt",
+      "notes": "The 32th President of the United States",
+      "fields": {
+        "Number": "32",
+        "Party": "Democrat",
+        "Term Start": "1933",
+        "Term End": "1945",
+        "Vice President": "Garner / Wallace / Truman",
+        "Home State": "New York"
+      }
+    },
+    {
+      "title": "Harry S. Truman",
+      "notes": "The 33th President of the United States",
+      "fields": {
+        "Number": "33",
+        "Party": "Democrat",
+        "Term Start": "1945",
+        "Term End": "1953",
+        "Vice President": "Alben W. Barkley",
+        "Home State": "Missouri"
+      }
+    },
+    {
+      "title": "Dwight D. Eisenhower",
+      "notes": "The 34th President of the United States",
+      "fields": {
+        "Number": "34",
+        "Party": "Republican",
+        "Term Start": "1953",
+        "Term End": "1961",
+        "Vice President": "Richard Nixon",
+        "Home State": "Kansas"
+      }
+    },
+    {
+      "title": "John F. Kennedy",
+      "notes": "The 35th President of the United States",
+      "fields": {
+        "Number": "35",
+        "Party": "Democrat",
+        "Term Start": "1961",
+        "Term End": "1963",
+        "Vice President": "Lyndon B. Johnson",
+        "Home State": "Massachusetts"
+      }
+    },
+    {
+      "title": "Lyndon B. Johnson",
+      "notes": "The 36th President of the United States",
+      "fields": {
+        "Number": "36",
+        "Party": "Democrat",
+        "Term Start": "1963",
+        "Term End": "1969",
+        "Vice President": "Hubert Humphrey",
+        "Home State": "Texas"
+      }
+    },
+    {
+      "title": "Richard Nixon",
+      "notes": "The 37th President of the United States",
+      "fields": {
+        "Number": "37",
+        "Party": "Republican",
+        "Term Start": "1969",
+        "Term End": "1974",
+        "Vice President": "Agnew / Gerald Ford",
+        "Home State": "California"
+      }
+    },
+    {
+      "title": "Gerald Ford",
+      "notes": "The 38th President of the United States",
+      "fields": {
+        "Number": "38",
+        "Party": "Republican",
+        "Term Start": "1974",
+        "Term End": "1977",
+        "Vice President": "Nelson Rockefeller",
+        "Home State": "Michigan"
+      }
+    },
+    {
+      "title": "Jimmy Carter",
+      "notes": "The 39th President of the United States",
+      "fields": {
+        "Number": "39",
+        "Party": "Democrat",
+        "Term Start": "1977",
+        "Term End": "1981",
+        "Vice President": "Walter Mondale",
+        "Home State": "Georgia"
+      }
+    },
+    {
+      "title": "Ronald Reagan",
+      "notes": "The 40th President of the United States",
+      "fields": {
+        "Number": "40",
+        "Party": "Republican",
+        "Term Start": "1981",
+        "Term End": "1989",
+        "Vice President": "George H.W. Bush",
+        "Home State": "California"
+      }
+    },
+    {
+      "title": "George H.W. Bush",
+      "notes": "The 41th President of the United States",
+      "fields": {
+        "Number": "41",
+        "Party": "Republican",
+        "Term Start": "1989",
+        "Term End": "1993",
+        "Vice President": "Dan Quayle",
+        "Home State": "Texas"
+      }
+    },
+    {
+      "title": "Bill Clinton",
+      "notes": "The 42th President of the United States",
+      "fields": {
+        "Number": "42",
+        "Party": "Democrat",
+        "Term Start": "1993",
+        "Term End": "2001",
+        "Vice President": "Al Gore",
+        "Home State": "Arkansas"
+      }
+    },
+    {
+      "title": "George W. Bush",
+      "notes": "The 43th President of the United States",
+      "fields": {
+        "Number": "43",
+        "Party": "Republican",
+        "Term Start": "2001",
+        "Term End": "2009",
+        "Vice President": "Dick Cheney",
+        "Home State": "Texas"
+      }
+    },
+    {
+      "title": "Barack Obama",
+      "notes": "The 44th President of the United States",
+      "fields": {
+        "Number": "44",
+        "Party": "Democrat",
+        "Term Start": "2009",
+        "Term End": "2017",
+        "Vice President": "Joe Biden",
+        "Home State": "Illinois"
+      }
+    },
+    {
+      "title": "Donald Trump",
+      "notes": "The 45th President of the United States",
+      "fields": {
+        "Number": "45",
+        "Party": "Republican",
+        "Term Start": "2017",
+        "Term End": "2021",
+        "Vice President": "Mike Pence",
+        "Home State": "New York"
+      }
+    },
+    {
+      "title": "Joe Biden",
+      "notes": "The 46th President of the United States",
+      "fields": {
+        "Number": "46",
+        "Party": "Democrat",
+        "Term Start": "2021",
+        "Term End": "2025",
+        "Vice President": "Kamala Harris",
+        "Home State": "Delaware"
+      }
+    },
+    {
+      "title": "Donald Trump",
+      "notes": "The 47th President of the United States",
+      "fields": {
+        "Number": "47",
+        "Party": "Republican",
+        "Term Start": "2025",
+        "Term End": "present",
+        "Vice President": "JD Vance",
+        "Home State": "New York"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1205 @@
+{
+  "deck_name": "World Series Champions",
+  "cards": [
+    {
+      "title": "1903 World Series",
+      "notes": "Boston Americans defeat Pittsburgh Pirates, 5-3",
+      "fields": {
+        "Year": "1903",
+        "Champion": "Boston Americans",
+        "Runner-Up": "Pittsburgh Pirates",
+        "Series": "5-3"
+      }
+    },
+    {
+      "title": "1905 World Series",
+      "notes": "New York Giants defeat Philadelphia Athletics, 4-1",
+      "fields": {
+        "Year": "1905",
+        "Champion": "New York Giants",
+        "Runner-Up": "Philadelphia Athletics",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1906 World Series",
+      "notes": "Chicago White Sox defeat Chicago Cubs, 4-2",
+      "fields": {
+        "Year": "1906",
+        "Champion": "Chicago White Sox",
+        "Runner-Up": "Chicago Cubs",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1907 World Series",
+      "notes": "Chicago Cubs defeat Detroit Tigers, 4-0",
+      "fields": {
+        "Year": "1907",
+        "Champion": "Chicago Cubs",
+        "Runner-Up": "Detroit Tigers",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1908 World Series",
+      "notes": "Chicago Cubs defeat Detroit Tigers, 4-1",
+      "fields": {
+        "Year": "1908",
+        "Champion": "Chicago Cubs",
+        "Runner-Up": "Detroit Tigers",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1909 World Series",
+      "notes": "Pittsburgh Pirates defeat Detroit Tigers, 4-3",
+      "fields": {
+        "Year": "1909",
+        "Champion": "Pittsburgh Pirates",
+        "Runner-Up": "Detroit Tigers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1910 World Series",
+      "notes": "Philadelphia Athletics defeat Chicago Cubs, 4-1",
+      "fields": {
+        "Year": "1910",
+        "Champion": "Philadelphia Athletics",
+        "Runner-Up": "Chicago Cubs",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1911 World Series",
+      "notes": "Philadelphia Athletics defeat New York Giants, 4-2",
+      "fields": {
+        "Year": "1911",
+        "Champion": "Philadelphia Athletics",
+        "Runner-Up": "New York Giants",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1912 World Series",
+      "notes": "Boston Red Sox defeat New York Giants, 4-3",
+      "fields": {
+        "Year": "1912",
+        "Champion": "Boston Red Sox",
+        "Runner-Up": "New York Giants",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1913 World Series",
+      "notes": "Philadelphia Athletics defeat New York Giants, 4-1",
+      "fields": {
+        "Year": "1913",
+        "Champion": "Philadelphia Athletics",
+        "Runner-Up": "New York Giants",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1914 World Series",
+      "notes": "Boston Braves defeat Philadelphia Athletics, 4-0",
+      "fields": {
+        "Year": "1914",
+        "Champion": "Boston Braves",
+        "Runner-Up": "Philadelphia Athletics",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1915 World Series",
+      "notes": "Boston Red Sox defeat Philadelphia Phillies, 4-1",
+      "fields": {
+        "Year": "1915",
+        "Champion": "Boston Red Sox",
+        "Runner-Up": "Philadelphia Phillies",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1916 World Series",
+      "notes": "Boston Red Sox defeat Brooklyn Robins, 4-1",
+      "fields": {
+        "Year": "1916",
+        "Champion": "Boston Red Sox",
+        "Runner-Up": "Brooklyn Robins",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1917 World Series",
+      "notes": "Chicago White Sox defeat New York Giants, 4-2",
+      "fields": {
+        "Year": "1917",
+        "Champion": "Chicago White Sox",
+        "Runner-Up": "New York Giants",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1918 World Series",
+      "notes": "Boston Red Sox defeat Chicago Cubs, 4-2",
+      "fields": {
+        "Year": "1918",
+        "Champion": "Boston Red Sox",
+        "Runner-Up": "Chicago Cubs",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1919 World Series",
+      "notes": "Cincinnati Reds defeat Chicago White Sox, 5-3",
+      "fields": {
+        "Year": "1919",
+        "Champion": "Cincinnati Reds",
+        "Runner-Up": "Chicago White Sox",
+        "Series": "5-3"
+      }
+    },
+    {
+      "title": "1920 World Series",
+      "notes": "Cleveland Indians defeat Brooklyn Dodgers, 5-2",
+      "fields": {
+        "Year": "1920",
+        "Champion": "Cleveland Indians",
+        "Runner-Up": "Brooklyn Dodgers",
+        "Series": "5-2"
+      }
+    },
+    {
+      "title": "1921 World Series",
+      "notes": "New York Giants defeat New York Yankees, 5-3",
+      "fields": {
+        "Year": "1921",
+        "Champion": "New York Giants",
+        "Runner-Up": "New York Yankees",
+        "Series": "5-3"
+      }
+    },
+    {
+      "title": "1922 World Series",
+      "notes": "New York Giants defeat New York Yankees, 4-0",
+      "fields": {
+        "Year": "1922",
+        "Champion": "New York Giants",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1923 World Series",
+      "notes": "New York Yankees defeat New York Giants, 4-2",
+      "fields": {
+        "Year": "1923",
+        "Champion": "New York Yankees",
+        "Runner-Up": "New York Giants",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1924 World Series",
+      "notes": "Washington Senators defeat New York Giants, 4-3",
+      "fields": {
+        "Year": "1924",
+        "Champion": "Washington Senators",
+        "Runner-Up": "New York Giants",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1925 World Series",
+      "notes": "Pittsburgh Pirates defeat Washington Senators, 4-3",
+      "fields": {
+        "Year": "1925",
+        "Champion": "Pittsburgh Pirates",
+        "Runner-Up": "Washington Senators",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1926 World Series",
+      "notes": "St. Louis Cardinals defeat New York Yankees, 4-3",
+      "fields": {
+        "Year": "1926",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1927 World Series",
+      "notes": "New York Yankees defeat Pittsburgh Pirates, 4-0",
+      "fields": {
+        "Year": "1927",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Pittsburgh Pirates",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1928 World Series",
+      "notes": "New York Yankees defeat St. Louis Cardinals, 4-0",
+      "fields": {
+        "Year": "1928",
+        "Champion": "New York Yankees",
+        "Runner-Up": "St. Louis Cardinals",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1929 World Series",
+      "notes": "Philadelphia Athletics defeat Chicago Cubs, 4-1",
+      "fields": {
+        "Year": "1929",
+        "Champion": "Philadelphia Athletics",
+        "Runner-Up": "Chicago Cubs",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1930 World Series",
+      "notes": "Philadelphia Athletics defeat St. Louis Cardinals, 4-2",
+      "fields": {
+        "Year": "1930",
+        "Champion": "Philadelphia Athletics",
+        "Runner-Up": "St. Louis Cardinals",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1931 World Series",
+      "notes": "St. Louis Cardinals defeat Philadelphia Athletics, 4-3",
+      "fields": {
+        "Year": "1931",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "Philadelphia Athletics",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1932 World Series",
+      "notes": "New York Yankees defeat Chicago Cubs, 4-0",
+      "fields": {
+        "Year": "1932",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Chicago Cubs",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1933 World Series",
+      "notes": "New York Giants defeat Washington Senators, 4-1",
+      "fields": {
+        "Year": "1933",
+        "Champion": "New York Giants",
+        "Runner-Up": "Washington Senators",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1934 World Series",
+      "notes": "St. Louis Cardinals defeat Detroit Tigers, 4-3",
+      "fields": {
+        "Year": "1934",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "Detroit Tigers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1935 World Series",
+      "notes": "Detroit Tigers defeat Chicago Cubs, 4-2",
+      "fields": {
+        "Year": "1935",
+        "Champion": "Detroit Tigers",
+        "Runner-Up": "Chicago Cubs",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1936 World Series",
+      "notes": "New York Yankees defeat New York Giants, 4-2",
+      "fields": {
+        "Year": "1936",
+        "Champion": "New York Yankees",
+        "Runner-Up": "New York Giants",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1937 World Series",
+      "notes": "New York Yankees defeat New York Giants, 4-1",
+      "fields": {
+        "Year": "1937",
+        "Champion": "New York Yankees",
+        "Runner-Up": "New York Giants",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1938 World Series",
+      "notes": "New York Yankees defeat Chicago Cubs, 4-0",
+      "fields": {
+        "Year": "1938",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Chicago Cubs",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1939 World Series",
+      "notes": "New York Yankees defeat Cincinnati Reds, 4-0",
+      "fields": {
+        "Year": "1939",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Cincinnati Reds",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1940 World Series",
+      "notes": "Cincinnati Reds defeat Detroit Tigers, 4-3",
+      "fields": {
+        "Year": "1940",
+        "Champion": "Cincinnati Reds",
+        "Runner-Up": "Detroit Tigers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1941 World Series",
+      "notes": "New York Yankees defeat Brooklyn Dodgers, 4-1",
+      "fields": {
+        "Year": "1941",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Brooklyn Dodgers",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1942 World Series",
+      "notes": "St. Louis Cardinals defeat New York Yankees, 4-1",
+      "fields": {
+        "Year": "1942",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1943 World Series",
+      "notes": "New York Yankees defeat St. Louis Cardinals, 4-1",
+      "fields": {
+        "Year": "1943",
+        "Champion": "New York Yankees",
+        "Runner-Up": "St. Louis Cardinals",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1944 World Series",
+      "notes": "St. Louis Cardinals defeat St. Louis Browns, 4-2",
+      "fields": {
+        "Year": "1944",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "St. Louis Browns",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1945 World Series",
+      "notes": "Detroit Tigers defeat Chicago Cubs, 4-3",
+      "fields": {
+        "Year": "1945",
+        "Champion": "Detroit Tigers",
+        "Runner-Up": "Chicago Cubs",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1946 World Series",
+      "notes": "St. Louis Cardinals defeat Boston Red Sox, 4-3",
+      "fields": {
+        "Year": "1946",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "Boston Red Sox",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1947 World Series",
+      "notes": "New York Yankees defeat Brooklyn Dodgers, 4-3",
+      "fields": {
+        "Year": "1947",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Brooklyn Dodgers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1948 World Series",
+      "notes": "Cleveland Indians defeat Boston Braves, 4-2",
+      "fields": {
+        "Year": "1948",
+        "Champion": "Cleveland Indians",
+        "Runner-Up": "Boston Braves",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1949 World Series",
+      "notes": "New York Yankees defeat Brooklyn Dodgers, 4-1",
+      "fields": {
+        "Year": "1949",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Brooklyn Dodgers",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1950 World Series",
+      "notes": "New York Yankees defeat Philadelphia Phillies, 4-0",
+      "fields": {
+        "Year": "1950",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Philadelphia Phillies",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1951 World Series",
+      "notes": "New York Yankees defeat New York Giants, 4-2",
+      "fields": {
+        "Year": "1951",
+        "Champion": "New York Yankees",
+        "Runner-Up": "New York Giants",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1952 World Series",
+      "notes": "New York Yankees defeat Brooklyn Dodgers, 4-3",
+      "fields": {
+        "Year": "1952",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Brooklyn Dodgers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1953 World Series",
+      "notes": "New York Yankees defeat Brooklyn Dodgers, 4-2",
+      "fields": {
+        "Year": "1953",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Brooklyn Dodgers",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1954 World Series",
+      "notes": "New York Giants defeat Cleveland Indians, 4-0",
+      "fields": {
+        "Year": "1954",
+        "Champion": "New York Giants",
+        "Runner-Up": "Cleveland Indians",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1955 World Series",
+      "notes": "Brooklyn Dodgers defeat New York Yankees, 4-3",
+      "fields": {
+        "Year": "1955",
+        "Champion": "Brooklyn Dodgers",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1956 World Series",
+      "notes": "New York Yankees defeat Brooklyn Dodgers, 4-3",
+      "fields": {
+        "Year": "1956",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Brooklyn Dodgers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1957 World Series",
+      "notes": "Milwaukee Braves defeat New York Yankees, 4-3",
+      "fields": {
+        "Year": "1957",
+        "Champion": "Milwaukee Braves",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1958 World Series",
+      "notes": "New York Yankees defeat Milwaukee Braves, 4-3",
+      "fields": {
+        "Year": "1958",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Milwaukee Braves",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1959 World Series",
+      "notes": "Los Angeles Dodgers defeat Chicago White Sox, 4-2",
+      "fields": {
+        "Year": "1959",
+        "Champion": "Los Angeles Dodgers",
+        "Runner-Up": "Chicago White Sox",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1960 World Series",
+      "notes": "Pittsburgh Pirates defeat New York Yankees, 4-3",
+      "fields": {
+        "Year": "1960",
+        "Champion": "Pittsburgh Pirates",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1961 World Series",
+      "notes": "New York Yankees defeat Cincinnati Reds, 4-1",
+      "fields": {
+        "Year": "1961",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Cincinnati Reds",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1962 World Series",
+      "notes": "New York Yankees defeat San Francisco Giants, 4-3",
+      "fields": {
+        "Year": "1962",
+        "Champion": "New York Yankees",
+        "Runner-Up": "San Francisco Giants",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1963 World Series",
+      "notes": "Los Angeles Dodgers defeat New York Yankees, 4-0",
+      "fields": {
+        "Year": "1963",
+        "Champion": "Los Angeles Dodgers",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1964 World Series",
+      "notes": "St. Louis Cardinals defeat New York Yankees, 4-3",
+      "fields": {
+        "Year": "1964",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1965 World Series",
+      "notes": "Los Angeles Dodgers defeat Minnesota Twins, 4-3",
+      "fields": {
+        "Year": "1965",
+        "Champion": "Los Angeles Dodgers",
+        "Runner-Up": "Minnesota Twins",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1966 World Series",
+      "notes": "Baltimore Orioles defeat Los Angeles Dodgers, 4-0",
+      "fields": {
+        "Year": "1966",
+        "Champion": "Baltimore Orioles",
+        "Runner-Up": "Los Angeles Dodgers",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1967 World Series",
+      "notes": "St. Louis Cardinals defeat Boston Red Sox, 4-3",
+      "fields": {
+        "Year": "1967",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "Boston Red Sox",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1968 World Series",
+      "notes": "Detroit Tigers defeat St. Louis Cardinals, 4-3",
+      "fields": {
+        "Year": "1968",
+        "Champion": "Detroit Tigers",
+        "Runner-Up": "St. Louis Cardinals",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1969 World Series",
+      "notes": "New York Mets defeat Baltimore Orioles, 4-1",
+      "fields": {
+        "Year": "1969",
+        "Champion": "New York Mets",
+        "Runner-Up": "Baltimore Orioles",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1970 World Series",
+      "notes": "Baltimore Orioles defeat Cincinnati Reds, 4-1",
+      "fields": {
+        "Year": "1970",
+        "Champion": "Baltimore Orioles",
+        "Runner-Up": "Cincinnati Reds",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1971 World Series",
+      "notes": "Pittsburgh Pirates defeat Baltimore Orioles, 4-3",
+      "fields": {
+        "Year": "1971",
+        "Champion": "Pittsburgh Pirates",
+        "Runner-Up": "Baltimore Orioles",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1972 World Series",
+      "notes": "Oakland Athletics defeat Cincinnati Reds, 4-3",
+      "fields": {
+        "Year": "1972",
+        "Champion": "Oakland Athletics",
+        "Runner-Up": "Cincinnati Reds",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1973 World Series",
+      "notes": "Oakland Athletics defeat New York Mets, 4-3",
+      "fields": {
+        "Year": "1973",
+        "Champion": "Oakland Athletics",
+        "Runner-Up": "New York Mets",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1974 World Series",
+      "notes": "Oakland Athletics defeat Los Angeles Dodgers, 4-1",
+      "fields": {
+        "Year": "1974",
+        "Champion": "Oakland Athletics",
+        "Runner-Up": "Los Angeles Dodgers",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1975 World Series",
+      "notes": "Cincinnati Reds defeat Boston Red Sox, 4-3",
+      "fields": {
+        "Year": "1975",
+        "Champion": "Cincinnati Reds",
+        "Runner-Up": "Boston Red Sox",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1976 World Series",
+      "notes": "Cincinnati Reds defeat New York Yankees, 4-0",
+      "fields": {
+        "Year": "1976",
+        "Champion": "Cincinnati Reds",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1977 World Series",
+      "notes": "New York Yankees defeat Los Angeles Dodgers, 4-2",
+      "fields": {
+        "Year": "1977",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Los Angeles Dodgers",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1978 World Series",
+      "notes": "New York Yankees defeat Los Angeles Dodgers, 4-2",
+      "fields": {
+        "Year": "1978",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Los Angeles Dodgers",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1979 World Series",
+      "notes": "Pittsburgh Pirates defeat Baltimore Orioles, 4-3",
+      "fields": {
+        "Year": "1979",
+        "Champion": "Pittsburgh Pirates",
+        "Runner-Up": "Baltimore Orioles",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1980 World Series",
+      "notes": "Philadelphia Phillies defeat Kansas City Royals, 4-2",
+      "fields": {
+        "Year": "1980",
+        "Champion": "Philadelphia Phillies",
+        "Runner-Up": "Kansas City Royals",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1981 World Series",
+      "notes": "Los Angeles Dodgers defeat New York Yankees, 4-2",
+      "fields": {
+        "Year": "1981",
+        "Champion": "Los Angeles Dodgers",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1982 World Series",
+      "notes": "St. Louis Cardinals defeat Milwaukee Brewers, 4-3",
+      "fields": {
+        "Year": "1982",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "Milwaukee Brewers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1983 World Series",
+      "notes": "Baltimore Orioles defeat Philadelphia Phillies, 4-1",
+      "fields": {
+        "Year": "1983",
+        "Champion": "Baltimore Orioles",
+        "Runner-Up": "Philadelphia Phillies",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1984 World Series",
+      "notes": "Detroit Tigers defeat San Diego Padres, 4-1",
+      "fields": {
+        "Year": "1984",
+        "Champion": "Detroit Tigers",
+        "Runner-Up": "San Diego Padres",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1985 World Series",
+      "notes": "Kansas City Royals defeat St. Louis Cardinals, 4-3",
+      "fields": {
+        "Year": "1985",
+        "Champion": "Kansas City Royals",
+        "Runner-Up": "St. Louis Cardinals",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1986 World Series",
+      "notes": "New York Mets defeat Boston Red Sox, 4-3",
+      "fields": {
+        "Year": "1986",
+        "Champion": "New York Mets",
+        "Runner-Up": "Boston Red Sox",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1987 World Series",
+      "notes": "Minnesota Twins defeat St. Louis Cardinals, 4-3",
+      "fields": {
+        "Year": "1987",
+        "Champion": "Minnesota Twins",
+        "Runner-Up": "St. Louis Cardinals",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1988 World Series",
+      "notes": "Los Angeles Dodgers defeat Oakland Athletics, 4-1",
+      "fields": {
+        "Year": "1988",
+        "Champion": "Los Angeles Dodgers",
+        "Runner-Up": "Oakland Athletics",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "1989 World Series",
+      "notes": "Oakland Athletics defeat San Francisco Giants, 4-0",
+      "fields": {
+        "Year": "1989",
+        "Champion": "Oakland Athletics",
+        "Runner-Up": "San Francisco Giants",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1990 World Series",
+      "notes": "Cincinnati Reds defeat Oakland Athletics, 4-0",
+      "fields": {
+        "Year": "1990",
+        "Champion": "Cincinnati Reds",
+        "Runner-Up": "Oakland Athletics",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1991 World Series",
+      "notes": "Minnesota Twins defeat Atlanta Braves, 4-3",
+      "fields": {
+        "Year": "1991",
+        "Champion": "Minnesota Twins",
+        "Runner-Up": "Atlanta Braves",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1992 World Series",
+      "notes": "Toronto Blue Jays defeat Atlanta Braves, 4-2",
+      "fields": {
+        "Year": "1992",
+        "Champion": "Toronto Blue Jays",
+        "Runner-Up": "Atlanta Braves",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1993 World Series",
+      "notes": "Toronto Blue Jays defeat Philadelphia Phillies, 4-2",
+      "fields": {
+        "Year": "1993",
+        "Champion": "Toronto Blue Jays",
+        "Runner-Up": "Philadelphia Phillies",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1995 World Series",
+      "notes": "Atlanta Braves defeat Cleveland Indians, 4-2",
+      "fields": {
+        "Year": "1995",
+        "Champion": "Atlanta Braves",
+        "Runner-Up": "Cleveland Indians",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1996 World Series",
+      "notes": "New York Yankees defeat Atlanta Braves, 4-2",
+      "fields": {
+        "Year": "1996",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Atlanta Braves",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "1997 World Series",
+      "notes": "Florida Marlins defeat Cleveland Indians, 4-3",
+      "fields": {
+        "Year": "1997",
+        "Champion": "Florida Marlins",
+        "Runner-Up": "Cleveland Indians",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "1998 World Series",
+      "notes": "New York Yankees defeat San Diego Padres, 4-0",
+      "fields": {
+        "Year": "1998",
+        "Champion": "New York Yankees",
+        "Runner-Up": "San Diego Padres",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "1999 World Series",
+      "notes": "New York Yankees defeat Atlanta Braves, 4-0",
+      "fields": {
+        "Year": "1999",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Atlanta Braves",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "2000 World Series",
+      "notes": "New York Yankees defeat New York Mets, 4-1",
+      "fields": {
+        "Year": "2000",
+        "Champion": "New York Yankees",
+        "Runner-Up": "New York Mets",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "2001 World Series",
+      "notes": "Arizona Diamondbacks defeat New York Yankees, 4-3",
+      "fields": {
+        "Year": "2001",
+        "Champion": "Arizona Diamondbacks",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "2002 World Series",
+      "notes": "Anaheim Angels defeat San Francisco Giants, 4-3",
+      "fields": {
+        "Year": "2002",
+        "Champion": "Anaheim Angels",
+        "Runner-Up": "San Francisco Giants",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "2003 World Series",
+      "notes": "Florida Marlins defeat New York Yankees, 4-2",
+      "fields": {
+        "Year": "2003",
+        "Champion": "Florida Marlins",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "2004 World Series",
+      "notes": "Boston Red Sox defeat St. Louis Cardinals, 4-0",
+      "fields": {
+        "Year": "2004",
+        "Champion": "Boston Red Sox",
+        "Runner-Up": "St. Louis Cardinals",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "2005 World Series",
+      "notes": "Chicago White Sox defeat Houston Astros, 4-0",
+      "fields": {
+        "Year": "2005",
+        "Champion": "Chicago White Sox",
+        "Runner-Up": "Houston Astros",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "2006 World Series",
+      "notes": "St. Louis Cardinals defeat Detroit Tigers, 4-1",
+      "fields": {
+        "Year": "2006",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "Detroit Tigers",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "2007 World Series",
+      "notes": "Boston Red Sox defeat Colorado Rockies, 4-0",
+      "fields": {
+        "Year": "2007",
+        "Champion": "Boston Red Sox",
+        "Runner-Up": "Colorado Rockies",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "2008 World Series",
+      "notes": "Philadelphia Phillies defeat Tampa Bay Rays, 4-1",
+      "fields": {
+        "Year": "2008",
+        "Champion": "Philadelphia Phillies",
+        "Runner-Up": "Tampa Bay Rays",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "2009 World Series",
+      "notes": "New York Yankees defeat Philadelphia Phillies, 4-2",
+      "fields": {
+        "Year": "2009",
+        "Champion": "New York Yankees",
+        "Runner-Up": "Philadelphia Phillies",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "2010 World Series",
+      "notes": "San Francisco Giants defeat Texas Rangers, 4-1",
+      "fields": {
+        "Year": "2010",
+        "Champion": "San Francisco Giants",
+        "Runner-Up": "Texas Rangers",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "2011 World Series",
+      "notes": "St. Louis Cardinals defeat Texas Rangers, 4-3",
+      "fields": {
+        "Year": "2011",
+        "Champion": "St. Louis Cardinals",
+        "Runner-Up": "Texas Rangers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "2012 World Series",
+      "notes": "San Francisco Giants defeat Detroit Tigers, 4-0",
+      "fields": {
+        "Year": "2012",
+        "Champion": "San Francisco Giants",
+        "Runner-Up": "Detroit Tigers",
+        "Series": "4-0"
+      }
+    },
+    {
+      "title": "2013 World Series",
+      "notes": "Boston Red Sox defeat St. Louis Cardinals, 4-2",
+      "fields": {
+        "Year": "2013",
+        "Champion": "Boston Red Sox",
+        "Runner-Up": "St. Louis Cardinals",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "2014 World Series",
+      "notes": "San Francisco Giants defeat Kansas City Royals, 4-3",
+      "fields": {
+        "Year": "2014",
+        "Champion": "San Francisco Giants",
+        "Runner-Up": "Kansas City Royals",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "2015 World Series",
+      "notes": "Kansas City Royals defeat New York Mets, 4-1",
+      "fields": {
+        "Year": "2015",
+        "Champion": "Kansas City Royals",
+        "Runner-Up": "New York Mets",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "2016 World Series",
+      "notes": "Chicago Cubs defeat Cleveland Indians, 4-3",
+      "fields": {
+        "Year": "2016",
+        "Champion": "Chicago Cubs",
+        "Runner-Up": "Cleveland Indians",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "2017 World Series",
+      "notes": "Houston Astros defeat Los Angeles Dodgers, 4-3",
+      "fields": {
+        "Year": "2017",
+        "Champion": "Houston Astros",
+        "Runner-Up": "Los Angeles Dodgers",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "2018 World Series",
+      "notes": "Boston Red Sox defeat Los Angeles Dodgers, 4-1",
+      "fields": {
+        "Year": "2018",
+        "Champion": "Boston Red Sox",
+        "Runner-Up": "Los Angeles Dodgers",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "2019 World Series",
+      "notes": "Washington Nationals defeat Houston Astros, 4-3",
+      "fields": {
+        "Year": "2019",
+        "Champion": "Washington Nationals",
+        "Runner-Up": "Houston Astros",
+        "Series": "4-3"
+      }
+    },
+    {
+      "title": "2020 World Series",
+      "notes": "Los Angeles Dodgers defeat Tampa Bay Rays, 4-2",
+      "fields": {
+        "Year": "2020",
+        "Champion": "Los Angeles Dodgers",
+        "Runner-Up": "Tampa Bay Rays",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "2021 World Series",
+      "notes": "Atlanta Braves defeat Houston Astros, 4-2",
+      "fields": {
+        "Year": "2021",
+        "Champion": "Atlanta Braves",
+        "Runner-Up": "Houston Astros",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "2022 World Series",
+      "notes": "Houston Astros defeat Philadelphia Phillies, 4-2",
+      "fields": {
+        "Year": "2022",
+        "Champion": "Houston Astros",
+        "Runner-Up": "Philadelphia Phillies",
+        "Series": "4-2"
+      }
+    },
+    {
+      "title": "2023 World Series",
+      "notes": "Texas Rangers defeat Arizona Diamondbacks, 4-1",
+      "fields": {
+        "Year": "2023",
+        "Champion": "Texas Rangers",
+        "Runner-Up": "Arizona Diamondbacks",
+        "Series": "4-1"
+      }
+    },
+    {
+      "title": "2024 World Series",
+      "notes": "Los Angeles Dodgers defeat New York Yankees, 4-1",
+      "fields": {
+        "Year": "2024",
+        "Champion": "Los Angeles Dodgers",
+        "Runner-Up": "New York Yankees",
+        "Series": "4-1"
+      }
+    }
+  ]
+}
