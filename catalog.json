@@ -542,7 +542,7 @@
         "time",
         "reference"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/months-of-the-year.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/months.json",
       "format": "json",
       "preview": [
         {
@@ -584,7 +584,7 @@
         "calendar",
         "translation"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/days-of-the-week.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/days-of-week.json",
       "format": "json",
       "preview": [
         {
@@ -633,7 +633,7 @@
         "conversion",
         "science"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/length-unit-conversions.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/length-units.json",
       "format": "json",
       "preview": [
         {
@@ -683,7 +683,7 @@
         "conversion",
         "science"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mass-unit-conversions.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mass-units.json",
       "format": "json",
       "preview": [
         {
@@ -733,7 +733,7 @@
         "MIDI",
         "solfège"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/musical-notes-frequencies.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/musical-notes.json",
       "format": "json",
       "preview": [
         {
