@@ -926,7 +926,7 @@
         "sports",
         "history"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/super-bowl-champions.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_super_bowl_champions.json",
       "format": "json",
       "preview": [
         {
@@ -985,7 +985,7 @@
         "sports",
         "history"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/nba-champions.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_nba_champions.json",
       "format": "json",
       "preview": [
         {
@@ -1038,7 +1038,7 @@
         "sports",
         "history"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/world-series-champions.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_world_series_champions.json",
       "format": "json",
       "preview": [
         {
@@ -1087,7 +1087,7 @@
         "history",
         "government"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/us-presidents.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_us_presidents.json",
       "format": "json",
       "preview": [
         {
@@ -1143,7 +1143,7 @@
         "Best Picture",
         "directors"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/academy-award-best-picture.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_academy_award_best_picture.json",
       "format": "json",
       "preview": [
         {
@@ -1192,7 +1192,7 @@
         "history",
         "world history"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/famous-battles.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_famous_battles.json",
       "format": "json",
       "preview": [
         {
@@ -1244,7 +1244,7 @@
         "museums",
         "visual art"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/famous-paintings.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_famous_paintings.json",
       "format": "json",
       "preview": [
         {
@@ -1297,7 +1297,7 @@
         "ancient history",
         "religion"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/greek-roman-gods.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_greek_roman_gods.json",
       "format": "json",
       "preview": [
         {
@@ -1349,7 +1349,7 @@
         "critical thinking",
         "philosophy"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/logical-fallacies.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_logical_fallacies.json",
       "format": "json",
       "preview": [
         {
@@ -1399,7 +1399,7 @@
         "classical",
         "style"
       ],
-      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/rhetorical-devices.json",
+      "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_rhetorical_devices.json",
       "format": "json",
       "preview": [
         {
