@@ -1,123 +1,1539 @@
 {
   "deck_name": "Periodic Table of Elements",
   "cards": [
-    { "title": "Hydrogen", "fields": { "Symbol": "Elemental Symbol H", "Atomic Number": "Atomic Number 1", "Atomic Mass": "1.008", "Group": "Group 1", "Period": "Period 1", "Category": "Reactive Nonmetal", "State at Room Temp": "Gas", "Year Discovered": "1766" } },
-    { "title": "Helium", "fields": { "Symbol": "Elemental Symbol He", "Atomic Number": "Atomic Number 2", "Atomic Mass": "4.0026", "Group": "Group 18", "Period": "Period 1", "Category": "Noble Gas", "State at Room Temp": "Gas", "Year Discovered": "1868" } },
-    { "title": "Lithium", "fields": { "Symbol": "Elemental Symbol Li", "Atomic Number": "Atomic Number 3", "Atomic Mass": "6.94", "Group": "Group 1", "Period": "Period 2", "Category": "Alkali Metal", "State at Room Temp": "Solid", "Year Discovered": "1817" } },
-    { "title": "Beryllium", "fields": { "Symbol": "Elemental Symbol Be", "Atomic Number": "Atomic Number 4", "Atomic Mass": "9.0122", "Group": "Group 2", "Period": "Period 2", "Category": "Alkaline Earth Metal", "State at Room Temp": "Solid", "Year Discovered": "1798" } },
-    { "title": "Boron", "fields": { "Symbol": "Elemental Symbol B", "Atomic Number": "Atomic Number 5", "Atomic Mass": "10.81", "Group": "Group 13", "Period": "Period 2", "Category": "Metalloid", "State at Room Temp": "Solid", "Year Discovered": "1808" } },
-    { "title": "Carbon", "fields": { "Symbol": "Elemental Symbol C", "Atomic Number": "Atomic Number 6", "Atomic Mass": "12.011", "Group": "Group 14", "Period": "Period 2", "Category": "Reactive Nonmetal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Nitrogen", "fields": { "Symbol": "Elemental Symbol N", "Atomic Number": "Atomic Number 7", "Atomic Mass": "14.007", "Group": "Group 15", "Period": "Period 2", "Category": "Reactive Nonmetal", "State at Room Temp": "Gas", "Year Discovered": "1772" } },
-    { "title": "Oxygen", "fields": { "Symbol": "Elemental Symbol O", "Atomic Number": "Atomic Number 8", "Atomic Mass": "15.999", "Group": "Group 16", "Period": "Period 2", "Category": "Reactive Nonmetal", "State at Room Temp": "Gas", "Year Discovered": "1774" } },
-    { "title": "Fluorine", "fields": { "Symbol": "Elemental Symbol F", "Atomic Number": "Atomic Number 9", "Atomic Mass": "18.998", "Group": "Group 17", "Period": "Period 2", "Category": "Reactive Nonmetal", "State at Room Temp": "Gas", "Year Discovered": "1886" } },
-    { "title": "Neon", "fields": { "Symbol": "Elemental Symbol Ne", "Atomic Number": "Atomic Number 10", "Atomic Mass": "20.180", "Group": "Group 18", "Period": "Period 2", "Category": "Noble Gas", "State at Room Temp": "Gas", "Year Discovered": "1898" } },
-    { "title": "Sodium", "fields": { "Symbol": "Elemental Symbol Na", "Atomic Number": "Atomic Number 11", "Atomic Mass": "22.990", "Group": "Group 1", "Period": "Period 3", "Category": "Alkali Metal", "State at Room Temp": "Solid", "Year Discovered": "1807" } },
-    { "title": "Magnesium", "fields": { "Symbol": "Elemental Symbol Mg", "Atomic Number": "Atomic Number 12", "Atomic Mass": "24.305", "Group": "Group 2", "Period": "Period 3", "Category": "Alkaline Earth Metal", "State at Room Temp": "Solid", "Year Discovered": "1755" } },
-    { "title": "Aluminum", "fields": { "Symbol": "Elemental Symbol Al", "Atomic Number": "Atomic Number 13", "Atomic Mass": "26.982", "Group": "Group 13", "Period": "Period 3", "Category": "Post-transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1825" } },
-    { "title": "Silicon", "fields": { "Symbol": "Elemental Symbol Si", "Atomic Number": "Atomic Number 14", "Atomic Mass": "28.085", "Group": "Group 14", "Period": "Period 3", "Category": "Metalloid", "State at Room Temp": "Solid", "Year Discovered": "1824" } },
-    { "title": "Phosphorus", "fields": { "Symbol": "Elemental Symbol P", "Atomic Number": "Atomic Number 15", "Atomic Mass": "30.974", "Group": "Group 15", "Period": "Period 3", "Category": "Reactive Nonmetal", "State at Room Temp": "Solid", "Year Discovered": "1669" } },
-    { "title": "Sulfur", "fields": { "Symbol": "Elemental Symbol S", "Atomic Number": "Atomic Number 16", "Atomic Mass": "32.06", "Group": "Group 16", "Period": "Period 3", "Category": "Reactive Nonmetal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Chlorine", "fields": { "Symbol": "Elemental Symbol Cl", "Atomic Number": "Atomic Number 17", "Atomic Mass": "35.45", "Group": "Group 17", "Period": "Period 3", "Category": "Reactive Nonmetal", "State at Room Temp": "Gas", "Year Discovered": "1774" } },
-    { "title": "Argon", "fields": { "Symbol": "Elemental Symbol Ar", "Atomic Number": "Atomic Number 18", "Atomic Mass": "39.948", "Group": "Group 18", "Period": "Period 3", "Category": "Noble Gas", "State at Room Temp": "Gas", "Year Discovered": "1894" } },
-    { "title": "Potassium", "fields": { "Symbol": "Elemental Symbol K", "Atomic Number": "Atomic Number 19", "Atomic Mass": "39.098", "Group": "Group 1", "Period": "Period 4", "Category": "Alkali Metal", "State at Room Temp": "Solid", "Year Discovered": "1807" } },
-    { "title": "Calcium", "fields": { "Symbol": "Elemental Symbol Ca", "Atomic Number": "Atomic Number 20", "Atomic Mass": "40.078", "Group": "Group 2", "Period": "Period 4", "Category": "Alkaline Earth Metal", "State at Room Temp": "Solid", "Year Discovered": "1808" } },
-    { "title": "Scandium", "fields": { "Symbol": "Elemental Symbol Sc", "Atomic Number": "Atomic Number 21", "Atomic Mass": "44.956", "Group": "Group 3", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1879" } },
-    { "title": "Titanium", "fields": { "Symbol": "Elemental Symbol Ti", "Atomic Number": "Atomic Number 22", "Atomic Mass": "47.867", "Group": "Group 4", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1791" } },
-    { "title": "Vanadium", "fields": { "Symbol": "Elemental Symbol V", "Atomic Number": "Atomic Number 23", "Atomic Mass": "50.942", "Group": "Group 5", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1801" } },
-    { "title": "Chromium", "fields": { "Symbol": "Elemental Symbol Cr", "Atomic Number": "Atomic Number 24", "Atomic Mass": "51.996", "Group": "Group 6", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1798" } },
-    { "title": "Manganese", "fields": { "Symbol": "Elemental Symbol Mn", "Atomic Number": "Atomic Number 25", "Atomic Mass": "54.938", "Group": "Group 7", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1774" } },
-    { "title": "Iron", "fields": { "Symbol": "Elemental Symbol Fe", "Atomic Number": "Atomic Number 26", "Atomic Mass": "55.845", "Group": "Group 8", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Cobalt", "fields": { "Symbol": "Elemental Symbol Co", "Atomic Number": "Atomic Number 27", "Atomic Mass": "58.933", "Group": "Group 9", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1735" } },
-    { "title": "Nickel", "fields": { "Symbol": "Elemental Symbol Ni", "Atomic Number": "Atomic Number 28", "Atomic Mass": "58.693", "Group": "Group 10", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1751" } },
-    { "title": "Copper", "fields": { "Symbol": "Elemental Symbol Cu", "Atomic Number": "Atomic Number 29", "Atomic Mass": "63.546", "Group": "Group 11", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Zinc", "fields": { "Symbol": "Elemental Symbol Zn", "Atomic Number": "Atomic Number 30", "Atomic Mass": "65.38", "Group": "Group 12", "Period": "Period 4", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Gallium", "fields": { "Symbol": "Elemental Symbol Ga", "Atomic Number": "Atomic Number 31", "Atomic Mass": "69.723", "Group": "Group 13", "Period": "Period 4", "Category": "Post-transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1875" } },
-    { "title": "Germanium", "fields": { "Symbol": "Elemental Symbol Ge", "Atomic Number": "Atomic Number 32", "Atomic Mass": "72.630", "Group": "Group 14", "Period": "Period 4", "Category": "Metalloid", "State at Room Temp": "Solid", "Year Discovered": "1886" } },
-    { "title": "Arsenic", "fields": { "Symbol": "Elemental Symbol As", "Atomic Number": "Atomic Number 33", "Atomic Mass": "74.922", "Group": "Group 15", "Period": "Period 4", "Category": "Metalloid", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Selenium", "fields": { "Symbol": "Elemental Symbol Se", "Atomic Number": "Atomic Number 34", "Atomic Mass": "78.971", "Group": "Group 16", "Period": "Period 4", "Category": "Reactive Nonmetal", "State at Room Temp": "Solid", "Year Discovered": "1817" } },
-    { "title": "Bromine", "fields": { "Symbol": "Elemental Symbol Br", "Atomic Number": "Atomic Number 35", "Atomic Mass": "79.904", "Group": "Group 17", "Period": "Period 4", "Category": "Reactive Nonmetal", "State at Room Temp": "Liquid", "Year Discovered": "1825" } },
-    { "title": "Krypton", "fields": { "Symbol": "Elemental Symbol Kr", "Atomic Number": "Atomic Number 36", "Atomic Mass": "83.798", "Group": "Group 18", "Period": "Period 4", "Category": "Noble Gas", "State at Room Temp": "Gas", "Year Discovered": "1898" } },
-    { "title": "Rubidium", "fields": { "Symbol": "Elemental Symbol Rb", "Atomic Number": "Atomic Number 37", "Atomic Mass": "85.468", "Group": "Group 1", "Period": "Period 5", "Category": "Alkali Metal", "State at Room Temp": "Solid", "Year Discovered": "1861" } },
-    { "title": "Strontium", "fields": { "Symbol": "Elemental Symbol Sr", "Atomic Number": "Atomic Number 38", "Atomic Mass": "87.62", "Group": "Group 2", "Period": "Period 5", "Category": "Alkaline Earth Metal", "State at Room Temp": "Solid", "Year Discovered": "1790" } },
-    { "title": "Yttrium", "fields": { "Symbol": "Elemental Symbol Y", "Atomic Number": "Atomic Number 39", "Atomic Mass": "88.906", "Group": "Group 3", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1794" } },
-    { "title": "Zirconium", "fields": { "Symbol": "Elemental Symbol Zr", "Atomic Number": "Atomic Number 40", "Atomic Mass": "91.224", "Group": "Group 4", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1789" } },
-    { "title": "Niobium", "fields": { "Symbol": "Elemental Symbol Nb", "Atomic Number": "Atomic Number 41", "Atomic Mass": "92.906", "Group": "Group 5", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1801" } },
-    { "title": "Molybdenum", "fields": { "Symbol": "Elemental Symbol Mo", "Atomic Number": "Atomic Number 42", "Atomic Mass": "95.95", "Group": "Group 6", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1781" } },
-    { "title": "Technetium", "fields": { "Symbol": "Elemental Symbol Tc", "Atomic Number": "Atomic Number 43", "Atomic Mass": "[98]", "Group": "Group 7", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1937" } },
-    { "title": "Ruthenium", "fields": { "Symbol": "Elemental Symbol Ru", "Atomic Number": "Atomic Number 44", "Atomic Mass": "101.07", "Group": "Group 8", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1844" } },
-    { "title": "Rhodium", "fields": { "Symbol": "Elemental Symbol Rh", "Atomic Number": "Atomic Number 45", "Atomic Mass": "102.91", "Group": "Group 9", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1803" } },
-    { "title": "Palladium", "fields": { "Symbol": "Elemental Symbol Pd", "Atomic Number": "Atomic Number 46", "Atomic Mass": "106.42", "Group": "Group 10", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1803" } },
-    { "title": "Silver", "fields": { "Symbol": "Elemental Symbol Ag", "Atomic Number": "Atomic Number 47", "Atomic Mass": "107.87", "Group": "Group 11", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Cadmium", "fields": { "Symbol": "Elemental Symbol Cd", "Atomic Number": "Atomic Number 48", "Atomic Mass": "112.41", "Group": "Group 12", "Period": "Period 5", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1817" } },
-    { "title": "Indium", "fields": { "Symbol": "Elemental Symbol In", "Atomic Number": "Atomic Number 49", "Atomic Mass": "114.82", "Group": "Group 13", "Period": "Period 5", "Category": "Post-transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1863" } },
-    { "title": "Tin", "fields": { "Symbol": "Elemental Symbol Sn", "Atomic Number": "Atomic Number 50", "Atomic Mass": "118.71", "Group": "Group 14", "Period": "Period 5", "Category": "Post-transition Metal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Antimony", "fields": { "Symbol": "Elemental Symbol Sb", "Atomic Number": "Atomic Number 51", "Atomic Mass": "121.76", "Group": "Group 15", "Period": "Period 5", "Category": "Metalloid", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Tellurium", "fields": { "Symbol": "Elemental Symbol Te", "Atomic Number": "Atomic Number 52", "Atomic Mass": "127.60", "Group": "Group 16", "Period": "Period 5", "Category": "Metalloid", "State at Room Temp": "Solid", "Year Discovered": "1782" } },
-    { "title": "Iodine", "fields": { "Symbol": "Elemental Symbol I", "Atomic Number": "Atomic Number 53", "Atomic Mass": "126.90", "Group": "Group 17", "Period": "Period 5", "Category": "Reactive Nonmetal", "State at Room Temp": "Solid", "Year Discovered": "1811" } },
-    { "title": "Xenon", "fields": { "Symbol": "Elemental Symbol Xe", "Atomic Number": "Atomic Number 54", "Atomic Mass": "131.29", "Group": "Group 18", "Period": "Period 5", "Category": "Noble Gas", "State at Room Temp": "Gas", "Year Discovered": "1898" } },
-    { "title": "Cesium", "fields": { "Symbol": "Elemental Symbol Cs", "Atomic Number": "Atomic Number 55", "Atomic Mass": "132.91", "Group": "Group 1", "Period": "Period 6", "Category": "Alkali Metal", "State at Room Temp": "Solid", "Year Discovered": "1860" } },
-    { "title": "Barium", "fields": { "Symbol": "Elemental Symbol Ba", "Atomic Number": "Atomic Number 56", "Atomic Mass": "137.33", "Group": "Group 2", "Period": "Period 6", "Category": "Alkaline Earth Metal", "State at Room Temp": "Solid", "Year Discovered": "1808" } },
-    { "title": "Lanthanum", "fields": { "Symbol": "Elemental Symbol La", "Atomic Number": "Atomic Number 57", "Atomic Mass": "138.91", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1839" } },
-    { "title": "Cerium", "fields": { "Symbol": "Elemental Symbol Ce", "Atomic Number": "Atomic Number 58", "Atomic Mass": "140.12", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1803" } },
-    { "title": "Praseodymium", "fields": { "Symbol": "Elemental Symbol Pr", "Atomic Number": "Atomic Number 59", "Atomic Mass": "140.91", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1885" } },
-    { "title": "Neodymium", "fields": { "Symbol": "Elemental Symbol Nd", "Atomic Number": "Atomic Number 60", "Atomic Mass": "144.24", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1885" } },
-    { "title": "Promethium", "fields": { "Symbol": "Elemental Symbol Pm", "Atomic Number": "Atomic Number 61", "Atomic Mass": "[145]", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1945" } },
-    { "title": "Samarium", "fields": { "Symbol": "Elemental Symbol Sm", "Atomic Number": "Atomic Number 62", "Atomic Mass": "150.36", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1879" } },
-    { "title": "Europium", "fields": { "Symbol": "Elemental Symbol Eu", "Atomic Number": "Atomic Number 63", "Atomic Mass": "151.96", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1901" } },
-    { "title": "Gadolinium", "fields": { "Symbol": "Elemental Symbol Gd", "Atomic Number": "Atomic Number 64", "Atomic Mass": "157.25", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1880" } },
-    { "title": "Terbium", "fields": { "Symbol": "Elemental Symbol Tb", "Atomic Number": "Atomic Number 65", "Atomic Mass": "158.93", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1843" } },
-    { "title": "Dysprosium", "fields": { "Symbol": "Elemental Symbol Dy", "Atomic Number": "Atomic Number 66", "Atomic Mass": "162.50", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1886" } },
-    { "title": "Holmium", "fields": { "Symbol": "Elemental Symbol Ho", "Atomic Number": "Atomic Number 67", "Atomic Mass": "164.93", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1878" } },
-    { "title": "Erbium", "fields": { "Symbol": "Elemental Symbol Er", "Atomic Number": "Atomic Number 68", "Atomic Mass": "167.26", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1843" } },
-    { "title": "Thulium", "fields": { "Symbol": "Elemental Symbol Tm", "Atomic Number": "Atomic Number 69", "Atomic Mass": "168.93", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1879" } },
-    { "title": "Ytterbium", "fields": { "Symbol": "Elemental Symbol Yb", "Atomic Number": "Atomic Number 70", "Atomic Mass": "173.04", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1878" } },
-    { "title": "Lutetium", "fields": { "Symbol": "Elemental Symbol Lu", "Atomic Number": "Atomic Number 71", "Atomic Mass": "174.97", "Group": "Lanthanide Series", "Period": "Period 6", "Category": "Lanthanide", "State at Room Temp": "Solid", "Year Discovered": "1907" } },
-    { "title": "Hafnium", "fields": { "Symbol": "Elemental Symbol Hf", "Atomic Number": "Atomic Number 72", "Atomic Mass": "178.49", "Group": "Group 4", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1923" } },
-    { "title": "Tantalum", "fields": { "Symbol": "Elemental Symbol Ta", "Atomic Number": "Atomic Number 73", "Atomic Mass": "180.95", "Group": "Group 5", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1802" } },
-    { "title": "Tungsten", "fields": { "Symbol": "Elemental Symbol W", "Atomic Number": "Atomic Number 74", "Atomic Mass": "183.84", "Group": "Group 6", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1783" } },
-    { "title": "Rhenium", "fields": { "Symbol": "Elemental Symbol Re", "Atomic Number": "Atomic Number 75", "Atomic Mass": "186.21", "Group": "Group 7", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1925" } },
-    { "title": "Osmium", "fields": { "Symbol": "Elemental Symbol Os", "Atomic Number": "Atomic Number 76", "Atomic Mass": "190.23", "Group": "Group 8", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1803" } },
-    { "title": "Iridium", "fields": { "Symbol": "Elemental Symbol Ir", "Atomic Number": "Atomic Number 77", "Atomic Mass": "192.22", "Group": "Group 9", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1803" } },
-    { "title": "Platinum", "fields": { "Symbol": "Elemental Symbol Pt", "Atomic Number": "Atomic Number 78", "Atomic Mass": "195.08", "Group": "Group 10", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1735" } },
-    { "title": "Gold", "fields": { "Symbol": "Elemental Symbol Au", "Atomic Number": "Atomic Number 79", "Atomic Mass": "196.97", "Group": "Group 11", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Mercury", "fields": { "Symbol": "Elemental Symbol Hg", "Atomic Number": "Atomic Number 80", "Atomic Mass": "200.59", "Group": "Group 12", "Period": "Period 6", "Category": "Transition Metal", "State at Room Temp": "Liquid", "Year Discovered": "Ancient" } },
-    { "title": "Thallium", "fields": { "Symbol": "Elemental Symbol Tl", "Atomic Number": "Atomic Number 81", "Atomic Mass": "204.38", "Group": "Group 13", "Period": "Period 6", "Category": "Post-transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1861" } },
-    { "title": "Lead", "fields": { "Symbol": "Elemental Symbol Pb", "Atomic Number": "Atomic Number 82", "Atomic Mass": "207.2", "Group": "Group 14", "Period": "Period 6", "Category": "Post-transition Metal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Bismuth", "fields": { "Symbol": "Elemental Symbol Bi", "Atomic Number": "Atomic Number 83", "Atomic Mass": "208.98", "Group": "Group 15", "Period": "Period 6", "Category": "Post-transition Metal", "State at Room Temp": "Solid", "Year Discovered": "Ancient" } },
-    { "title": "Polonium", "fields": { "Symbol": "Elemental Symbol Po", "Atomic Number": "Atomic Number 84", "Atomic Mass": "[209]", "Group": "Group 16", "Period": "Period 6", "Category": "Post-transition Metal", "State at Room Temp": "Solid", "Year Discovered": "1898" } },
-    { "title": "Astatine", "fields": { "Symbol": "Elemental Symbol At", "Atomic Number": "Atomic Number 85", "Atomic Mass": "[210]", "Group": "Group 17", "Period": "Period 6", "Category": "Metalloid", "State at Room Temp": "Solid", "Year Discovered": "1940" } },
-    { "title": "Radon", "fields": { "Symbol": "Elemental Symbol Rn", "Atomic Number": "Atomic Number 86", "Atomic Mass": "[222]", "Group": "Group 18", "Period": "Period 6", "Category": "Noble Gas", "State at Room Temp": "Gas", "Year Discovered": "1900" } },
-    { "title": "Francium", "fields": { "Symbol": "Elemental Symbol Fr", "Atomic Number": "Atomic Number 87", "Atomic Mass": "[223]", "Group": "Group 1", "Period": "Period 7", "Category": "Alkali Metal", "State at Room Temp": "Solid", "Year Discovered": "1939" } },
-    { "title": "Radium", "fields": { "Symbol": "Elemental Symbol Ra", "Atomic Number": "Atomic Number 88", "Atomic Mass": "[226]", "Group": "Group 2", "Period": "Period 7", "Category": "Alkaline Earth Metal", "State at Room Temp": "Solid", "Year Discovered": "1898" } },
-    { "title": "Actinium", "fields": { "Symbol": "Elemental Symbol Ac", "Atomic Number": "Atomic Number 89", "Atomic Mass": "[227]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1899" } },
-    { "title": "Thorium", "fields": { "Symbol": "Elemental Symbol Th", "Atomic Number": "Atomic Number 90", "Atomic Mass": "232.04", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1829" } },
-    { "title": "Protactinium", "fields": { "Symbol": "Elemental Symbol Pa", "Atomic Number": "Atomic Number 91", "Atomic Mass": "231.04", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1913" } },
-    { "title": "Uranium", "fields": { "Symbol": "Elemental Symbol U", "Atomic Number": "Atomic Number 92", "Atomic Mass": "238.03", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1789" } },
-    { "title": "Neptunium", "fields": { "Symbol": "Elemental Symbol Np", "Atomic Number": "Atomic Number 93", "Atomic Mass": "[237]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1940" } },
-    { "title": "Plutonium", "fields": { "Symbol": "Elemental Symbol Pu", "Atomic Number": "Atomic Number 94", "Atomic Mass": "[244]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1940" } },
-    { "title": "Americium", "fields": { "Symbol": "Elemental Symbol Am", "Atomic Number": "Atomic Number 95", "Atomic Mass": "[243]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1944" } },
-    { "title": "Curium", "fields": { "Symbol": "Elemental Symbol Cm", "Atomic Number": "Atomic Number 96", "Atomic Mass": "[247]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1944" } },
-    { "title": "Berkelium", "fields": { "Symbol": "Elemental Symbol Bk", "Atomic Number": "Atomic Number 97", "Atomic Mass": "[247]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1949" } },
-    { "title": "Californium", "fields": { "Symbol": "Elemental Symbol Cf", "Atomic Number": "Atomic Number 98", "Atomic Mass": "[251]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1950" } },
-    { "title": "Einsteinium", "fields": { "Symbol": "Elemental Symbol Es", "Atomic Number": "Atomic Number 99", "Atomic Mass": "[252]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1952" } },
-    { "title": "Fermium", "fields": { "Symbol": "Elemental Symbol Fm", "Atomic Number": "Atomic Number 100", "Atomic Mass": "[257]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1952" } },
-    { "title": "Mendelevium", "fields": { "Symbol": "Elemental Symbol Md", "Atomic Number": "Atomic Number 101", "Atomic Mass": "[258]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1955" } },
-    { "title": "Nobelium", "fields": { "Symbol": "Elemental Symbol No", "Atomic Number": "Atomic Number 102", "Atomic Mass": "[259]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1966" } },
-    { "title": "Lawrencium", "fields": { "Symbol": "Elemental Symbol Lr", "Atomic Number": "Atomic Number 103", "Atomic Mass": "[266]", "Group": "Actinide Series", "Period": "Period 7", "Category": "Actinide", "State at Room Temp": "Solid", "Year Discovered": "1961" } },
-    { "title": "Rutherfordium", "fields": { "Symbol": "Elemental Symbol Rf", "Atomic Number": "Atomic Number 104", "Atomic Mass": "[267]", "Group": "Group 4", "Period": "Period 7", "Category": "Transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "1969" } },
-    { "title": "Dubnium", "fields": { "Symbol": "Elemental Symbol Db", "Atomic Number": "Atomic Number 105", "Atomic Mass": "[268]", "Group": "Group 5", "Period": "Period 7", "Category": "Transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "1970" } },
-    { "title": "Seaborgium", "fields": { "Symbol": "Elemental Symbol Sg", "Atomic Number": "Atomic Number 106", "Atomic Mass": "[269]", "Group": "Group 6", "Period": "Period 7", "Category": "Transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "1974" } },
-    { "title": "Bohrium", "fields": { "Symbol": "Elemental Symbol Bh", "Atomic Number": "Atomic Number 107", "Atomic Mass": "[270]", "Group": "Group 7", "Period": "Period 7", "Category": "Transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "1981" } },
-    { "title": "Hassium", "fields": { "Symbol": "Elemental Symbol Hs", "Atomic Number": "Atomic Number 108", "Atomic Mass": "[269]", "Group": "Group 8", "Period": "Period 7", "Category": "Transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "1984" } },
-    { "title": "Meitnerium", "fields": { "Symbol": "Elemental Symbol Mt", "Atomic Number": "Atomic Number 109", "Atomic Mass": "[278]", "Group": "Group 9", "Period": "Period 7", "Category": "Unknown", "State at Room Temp": "Unknown", "Year Discovered": "1982" } },
-    { "title": "Darmstadtium", "fields": { "Symbol": "Elemental Symbol Ds", "Atomic Number": "Atomic Number 110", "Atomic Mass": "[281]", "Group": "Group 10", "Period": "Period 7", "Category": "Unknown", "State at Room Temp": "Unknown", "Year Discovered": "1994" } },
-    { "title": "Roentgenium", "fields": { "Symbol": "Elemental Symbol Rg", "Atomic Number": "Atomic Number 111", "Atomic Mass": "[282]", "Group": "Group 11", "Period": "Period 7", "Category": "Unknown", "State at Room Temp": "Unknown", "Year Discovered": "1994" } },
-    { "title": "Copernicium", "fields": { "Symbol": "Elemental Symbol Cn", "Atomic Number": "Atomic Number 112", "Atomic Mass": "[285]", "Group": "Group 12", "Period": "Period 7", "Category": "Transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "1996" } },
-    { "title": "Nihonium", "fields": { "Symbol": "Elemental Symbol Nh", "Atomic Number": "Atomic Number 113", "Atomic Mass": "[286]", "Group": "Group 13", "Period": "Period 7", "Category": "Post-transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "2004" } },
-    { "title": "Flerovium", "fields": { "Symbol": "Elemental Symbol Fl", "Atomic Number": "Atomic Number 114", "Atomic Mass": "[289]", "Group": "Group 14", "Period": "Period 7", "Category": "Post-transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "1999" } },
-    { "title": "Moscovium", "fields": { "Symbol": "Elemental Symbol Mc", "Atomic Number": "Atomic Number 115", "Atomic Mass": "[290]", "Group": "Group 15", "Period": "Period 7", "Category": "Post-transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "2003" } },
-    { "title": "Livermorium", "fields": { "Symbol": "Elemental Symbol Lv", "Atomic Number": "Atomic Number 116", "Atomic Mass": "[293]", "Group": "Group 16", "Period": "Period 7", "Category": "Post-transition Metal", "State at Room Temp": "Unknown", "Year Discovered": "2000" } },
-    { "title": "Tennessine", "fields": { "Symbol": "Elemental Symbol Ts", "Atomic Number": "Atomic Number 117", "Atomic Mass": "[294]", "Group": "Group 17", "Period": "Period 7", "Category": "Metalloid", "State at Room Temp": "Unknown", "Year Discovered": "2010" } },
-    { "title": "Oganesson", "fields": { "Symbol": "Elemental Symbol Og", "Atomic Number": "Atomic Number 118", "Atomic Mass": "[294]", "Group": "Group 18", "Period": "Period 7", "Category": "Noble Gas", "State at Room Temp": "Unknown", "Year Discovered": "2002" } }
+    {
+      "title": "Hydrogen",
+      "fields": {
+        "Atomic Number": "1",
+        "Atomic Mass": "1.008",
+        "Group": "1",
+        "Period": "1",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1766",
+        "Elemental Symbol": "H"
+      }
+    },
+    {
+      "title": "Helium",
+      "fields": {
+        "Atomic Number": "2",
+        "Atomic Mass": "4.0026",
+        "Group": "18",
+        "Period": "1",
+        "Category": "Noble Gas",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1868",
+        "Elemental Symbol": "He"
+      }
+    },
+    {
+      "title": "Lithium",
+      "fields": {
+        "Atomic Number": "3",
+        "Atomic Mass": "6.94",
+        "Group": "1",
+        "Period": "2",
+        "Category": "Alkali Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1817",
+        "Elemental Symbol": "Li"
+      }
+    },
+    {
+      "title": "Beryllium",
+      "fields": {
+        "Atomic Number": "4",
+        "Atomic Mass": "9.0122",
+        "Group": "2",
+        "Period": "2",
+        "Category": "Alkaline Earth Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1798",
+        "Elemental Symbol": "Be"
+      }
+    },
+    {
+      "title": "Boron",
+      "fields": {
+        "Atomic Number": "5",
+        "Atomic Mass": "10.81",
+        "Group": "13",
+        "Period": "2",
+        "Category": "Metalloid",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1808",
+        "Elemental Symbol": "B"
+      }
+    },
+    {
+      "title": "Carbon",
+      "fields": {
+        "Atomic Number": "6",
+        "Atomic Mass": "12.011",
+        "Group": "14",
+        "Period": "2",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "C"
+      }
+    },
+    {
+      "title": "Nitrogen",
+      "fields": {
+        "Atomic Number": "7",
+        "Atomic Mass": "14.007",
+        "Group": "15",
+        "Period": "2",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1772",
+        "Elemental Symbol": "N"
+      }
+    },
+    {
+      "title": "Oxygen",
+      "fields": {
+        "Atomic Number": "8",
+        "Atomic Mass": "15.999",
+        "Group": "16",
+        "Period": "2",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1774",
+        "Elemental Symbol": "O"
+      }
+    },
+    {
+      "title": "Fluorine",
+      "fields": {
+        "Atomic Number": "9",
+        "Atomic Mass": "18.998",
+        "Group": "17",
+        "Period": "2",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1886",
+        "Elemental Symbol": "F"
+      }
+    },
+    {
+      "title": "Neon",
+      "fields": {
+        "Atomic Number": "10",
+        "Atomic Mass": "20.180",
+        "Group": "18",
+        "Period": "2",
+        "Category": "Noble Gas",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1898",
+        "Elemental Symbol": "Ne"
+      }
+    },
+    {
+      "title": "Sodium",
+      "fields": {
+        "Atomic Number": "11",
+        "Atomic Mass": "22.990",
+        "Group": "1",
+        "Period": "3",
+        "Category": "Alkali Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1807",
+        "Elemental Symbol": "Na"
+      }
+    },
+    {
+      "title": "Magnesium",
+      "fields": {
+        "Atomic Number": "12",
+        "Atomic Mass": "24.305",
+        "Group": "2",
+        "Period": "3",
+        "Category": "Alkaline Earth Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1755",
+        "Elemental Symbol": "Mg"
+      }
+    },
+    {
+      "title": "Aluminum",
+      "fields": {
+        "Atomic Number": "13",
+        "Atomic Mass": "26.982",
+        "Group": "13",
+        "Period": "3",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1825",
+        "Elemental Symbol": "Al"
+      }
+    },
+    {
+      "title": "Silicon",
+      "fields": {
+        "Atomic Number": "14",
+        "Atomic Mass": "28.085",
+        "Group": "14",
+        "Period": "3",
+        "Category": "Metalloid",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1824",
+        "Elemental Symbol": "Si"
+      }
+    },
+    {
+      "title": "Phosphorus",
+      "fields": {
+        "Atomic Number": "15",
+        "Atomic Mass": "30.974",
+        "Group": "15",
+        "Period": "3",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1669",
+        "Elemental Symbol": "P"
+      }
+    },
+    {
+      "title": "Sulfur",
+      "fields": {
+        "Atomic Number": "16",
+        "Atomic Mass": "32.06",
+        "Group": "16",
+        "Period": "3",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "S"
+      }
+    },
+    {
+      "title": "Chlorine",
+      "fields": {
+        "Atomic Number": "17",
+        "Atomic Mass": "35.45",
+        "Group": "17",
+        "Period": "3",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1774",
+        "Elemental Symbol": "Cl"
+      }
+    },
+    {
+      "title": "Argon",
+      "fields": {
+        "Atomic Number": "18",
+        "Atomic Mass": "39.948",
+        "Group": "18",
+        "Period": "3",
+        "Category": "Noble Gas",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1894",
+        "Elemental Symbol": "Ar"
+      }
+    },
+    {
+      "title": "Potassium",
+      "fields": {
+        "Atomic Number": "19",
+        "Atomic Mass": "39.098",
+        "Group": "1",
+        "Period": "4",
+        "Category": "Alkali Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1807",
+        "Elemental Symbol": "K"
+      }
+    },
+    {
+      "title": "Calcium",
+      "fields": {
+        "Atomic Number": "20",
+        "Atomic Mass": "40.078",
+        "Group": "2",
+        "Period": "4",
+        "Category": "Alkaline Earth Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1808",
+        "Elemental Symbol": "Ca"
+      }
+    },
+    {
+      "title": "Scandium",
+      "fields": {
+        "Atomic Number": "21",
+        "Atomic Mass": "44.956",
+        "Group": "3",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1879",
+        "Elemental Symbol": "Sc"
+      }
+    },
+    {
+      "title": "Titanium",
+      "fields": {
+        "Atomic Number": "22",
+        "Atomic Mass": "47.867",
+        "Group": "4",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1791",
+        "Elemental Symbol": "Ti"
+      }
+    },
+    {
+      "title": "Vanadium",
+      "fields": {
+        "Atomic Number": "23",
+        "Atomic Mass": "50.942",
+        "Group": "5",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1801",
+        "Elemental Symbol": "V"
+      }
+    },
+    {
+      "title": "Chromium",
+      "fields": {
+        "Atomic Number": "24",
+        "Atomic Mass": "51.996",
+        "Group": "6",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1798",
+        "Elemental Symbol": "Cr"
+      }
+    },
+    {
+      "title": "Manganese",
+      "fields": {
+        "Atomic Number": "25",
+        "Atomic Mass": "54.938",
+        "Group": "7",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1774",
+        "Elemental Symbol": "Mn"
+      }
+    },
+    {
+      "title": "Iron",
+      "fields": {
+        "Atomic Number": "26",
+        "Atomic Mass": "55.845",
+        "Group": "8",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Fe"
+      }
+    },
+    {
+      "title": "Cobalt",
+      "fields": {
+        "Atomic Number": "27",
+        "Atomic Mass": "58.933",
+        "Group": "9",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1735",
+        "Elemental Symbol": "Co"
+      }
+    },
+    {
+      "title": "Nickel",
+      "fields": {
+        "Atomic Number": "28",
+        "Atomic Mass": "58.693",
+        "Group": "10",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1751",
+        "Elemental Symbol": "Ni"
+      }
+    },
+    {
+      "title": "Copper",
+      "fields": {
+        "Atomic Number": "29",
+        "Atomic Mass": "63.546",
+        "Group": "11",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Cu"
+      }
+    },
+    {
+      "title": "Zinc",
+      "fields": {
+        "Atomic Number": "30",
+        "Atomic Mass": "65.38",
+        "Group": "12",
+        "Period": "4",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Zn"
+      }
+    },
+    {
+      "title": "Gallium",
+      "fields": {
+        "Atomic Number": "31",
+        "Atomic Mass": "69.723",
+        "Group": "13",
+        "Period": "4",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1875",
+        "Elemental Symbol": "Ga"
+      }
+    },
+    {
+      "title": "Germanium",
+      "fields": {
+        "Atomic Number": "32",
+        "Atomic Mass": "72.630",
+        "Group": "14",
+        "Period": "4",
+        "Category": "Metalloid",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1886",
+        "Elemental Symbol": "Ge"
+      }
+    },
+    {
+      "title": "Arsenic",
+      "fields": {
+        "Atomic Number": "33",
+        "Atomic Mass": "74.922",
+        "Group": "15",
+        "Period": "4",
+        "Category": "Metalloid",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "As"
+      }
+    },
+    {
+      "title": "Selenium",
+      "fields": {
+        "Atomic Number": "34",
+        "Atomic Mass": "78.971",
+        "Group": "16",
+        "Period": "4",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1817",
+        "Elemental Symbol": "Se"
+      }
+    },
+    {
+      "title": "Bromine",
+      "fields": {
+        "Atomic Number": "35",
+        "Atomic Mass": "79.904",
+        "Group": "17",
+        "Period": "4",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Liquid",
+        "Year Discovered": "1825",
+        "Elemental Symbol": "Br"
+      }
+    },
+    {
+      "title": "Krypton",
+      "fields": {
+        "Atomic Number": "36",
+        "Atomic Mass": "83.798",
+        "Group": "18",
+        "Period": "4",
+        "Category": "Noble Gas",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1898",
+        "Elemental Symbol": "Kr"
+      }
+    },
+    {
+      "title": "Rubidium",
+      "fields": {
+        "Atomic Number": "37",
+        "Atomic Mass": "85.468",
+        "Group": "1",
+        "Period": "5",
+        "Category": "Alkali Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1861",
+        "Elemental Symbol": "Rb"
+      }
+    },
+    {
+      "title": "Strontium",
+      "fields": {
+        "Atomic Number": "38",
+        "Atomic Mass": "87.62",
+        "Group": "2",
+        "Period": "5",
+        "Category": "Alkaline Earth Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1790",
+        "Elemental Symbol": "Sr"
+      }
+    },
+    {
+      "title": "Yttrium",
+      "fields": {
+        "Atomic Number": "39",
+        "Atomic Mass": "88.906",
+        "Group": "3",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1794",
+        "Elemental Symbol": "Y"
+      }
+    },
+    {
+      "title": "Zirconium",
+      "fields": {
+        "Atomic Number": "40",
+        "Atomic Mass": "91.224",
+        "Group": "4",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1789",
+        "Elemental Symbol": "Zr"
+      }
+    },
+    {
+      "title": "Niobium",
+      "fields": {
+        "Atomic Number": "41",
+        "Atomic Mass": "92.906",
+        "Group": "5",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1801",
+        "Elemental Symbol": "Nb"
+      }
+    },
+    {
+      "title": "Molybdenum",
+      "fields": {
+        "Atomic Number": "42",
+        "Atomic Mass": "95.95",
+        "Group": "6",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1781",
+        "Elemental Symbol": "Mo"
+      }
+    },
+    {
+      "title": "Technetium",
+      "fields": {
+        "Atomic Number": "43",
+        "Atomic Mass": "[98]",
+        "Group": "7",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1937",
+        "Elemental Symbol": "Tc"
+      }
+    },
+    {
+      "title": "Ruthenium",
+      "fields": {
+        "Atomic Number": "44",
+        "Atomic Mass": "101.07",
+        "Group": "8",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1844",
+        "Elemental Symbol": "Ru"
+      }
+    },
+    {
+      "title": "Rhodium",
+      "fields": {
+        "Atomic Number": "45",
+        "Atomic Mass": "102.91",
+        "Group": "9",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1803",
+        "Elemental Symbol": "Rh"
+      }
+    },
+    {
+      "title": "Palladium",
+      "fields": {
+        "Atomic Number": "46",
+        "Atomic Mass": "106.42",
+        "Group": "10",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1803",
+        "Elemental Symbol": "Pd"
+      }
+    },
+    {
+      "title": "Silver",
+      "fields": {
+        "Atomic Number": "47",
+        "Atomic Mass": "107.87",
+        "Group": "11",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Ag"
+      }
+    },
+    {
+      "title": "Cadmium",
+      "fields": {
+        "Atomic Number": "48",
+        "Atomic Mass": "112.41",
+        "Group": "12",
+        "Period": "5",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1817",
+        "Elemental Symbol": "Cd"
+      }
+    },
+    {
+      "title": "Indium",
+      "fields": {
+        "Atomic Number": "49",
+        "Atomic Mass": "114.82",
+        "Group": "13",
+        "Period": "5",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1863",
+        "Elemental Symbol": "In"
+      }
+    },
+    {
+      "title": "Tin",
+      "fields": {
+        "Atomic Number": "50",
+        "Atomic Mass": "118.71",
+        "Group": "14",
+        "Period": "5",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Sn"
+      }
+    },
+    {
+      "title": "Antimony",
+      "fields": {
+        "Atomic Number": "51",
+        "Atomic Mass": "121.76",
+        "Group": "15",
+        "Period": "5",
+        "Category": "Metalloid",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Sb"
+      }
+    },
+    {
+      "title": "Tellurium",
+      "fields": {
+        "Atomic Number": "52",
+        "Atomic Mass": "127.60",
+        "Group": "16",
+        "Period": "5",
+        "Category": "Metalloid",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1782",
+        "Elemental Symbol": "Te"
+      }
+    },
+    {
+      "title": "Iodine",
+      "fields": {
+        "Atomic Number": "53",
+        "Atomic Mass": "126.90",
+        "Group": "17",
+        "Period": "5",
+        "Category": "Reactive Nonmetal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1811",
+        "Elemental Symbol": "I"
+      }
+    },
+    {
+      "title": "Xenon",
+      "fields": {
+        "Atomic Number": "54",
+        "Atomic Mass": "131.29",
+        "Group": "18",
+        "Period": "5",
+        "Category": "Noble Gas",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1898",
+        "Elemental Symbol": "Xe"
+      }
+    },
+    {
+      "title": "Cesium",
+      "fields": {
+        "Atomic Number": "55",
+        "Atomic Mass": "132.91",
+        "Group": "1",
+        "Period": "6",
+        "Category": "Alkali Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1860",
+        "Elemental Symbol": "Cs"
+      }
+    },
+    {
+      "title": "Barium",
+      "fields": {
+        "Atomic Number": "56",
+        "Atomic Mass": "137.33",
+        "Group": "2",
+        "Period": "6",
+        "Category": "Alkaline Earth Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1808",
+        "Elemental Symbol": "Ba"
+      }
+    },
+    {
+      "title": "Lanthanum",
+      "fields": {
+        "Atomic Number": "57",
+        "Atomic Mass": "138.91",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1839",
+        "Elemental Symbol": "La"
+      }
+    },
+    {
+      "title": "Cerium",
+      "fields": {
+        "Atomic Number": "58",
+        "Atomic Mass": "140.12",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1803",
+        "Elemental Symbol": "Ce"
+      }
+    },
+    {
+      "title": "Praseodymium",
+      "fields": {
+        "Atomic Number": "59",
+        "Atomic Mass": "140.91",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1885",
+        "Elemental Symbol": "Pr"
+      }
+    },
+    {
+      "title": "Neodymium",
+      "fields": {
+        "Atomic Number": "60",
+        "Atomic Mass": "144.24",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1885",
+        "Elemental Symbol": "Nd"
+      }
+    },
+    {
+      "title": "Promethium",
+      "fields": {
+        "Atomic Number": "61",
+        "Atomic Mass": "[145]",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1945",
+        "Elemental Symbol": "Pm"
+      }
+    },
+    {
+      "title": "Samarium",
+      "fields": {
+        "Atomic Number": "62",
+        "Atomic Mass": "150.36",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1879",
+        "Elemental Symbol": "Sm"
+      }
+    },
+    {
+      "title": "Europium",
+      "fields": {
+        "Atomic Number": "63",
+        "Atomic Mass": "151.96",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1901",
+        "Elemental Symbol": "Eu"
+      }
+    },
+    {
+      "title": "Gadolinium",
+      "fields": {
+        "Atomic Number": "64",
+        "Atomic Mass": "157.25",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1880",
+        "Elemental Symbol": "Gd"
+      }
+    },
+    {
+      "title": "Terbium",
+      "fields": {
+        "Atomic Number": "65",
+        "Atomic Mass": "158.93",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1843",
+        "Elemental Symbol": "Tb"
+      }
+    },
+    {
+      "title": "Dysprosium",
+      "fields": {
+        "Atomic Number": "66",
+        "Atomic Mass": "162.50",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1886",
+        "Elemental Symbol": "Dy"
+      }
+    },
+    {
+      "title": "Holmium",
+      "fields": {
+        "Atomic Number": "67",
+        "Atomic Mass": "164.93",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1878",
+        "Elemental Symbol": "Ho"
+      }
+    },
+    {
+      "title": "Erbium",
+      "fields": {
+        "Atomic Number": "68",
+        "Atomic Mass": "167.26",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1843",
+        "Elemental Symbol": "Er"
+      }
+    },
+    {
+      "title": "Thulium",
+      "fields": {
+        "Atomic Number": "69",
+        "Atomic Mass": "168.93",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1879",
+        "Elemental Symbol": "Tm"
+      }
+    },
+    {
+      "title": "Ytterbium",
+      "fields": {
+        "Atomic Number": "70",
+        "Atomic Mass": "173.04",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1878",
+        "Elemental Symbol": "Yb"
+      }
+    },
+    {
+      "title": "Lutetium",
+      "fields": {
+        "Atomic Number": "71",
+        "Atomic Mass": "174.97",
+        "Group": "Lanthanide Series",
+        "Period": "6",
+        "Category": "Lanthanide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1907",
+        "Elemental Symbol": "Lu"
+      }
+    },
+    {
+      "title": "Hafnium",
+      "fields": {
+        "Atomic Number": "72",
+        "Atomic Mass": "178.49",
+        "Group": "4",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1923",
+        "Elemental Symbol": "Hf"
+      }
+    },
+    {
+      "title": "Tantalum",
+      "fields": {
+        "Atomic Number": "73",
+        "Atomic Mass": "180.95",
+        "Group": "5",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1802",
+        "Elemental Symbol": "Ta"
+      }
+    },
+    {
+      "title": "Tungsten",
+      "fields": {
+        "Atomic Number": "74",
+        "Atomic Mass": "183.84",
+        "Group": "6",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1783",
+        "Elemental Symbol": "W"
+      }
+    },
+    {
+      "title": "Rhenium",
+      "fields": {
+        "Atomic Number": "75",
+        "Atomic Mass": "186.21",
+        "Group": "7",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1925",
+        "Elemental Symbol": "Re"
+      }
+    },
+    {
+      "title": "Osmium",
+      "fields": {
+        "Atomic Number": "76",
+        "Atomic Mass": "190.23",
+        "Group": "8",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1803",
+        "Elemental Symbol": "Os"
+      }
+    },
+    {
+      "title": "Iridium",
+      "fields": {
+        "Atomic Number": "77",
+        "Atomic Mass": "192.22",
+        "Group": "9",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1803",
+        "Elemental Symbol": "Ir"
+      }
+    },
+    {
+      "title": "Platinum",
+      "fields": {
+        "Atomic Number": "78",
+        "Atomic Mass": "195.08",
+        "Group": "10",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1735",
+        "Elemental Symbol": "Pt"
+      }
+    },
+    {
+      "title": "Gold",
+      "fields": {
+        "Atomic Number": "79",
+        "Atomic Mass": "196.97",
+        "Group": "11",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Au"
+      }
+    },
+    {
+      "title": "Mercury",
+      "fields": {
+        "Atomic Number": "80",
+        "Atomic Mass": "200.59",
+        "Group": "12",
+        "Period": "6",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Liquid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Hg"
+      }
+    },
+    {
+      "title": "Thallium",
+      "fields": {
+        "Atomic Number": "81",
+        "Atomic Mass": "204.38",
+        "Group": "13",
+        "Period": "6",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1861",
+        "Elemental Symbol": "Tl"
+      }
+    },
+    {
+      "title": "Lead",
+      "fields": {
+        "Atomic Number": "82",
+        "Atomic Mass": "207.2",
+        "Group": "14",
+        "Period": "6",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Pb"
+      }
+    },
+    {
+      "title": "Bismuth",
+      "fields": {
+        "Atomic Number": "83",
+        "Atomic Mass": "208.98",
+        "Group": "15",
+        "Period": "6",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "Ancient",
+        "Elemental Symbol": "Bi"
+      }
+    },
+    {
+      "title": "Polonium",
+      "fields": {
+        "Atomic Number": "84",
+        "Atomic Mass": "[209]",
+        "Group": "16",
+        "Period": "6",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1898",
+        "Elemental Symbol": "Po"
+      }
+    },
+    {
+      "title": "Astatine",
+      "fields": {
+        "Atomic Number": "85",
+        "Atomic Mass": "[210]",
+        "Group": "17",
+        "Period": "6",
+        "Category": "Metalloid",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1940",
+        "Elemental Symbol": "At"
+      }
+    },
+    {
+      "title": "Radon",
+      "fields": {
+        "Atomic Number": "86",
+        "Atomic Mass": "[222]",
+        "Group": "18",
+        "Period": "6",
+        "Category": "Noble Gas",
+        "State at Room Temp": "Gas",
+        "Year Discovered": "1900",
+        "Elemental Symbol": "Rn"
+      }
+    },
+    {
+      "title": "Francium",
+      "fields": {
+        "Atomic Number": "87",
+        "Atomic Mass": "[223]",
+        "Group": "1",
+        "Period": "7",
+        "Category": "Alkali Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1939",
+        "Elemental Symbol": "Fr"
+      }
+    },
+    {
+      "title": "Radium",
+      "fields": {
+        "Atomic Number": "88",
+        "Atomic Mass": "[226]",
+        "Group": "2",
+        "Period": "7",
+        "Category": "Alkaline Earth Metal",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1898",
+        "Elemental Symbol": "Ra"
+      }
+    },
+    {
+      "title": "Actinium",
+      "fields": {
+        "Atomic Number": "89",
+        "Atomic Mass": "[227]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1899",
+        "Elemental Symbol": "Ac"
+      }
+    },
+    {
+      "title": "Thorium",
+      "fields": {
+        "Atomic Number": "90",
+        "Atomic Mass": "232.04",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1829",
+        "Elemental Symbol": "Th"
+      }
+    },
+    {
+      "title": "Protactinium",
+      "fields": {
+        "Atomic Number": "91",
+        "Atomic Mass": "231.04",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1913",
+        "Elemental Symbol": "Pa"
+      }
+    },
+    {
+      "title": "Uranium",
+      "fields": {
+        "Atomic Number": "92",
+        "Atomic Mass": "238.03",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1789",
+        "Elemental Symbol": "U"
+      }
+    },
+    {
+      "title": "Neptunium",
+      "fields": {
+        "Atomic Number": "93",
+        "Atomic Mass": "[237]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1940",
+        "Elemental Symbol": "Np"
+      }
+    },
+    {
+      "title": "Plutonium",
+      "fields": {
+        "Atomic Number": "94",
+        "Atomic Mass": "[244]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1940",
+        "Elemental Symbol": "Pu"
+      }
+    },
+    {
+      "title": "Americium",
+      "fields": {
+        "Atomic Number": "95",
+        "Atomic Mass": "[243]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1944",
+        "Elemental Symbol": "Am"
+      }
+    },
+    {
+      "title": "Curium",
+      "fields": {
+        "Atomic Number": "96",
+        "Atomic Mass": "[247]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1944",
+        "Elemental Symbol": "Cm"
+      }
+    },
+    {
+      "title": "Berkelium",
+      "fields": {
+        "Atomic Number": "97",
+        "Atomic Mass": "[247]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1949",
+        "Elemental Symbol": "Bk"
+      }
+    },
+    {
+      "title": "Californium",
+      "fields": {
+        "Atomic Number": "98",
+        "Atomic Mass": "[251]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1950",
+        "Elemental Symbol": "Cf"
+      }
+    },
+    {
+      "title": "Einsteinium",
+      "fields": {
+        "Atomic Number": "99",
+        "Atomic Mass": "[252]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1952",
+        "Elemental Symbol": "Es"
+      }
+    },
+    {
+      "title": "Fermium",
+      "fields": {
+        "Atomic Number": "100",
+        "Atomic Mass": "[257]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1952",
+        "Elemental Symbol": "Fm"
+      }
+    },
+    {
+      "title": "Mendelevium",
+      "fields": {
+        "Atomic Number": "101",
+        "Atomic Mass": "[258]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1955",
+        "Elemental Symbol": "Md"
+      }
+    },
+    {
+      "title": "Nobelium",
+      "fields": {
+        "Atomic Number": "102",
+        "Atomic Mass": "[259]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1966",
+        "Elemental Symbol": "No"
+      }
+    },
+    {
+      "title": "Lawrencium",
+      "fields": {
+        "Atomic Number": "103",
+        "Atomic Mass": "[266]",
+        "Group": "Actinide Series",
+        "Period": "7",
+        "Category": "Actinide",
+        "State at Room Temp": "Solid",
+        "Year Discovered": "1961",
+        "Elemental Symbol": "Lr"
+      }
+    },
+    {
+      "title": "Rutherfordium",
+      "fields": {
+        "Atomic Number": "104",
+        "Atomic Mass": "[267]",
+        "Group": "4",
+        "Period": "7",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1969",
+        "Elemental Symbol": "Rf"
+      }
+    },
+    {
+      "title": "Dubnium",
+      "fields": {
+        "Atomic Number": "105",
+        "Atomic Mass": "[268]",
+        "Group": "5",
+        "Period": "7",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1970",
+        "Elemental Symbol": "Db"
+      }
+    },
+    {
+      "title": "Seaborgium",
+      "fields": {
+        "Atomic Number": "106",
+        "Atomic Mass": "[269]",
+        "Group": "6",
+        "Period": "7",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1974",
+        "Elemental Symbol": "Sg"
+      }
+    },
+    {
+      "title": "Bohrium",
+      "fields": {
+        "Atomic Number": "107",
+        "Atomic Mass": "[270]",
+        "Group": "7",
+        "Period": "7",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1981",
+        "Elemental Symbol": "Bh"
+      }
+    },
+    {
+      "title": "Hassium",
+      "fields": {
+        "Atomic Number": "108",
+        "Atomic Mass": "[269]",
+        "Group": "8",
+        "Period": "7",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1984",
+        "Elemental Symbol": "Hs"
+      }
+    },
+    {
+      "title": "Meitnerium",
+      "fields": {
+        "Atomic Number": "109",
+        "Atomic Mass": "[278]",
+        "Group": "9",
+        "Period": "7",
+        "Category": "Unknown",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1982",
+        "Elemental Symbol": "Mt"
+      }
+    },
+    {
+      "title": "Darmstadtium",
+      "fields": {
+        "Atomic Number": "110",
+        "Atomic Mass": "[281]",
+        "Group": "10",
+        "Period": "7",
+        "Category": "Unknown",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1994",
+        "Elemental Symbol": "Ds"
+      }
+    },
+    {
+      "title": "Roentgenium",
+      "fields": {
+        "Atomic Number": "111",
+        "Atomic Mass": "[282]",
+        "Group": "11",
+        "Period": "7",
+        "Category": "Unknown",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1994",
+        "Elemental Symbol": "Rg"
+      }
+    },
+    {
+      "title": "Copernicium",
+      "fields": {
+        "Atomic Number": "112",
+        "Atomic Mass": "[285]",
+        "Group": "12",
+        "Period": "7",
+        "Category": "Transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1996",
+        "Elemental Symbol": "Cn"
+      }
+    },
+    {
+      "title": "Nihonium",
+      "fields": {
+        "Atomic Number": "113",
+        "Atomic Mass": "[286]",
+        "Group": "13",
+        "Period": "7",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "2004",
+        "Elemental Symbol": "Nh"
+      }
+    },
+    {
+      "title": "Flerovium",
+      "fields": {
+        "Atomic Number": "114",
+        "Atomic Mass": "[289]",
+        "Group": "14",
+        "Period": "7",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "1999",
+        "Elemental Symbol": "Fl"
+      }
+    },
+    {
+      "title": "Moscovium",
+      "fields": {
+        "Atomic Number": "115",
+        "Atomic Mass": "[290]",
+        "Group": "15",
+        "Period": "7",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "2003",
+        "Elemental Symbol": "Mc"
+      }
+    },
+    {
+      "title": "Livermorium",
+      "fields": {
+        "Atomic Number": "116",
+        "Atomic Mass": "[293]",
+        "Group": "16",
+        "Period": "7",
+        "Category": "Post-transition Metal",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "2000",
+        "Elemental Symbol": "Lv"
+      }
+    },
+    {
+      "title": "Tennessine",
+      "fields": {
+        "Atomic Number": "117",
+        "Atomic Mass": "[294]",
+        "Group": "17",
+        "Period": "7",
+        "Category": "Metalloid",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "2010",
+        "Elemental Symbol": "Ts"
+      }
+    },
+    {
+      "title": "Oganesson",
+      "fields": {
+        "Atomic Number": "118",
+        "Atomic Mass": "[294]",
+        "Group": "18",
+        "Period": "7",
+        "Category": "Noble Gas",
+        "State at Room Temp": "Unknown",
+        "Year Discovered": "2002",
+        "Elemental Symbol": "Og"
+      }
+    }
   ]
 }
