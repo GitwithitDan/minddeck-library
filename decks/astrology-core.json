@@ -11,7 +11,7 @@
         "Modality": "Cardinal",
         "Polarity": "Positive",
         "Ruling Planet": "Mars",
-        "Natural House": "House 1",
+        "Natural House": "1",
         "Body Rulership": "Head, Face"
       }
     },
@@ -25,7 +25,7 @@
         "Modality": "Fixed",
         "Polarity": "Negative",
         "Ruling Planet": "Venus",
-        "Natural House": "House 2",
+        "Natural House": "2",
         "Body Rulership": "Neck, Throat"
       }
     },
@@ -39,7 +39,7 @@
         "Modality": "Mutable",
         "Polarity": "Positive",
         "Ruling Planet": "Mercury",
-        "Natural House": "House 3",
+        "Natural House": "3",
         "Body Rulership": "Arms, Hands, Lungs"
       }
     },
@@ -53,7 +53,7 @@
         "Modality": "Cardinal",
         "Polarity": "Negative",
         "Ruling Planet": "Moon",
-        "Natural House": "House 4",
+        "Natural House": "4",
         "Body Rulership": "Chest, Stomach, Breasts"
       }
     },
@@ -67,7 +67,7 @@
         "Modality": "Fixed",
         "Polarity": "Positive",
         "Ruling Planet": "Sun",
-        "Natural House": "House 5",
+        "Natural House": "5",
         "Body Rulership": "Heart, Spine, Upper Back"
       }
     },
@@ -81,7 +81,7 @@
         "Modality": "Mutable",
         "Polarity": "Negative",
         "Ruling Planet": "Mercury",
-        "Natural House": "House 6",
+        "Natural House": "6",
         "Body Rulership": "Digestive System, Intestines"
       }
     },
@@ -95,7 +95,7 @@
         "Modality": "Cardinal",
         "Polarity": "Positive",
         "Ruling Planet": "Venus",
-        "Natural House": "House 7",
+        "Natural House": "7",
         "Body Rulership": "Kidneys, Lower Back"
       }
     },
@@ -110,7 +110,7 @@
         "Polarity": "Negative",
         "Ruling Planet": "Pluto",
         "Traditional Ruler": "Mars",
-        "Natural House": "House 8",
+        "Natural House": "8",
         "Body Rulership": "Reproductive Organs, Pelvis"
       }
     },
@@ -124,7 +124,7 @@
         "Modality": "Mutable",
         "Polarity": "Positive",
         "Ruling Planet": "Jupiter",
-        "Natural House": "House 9",
+        "Natural House": "9",
         "Body Rulership": "Hips, Thighs, Liver"
       }
     },
@@ -138,7 +138,7 @@
         "Modality": "Cardinal",
         "Polarity": "Negative",
         "Ruling Planet": "Saturn",
-        "Natural House": "House 10",
+        "Natural House": "10",
         "Body Rulership": "Knees, Bones, Skin"
       }
     },
@@ -153,7 +153,7 @@
         "Polarity": "Positive",
         "Ruling Planet": "Uranus",
         "Traditional Ruler": "Saturn",
-        "Natural House": "House 11",
+        "Natural House": "11",
         "Body Rulership": "Ankles, Calves, Circulatory System"
       }
     },
@@ -168,7 +168,7 @@
         "Polarity": "Negative",
         "Ruling Planet": "Neptune",
         "Traditional Ruler": "Jupiter",
-        "Natural House": "House 12",
+        "Natural House": "12",
         "Body Rulership": "Feet, Lymphatic System"
       }
     }
