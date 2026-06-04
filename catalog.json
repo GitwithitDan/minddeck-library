@@ -77,37 +77,21 @@
       "category": "science",
       "card_count": 118,
       "author": "MindDeck Team",
-      "tags": [
-        "chemistry",
-        "elements",
-        "science"
-      ],
+      "tags": ["chemistry", "elements", "science"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/periodic-table.json",
       "format": "json",
       "preview": [
         {
           "title": "Hydrogen",
-          "fields": {
-            "symbol": "H",
-            "atomic_number": "1",
-            "category": "Nonmetal"
-          }
+          "fields": { "symbol": "H", "atomic_number": "1", "category": "Nonmetal" }
         },
         {
           "title": "Helium",
-          "fields": {
-            "symbol": "He",
-            "atomic_number": "2",
-            "category": "Noble gas"
-          }
+          "fields": { "symbol": "He", "atomic_number": "2", "category": "Noble gas" }
         },
         {
           "title": "Carbon",
-          "fields": {
-            "symbol": "C",
-            "atomic_number": "6",
-            "category": "Nonmetal"
-          }
+          "fields": { "symbol": "C", "atomic_number": "6", "category": "Nonmetal" }
         }
       ]
     },
@@ -118,38 +102,21 @@
       "category": "science",
       "card_count": 60,
       "author": "MindDeck Team",
-      "tags": [
-        "anatomy",
-        "organs",
-        "body",
-        "health"
-      ],
+      "tags": ["anatomy", "organs", "body", "health"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/human-anatomy-major-organs.json",
       "format": "json",
       "preview": [
         {
           "title": "Liver",
-          "fields": {
-            "system": "Digestive",
-            "location": "Upper right abdomen",
-            "function": "Detoxification, protein synthesis"
-          }
+          "fields": { "system": "Digestive", "location": "Upper right abdomen", "function": "Detoxification, protein synthesis" }
         },
         {
           "title": "Heart",
-          "fields": {
-            "system": "Circulatory",
-            "location": "Chest cavity",
-            "function": "Pumps blood throughout the body"
-          }
+          "fields": { "system": "Circulatory", "location": "Chest cavity", "function": "Pumps blood throughout the body" }
         },
         {
           "title": "Lungs",
-          "fields": {
-            "system": "Respiratory",
-            "location": "Chest cavity",
-            "function": "Gas exchange — oxygen in, CO2 out"
-          }
+          "fields": { "system": "Respiratory", "location": "Chest cavity", "function": "Gas exchange — oxygen in, CO2 out" }
         }
       ]
     },
@@ -160,35 +127,21 @@
       "category": "languages",
       "card_count": 80,
       "author": "MindDeck Team",
-      "tags": [
-        "latin",
-        "roots",
-        "vocabulary",
-        "etymology"
-      ],
+      "tags": ["latin", "roots", "vocabulary", "etymology"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/latin-roots.json",
       "format": "json",
       "preview": [
         {
           "title": "aud",
-          "fields": {
-            "meaning": "to hear",
-            "derivatives": "audible, audience, audio"
-          }
+          "fields": { "meaning": "to hear", "derivatives": "audible, audience, audio" }
         },
         {
           "title": "port",
-          "fields": {
-            "meaning": "to carry",
-            "derivatives": "portable, transport, export"
-          }
+          "fields": { "meaning": "to carry", "derivatives": "portable, transport, export" }
         },
         {
           "title": "scrib",
-          "fields": {
-            "meaning": "to write",
-            "derivatives": "describe, inscribe, manuscript"
-          }
+          "fields": { "meaning": "to write", "derivatives": "describe, inscribe, manuscript" }
         }
       ]
     },
@@ -199,38 +152,21 @@
       "category": "geography",
       "card_count": 195,
       "author": "MindDeck Team",
-      "tags": [
-        "geography",
-        "countries",
-        "capitals",
-        "world"
-      ],
+      "tags": ["geography", "countries", "capitals", "world"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/countries-of-the-world.json",
       "format": "json",
       "preview": [
         {
           "title": "Japan",
-          "fields": {
-            "capital": "Tokyo",
-            "continent": "Asia",
-            "population": "125M"
-          }
+          "fields": { "capital": "Tokyo", "continent": "Asia", "population": "125M" }
         },
         {
           "title": "Brazil",
-          "fields": {
-            "capital": "Brasília",
-            "continent": "South America",
-            "population": "215M"
-          }
+          "fields": { "capital": "Brasília", "continent": "South America", "population": "215M" }
         },
         {
           "title": "Nigeria",
-          "fields": {
-            "capital": "Abuja",
-            "continent": "Africa",
-            "population": "220M"
-          }
+          "fields": { "capital": "Abuja", "continent": "Africa", "population": "220M" }
         }
       ]
     },
@@ -241,38 +177,21 @@
       "category": "geography",
       "card_count": 150,
       "author": "MindDeck Team",
-      "tags": [
-        "currencies",
-        "finance",
-        "geography",
-        "world"
-      ],
+      "tags": ["currencies", "finance", "geography", "world"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/world-currencies.json",
       "format": "json",
       "preview": [
         {
           "title": "US Dollar",
-          "fields": {
-            "code": "USD",
-            "symbol": "$",
-            "country": "United States"
-          }
+          "fields": { "code": "USD", "symbol": "$", "country": "United States" }
         },
         {
           "title": "Euro",
-          "fields": {
-            "code": "EUR",
-            "symbol": "€",
-            "country": "Eurozone"
-          }
+          "fields": { "code": "EUR", "symbol": "€", "country": "Eurozone" }
         },
         {
           "title": "Japanese Yen",
-          "fields": {
-            "code": "JPY",
-            "symbol": "¥",
-            "country": "Japan"
-          }
+          "fields": { "code": "JPY", "symbol": "¥", "country": "Japan" }
         }
       ]
     },
@@ -283,38 +202,21 @@
       "category": "space",
       "card_count": 9,
       "author": "MindDeck Team",
-      "tags": [
-        "space",
-        "planets",
-        "astronomy",
-        "solar system"
-      ],
+      "tags": ["space", "planets", "astronomy", "solar system"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/planets-solar-system.json",
       "format": "json",
       "preview": [
         {
           "title": "Mars",
-          "fields": {
-            "type": "Terrestrial",
-            "moons": "2",
-            "distance_from_sun": "1.52 AU"
-          }
+          "fields": { "type": "Terrestrial", "moons": "2", "distance_from_sun": "1.52 AU" }
         },
         {
           "title": "Jupiter",
-          "fields": {
-            "type": "Gas giant",
-            "moons": "95",
-            "distance_from_sun": "5.2 AU"
-          }
+          "fields": { "type": "Gas giant", "moons": "95", "distance_from_sun": "5.2 AU" }
         },
         {
           "title": "Saturn",
-          "fields": {
-            "type": "Gas giant",
-            "moons": "146",
-            "distance_from_sun": "9.58 AU"
-          }
+          "fields": { "type": "Gas giant", "moons": "146", "distance_from_sun": "9.58 AU" }
         }
       ]
     },
@@ -325,39 +227,21 @@
       "category": "esoteric",
       "card_count": 50,
       "author": "MindDeck Team",
-      "tags": [
-        "astrology",
-        "signs",
-        "planets",
-        "houses"
-      ],
+      "tags": ["astrology", "signs", "planets", "houses"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/astrology-core.json",
       "format": "json",
       "preview": [
         {
           "title": "Aries",
-          "fields": {
-            "element": "Fire",
-            "modality": "Cardinal",
-            "ruling_planet": "Mars",
-            "theme": "Initiation, identity, courage"
-          }
+          "fields": { "element": "Fire", "modality": "Cardinal", "ruling_planet": "Mars", "theme": "Initiation, identity, courage" }
         },
         {
           "title": "1st House",
-          "fields": {
-            "natural_sign": "Aries",
-            "ruling_planet": "Mars",
-            "theme": "Self, appearance, beginnings"
-          }
+          "fields": { "natural_sign": "Aries", "ruling_planet": "Mars", "theme": "Self, appearance, beginnings" }
         },
         {
           "title": "Venus",
-          "fields": {
-            "type": "Planet",
-            "rules": "Taurus, Libra",
-            "theme": "Love, beauty, values, attraction"
-          }
+          "fields": { "type": "Planet", "rules": "Taurus, Libra", "theme": "Love, beauty, values, attraction" }
         }
       ]
     },
@@ -368,23 +252,13 @@
       "category": "mathematics",
       "card_count": 1,
       "author": "MindDeck Team",
-      "tags": [
-        "primes",
-        "number theory",
-        "mathematics"
-      ],
+      "tags": ["primes", "number theory", "mathematics"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/first-100-primes.json",
       "format": "json",
       "preview": [
         {
           "title": "Prime Number",
-          "fields": {
-            "1st": "2",
-            "2nd": "3",
-            "10th": "29",
-            "50th": "229",
-            "100th": "541"
-          }
+          "fields": { "1st": "2", "2nd": "3", "10th": "29", "50th": "229", "100th": "541" }
         }
       ]
     },
@@ -395,41 +269,21 @@
       "category": "mathematics",
       "card_count": 30,
       "author": "MindDeck Team",
-      "tags": [
-        "squares",
-        "roots",
-        "number theory",
-        "mathematics"
-      ],
+      "tags": ["squares", "roots", "number theory", "mathematics"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/perfect-squares.json",
       "format": "json",
       "preview": [
         {
           "title": "5",
-          "fields": {
-            "Square": "25",
-            "Square Root": "5",
-            "Difference from Previous Square": "9",
-            "Square Is Also a Perfect Cube": "No"
-          }
+          "fields": { "Square": "25", "Square Root": "5", "Difference from Previous Square": "9", "Square Is Also a Perfect Cube": "No" }
         },
         {
           "title": "8",
-          "fields": {
-            "Square": "64",
-            "Square Root": "8",
-            "Difference from Previous Square": "15",
-            "Square Is Also a Perfect Cube": "Yes"
-          }
+          "fields": { "Square": "64", "Square Root": "8", "Difference from Previous Square": "15", "Square Is Also a Perfect Cube": "Yes" }
         },
         {
           "title": "12",
-          "fields": {
-            "Square": "144",
-            "Square Root": "12",
-            "Difference from Previous Square": "23",
-            "Square Is Also a Perfect Cube": "No"
-          }
+          "fields": { "Square": "144", "Square Root": "12", "Difference from Previous Square": "23", "Square Is Also a Perfect Cube": "No" }
         }
       ]
     },
@@ -440,44 +294,21 @@
       "category": "geography",
       "card_count": 50,
       "author": "MindDeck Team",
-      "tags": [
-        "united states",
-        "states",
-        "capitals",
-        "geography"
-      ],
+      "tags": ["united states", "states", "capitals", "geography"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/us-states-capitals.json",
       "format": "json",
       "preview": [
         {
           "title": "California",
-          "fields": {
-            "Capital": "Sacramento",
-            "Abbreviation": "CA",
-            "Region": "West",
-            "Nickname": "The Golden State",
-            "State Bird": "California Quail"
-          }
+          "fields": { "Capital": "Sacramento", "Abbreviation": "CA", "Region": "West", "Nickname": "The Golden State", "State Bird": "California Quail" }
         },
         {
           "title": "Texas",
-          "fields": {
-            "Capital": "Austin",
-            "Abbreviation": "TX",
-            "Region": "South",
-            "Nickname": "The Lone Star State",
-            "State Bird": "Mockingbird"
-          }
+          "fields": { "Capital": "Austin", "Abbreviation": "TX", "Region": "South", "Nickname": "The Lone Star State", "State Bird": "Mockingbird" }
         },
         {
           "title": "New York",
-          "fields": {
-            "Capital": "Albany",
-            "Abbreviation": "NY",
-            "Region": "Northeast",
-            "Nickname": "The Empire State",
-            "State Bird": "Eastern Bluebird"
-          }
+          "fields": { "Capital": "Albany", "Abbreviation": "NY", "Region": "Northeast", "Nickname": "The Empire State", "State Bird": "Eastern Bluebird" }
         }
       ]
     },
@@ -488,44 +319,21 @@
       "category": "geography",
       "card_count": 27,
       "author": "MindDeck Team",
-      "tags": [
-        "mountains",
-        "geography",
-        "exploration",
-        "elevation"
-      ],
+      "tags": ["mountains", "geography", "exploration", "elevation"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mountain-peaks.json",
       "format": "json",
       "preview": [
         {
           "title": "Everest",
-          "fields": {
-            "Mountain Range": "Himalayas",
-            "Elevation (m)": "8849",
-            "Country": "Nepal / China",
-            "Continent": "Asia",
-            "First Summit Year": "1953"
-          }
+          "fields": { "Mountain Range": "Himalayas", "Elevation (m)": "8849", "Country": "Nepal / China", "Continent": "Asia", "First Summit Year": "1953" }
         },
         {
           "title": "Aconcagua",
-          "fields": {
-            "Mountain Range": "Andes",
-            "Elevation (m)": "6961",
-            "Country": "Argentina",
-            "Continent": "South America",
-            "First Summit Year": "1897"
-          }
+          "fields": { "Mountain Range": "Andes", "Elevation (m)": "6961", "Country": "Argentina", "Continent": "South America", "First Summit Year": "1897" }
         },
         {
           "title": "Kilimanjaro",
-          "fields": {
-            "Mountain Range": "Eastern Rift Mountains",
-            "Elevation (m)": "5895",
-            "Country": "Tanzania",
-            "Continent": "Africa",
-            "First Summit Year": "1889"
-          }
+          "fields": { "Mountain Range": "Eastern Rift Mountains", "Elevation (m)": "5895", "Country": "Tanzania", "Continent": "Africa", "First Summit Year": "1889" }
         }
       ]
     },
@@ -536,38 +344,21 @@
       "category": "mathematics",
       "card_count": 12,
       "author": "MindDeck Team",
-      "tags": [
-        "calendar",
-        "months",
-        "time",
-        "reference"
-      ],
+      "tags": ["calendar", "months", "time", "reference"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/months.json",
       "format": "json",
       "preview": [
         {
           "title": "February",
-          "fields": {
-            "Month Number": "2",
-            "Days (Standard Year)": "28",
-            "Days (Leap Year)": "29"
-          }
+          "fields": { "Month Number": "2", "Days (Standard Year)": "28", "Days (Leap Year)": "29" }
         },
         {
           "title": "July",
-          "fields": {
-            "Month Number": "7",
-            "Days (Standard Year)": "31",
-            "Days (Leap Year)": "31"
-          }
+          "fields": { "Month Number": "7", "Days (Standard Year)": "31", "Days (Leap Year)": "31" }
         },
         {
           "title": "November",
-          "fields": {
-            "Month Number": "11",
-            "Days (Standard Year)": "30",
-            "Days (Leap Year)": "30"
-          }
+          "fields": { "Month Number": "11", "Days (Standard Year)": "30", "Days (Leap Year)": "30" }
         }
       ]
     },
@@ -578,44 +369,21 @@
       "category": "languages",
       "card_count": 7,
       "author": "MindDeck Team",
-      "tags": [
-        "days",
-        "multilingual",
-        "calendar",
-        "translation"
-      ],
+      "tags": ["days", "multilingual", "calendar", "translation"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/days-of-week.json",
       "format": "json",
       "preview": [
         {
           "title": "Monday",
-          "fields": {
-            "Spanish": "Lunes",
-            "French": "Lundi",
-            "German": "Montag",
-            "Japanese (Romaji)": "Getsuyōbi",
-            "Mandarin (Pinyin)": "Xīngqī yī"
-          }
+          "fields": { "Spanish": "Lunes", "French": "Lundi", "German": "Montag", "Japanese (Romaji)": "Getsuyōbi", "Mandarin (Pinyin)": "Xīngqī yī" }
         },
         {
           "title": "Friday",
-          "fields": {
-            "Spanish": "Viernes",
-            "French": "Vendredi",
-            "German": "Freitag",
-            "Japanese (Romaji)": "Kinyōbi",
-            "Mandarin (Pinyin)": "Xīngqī wǔ"
-          }
+          "fields": { "Spanish": "Viernes", "French": "Vendredi", "German": "Freitag", "Japanese (Romaji)": "Kinyōbi", "Mandarin (Pinyin)": "Xīngqī wǔ" }
         },
         {
           "title": "Sunday",
-          "fields": {
-            "Spanish": "Domingo",
-            "French": "Dimanche",
-            "German": "Sonntag",
-            "Japanese (Romaji)": "Nichiyōbi",
-            "Mandarin (Pinyin)": "Xīngqī rì"
-          }
+          "fields": { "Spanish": "Domingo", "French": "Dimanche", "German": "Sonntag", "Japanese (Romaji)": "Nichiyōbi", "Mandarin (Pinyin)": "Xīngqī rì" }
         }
       ]
     },
@@ -626,45 +394,21 @@
       "category": "mathematics",
       "card_count": 10,
       "author": "MindDeck Team",
-      "tags": [
-        "measurement",
-        "length",
-        "units",
-        "conversion",
-        "science"
-      ],
+      "tags": ["measurement", "length", "units", "conversion", "science"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/length-units.json",
       "format": "json",
       "preview": [
         {
           "title": "Foot",
-          "fields": {
-            "Symbol": "ft",
-            "Millimeter": "304.8",
-            "Centimeter": "30.48",
-            "Inch": "12",
-            "Meter": "0.3048",
-            "Mile": "0.00018939"
-          }
+          "fields": { "Symbol": "ft", "Millimeter": "304.8", "Centimeter": "30.48", "Inch": "12", "Meter": "0.3048", "Mile": "0.00018939" }
         },
         {
           "title": "Kilometer",
-          "fields": {
-            "Symbol": "km",
-            "Millimeter": "1000000",
-            "Meter": "1000",
-            "Mile": "0.62137"
-          }
+          "fields": { "Symbol": "km", "Millimeter": "1000000", "Meter": "1000", "Mile": "0.62137" }
         },
         {
           "title": "Meter",
-          "fields": {
-            "Symbol": "m",
-            "Millimeter": "1000",
-            "Foot": "3.2808",
-            "Inch": "39.37",
-            "Kilometer": "0.001"
-          }
+          "fields": { "Symbol": "m", "Millimeter": "1000", "Foot": "3.2808", "Inch": "39.37", "Kilometer": "0.001" }
         }
       ]
     },
@@ -675,46 +419,21 @@
       "category": "mathematics",
       "card_count": 9,
       "author": "MindDeck Team",
-      "tags": [
-        "measurement",
-        "mass",
-        "weight",
-        "units",
-        "conversion",
-        "science"
-      ],
+      "tags": ["measurement", "mass", "weight", "units", "conversion", "science"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mass-units.json",
       "format": "json",
       "preview": [
         {
           "title": "Gram",
-          "fields": {
-            "Symbol": "g",
-            "Milligram": "1000",
-            "Ounce": "0.035274",
-            "Pound": "0.0022046",
-            "Kilogram": "0.001"
-          }
+          "fields": { "Symbol": "g", "Milligram": "1000", "Ounce": "0.035274", "Pound": "0.0022046", "Kilogram": "0.001" }
         },
         {
           "title": "Pound",
-          "fields": {
-            "Symbol": "lb",
-            "Gram": "453.59",
-            "Ounce": "16",
-            "Kilogram": "0.45359",
-            "Stone": "0.071429"
-          }
+          "fields": { "Symbol": "lb", "Gram": "453.59", "Ounce": "16", "Kilogram": "0.45359", "Stone": "0.071429" }
         },
         {
           "title": "Kilogram",
-          "fields": {
-            "Symbol": "kg",
-            "Gram": "1000",
-            "Pound": "2.2046",
-            "Ounce": "35.274",
-            "Metric Ton": "0.001"
-          }
+          "fields": { "Symbol": "kg", "Gram": "1000", "Pound": "2.2046", "Ounce": "35.274", "Metric Ton": "0.001" }
         }
       ]
     },
@@ -725,51 +444,23 @@
       "category": "music",
       "card_count": 88,
       "author": "MindDeck Team",
-      "tags": [
-        "music",
-        "notes",
-        "frequencies",
-        "piano",
-        "MIDI",
-        "solfège"
-      ],
+      "tags": ["music", "notes", "frequencies", "piano", "MIDI", "solfège"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/musical-notes.json",
       "format": "json",
       "preview": [
         {
           "title": "A4",
           "notes": "Concert A — international tuning standard (440 Hz)",
-          "fields": {
-            "Octave": "4",
-            "Frequency (Hz)": "440.0000",
-            "MIDI Number": "69",
-            "Piano Key (1=A0)": "49",
-            "Solfège": "La",
-            "Key Color": "White"
-          }
+          "fields": { "Octave": "4", "Frequency (Hz)": "440.0000", "MIDI Number": "69", "Piano Key (1=A0)": "49", "Solfège": "La", "Key Color": "White" }
         },
         {
           "title": "C4",
           "notes": "Middle C",
-          "fields": {
-            "Octave": "4",
-            "Frequency (Hz)": "261.6256",
-            "MIDI Number": "60",
-            "Piano Key (1=A0)": "40",
-            "Solfège": "Do",
-            "Key Color": "White"
-          }
+          "fields": { "Octave": "4", "Frequency (Hz)": "261.6256", "MIDI Number": "60", "Piano Key (1=A0)": "40", "Solfège": "Do", "Key Color": "White" }
         },
         {
           "title": "C#/Db4",
-          "fields": {
-            "Octave": "4",
-            "Frequency (Hz)": "277.1826",
-            "MIDI Number": "61",
-            "Piano Key (1=A0)": "41",
-            "Solfège": "Di/Ra",
-            "Key Color": "Black"
-          }
+          "fields": { "Octave": "4", "Frequency (Hz)": "277.1826", "MIDI Number": "61", "Piano Key (1=A0)": "41", "Solfège": "Di/Ra", "Key Color": "Black" }
         }
       ]
     },
@@ -780,46 +471,21 @@
       "category": "mathematics",
       "card_count": 21,
       "author": "MindDeck Team",
-      "tags": [
-        "powers",
-        "binary",
-        "computing",
-        "mathematics",
-        "bits",
-        "bytes"
-      ],
+      "tags": ["powers", "binary", "computing", "mathematics", "bits", "bytes"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/powers-of-2.json",
       "format": "json",
       "preview": [
         {
           "title": "2^8",
-          "fields": {
-            "Exponent": "8",
-            "Value": "256",
-            "Hexadecimal": "0x100",
-            "Is Power of 16": "Yes",
-            "Common Use": "256 values; 1 byte; uint8 range 0-255; 8-bit color channel"
-          }
+          "fields": { "Exponent": "8", "Value": "256", "Hexadecimal": "0x100", "Is Power of 16": "Yes", "Common Use": "256 values; 1 byte; uint8 range 0-255; 8-bit color channel" }
         },
         {
           "title": "2^10",
-          "fields": {
-            "Exponent": "10",
-            "Value": "1024",
-            "Hexadecimal": "0x400",
-            "Is Power of 16": "No",
-            "Common Use": "1,024 approx 1 thousand; 1 Kibibyte (KiB)"
-          }
+          "fields": { "Exponent": "10", "Value": "1024", "Hexadecimal": "0x400", "Is Power of 16": "No", "Common Use": "1,024 approx 1 thousand; 1 Kibibyte (KiB)" }
         },
         {
           "title": "2^16",
-          "fields": {
-            "Exponent": "16",
-            "Value": "65536",
-            "Hexadecimal": "0x10000",
-            "Is Power of 16": "Yes",
-            "Common Use": "65,536; uint16 max + 1; total IPv4 port range (0-65535)"
-          }
+          "fields": { "Exponent": "16", "Value": "65536", "Hexadecimal": "0x10000", "Is Power of 16": "Yes", "Common Use": "65,536; uint16 max + 1; total IPv4 port range (0-65535)" }
         }
       ]
     },
@@ -830,36 +496,21 @@
       "category": "languages",
       "card_count": 1000,
       "author": "MindDeck Team",
-      "tags": [
-        "roman numerals",
-        "numbers",
-        "history",
-        "languages",
-        "latin"
-      ],
+      "tags": ["roman numerals", "numbers", "history", "languages", "latin"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/roman-numerals.json",
       "format": "json",
       "preview": [
         {
           "title": "4",
-          "fields": {
-            "Roman Numeral": "IV",
-            "Method": "Subtractive"
-          }
+          "fields": { "Roman Numeral": "IV", "Method": "Subtractive" }
         },
         {
           "title": "42",
-          "fields": {
-            "Roman Numeral": "XLII",
-            "Method": "Subtractive"
-          }
+          "fields": { "Roman Numeral": "XLII", "Method": "Subtractive" }
         },
         {
           "title": "1000",
-          "fields": {
-            "Roman Numeral": "M",
-            "Method": "Additive"
-          }
+          "fields": { "Roman Numeral": "M", "Method": "Additive" }
         }
       ]
     },
@@ -870,44 +521,21 @@
       "category": "languages",
       "card_count": 59,
       "author": "MindDeck Team",
-      "tags": [
-        "morse code",
-        "communication",
-        "signals",
-        "alphabet",
-        "coding"
-      ],
+      "tags": ["morse code", "communication", "signals", "alphabet", "coding"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/morse-code.json",
       "format": "json",
       "preview": [
         {
           "title": "S",
-          "fields": {
-            "Morse Code": "...",
-            "Category": "Letter",
-            "Dit Count": "3",
-            "Dah Count": "0",
-            "Symbol Count": "3",
-            "Total Transmission Units": "5"
-          }
+          "fields": { "Morse Code": "...", "Category": "Letter", "Dit Count": "3", "Dah Count": "0", "Symbol Count": "3", "Total Transmission Units": "5" }
         },
         {
           "title": "O",
-          "fields": {
-            "Morse Code": "---",
-            "Category": "Letter",
-            "Dit Count": "0",
-            "Dah Count": "3",
-            "Symbol Count": "3",
-            "Total Transmission Units": "11"
-          }
+          "fields": { "Morse Code": "---", "Category": "Letter", "Dit Count": "0", "Dah Count": "3", "Symbol Count": "3", "Total Transmission Units": "11" }
         },
         {
           "title": "Word Space",
-          "fields": {
-            "Category": "Timing Reference",
-            "Total Transmission Units": "7 units — silence between words"
-          }
+          "fields": { "Category": "Timing Reference", "Total Transmission Units": "7 units — silence between words" }
         }
       ]
     },
@@ -918,55 +546,24 @@
       "category": "sports",
       "card_count": 58,
       "author": "MindDeck Team",
-      "tags": [
-        "super bowl",
-        "NFL",
-        "football",
-        "champions",
-        "sports",
-        "history"
-      ],
+      "tags": ["super bowl", "NFL", "football", "champions", "sports", "history"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_super_bowl_champions.json",
       "format": "json",
       "preview": [
         {
           "title": "Super Bowl I",
           "notes": "Green Bay Packers def. Kansas City Chiefs, 35-10",
-          "fields": {
-            "Game Number": "1",
-            "Year": "1967",
-            "Winner": "Green Bay Packers",
-            "Loser": "Kansas City Chiefs",
-            "Score": "35-10",
-            "MVP": "Bart Starr",
-            "Location": "Los Angeles Memorial Coliseum"
-          }
+          "fields": { "Game Number": "1", "Year": "1967", "Winner": "Green Bay Packers", "Loser": "Kansas City Chiefs", "Score": "35-10", "MVP": "Bart Starr", "Location": "Los Angeles Memorial Coliseum" }
         },
         {
           "title": "Super Bowl XLIX",
           "notes": "New England Patriots def. Seattle Seahawks, 28-24",
-          "fields": {
-            "Game Number": "49",
-            "Year": "2015",
-            "Winner": "New England Patriots",
-            "Loser": "Seattle Seahawks",
-            "Score": "28-24",
-            "MVP": "Tom Brady",
-            "Location": "University of Phoenix Stadium, Glendale AZ"
-          }
+          "fields": { "Game Number": "49", "Year": "2015", "Winner": "New England Patriots", "Loser": "Seattle Seahawks", "Score": "28-24", "MVP": "Tom Brady", "Location": "University of Phoenix Stadium, Glendale AZ" }
         },
         {
           "title": "Super Bowl LVIII",
           "notes": "Kansas City Chiefs def. San Francisco 49ers, 25-22 OT",
-          "fields": {
-            "Game Number": "58",
-            "Year": "2024",
-            "Winner": "Kansas City Chiefs",
-            "Loser": "San Francisco 49ers",
-            "Score": "25-22 OT",
-            "MVP": "Patrick Mahomes",
-            "Location": "Allegiant Stadium, Las Vegas"
-          }
+          "fields": { "Game Number": "58", "Year": "2024", "Winner": "Kansas City Chiefs", "Loser": "San Francisco 49ers", "Score": "25-22 OT", "MVP": "Patrick Mahomes", "Location": "Allegiant Stadium, Las Vegas" }
         }
       ]
     },
@@ -977,49 +574,24 @@
       "category": "sports",
       "card_count": 78,
       "author": "MindDeck Team",
-      "tags": [
-        "NBA",
-        "basketball",
-        "champions",
-        "Finals MVP",
-        "sports",
-        "history"
-      ],
+      "tags": ["NBA", "basketball", "champions", "Finals MVP", "sports", "history"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_nba_champions.json",
       "format": "json",
       "preview": [
         {
           "title": "1991 NBA Champions",
           "notes": "Chicago Bulls",
-          "fields": {
-            "Year": "1991",
-            "Champion": "Chicago Bulls",
-            "Runner-Up": "Los Angeles Lakers",
-            "Series": "4-1",
-            "Finals MVP": "Michael Jordan"
-          }
+          "fields": { "Year": "1991", "Champion": "Chicago Bulls", "Runner-Up": "Los Angeles Lakers", "Series": "4-1", "Finals MVP": "Michael Jordan" }
         },
         {
           "title": "2016 NBA Champions",
           "notes": "Cleveland Cavaliers",
-          "fields": {
-            "Year": "2016",
-            "Champion": "Cleveland Cavaliers",
-            "Runner-Up": "Golden State Warriors",
-            "Series": "4-3",
-            "Finals MVP": "LeBron James"
-          }
+          "fields": { "Year": "2016", "Champion": "Cleveland Cavaliers", "Runner-Up": "Golden State Warriors", "Series": "4-3", "Finals MVP": "LeBron James" }
         },
         {
           "title": "2024 NBA Champions",
           "notes": "Boston Celtics",
-          "fields": {
-            "Year": "2024",
-            "Champion": "Boston Celtics",
-            "Runner-Up": "Dallas Mavericks",
-            "Series": "4-1",
-            "Finals MVP": "Jaylen Brown"
-          }
+          "fields": { "Year": "2024", "Champion": "Boston Celtics", "Runner-Up": "Dallas Mavericks", "Series": "4-1", "Finals MVP": "Jaylen Brown" }
         }
       ]
     },
@@ -1030,46 +602,24 @@
       "category": "sports",
       "card_count": 120,
       "author": "MindDeck Team",
-      "tags": [
-        "World Series",
-        "MLB",
-        "baseball",
-        "champions",
-        "sports",
-        "history"
-      ],
+      "tags": ["World Series", "MLB", "baseball", "champions", "sports", "history"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_world_series_champions.json",
       "format": "json",
       "preview": [
         {
           "title": "2016 World Series",
           "notes": "Chicago Cubs defeat Cleveland Indians, 4-3",
-          "fields": {
-            "Year": "2016",
-            "Champion": "Chicago Cubs",
-            "Runner-Up": "Cleveland Indians",
-            "Series": "4-3"
-          }
+          "fields": { "Year": "2016", "Champion": "Chicago Cubs", "Runner-Up": "Cleveland Indians", "Series": "4-3" }
         },
         {
           "title": "2004 World Series",
           "notes": "Boston Red Sox defeat St. Louis Cardinals, 4-0",
-          "fields": {
-            "Year": "2004",
-            "Champion": "Boston Red Sox",
-            "Runner-Up": "St. Louis Cardinals",
-            "Series": "4-0"
-          }
+          "fields": { "Year": "2004", "Champion": "Boston Red Sox", "Runner-Up": "St. Louis Cardinals", "Series": "4-0" }
         },
         {
           "title": "2024 World Series",
           "notes": "Los Angeles Dodgers defeat New York Yankees, 4-1",
-          "fields": {
-            "Year": "2024",
-            "Champion": "Los Angeles Dodgers",
-            "Runner-Up": "New York Yankees",
-            "Series": "4-1"
-          }
+          "fields": { "Year": "2024", "Champion": "Los Angeles Dodgers", "Runner-Up": "New York Yankees", "Series": "4-1" }
         }
       ]
     },
@@ -1080,51 +630,24 @@
       "category": "history",
       "card_count": 47,
       "author": "MindDeck Team",
-      "tags": [
-        "presidents",
-        "United States",
-        "politics",
-        "history",
-        "government"
-      ],
+      "tags": ["presidents", "United States", "politics", "history", "government"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_us_presidents.json",
       "format": "json",
       "preview": [
         {
           "title": "George Washington",
           "notes": "The 1st President of the United States",
-          "fields": {
-            "Number": "1",
-            "Party": "No Party",
-            "Term Start": "1789",
-            "Term End": "1797",
-            "Vice President": "John Adams",
-            "Home State": "Virginia"
-          }
+          "fields": { "Number": "1", "Party": "No Party", "Term Start": "1789", "Term End": "1797", "Vice President": "John Adams", "Home State": "Virginia" }
         },
         {
           "title": "Abraham Lincoln",
           "notes": "The 16th President of the United States",
-          "fields": {
-            "Number": "16",
-            "Party": "Republican",
-            "Term Start": "1861",
-            "Term End": "1865",
-            "Vice President": "Hamlin / Andrew Johnson",
-            "Home State": "Illinois"
-          }
+          "fields": { "Number": "16", "Party": "Republican", "Term Start": "1861", "Term End": "1865", "Vice President": "Hamlin / Andrew Johnson", "Home State": "Illinois" }
         },
         {
           "title": "Donald Trump",
           "notes": "The 47th President of the United States",
-          "fields": {
-            "Number": "47",
-            "Party": "Republican",
-            "Term Start": "2025",
-            "Term End": "present",
-            "Vice President": "JD Vance",
-            "Home State": "New York"
-          }
+          "fields": { "Number": "47", "Party": "Republican", "Term Start": "2025", "Term End": "present", "Vice President": "JD Vance", "Home State": "New York" }
         }
       ]
     },
@@ -1135,46 +658,24 @@
       "category": "arts",
       "card_count": 96,
       "author": "MindDeck Team",
-      "tags": [
-        "Oscars",
-        "Academy Awards",
-        "film",
-        "movies",
-        "Best Picture",
-        "directors"
-      ],
+      "tags": ["Oscars", "Academy Awards", "film", "movies", "Best Picture", "directors"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_academy_award_best_picture.json",
       "format": "json",
       "preview": [
         {
           "title": "Casablanca",
           "notes": "Best Picture winner at the 16th Academy Awards",
-          "fields": {
-            "Film Year": "1943",
-            "Ceremony": "16th Academy Awards",
-            "Director": "Michael Curtiz",
-            "Genre": "Romance War Drama"
-          }
+          "fields": { "Film Year": "1943", "Ceremony": "16th Academy Awards", "Director": "Michael Curtiz", "Genre": "Romance War Drama" }
         },
         {
           "title": "The Godfather",
           "notes": "Best Picture winner at the 45th Academy Awards",
-          "fields": {
-            "Film Year": "1972",
-            "Ceremony": "45th Academy Awards",
-            "Director": "Francis Ford Coppola",
-            "Genre": "Crime Drama"
-          }
+          "fields": { "Film Year": "1972", "Ceremony": "45th Academy Awards", "Director": "Francis Ford Coppola", "Genre": "Crime Drama" }
         },
         {
           "title": "Parasite",
           "notes": "Best Picture winner at the 92nd Academy Awards",
-          "fields": {
-            "Film Year": "2019",
-            "Ceremony": "92nd Academy Awards",
-            "Director": "Bong Joon-ho",
-            "Genre": "Thriller Drama Comedy"
-          }
+          "fields": { "Film Year": "2019", "Ceremony": "92nd Academy Awards", "Director": "Bong Joon-ho", "Genre": "Thriller Drama Comedy" }
         }
       ]
     },
@@ -1185,48 +686,24 @@
       "category": "history",
       "card_count": 30,
       "author": "MindDeck Team",
-      "tags": [
-        "battles",
-        "warfare",
-        "military",
-        "history",
-        "world history"
-      ],
+      "tags": ["battles", "warfare", "military", "history", "world history"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_famous_battles.json",
       "format": "json",
       "preview": [
         {
           "title": "Battle of Marathon",
           "notes": "Changed course of Western civilization; origin of the marathon race",
-          "fields": {
-            "Year": "490 BC",
-            "Conflict": "Greco-Persian Wars",
-            "Belligerents": "Greeks (Athens) vs. Persians",
-            "Outcome": "Greek victory",
-            "Location": "Greece"
-          }
+          "fields": { "Year": "490 BC", "Conflict": "Greco-Persian Wars", "Belligerents": "Greeks (Athens) vs. Persians", "Outcome": "Greek victory", "Location": "Greece" }
         },
         {
           "title": "Battle of Stalingrad",
           "notes": "~2 million casualties; decisive turning point of WWII on the Eastern Front",
-          "fields": {
-            "Year": "1942 AD",
-            "Conflict": "World War II",
-            "Belligerents": "Soviet Union vs. Nazi Germany",
-            "Outcome": "Soviet victory",
-            "Location": "Russia"
-          }
+          "fields": { "Year": "1942 AD", "Conflict": "World War II", "Belligerents": "Soviet Union vs. Nazi Germany", "Outcome": "Soviet victory", "Location": "Russia" }
         },
         {
           "title": "D-Day (Normandy Landings)",
           "notes": "Largest seaborne invasion in history; opened Western Front in Europe",
-          "fields": {
-            "Year": "1944 AD",
-            "Conflict": "World War II",
-            "Belligerents": "Allies vs. Nazi Germany",
-            "Outcome": "Allied success",
-            "Location": "France"
-          }
+          "fields": { "Year": "1944 AD", "Conflict": "World War II", "Belligerents": "Allies vs. Nazi Germany", "Outcome": "Allied success", "Location": "France" }
         }
       ]
     },
@@ -1237,48 +714,24 @@
       "category": "arts",
       "card_count": 29,
       "author": "MindDeck Team",
-      "tags": [
-        "paintings",
-        "art history",
-        "artists",
-        "museums",
-        "visual art"
-      ],
+      "tags": ["paintings", "art history", "artists", "museums", "visual art"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_famous_paintings.json",
       "format": "json",
       "preview": [
         {
           "title": "Mona Lisa",
           "notes": "By Leonardo da Vinci, c. 1503-1519",
-          "fields": {
-            "Artist": "Leonardo da Vinci",
-            "Year": "c. 1503-1519",
-            "Movement": "Renaissance",
-            "Medium": "Oil on poplar panel",
-            "Current Location": "Louvre Museum, Paris"
-          }
+          "fields": { "Artist": "Leonardo da Vinci", "Year": "c. 1503-1519", "Movement": "Renaissance", "Medium": "Oil on poplar panel", "Current Location": "Louvre Museum, Paris" }
         },
         {
           "title": "The Starry Night",
           "notes": "By Vincent van Gogh, 1889",
-          "fields": {
-            "Artist": "Vincent van Gogh",
-            "Year": "1889",
-            "Movement": "Post-Impressionism",
-            "Medium": "Oil on canvas",
-            "Current Location": "MoMA, New York"
-          }
+          "fields": { "Artist": "Vincent van Gogh", "Year": "1889", "Movement": "Post-Impressionism", "Medium": "Oil on canvas", "Current Location": "MoMA, New York" }
         },
         {
           "title": "Guernica",
           "notes": "By Pablo Picasso, 1937",
-          "fields": {
-            "Artist": "Pablo Picasso",
-            "Year": "1937",
-            "Movement": "Cubism / Expressionism",
-            "Medium": "Oil on canvas",
-            "Current Location": "Museo Reina Sofia, Madrid"
-          }
+          "fields": { "Artist": "Pablo Picasso", "Year": "1937", "Movement": "Cubism / Expressionism", "Medium": "Oil on canvas", "Current Location": "Museo Reina Sofia, Madrid" }
         }
       ]
     },
@@ -1289,49 +742,24 @@
       "category": "history",
       "card_count": 25,
       "author": "MindDeck Team",
-      "tags": [
-        "mythology",
-        "Greek",
-        "Roman",
-        "gods",
-        "ancient history",
-        "religion"
-      ],
+      "tags": ["mythology", "Greek", "Roman", "gods", "ancient history", "religion"],
       "url": "https://raw.githubusercontent.com/GitwithitDan/minddeck-library/main/decks/mindeck_greek_roman_gods.json",
       "format": "json",
       "preview": [
         {
           "title": "Zeus",
           "notes": "King of the gods, sky & thunder",
-          "fields": {
-            "Roman Name": "Jupiter",
-            "Domain": "King of the gods, sky & thunder",
-            "Symbols": "Eagle, thunderbolt, oak tree",
-            "Consort/Spouse": "Hera",
-            "Olympian": "Yes"
-          }
+          "fields": { "Roman Name": "Jupiter", "Domain": "King of the gods, sky & thunder", "Symbols": "Eagle, thunderbolt, oak tree", "Consort/Spouse": "Hera", "Olympian": "Yes" }
         },
         {
           "title": "Athena",
           "notes": "Wisdom, warfare strategy, crafts",
-          "fields": {
-            "Roman Name": "Minerva",
-            "Domain": "Wisdom, warfare strategy, crafts",
-            "Symbols": "Owl, olive tree, aegis, spear",
-            "Consort/Spouse": "—",
-            "Olympian": "Yes"
-          }
+          "fields": { "Roman Name": "Minerva", "Domain": "Wisdom, warfare strategy, crafts", "Symbols": "Owl, olive tree, aegis, spear", "Consort/Spouse": "—", "Olympian": "Yes" }
         },
         {
           "title": "Hades",
           "notes": "Underworld, dead, wealth",
-          "fields": {
-            "Roman Name": "Pluto",
-            "Domain": "Underworld, dead, wealth",
-            "Symbols": "Cerberus, helm of darkness, bident",
-            "Consort/Spouse": "Persephone",
-            "Olympian": "No"
-          }
+          "fields": { "Roman Name": "Pluto", "Domain": "Underworld, dead, wealth", "Symbols": "Cerberus, helm of darkness, bident", "Consort/Spouse": "Persephone", "Olympian": "No" }
         }
       ]
     }
