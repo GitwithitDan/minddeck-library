@@ -1,114 +1,877 @@
 {
   "deck_name": "World Currencies",
   "cards": [
-    { "title": "US Dollar", "fields": { "Code": "Currency Code USD", "Symbol": "Currency Symbol $", "Issuing Country": "United States" } },
-    { "title": "Euro", "fields": { "Code": "Currency Code EUR", "Symbol": "Currency Symbol €", "Issuing Country": "Eurozone – 20 EU member states" } },
-    { "title": "British Pound Sterling", "fields": { "Code": "Currency Code GBP", "Symbol": "Currency Symbol £", "Issuing Country": "United Kingdom" } },
-    { "title": "Japanese Yen", "fields": { "Code": "Currency Code JPY", "Symbol": "Currency Symbol ¥", "Issuing Country": "Japan" } },
-    { "title": "Chinese Yuan Renminbi", "fields": { "Code": "Currency Code CNY", "Symbol": "Currency Symbol ¥", "Issuing Country": "China" } },
-    { "title": "Australian Dollar", "fields": { "Code": "Currency Code AUD", "Symbol": "Currency Symbol A$", "Issuing Country": "Australia" } },
-    { "title": "Canadian Dollar", "fields": { "Code": "Currency Code CAD", "Symbol": "Currency Symbol C$", "Issuing Country": "Canada" } },
-    { "title": "Swiss Franc", "fields": { "Code": "Currency Code CHF", "Symbol": "Currency Symbol Fr", "Issuing Country": "Switzerland, Liechtenstein" } },
-    { "title": "Hong Kong Dollar", "fields": { "Code": "Currency Code HKD", "Symbol": "Currency Symbol HK$", "Issuing Country": "Hong Kong" } },
-    { "title": "Singapore Dollar", "fields": { "Code": "Currency Code SGD", "Symbol": "Currency Symbol S$", "Issuing Country": "Singapore" } },
-    { "title": "Swedish Krona", "fields": { "Code": "Currency Code SEK", "Symbol": "Currency Symbol kr", "Issuing Country": "Sweden" } },
-    { "title": "Norwegian Krone", "fields": { "Code": "Currency Code NOK", "Symbol": "Currency Symbol kr", "Issuing Country": "Norway" } },
-    { "title": "Danish Krone", "fields": { "Code": "Currency Code DKK", "Symbol": "Currency Symbol kr", "Issuing Country": "Denmark" } },
-    { "title": "New Zealand Dollar", "fields": { "Code": "Currency Code NZD", "Symbol": "Currency Symbol NZ$", "Issuing Country": "New Zealand" } },
-    { "title": "Mexican Peso", "fields": { "Code": "Currency Code MXN", "Symbol": "Currency Symbol $", "Issuing Country": "Mexico" } },
-    { "title": "Brazilian Real", "fields": { "Code": "Currency Code BRL", "Symbol": "Currency Symbol R$", "Issuing Country": "Brazil" } },
-    { "title": "Indian Rupee", "fields": { "Code": "Currency Code INR", "Symbol": "Currency Symbol ₹", "Issuing Country": "India" } },
-    { "title": "South African Rand", "fields": { "Code": "Currency Code ZAR", "Symbol": "Currency Symbol R", "Issuing Country": "South Africa" } },
-    { "title": "Russian Ruble", "fields": { "Code": "Currency Code RUB", "Symbol": "Currency Symbol ₽", "Issuing Country": "Russia" } },
-    { "title": "South Korean Won", "fields": { "Code": "Currency Code KRW", "Symbol": "Currency Symbol ₩", "Issuing Country": "South Korea" } },
-    { "title": "Turkish Lira", "fields": { "Code": "Currency Code TRY", "Symbol": "Currency Symbol ₺", "Issuing Country": "Turkey" } },
-    { "title": "Saudi Riyal", "fields": { "Code": "Currency Code SAR", "Symbol": "Currency Symbol ﷼", "Issuing Country": "Saudi Arabia" } },
-    { "title": "UAE Dirham", "fields": { "Code": "Currency Code AED", "Symbol": "Currency Symbol د.إ", "Issuing Country": "United Arab Emirates" } },
-    { "title": "Thai Baht", "fields": { "Code": "Currency Code THB", "Symbol": "Currency Symbol ฿", "Issuing Country": "Thailand" } },
-    { "title": "Indonesian Rupiah", "fields": { "Code": "Currency Code IDR", "Symbol": "Currency Symbol Rp", "Issuing Country": "Indonesia" } },
-    { "title": "Malaysian Ringgit", "fields": { "Code": "Currency Code MYR", "Symbol": "Currency Symbol RM", "Issuing Country": "Malaysia" } },
-    { "title": "Philippine Peso", "fields": { "Code": "Currency Code PHP", "Symbol": "Currency Symbol ₱", "Issuing Country": "Philippines" } },
-    { "title": "Pakistani Rupee", "fields": { "Code": "Currency Code PKR", "Symbol": "Currency Symbol ₨", "Issuing Country": "Pakistan" } },
-    { "title": "Egyptian Pound", "fields": { "Code": "Currency Code EGP", "Symbol": "Currency Symbol E£", "Issuing Country": "Egypt" } },
-    { "title": "Nigerian Naira", "fields": { "Code": "Currency Code NGN", "Symbol": "Currency Symbol ₦", "Issuing Country": "Nigeria" } },
-    { "title": "Kenyan Shilling", "fields": { "Code": "Currency Code KES", "Symbol": "Currency Symbol KSh", "Issuing Country": "Kenya" } },
-    { "title": "Ukrainian Hryvnia", "fields": { "Code": "Currency Code UAH", "Symbol": "Currency Symbol ₴", "Issuing Country": "Ukraine" } },
-    { "title": "Polish Zloty", "fields": { "Code": "Currency Code PLN", "Symbol": "Currency Symbol zł", "Issuing Country": "Poland" } },
-    { "title": "Czech Koruna", "fields": { "Code": "Currency Code CZK", "Symbol": "Currency Symbol Kč", "Issuing Country": "Czechia" } },
-    { "title": "Hungarian Forint", "fields": { "Code": "Currency Code HUF", "Symbol": "Currency Symbol Ft", "Issuing Country": "Hungary" } },
-    { "title": "Romanian Leu", "fields": { "Code": "Currency Code RON", "Symbol": "Currency Symbol lei", "Issuing Country": "Romania" } },
-    { "title": "Bulgarian Lev", "fields": { "Code": "Currency Code BGN", "Symbol": "Currency Symbol лв", "Issuing Country": "Bulgaria" } },
-    { "title": "Argentine Peso", "fields": { "Code": "Currency Code ARS", "Symbol": "Currency Symbol $", "Issuing Country": "Argentina" } },
-    { "title": "Chilean Peso", "fields": { "Code": "Currency Code CLP", "Symbol": "Currency Symbol $", "Issuing Country": "Chile" } },
-    { "title": "Colombian Peso", "fields": { "Code": "Currency Code COP", "Symbol": "Currency Symbol $", "Issuing Country": "Colombia" } },
-    { "title": "Peruvian Sol", "fields": { "Code": "Currency Code PEN", "Symbol": "Currency Symbol S/", "Issuing Country": "Peru" } },
-    { "title": "Bangladeshi Taka", "fields": { "Code": "Currency Code BDT", "Symbol": "Currency Symbol ৳", "Issuing Country": "Bangladesh" } },
-    { "title": "Sri Lankan Rupee", "fields": { "Code": "Currency Code LKR", "Symbol": "Currency Symbol Rs", "Issuing Country": "Sri Lanka" } },
-    { "title": "Nepalese Rupee", "fields": { "Code": "Currency Code NPR", "Symbol": "Currency Symbol ₨", "Issuing Country": "Nepal" } },
-    { "title": "Vietnamese Dong", "fields": { "Code": "Currency Code VND", "Symbol": "Currency Symbol ₫", "Issuing Country": "Vietnam" } },
-    { "title": "Israeli New Shekel", "fields": { "Code": "Currency Code ILS", "Symbol": "Currency Symbol ₪", "Issuing Country": "Israel" } },
-    { "title": "Qatari Riyal", "fields": { "Code": "Currency Code QAR", "Symbol": "Currency Symbol ر.ق", "Issuing Country": "Qatar" } },
-    { "title": "Kuwaiti Dinar", "fields": { "Code": "Currency Code KWD", "Symbol": "Currency Symbol د.ك", "Issuing Country": "Kuwait" } },
-    { "title": "Bahraini Dinar", "fields": { "Code": "Currency Code BHD", "Symbol": "Currency Symbol BD", "Issuing Country": "Bahrain" } },
-    { "title": "Omani Rial", "fields": { "Code": "Currency Code OMR", "Symbol": "Currency Symbol ر.ع.", "Issuing Country": "Oman" } },
-    { "title": "Jordanian Dinar", "fields": { "Code": "Currency Code JOD", "Symbol": "Currency Symbol JD", "Issuing Country": "Jordan" } },
-    { "title": "Iranian Rial", "fields": { "Code": "Currency Code IRR", "Symbol": "Currency Symbol ﷼", "Issuing Country": "Iran" } },
-    { "title": "Iraqi Dinar", "fields": { "Code": "Currency Code IQD", "Symbol": "Currency Symbol ع.د", "Issuing Country": "Iraq" } },
-    { "title": "Moroccan Dirham", "fields": { "Code": "Currency Code MAD", "Symbol": "Currency Symbol د.م.", "Issuing Country": "Morocco" } },
-    { "title": "Algerian Dinar", "fields": { "Code": "Currency Code DZD", "Symbol": "Currency Symbol دج", "Issuing Country": "Algeria" } },
-    { "title": "Tunisian Dinar", "fields": { "Code": "Currency Code TND", "Symbol": "Currency Symbol د.ت", "Issuing Country": "Tunisia" } },
-    { "title": "Ethiopian Birr", "fields": { "Code": "Currency Code ETB", "Symbol": "Currency Symbol Br", "Issuing Country": "Ethiopia" } },
-    { "title": "Tanzanian Shilling", "fields": { "Code": "Currency Code TZS", "Symbol": "Currency Symbol TSh", "Issuing Country": "Tanzania" } },
-    { "title": "Ugandan Shilling", "fields": { "Code": "Currency Code UGX", "Symbol": "Currency Symbol USh", "Issuing Country": "Uganda" } },
-    { "title": "Ghanaian Cedi", "fields": { "Code": "Currency Code GHS", "Symbol": "Currency Symbol ₵", "Issuing Country": "Ghana" } },
-    { "title": "West African CFA Franc", "fields": { "Code": "Currency Code XOF", "Symbol": "Currency Symbol CFA", "Issuing Country": "Benin, Burkina Faso, Guinea-Bissau, Ivory Coast, Mali, Niger, Senegal, Togo" } },
-    { "title": "Central African CFA Franc", "fields": { "Code": "Currency Code XAF", "Symbol": "Currency Symbol FCFA", "Issuing Country": "Cameroon, Central African Republic, Chad, Republic of the Congo, Equatorial Guinea, Gabon" } },
-    { "title": "Kazakhstani Tenge", "fields": { "Code": "Currency Code KZT", "Symbol": "Currency Symbol ₸", "Issuing Country": "Kazakhstan" } },
-    { "title": "Georgian Lari", "fields": { "Code": "Currency Code GEL", "Symbol": "Currency Symbol ₾", "Issuing Country": "Georgia" } },
-    { "title": "Armenian Dram", "fields": { "Code": "Currency Code AMD", "Symbol": "Currency Symbol ֏", "Issuing Country": "Armenia" } },
-    { "title": "Azerbaijani Manat", "fields": { "Code": "Currency Code AZN", "Symbol": "Currency Symbol ₼", "Issuing Country": "Azerbaijan" } },
-    { "title": "Mongolian Tögrög", "fields": { "Code": "Currency Code MNT", "Symbol": "Currency Symbol ₮", "Issuing Country": "Mongolia" } },
-    { "title": "Icelandic Króna", "fields": { "Code": "Currency Code ISK", "Symbol": "Currency Symbol kr", "Issuing Country": "Iceland" } },
-    { "title": "Serbian Dinar", "fields": { "Code": "Currency Code RSD", "Symbol": "Currency Symbol din", "Issuing Country": "Serbia" } },
-    { "title": "Bosnian Convertible Mark", "fields": { "Code": "Currency Code BAM", "Symbol": "Currency Symbol KM", "Issuing Country": "Bosnia and Herzegovina" } },
-    { "title": "Albanian Lek", "fields": { "Code": "Currency Code ALL", "Symbol": "Currency Symbol L", "Issuing Country": "Albania" } },
-    { "title": "North Macedonian Denar", "fields": { "Code": "Currency Code MKD", "Symbol": "Currency Symbol ден", "Issuing Country": "North Macedonia" } },
-    { "title": "Moldovan Leu", "fields": { "Code": "Currency Code MDL", "Symbol": "Currency Symbol L", "Issuing Country": "Moldova" } },
-    { "title": "Belarusian Ruble", "fields": { "Code": "Currency Code BYN", "Symbol": "Currency Symbol Br", "Issuing Country": "Belarus" } },
-    { "title": "Cambodian Riel", "fields": { "Code": "Currency Code KHR", "Symbol": "Currency Symbol ៛", "Issuing Country": "Cambodia" } },
-    { "title": "Laotian Kip", "fields": { "Code": "Currency Code LAK", "Symbol": "Currency Symbol ₭", "Issuing Country": "Laos" } },
-    { "title": "Myanmar Kyat", "fields": { "Code": "Currency Code MMK", "Symbol": "Currency Symbol K", "Issuing Country": "Myanmar" } },
-    { "title": "Tajikistani Somoni", "fields": { "Code": "Currency Code TJS", "Symbol": "Currency Symbol SM", "Issuing Country": "Tajikistan" } },
-    { "title": "Kyrgyzstani Som", "fields": { "Code": "Currency Code KGS", "Symbol": "Currency Symbol с", "Issuing Country": "Kyrgyzstan" } },
-    { "title": "Uzbekistani Som", "fields": { "Code": "Currency Code UZS", "Symbol": "Currency Symbol сўм", "Issuing Country": "Uzbekistan" } },
-    { "title": "Turkmenistani Manat", "fields": { "Code": "Currency Code TMT", "Symbol": "Currency Symbol T", "Issuing Country": "Turkmenistan" } },
-    { "title": "Afghan Afghani", "fields": { "Code": "Currency Code AFN", "Symbol": "Currency Symbol ؋", "Issuing Country": "Afghanistan" } },
-    { "title": "Maldivian Rufiyaa", "fields": { "Code": "Currency Code MVR", "Symbol": "Currency Symbol Rf", "Issuing Country": "Maldives" } },
-    { "title": "Papua New Guinean Kina", "fields": { "Code": "Currency Code PGK", "Symbol": "Currency Symbol K", "Issuing Country": "Papua New Guinea" } },
-    { "title": "Fiji Dollar", "fields": { "Code": "Currency Code FJD", "Symbol": "Currency Symbol FJ$", "Issuing Country": "Fiji" } },
-    { "title": "East Caribbean Dollar", "fields": { "Code": "Currency Code XCD", "Symbol": "Currency Symbol EC$", "Issuing Country": "Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines" } },
-    { "title": "Jamaican Dollar", "fields": { "Code": "Currency Code JMD", "Symbol": "Currency Symbol J$", "Issuing Country": "Jamaica" } },
-    { "title": "Trinidad and Tobago Dollar", "fields": { "Code": "Currency Code TTD", "Symbol": "Currency Symbol TT$", "Issuing Country": "Trinidad and Tobago" } },
-    { "title": "Guatemalan Quetzal", "fields": { "Code": "Currency Code GTQ", "Symbol": "Currency Symbol Q", "Issuing Country": "Guatemala" } },
-    { "title": "Honduran Lempira", "fields": { "Code": "Currency Code HNL", "Symbol": "Currency Symbol L", "Issuing Country": "Honduras" } },
-    { "title": "Nicaraguan Córdoba", "fields": { "Code": "Currency Code NIO", "Symbol": "Currency Symbol C$", "Issuing Country": "Nicaragua" } },
-    { "title": "Costa Rican Colón", "fields": { "Code": "Currency Code CRC", "Symbol": "Currency Symbol ₡", "Issuing Country": "Costa Rica" } },
-    { "title": "Paraguayan Guaraní", "fields": { "Code": "Currency Code PYG", "Symbol": "Currency Symbol ₲", "Issuing Country": "Paraguay" } },
-    { "title": "Bolivian Boliviano", "fields": { "Code": "Currency Code BOB", "Symbol": "Currency Symbol Bs.", "Issuing Country": "Bolivia" } },
-    { "title": "Venezuelan Bolívar", "fields": { "Code": "Currency Code VES", "Symbol": "Currency Symbol Bs.S", "Issuing Country": "Venezuela" } },
-    { "title": "Cuban Peso", "fields": { "Code": "Currency Code CUP", "Symbol": "Currency Symbol ₱", "Issuing Country": "Cuba" } },
-    { "title": "Haitian Gourde", "fields": { "Code": "Currency Code HTG", "Symbol": "Currency Symbol G", "Issuing Country": "Haiti" } },
-    { "title": "Dominican Peso", "fields": { "Code": "Currency Code DOP", "Symbol": "Currency Symbol RD$", "Issuing Country": "Dominican Republic" } },
-    { "title": "Namibian Dollar", "fields": { "Code": "Currency Code NAD", "Symbol": "Currency Symbol N$", "Issuing Country": "Namibia" } },
-    { "title": "Botswana Pula", "fields": { "Code": "Currency Code BWP", "Symbol": "Currency Symbol P", "Issuing Country": "Botswana" } },
-    { "title": "Zambian Kwacha", "fields": { "Code": "Currency Code ZMW", "Symbol": "Currency Symbol ZK", "Issuing Country": "Zambia" } },
-    { "title": "Rwandan Franc", "fields": { "Code": "Currency Code RWF", "Symbol": "Currency Symbol RF", "Issuing Country": "Rwanda" } },
-    { "title": "Syrian Pound", "fields": { "Code": "Currency Code SYP", "Symbol": "Currency Symbol £S", "Issuing Country": "Syria" } },
-    { "title": "Lebanese Pound", "fields": { "Code": "Currency Code LBP", "Symbol": "Currency Symbol L£", "Issuing Country": "Lebanon" } },
-    { "title": "Yemeni Rial", "fields": { "Code": "Currency Code YER", "Symbol": "Currency Symbol ﷼", "Issuing Country": "Yemen" } },
-    { "title": "North Korean Won", "fields": { "Code": "Currency Code KPW", "Symbol": "Currency Symbol ₩", "Issuing Country": "North Korea" } },
-    { "title": "Libyan Dinar", "fields": { "Code": "Currency Code LYD", "Symbol": "Currency Symbol ل.د", "Issuing Country": "Libya" } },
-    { "title": "Sudanese Pound", "fields": { "Code": "Currency Code SDG", "Symbol": "Currency Symbol ج.س.", "Issuing Country": "Sudan" } },
-    { "title": "South Sudanese Pound", "fields": { "Code": "Currency Code SSP", "Symbol": "Currency Symbol SS£", "Issuing Country": "South Sudan" } }
+    {
+      "title": "US Dollar",
+      "fields": {
+        "Issuing Country": "United States",
+        "Currency Code": "USD",
+        "Currency Symbol": "$"
+      }
+    },
+    {
+      "title": "Euro",
+      "fields": {
+        "Issuing Country": "Eurozone – 20 EU member states",
+        "Currency Code": "EUR",
+        "Currency Symbol": "€"
+      }
+    },
+    {
+      "title": "British Pound Sterling",
+      "fields": {
+        "Issuing Country": "United Kingdom",
+        "Currency Code": "GBP",
+        "Currency Symbol": "£"
+      }
+    },
+    {
+      "title": "Japanese Yen",
+      "fields": {
+        "Issuing Country": "Japan",
+        "Currency Code": "JPY",
+        "Currency Symbol": "¥"
+      }
+    },
+    {
+      "title": "Chinese Yuan Renminbi",
+      "fields": {
+        "Issuing Country": "China",
+        "Currency Code": "CNY",
+        "Currency Symbol": "¥"
+      }
+    },
+    {
+      "title": "Australian Dollar",
+      "fields": {
+        "Issuing Country": "Australia",
+        "Currency Code": "AUD",
+        "Currency Symbol": "A$"
+      }
+    },
+    {
+      "title": "Canadian Dollar",
+      "fields": {
+        "Issuing Country": "Canada",
+        "Currency Code": "CAD",
+        "Currency Symbol": "C$"
+      }
+    },
+    {
+      "title": "Swiss Franc",
+      "fields": {
+        "Issuing Country": "Switzerland, Liechtenstein",
+        "Currency Code": "CHF",
+        "Currency Symbol": "Fr"
+      }
+    },
+    {
+      "title": "Hong Kong Dollar",
+      "fields": {
+        "Issuing Country": "Hong Kong",
+        "Currency Code": "HKD",
+        "Currency Symbol": "HK$"
+      }
+    },
+    {
+      "title": "Singapore Dollar",
+      "fields": {
+        "Issuing Country": "Singapore",
+        "Currency Code": "SGD",
+        "Currency Symbol": "S$"
+      }
+    },
+    {
+      "title": "Swedish Krona",
+      "fields": {
+        "Issuing Country": "Sweden",
+        "Currency Code": "SEK",
+        "Currency Symbol": "kr"
+      }
+    },
+    {
+      "title": "Norwegian Krone",
+      "fields": {
+        "Issuing Country": "Norway",
+        "Currency Code": "NOK",
+        "Currency Symbol": "kr"
+      }
+    },
+    {
+      "title": "Danish Krone",
+      "fields": {
+        "Issuing Country": "Denmark",
+        "Currency Code": "DKK",
+        "Currency Symbol": "kr"
+      }
+    },
+    {
+      "title": "New Zealand Dollar",
+      "fields": {
+        "Issuing Country": "New Zealand",
+        "Currency Code": "NZD",
+        "Currency Symbol": "NZ$"
+      }
+    },
+    {
+      "title": "Mexican Peso",
+      "fields": {
+        "Issuing Country": "Mexico",
+        "Currency Code": "MXN",
+        "Currency Symbol": "$"
+      }
+    },
+    {
+      "title": "Brazilian Real",
+      "fields": {
+        "Issuing Country": "Brazil",
+        "Currency Code": "BRL",
+        "Currency Symbol": "R$"
+      }
+    },
+    {
+      "title": "Indian Rupee",
+      "fields": {
+        "Issuing Country": "India",
+        "Currency Code": "INR",
+        "Currency Symbol": "₹"
+      }
+    },
+    {
+      "title": "South African Rand",
+      "fields": {
+        "Issuing Country": "South Africa",
+        "Currency Code": "ZAR",
+        "Currency Symbol": "R"
+      }
+    },
+    {
+      "title": "Russian Ruble",
+      "fields": {
+        "Issuing Country": "Russia",
+        "Currency Code": "RUB",
+        "Currency Symbol": "₽"
+      }
+    },
+    {
+      "title": "South Korean Won",
+      "fields": {
+        "Issuing Country": "South Korea",
+        "Currency Code": "KRW",
+        "Currency Symbol": "₩"
+      }
+    },
+    {
+      "title": "Turkish Lira",
+      "fields": {
+        "Issuing Country": "Turkey",
+        "Currency Code": "TRY",
+        "Currency Symbol": "₺"
+      }
+    },
+    {
+      "title": "Saudi Riyal",
+      "fields": {
+        "Issuing Country": "Saudi Arabia",
+        "Currency Code": "SAR",
+        "Currency Symbol": "﷼"
+      }
+    },
+    {
+      "title": "UAE Dirham",
+      "fields": {
+        "Issuing Country": "United Arab Emirates",
+        "Currency Code": "AED",
+        "Currency Symbol": "د.إ"
+      }
+    },
+    {
+      "title": "Thai Baht",
+      "fields": {
+        "Issuing Country": "Thailand",
+        "Currency Code": "THB",
+        "Currency Symbol": "฿"
+      }
+    },
+    {
+      "title": "Indonesian Rupiah",
+      "fields": {
+        "Issuing Country": "Indonesia",
+        "Currency Code": "IDR",
+        "Currency Symbol": "Rp"
+      }
+    },
+    {
+      "title": "Malaysian Ringgit",
+      "fields": {
+        "Issuing Country": "Malaysia",
+        "Currency Code": "MYR",
+        "Currency Symbol": "RM"
+      }
+    },
+    {
+      "title": "Philippine Peso",
+      "fields": {
+        "Issuing Country": "Philippines",
+        "Currency Code": "PHP",
+        "Currency Symbol": "₱"
+      }
+    },
+    {
+      "title": "Pakistani Rupee",
+      "fields": {
+        "Issuing Country": "Pakistan",
+        "Currency Code": "PKR",
+        "Currency Symbol": "₨"
+      }
+    },
+    {
+      "title": "Egyptian Pound",
+      "fields": {
+        "Issuing Country": "Egypt",
+        "Currency Code": "EGP",
+        "Currency Symbol": "E£"
+      }
+    },
+    {
+      "title": "Nigerian Naira",
+      "fields": {
+        "Issuing Country": "Nigeria",
+        "Currency Code": "NGN",
+        "Currency Symbol": "₦"
+      }
+    },
+    {
+      "title": "Kenyan Shilling",
+      "fields": {
+        "Issuing Country": "Kenya",
+        "Currency Code": "KES",
+        "Currency Symbol": "KSh"
+      }
+    },
+    {
+      "title": "Ukrainian Hryvnia",
+      "fields": {
+        "Issuing Country": "Ukraine",
+        "Currency Code": "UAH",
+        "Currency Symbol": "₴"
+      }
+    },
+    {
+      "title": "Polish Zloty",
+      "fields": {
+        "Issuing Country": "Poland",
+        "Currency Code": "PLN",
+        "Currency Symbol": "zł"
+      }
+    },
+    {
+      "title": "Czech Koruna",
+      "fields": {
+        "Issuing Country": "Czechia",
+        "Currency Code": "CZK",
+        "Currency Symbol": "Kč"
+      }
+    },
+    {
+      "title": "Hungarian Forint",
+      "fields": {
+        "Issuing Country": "Hungary",
+        "Currency Code": "HUF",
+        "Currency Symbol": "Ft"
+      }
+    },
+    {
+      "title": "Romanian Leu",
+      "fields": {
+        "Issuing Country": "Romania",
+        "Currency Code": "RON",
+        "Currency Symbol": "lei"
+      }
+    },
+    {
+      "title": "Bulgarian Lev",
+      "fields": {
+        "Issuing Country": "Bulgaria",
+        "Currency Code": "BGN",
+        "Currency Symbol": "лв"
+      }
+    },
+    {
+      "title": "Argentine Peso",
+      "fields": {
+        "Issuing Country": "Argentina",
+        "Currency Code": "ARS",
+        "Currency Symbol": "$"
+      }
+    },
+    {
+      "title": "Chilean Peso",
+      "fields": {
+        "Issuing Country": "Chile",
+        "Currency Code": "CLP",
+        "Currency Symbol": "$"
+      }
+    },
+    {
+      "title": "Colombian Peso",
+      "fields": {
+        "Issuing Country": "Colombia",
+        "Currency Code": "COP",
+        "Currency Symbol": "$"
+      }
+    },
+    {
+      "title": "Peruvian Sol",
+      "fields": {
+        "Issuing Country": "Peru",
+        "Currency Code": "PEN",
+        "Currency Symbol": "S/"
+      }
+    },
+    {
+      "title": "Bangladeshi Taka",
+      "fields": {
+        "Issuing Country": "Bangladesh",
+        "Currency Code": "BDT",
+        "Currency Symbol": "৳"
+      }
+    },
+    {
+      "title": "Sri Lankan Rupee",
+      "fields": {
+        "Issuing Country": "Sri Lanka",
+        "Currency Code": "LKR",
+        "Currency Symbol": "Rs"
+      }
+    },
+    {
+      "title": "Nepalese Rupee",
+      "fields": {
+        "Issuing Country": "Nepal",
+        "Currency Code": "NPR",
+        "Currency Symbol": "₨"
+      }
+    },
+    {
+      "title": "Vietnamese Dong",
+      "fields": {
+        "Issuing Country": "Vietnam",
+        "Currency Code": "VND",
+        "Currency Symbol": "₫"
+      }
+    },
+    {
+      "title": "Israeli New Shekel",
+      "fields": {
+        "Issuing Country": "Israel",
+        "Currency Code": "ILS",
+        "Currency Symbol": "₪"
+      }
+    },
+    {
+      "title": "Qatari Riyal",
+      "fields": {
+        "Issuing Country": "Qatar",
+        "Currency Code": "QAR",
+        "Currency Symbol": "ر.ق"
+      }
+    },
+    {
+      "title": "Kuwaiti Dinar",
+      "fields": {
+        "Issuing Country": "Kuwait",
+        "Currency Code": "KWD",
+        "Currency Symbol": "د.ك"
+      }
+    },
+    {
+      "title": "Bahraini Dinar",
+      "fields": {
+        "Issuing Country": "Bahrain",
+        "Currency Code": "BHD",
+        "Currency Symbol": "BD"
+      }
+    },
+    {
+      "title": "Omani Rial",
+      "fields": {
+        "Issuing Country": "Oman",
+        "Currency Code": "OMR",
+        "Currency Symbol": "ر.ع."
+      }
+    },
+    {
+      "title": "Jordanian Dinar",
+      "fields": {
+        "Issuing Country": "Jordan",
+        "Currency Code": "JOD",
+        "Currency Symbol": "JD"
+      }
+    },
+    {
+      "title": "Iranian Rial",
+      "fields": {
+        "Issuing Country": "Iran",
+        "Currency Code": "IRR",
+        "Currency Symbol": "﷼"
+      }
+    },
+    {
+      "title": "Iraqi Dinar",
+      "fields": {
+        "Issuing Country": "Iraq",
+        "Currency Code": "IQD",
+        "Currency Symbol": "ع.د"
+      }
+    },
+    {
+      "title": "Moroccan Dirham",
+      "fields": {
+        "Issuing Country": "Morocco",
+        "Currency Code": "MAD",
+        "Currency Symbol": "د.م."
+      }
+    },
+    {
+      "title": "Algerian Dinar",
+      "fields": {
+        "Issuing Country": "Algeria",
+        "Currency Code": "DZD",
+        "Currency Symbol": "دج"
+      }
+    },
+    {
+      "title": "Tunisian Dinar",
+      "fields": {
+        "Issuing Country": "Tunisia",
+        "Currency Code": "TND",
+        "Currency Symbol": "د.ت"
+      }
+    },
+    {
+      "title": "Ethiopian Birr",
+      "fields": {
+        "Issuing Country": "Ethiopia",
+        "Currency Code": "ETB",
+        "Currency Symbol": "Br"
+      }
+    },
+    {
+      "title": "Tanzanian Shilling",
+      "fields": {
+        "Issuing Country": "Tanzania",
+        "Currency Code": "TZS",
+        "Currency Symbol": "TSh"
+      }
+    },
+    {
+      "title": "Ugandan Shilling",
+      "fields": {
+        "Issuing Country": "Uganda",
+        "Currency Code": "UGX",
+        "Currency Symbol": "USh"
+      }
+    },
+    {
+      "title": "Ghanaian Cedi",
+      "fields": {
+        "Issuing Country": "Ghana",
+        "Currency Code": "GHS",
+        "Currency Symbol": "₵"
+      }
+    },
+    {
+      "title": "West African CFA Franc",
+      "fields": {
+        "Issuing Country": "Benin, Burkina Faso, Guinea-Bissau, Ivory Coast, Mali, Niger, Senegal, Togo",
+        "Currency Code": "XOF",
+        "Currency Symbol": "CFA"
+      }
+    },
+    {
+      "title": "Central African CFA Franc",
+      "fields": {
+        "Issuing Country": "Cameroon, Central African Republic, Chad, Republic of the Congo, Equatorial Guinea, Gabon",
+        "Currency Code": "XAF",
+        "Currency Symbol": "FCFA"
+      }
+    },
+    {
+      "title": "Kazakhstani Tenge",
+      "fields": {
+        "Issuing Country": "Kazakhstan",
+        "Currency Code": "KZT",
+        "Currency Symbol": "₸"
+      }
+    },
+    {
+      "title": "Georgian Lari",
+      "fields": {
+        "Issuing Country": "Georgia",
+        "Currency Code": "GEL",
+        "Currency Symbol": "₾"
+      }
+    },
+    {
+      "title": "Armenian Dram",
+      "fields": {
+        "Issuing Country": "Armenia",
+        "Currency Code": "AMD",
+        "Currency Symbol": "֏"
+      }
+    },
+    {
+      "title": "Azerbaijani Manat",
+      "fields": {
+        "Issuing Country": "Azerbaijan",
+        "Currency Code": "AZN",
+        "Currency Symbol": "₼"
+      }
+    },
+    {
+      "title": "Mongolian Tögrög",
+      "fields": {
+        "Issuing Country": "Mongolia",
+        "Currency Code": "MNT",
+        "Currency Symbol": "₮"
+      }
+    },
+    {
+      "title": "Icelandic Króna",
+      "fields": {
+        "Issuing Country": "Iceland",
+        "Currency Code": "ISK",
+        "Currency Symbol": "kr"
+      }
+    },
+    {
+      "title": "Serbian Dinar",
+      "fields": {
+        "Issuing Country": "Serbia",
+        "Currency Code": "RSD",
+        "Currency Symbol": "din"
+      }
+    },
+    {
+      "title": "Bosnian Convertible Mark",
+      "fields": {
+        "Issuing Country": "Bosnia and Herzegovina",
+        "Currency Code": "BAM",
+        "Currency Symbol": "KM"
+      }
+    },
+    {
+      "title": "Albanian Lek",
+      "fields": {
+        "Issuing Country": "Albania",
+        "Currency Code": "ALL",
+        "Currency Symbol": "L"
+      }
+    },
+    {
+      "title": "North Macedonian Denar",
+      "fields": {
+        "Issuing Country": "North Macedonia",
+        "Currency Code": "MKD",
+        "Currency Symbol": "ден"
+      }
+    },
+    {
+      "title": "Moldovan Leu",
+      "fields": {
+        "Issuing Country": "Moldova",
+        "Currency Code": "MDL",
+        "Currency Symbol": "L"
+      }
+    },
+    {
+      "title": "Belarusian Ruble",
+      "fields": {
+        "Issuing Country": "Belarus",
+        "Currency Code": "BYN",
+        "Currency Symbol": "Br"
+      }
+    },
+    {
+      "title": "Cambodian Riel",
+      "fields": {
+        "Issuing Country": "Cambodia",
+        "Currency Code": "KHR",
+        "Currency Symbol": "៛"
+      }
+    },
+    {
+      "title": "Laotian Kip",
+      "fields": {
+        "Issuing Country": "Laos",
+        "Currency Code": "LAK",
+        "Currency Symbol": "₭"
+      }
+    },
+    {
+      "title": "Myanmar Kyat",
+      "fields": {
+        "Issuing Country": "Myanmar",
+        "Currency Code": "MMK",
+        "Currency Symbol": "K"
+      }
+    },
+    {
+      "title": "Tajikistani Somoni",
+      "fields": {
+        "Issuing Country": "Tajikistan",
+        "Currency Code": "TJS",
+        "Currency Symbol": "SM"
+      }
+    },
+    {
+      "title": "Kyrgyzstani Som",
+      "fields": {
+        "Issuing Country": "Kyrgyzstan",
+        "Currency Code": "KGS",
+        "Currency Symbol": "с"
+      }
+    },
+    {
+      "title": "Uzbekistani Som",
+      "fields": {
+        "Issuing Country": "Uzbekistan",
+        "Currency Code": "UZS",
+        "Currency Symbol": "сўм"
+      }
+    },
+    {
+      "title": "Turkmenistani Manat",
+      "fields": {
+        "Issuing Country": "Turkmenistan",
+        "Currency Code": "TMT",
+        "Currency Symbol": "T"
+      }
+    },
+    {
+      "title": "Afghan Afghani",
+      "fields": {
+        "Issuing Country": "Afghanistan",
+        "Currency Code": "AFN",
+        "Currency Symbol": "؋"
+      }
+    },
+    {
+      "title": "Maldivian Rufiyaa",
+      "fields": {
+        "Issuing Country": "Maldives",
+        "Currency Code": "MVR",
+        "Currency Symbol": "Rf"
+      }
+    },
+    {
+      "title": "Papua New Guinean Kina",
+      "fields": {
+        "Issuing Country": "Papua New Guinea",
+        "Currency Code": "PGK",
+        "Currency Symbol": "K"
+      }
+    },
+    {
+      "title": "Fiji Dollar",
+      "fields": {
+        "Issuing Country": "Fiji",
+        "Currency Code": "FJD",
+        "Currency Symbol": "FJ$"
+      }
+    },
+    {
+      "title": "East Caribbean Dollar",
+      "fields": {
+        "Issuing Country": "Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines",
+        "Currency Code": "XCD",
+        "Currency Symbol": "EC$"
+      }
+    },
+    {
+      "title": "Jamaican Dollar",
+      "fields": {
+        "Issuing Country": "Jamaica",
+        "Currency Code": "JMD",
+        "Currency Symbol": "J$"
+      }
+    },
+    {
+      "title": "Trinidad and Tobago Dollar",
+      "fields": {
+        "Issuing Country": "Trinidad and Tobago",
+        "Currency Code": "TTD",
+        "Currency Symbol": "TT$"
+      }
+    },
+    {
+      "title": "Guatemalan Quetzal",
+      "fields": {
+        "Issuing Country": "Guatemala",
+        "Currency Code": "GTQ",
+        "Currency Symbol": "Q"
+      }
+    },
+    {
+      "title": "Honduran Lempira",
+      "fields": {
+        "Issuing Country": "Honduras",
+        "Currency Code": "HNL",
+        "Currency Symbol": "L"
+      }
+    },
+    {
+      "title": "Nicaraguan Córdoba",
+      "fields": {
+        "Issuing Country": "Nicaragua",
+        "Currency Code": "NIO",
+        "Currency Symbol": "C$"
+      }
+    },
+    {
+      "title": "Costa Rican Colón",
+      "fields": {
+        "Issuing Country": "Costa Rica",
+        "Currency Code": "CRC",
+        "Currency Symbol": "₡"
+      }
+    },
+    {
+      "title": "Paraguayan Guaraní",
+      "fields": {
+        "Issuing Country": "Paraguay",
+        "Currency Code": "PYG",
+        "Currency Symbol": "₲"
+      }
+    },
+    {
+      "title": "Bolivian Boliviano",
+      "fields": {
+        "Issuing Country": "Bolivia",
+        "Currency Code": "BOB",
+        "Currency Symbol": "Bs."
+      }
+    },
+    {
+      "title": "Venezuelan Bolívar",
+      "fields": {
+        "Issuing Country": "Venezuela",
+        "Currency Code": "VES",
+        "Currency Symbol": "Bs.S"
+      }
+    },
+    {
+      "title": "Cuban Peso",
+      "fields": {
+        "Issuing Country": "Cuba",
+        "Currency Code": "CUP",
+        "Currency Symbol": "₱"
+      }
+    },
+    {
+      "title": "Haitian Gourde",
+      "fields": {
+        "Issuing Country": "Haiti",
+        "Currency Code": "HTG",
+        "Currency Symbol": "G"
+      }
+    },
+    {
+      "title": "Dominican Peso",
+      "fields": {
+        "Issuing Country": "Dominican Republic",
+        "Currency Code": "DOP",
+        "Currency Symbol": "RD$"
+      }
+    },
+    {
+      "title": "Namibian Dollar",
+      "fields": {
+        "Issuing Country": "Namibia",
+        "Currency Code": "NAD",
+        "Currency Symbol": "N$"
+      }
+    },
+    {
+      "title": "Botswana Pula",
+      "fields": {
+        "Issuing Country": "Botswana",
+        "Currency Code": "BWP",
+        "Currency Symbol": "P"
+      }
+    },
+    {
+      "title": "Zambian Kwacha",
+      "fields": {
+        "Issuing Country": "Zambia",
+        "Currency Code": "ZMW",
+        "Currency Symbol": "ZK"
+      }
+    },
+    {
+      "title": "Rwandan Franc",
+      "fields": {
+        "Issuing Country": "Rwanda",
+        "Currency Code": "RWF",
+        "Currency Symbol": "RF"
+      }
+    },
+    {
+      "title": "Syrian Pound",
+      "fields": {
+        "Issuing Country": "Syria",
+        "Currency Code": "SYP",
+        "Currency Symbol": "£S"
+      }
+    },
+    {
+      "title": "Lebanese Pound",
+      "fields": {
+        "Issuing Country": "Lebanon",
+        "Currency Code": "LBP",
+        "Currency Symbol": "L£"
+      }
+    },
+    {
+      "title": "Yemeni Rial",
+      "fields": {
+        "Issuing Country": "Yemen",
+        "Currency Code": "YER",
+        "Currency Symbol": "﷼"
+      }
+    },
+    {
+      "title": "North Korean Won",
+      "fields": {
+        "Issuing Country": "North Korea",
+        "Currency Code": "KPW",
+        "Currency Symbol": "₩"
+      }
+    },
+    {
+      "title": "Libyan Dinar",
+      "fields": {
+        "Issuing Country": "Libya",
+        "Currency Code": "LYD",
+        "Currency Symbol": "ل.د"
+      }
+    },
+    {
+      "title": "Sudanese Pound",
+      "fields": {
+        "Issuing Country": "Sudan",
+        "Currency Code": "SDG",
+        "Currency Symbol": "ج.س."
+      }
+    },
+    {
+      "title": "South Sudanese Pound",
+      "fields": {
+        "Issuing Country": "South Sudan",
+        "Currency Code": "SSP",
+        "Currency Symbol": "SS£"
+      }
+    }
   ]
 }
